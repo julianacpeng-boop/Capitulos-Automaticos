@@ -1,0 +1,51 @@
+name: 2 - Finalizar vídeos e legendas
+on:
+  workflow_dispatch:
+    inputs:
+      capitulo:
+        description: Número do capítulo
+        required: true
+        type: string
+      execucao_preparacao:
+        description: Número da execução da preparação
+        required: true
+        type: string
+      cenas:
+        description: 'Cenas desejadas: todas, 1,3,5 ou 1-10'
+        required: true
+        default: todas
+        type: string
+permissions:
+  contents: read
+  actions: read
+jobs:
+  finalizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-dejavu-core
+      - run: pip install -r requirements.txt
+      - uses: actions/download-artifact@v5
+        with:
+          name: preparacao-capitulo-${{ inputs.capitulo }}
+          path: trabalho/capitulo_${{ inputs.capitulo }}/
+          run-id: ${{ inputs.execucao_preparacao }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Montar cenas escolhidas e gerar TXT
+        env:
+          CAPITULO: ${{ inputs.capitulo }}
+          CENAS: ${{ inputs.cenas }}
+        run: python pipeline.py finalizar --capitulo "$CAPITULO" --cenas "$CENAS"
+      - name: Baixar vídeos e legendas do capítulo
+        uses: actions/upload-artifact@v4
+        with:
+          name: videos-capitulo-${{ inputs.capitulo }}
+          path: saida/
+          if-no-files-found: error
+          compression-level: 0
+          retention-days: 14
