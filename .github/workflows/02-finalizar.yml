@@ -1,0 +1,90 @@
+name: 2 - Finalizar vídeos e enviar ao Drive
+on:
+  workflow_dispatch:
+    inputs:
+      capitulo:
+        description: Número do capítulo
+        required: true
+        type: string
+      execucao_preparacao:
+        description: Número da execução da preparação
+        required: true
+        type: string
+permissions:
+  contents: read
+  actions: read
+concurrency:
+  group: finalizar-capitulo-${{ inputs.capitulo }}
+  cancel-in-progress: false
+jobs:
+  finalizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - name: Validar entradas, fundo e autorização
+        env:
+          CAPITULO: ${{ inputs.capitulo }}
+          EXECUCAO: ${{ inputs.execucao_preparacao }}
+          DRIVE_TOKEN: ${{ secrets.RCLONE_DRIVE_TOKEN }}
+        run: |
+          python - <<'PY'
+          import os, re, json
+          from pathlib import Path
+          for name in ('CAPITULO', 'EXECUCAO'):
+              if not re.fullmatch(r'[1-9]\d*', os.environ[name]):
+                  raise ValueError('Informe capítulo e execução como números positivos.')
+          try:
+              token = json.loads(os.environ.get('DRIVE_TOKEN', ''))
+          except (ValueError, TypeError):
+              raise SystemExit('Configure RCLONE_DRIVE_TOKEN com o JSON completo da autorização.') from None
+          if not isinstance(token, dict) or not token.get('refresh_token'):
+              raise SystemExit('RCLONE_DRIVE_TOKEN precisa conter refresh_token.')
+          if not Path('assets/fundo.jpg').is_file():
+              raise SystemExit('Coloque seu fundo em assets/fundo.jpg antes de gerar os vídeos.')
+          PY
+      - name: Instalar dependências
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg fonts-dejavu-core rclone
+          pip install -r requirements.txt
+      - name: Conferir acesso à pasta do Drive
+        env:
+          RCLONE_CONFIG_DESTINO_TYPE: drive
+          RCLONE_CONFIG_DESTINO_TOKEN: ${{ secrets.RCLONE_DRIVE_TOKEN }}
+          RCLONE_CONFIG_DESTINO_ROOT_FOLDER_ID: 1IeWfSGxVOgY4nwLQwGxzPZMqRCO81i8B
+        run: |
+          rclone lsf destino: --max-depth 1 > /dev/null
+      - uses: actions/download-artifact@v5
+        with:
+          name: preparacao-capitulo-${{ inputs.capitulo }}
+          path: trabalho/capitulo_${{ inputs.capitulo }}/
+          run-id: ${{ inputs.execucao_preparacao }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Gerar todas as cenas e legendas TXT
+        env:
+          CAPITULO: ${{ inputs.capitulo }}
+        run: python pipeline.py finalizar --capitulo "$CAPITULO" --cenas todas
+      - name: Guardar cópia dos vídeos e legendas no GitHub
+        uses: actions/upload-artifact@v4
+        with:
+          name: videos-capitulo-${{ inputs.capitulo }}
+          path: saida/
+          if-no-files-found: error
+          compression-level: 0
+          retention-days: 14
+      - name: Enviar e conferir vídeos e legendas no Drive
+        env:
+          CAPITULO: ${{ inputs.capitulo }}
+          RCLONE_CONFIG_DESTINO_TYPE: drive
+          RCLONE_CONFIG_DESTINO_TOKEN: ${{ secrets.RCLONE_DRIVE_TOKEN }}
+          RCLONE_CONFIG_DESTINO_ROOT_FOLDER_ID: 1IeWfSGxVOgY4nwLQwGxzPZMqRCO81i8B
+        run: |
+          test -d "saida/capitulo_$CAPITULO"
+          rclone copy "saida/capitulo_$CAPITULO" "destino:saida/capitulo_$CAPITULO" --include '*.mp4' --include '*.txt' --transfers 2 --checkers 4 --stats 1m
+          rclone check "saida/capitulo_$CAPITULO" "destino:saida/capitulo_$CAPITULO" --include '*.mp4' --include '*.txt' --one-way
+          printf 'Todos os vídeos e TXT foram enviados e conferidos em saida/capitulo_%s.\n\n[Abra a pasta no Drive](https://drive.google.com/drive/folders/1IeWfSGxVOgY4nwLQwGxzPZMqRCO81i8B)\n' "$CAPITULO" >> "$GITHUB_STEP_SUMMARY"
