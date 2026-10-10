@@ -1,0 +1,1 @@
+Coloque aqui os arquivos capitulo_1.json, capitulo_2.json etc. devolvidos pelo ChatGPT.
