@@ -1,0 +1,6 @@
+telethon>=1.36,<2
+faster-whisper>=1.1,<2
+Pillow>=10,<13
+emoji==2.16.0
+pilmoji==2.0.5
+requests>=2.31,<3
