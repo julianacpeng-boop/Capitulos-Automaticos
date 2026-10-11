@@ -1,0 +1,578 @@
+{
+  "capitulo": 54,
+  "execucao": "38127557391",
+  "cenas": {
+    "cena_01": {
+      "titulo": "UM PEDIDO DE SOCORRO 😰",
+      "pergunta": "Você arriscaria ajudar as gêmeas?",
+      "legenda": "Um pedido urgente abre este trecho: tirar as duas irmãs da casa antes que continuem presas. Você arriscaria ajudar as gêmeas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_02": {
+      "titulo": "AS GÊMEAS PRECISAM DE AJUDA 🆘",
+      "pergunta": "Quem pode mudar essa situação?",
+      "legenda": "A esperança de sair da casa depende de alguém disposto a ajudar. O pedido de resgate continua na transcrição deste trecho. Quem pode mudar essa situação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_03": {
+      "titulo": "A LIBERDADE ESTÁ EM JOGO 🔒",
+      "pergunta": "Você acredita que elas vão escapar?",
+      "legenda": "O apelo pela liberdade das irmãs se repete neste trecho. Acompanhe a sequência para descobrir como o plano avança. Você acredita que elas vão escapar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_04": {
+      "titulo": "ELE ACEITOU ENTRAR NO PLANO 🤝",
+      "pergunta": "Essa ajuda vai fazer diferença?",
+      "legenda": "Depois de ouvir que Marina já sabe de tudo, o pedido de ajuda recebe uma resposta positiva. O resgate ganha mais um aliado. Essa ajuda vai fazer diferença?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_05": {
+      "titulo": "MÚSICA QUE AJUDA A BANDA 🍦",
+      "pergunta": "Você compraria sorvete para ajudar?",
+      "legenda": "A apresentação na sorveteria aumenta o movimento. O lucro ganha um destino especial: comprar instrumentos novos para a banda. Você compraria sorvete para ajudar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_06": {
+      "titulo": "OTÁVIO CONHECE OS INSTRUMENTOS 🎵",
+      "pergunta": "Você também elogiaria a iniciativa?",
+      "legenda": "Rebeca chega com Otávio à sorveteria. Além do sorvete italiano, os instrumentos feitos com material reciclável chamam a atenção dele. Você também elogiaria a iniciativa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_07": {
+      "titulo": "O SORVETE CONQUISTOU OTÁVIO 🍨",
+      "pergunta": "Qual sabor você escolheria?",
+      "legenda": "O sorvete de Giuseppe recebe um grande elogio de Otávio. Os instrumentos recicláveis também continuam rendendo comentários. Qual sabor você escolheria?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_08": {
+      "titulo": "A MANSÃO PARECE UM LABIRINTO 🏠",
+      "pergunta": "Você conseguiria achar o quarto?",
+      "legenda": "O corredor e o quarto de Isabela precisam ser localizados dentro da casa. Enquanto isso, a fome torna a espera pelo lanche ainda mais difícil. Você conseguiria achar o quarto?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_09": {
+      "titulo": "UM BARULHO MUDA A ROTINA 👀",
+      "pergunta": "Esse momento pode ajudar a fuga?",
+      "legenda": "O lanche chega, mas um ruído interrompe a visita ao quarto. A saída para investigar pode criar uma oportunidade inesperada. Esse momento pode ajudar a fuga?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_10": {
+      "titulo": "SEM TUNTUM ELA NÃO VAI 🐭",
+      "pergunta": "Você voltaria para buscar seu amigo?",
+      "legenda": "Na hora de fugir, encontrar Tuntum vira prioridade. O tempo é curto, e a distração de Sandro pode não durar muito. Você voltaria para buscar seu amigo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_11": {
+      "titulo": "UM NOVO CONVITE PARA REBECA 💼",
+      "pergunta": "Você aceitaria trabalhar com Otávio?",
+      "legenda": "Rebeca conta à mãe que Otávio sugeriu uma pausa na confecção e a convidou para trabalhar na empresa dele, mais perto das buscas por Manuela. Você aceitaria trabalhar com Otávio?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_12": {
+      "titulo": "DOLORES APOIA A MUDANÇA ❤️",
+      "pergunta": "É melhor ficar ou ir para a cidade?",
+      "legenda": "A mãe de Rebeca apoia o convite e promete continuar ajudando o projeto de mães de crianças desaparecidas. A distância da família torna a decisão difícil. É melhor ficar ou ir para a cidade?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_13": {
+      "titulo": "A ESPERA DEIXA TODOS NERVOSOS ⏳",
+      "pergunta": "Você manteria a confiança no plano?",
+      "legenda": "A turma aguarda Joaquim e Manuela com receio de que tenham sido descobertos. No quarto, as balas espalhadas pelo chão precisam de uma explicação. Você manteria a confiança no plano?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_14": {
+      "titulo": "UMA BARATA PARA DISTRAIR 😂",
+      "pergunta": "Essa desculpa conseguiria funcionar?",
+      "legenda": "O susto com uma suposta barata tenta levar o homem até o banheiro, mas ele desiste de procurar. Na empresa, Fred é chamado para conversar. Essa desculpa conseguiria funcionar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_15": {
+      "titulo": "OTÁVIO PEDE A OPINIÃO DE FRED 💡",
+      "pergunta": "Qual função combinaria com Rebeca?",
+      "legenda": "Otávio quer saber como Rebeca poderia ser útil na empresa. Fred sugere que ela o ajude nas fichas técnicas e na avaliação das peças. Qual função combinaria com Rebeca?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_16": {
+      "titulo": "FRED VÊ POTENCIAL EM REBECA ✨",
+      "pergunta": "Ela vai se destacar no novo trabalho?",
+      "legenda": "Fred acrescenta os catálogos às atividades que Rebeca poderia acompanhar. Em outro momento, Flávia se oferece para ajudar na entrega de sopa. Ela vai se destacar no novo trabalho?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_17": {
+      "titulo": "FLÁVIA DEFENDE SUA ESCOLHA 🤝",
+      "pergunta": "Você concorda com a atitude dela?",
+      "legenda": "O padre questiona a ajuda de Flávia ao pastor. Ela responde que pode colaborar com as duas igrejas e não vê problema em participar da ação de caridade. Você concorda com a atitude dela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_18": {
+      "titulo": "MANUELA FICOU PARA TRÁS 😰",
+      "pergunta": "Você sairia ou tentaria voltar?",
+      "legenda": "A demora coloca todos em risco. Joaquim consegue escapar, mas explica que a chegada de Sandro impediu a saída de Manuela. Você sairia ou tentaria voltar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_19": {
+      "titulo": "É HORA DE IR EMBORA 🚗",
+      "pergunta": "Como ajudar quem ficou na casa?",
+      "legenda": "Um chamado para Joaquim partir marca este trecho de poucas falas. O resgate incompleto deixa uma nova preocupação para a turma. Como ajudar quem ficou na casa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_20": {
+      "titulo": "THOMAS TENTA ARRANCAR INFORMAÇÕES 👀",
+      "pergunta": "Você desconfiaria dessa aproximação?",
+      "legenda": "Thomas tenta se aproximar de Fred oferecendo ajuda. Fred diz que precisa entregar o trabalho e que ele não é a pessoa mais indicada para colaborar. Você desconfiaria dessa aproximação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_21": {
+      "titulo": "A INVESTIGAÇÃO NÃO RENDEU 🤐",
+      "pergunta": "Fred deveria ter contado alguma coisa?",
+      "legenda": "Fred encerra a conversa e diz que tem assuntos para resolver com o chefe. A tentativa de conseguir informações termina em frustração. Fred deveria ter contado alguma coisa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_22": {
+      "titulo": "MARINA ESPERA UMA BOA NOTÍCIA 🙏",
+      "pergunta": "Você acha que a fuga deu certo?",
+      "legenda": "A movimentação na saída da casa deixa Marina se perguntando se as meninas conseguiram fugir. Na empresa, uma conversa sobre Lurdinha aproxima Thomas de Fred. Você acha que a fuga deu certo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_23": {
+      "titulo": "THOMAS SE FAZ DE AMIGO 🤨",
+      "pergunta": "Você confiaria nesses conselhos?",
+      "legenda": "Thomas oferece um conselho sobre Lurdinha, mas Fred suspeita da intenção dessa amizade. A proximidade com Otávio vira assunto entre os dois. Você confiaria nesses conselhos?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_24": {
+      "titulo": "UM SEGREDO CHEGA A SAFIRA 😠",
+      "pergunta": "Fred fez mal em confiar em Thomas?",
+      "legenda": "Fred revela, em confiança, que Rebeca poderá trabalhar com ele. Thomas conta a Safira, que fica revoltada e quer impedir a novidade. Fred fez mal em confiar em Thomas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_25": {
+      "titulo": "SAFIRA NÃO ACEITA A IDEIA 💢",
+      "pergunta": "Ela vai atrapalhar o trabalho de Rebeca?",
+      "legenda": "A possibilidade de Rebeca ser assistente de Frederico aumenta a irritação de Safira. Enquanto isso, um lanche chega depois de muita espera. Ela vai atrapalhar o trabalho de Rebeca?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_26": {
+      "titulo": "REGINA DESCOBRE A FUGA 🚨",
+      "pergunta": "Como Isabela conseguiu sair?",
+      "legenda": "O quarto vazio revela que Isabela escapou. Regina cobra explicações do segurança e pressiona Manuela para descobrir onde está a irmã. Como Isabela conseguiu sair?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_27": {
+      "titulo": "REGINA AMEAÇA AS TRÊS 😨",
+      "pergunta": "Marina conseguirá proteger Manuela?",
+      "legenda": "Regina ameaça mandar um segurança ao vilarejo e acusa Marina de ajudar na fuga. Manuela insiste que não sabe onde a irmã está. Marina conseguirá proteger Manuela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_28": {
+      "titulo": "UMA AMEAÇA CONTRA A FAMÍLIA 😰",
+      "pergunta": "Como denunciar sem colocar todos em risco?",
+      "legenda": "Regina avisa que procurar a polícia ou Raul pode trazer consequências para os amigos e a família. Fora dali, a chegada de uma criança escondida desperta suspeitas de Meire. Como denunciar sem colocar todos em risco?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_29": {
+      "titulo": "MEIRE IMAGINA UM SEQUESTRO 👀",
+      "pergunta": "Você também desconfiaria dessa chegada?",
+      "legenda": "Meire interpreta a entrada disfarçada de uma criança como um sequestro. Isabela finalmente chega ao apartamento, e os amigos lembram o risco que correram para ajudá-la. Você também desconfiaria dessa chegada?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_30": {
+      "titulo": "O RESGATE AINDA NÃO TERMINOU 🤝",
+      "pergunta": "Qual deve ser o próximo passo?",
+      "legenda": "Isabela agradece a ajuda e procura um lugar para ficar. A turma percebe que agir sem pensar pode colocar Manuela e Marina em perigo. Qual deve ser o próximo passo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_31": {
+      "titulo": "PRISCILA QUER UM NOVO VISUAL 👗",
+      "pergunta": "Você gostou da atitude dela?",
+      "legenda": "Priscila mostra seu look e se irrita com os comentários da família. No apartamento, Isabela também começa a pedir um jantar diferente. Você gostou da atitude dela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_32": {
+      "titulo": "ISABELA PRECISA SE ESCONDER 🤫",
+      "pergunta": "Ela deveria ajudar mais na casa?",
+      "legenda": "Os pedidos de Isabela provocam tensão com Júlia. A chegada do jantar traz uma boa notícia, mas uma visita obriga a menina a se esconder. Ela deveria ajudar mais na casa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_33": {
+      "titulo": "REGINA RENOVA O PEDIDO A PRISCILA 🔎",
+      "pergunta": "Priscila vai descobrir o esconderijo?",
+      "legenda": "Depois da visita ao apartamento, Priscila conversa com Regina. Ela recebe mais um incentivo para se aproximar dos amigos da banda. Priscila vai descobrir o esconderijo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_34": {
+      "titulo": "PRISCILA PEDE DICAS DE MODA ✨",
+      "pergunta": "Regina vai cumprir essa promessa?",
+      "legenda": "Priscila pede ajuda para se vestir melhor, e Regina promete orientá-la. Na sapataria, Nico reclama do aumento de trabalho depois do reajuste salarial. Regina vai cumprir essa promessa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_35": {
+      "titulo": "NICO VÊ LÁGRIMAS NA IMAGEM 😲",
+      "pergunta": "É milagre ou tem outra explicação?",
+      "legenda": "Uma discussão sobre respeito à imagem termina em surpresa: Nico acha que a santa está chorando. Isabela recebe orientações para ficar escondida no apartamento. É milagre ou tem outra explicação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_36": {
+      "titulo": "A VISITA QUE NINGUÉM QUERIA 🚪",
+      "pergunta": "Como esconder Isabela de Priscila?",
+      "legenda": "Isabela é avisada sobre a curiosidade de Meire. Quando a campainha toca, a turma descobre uma visitante ainda mais preocupante: Priscila. Como esconder Isabela de Priscila?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_37": {
+      "titulo": "GIUSEPPE TENTA ENTENDER AS LÁGRIMAS 🔍",
+      "pergunta": "O que pode estar acontecendo?",
+      "legenda": "Nico insiste que a imagem está chorando. Giuseppe verifica e não encontra uma explicação imediata para o que está vendo. O que pode estar acontecendo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_38": {
+      "titulo": "UM PLANO PARA NÃO ABRIR A PORTA 🤫",
+      "pergunta": "Você aceitaria a carona de Priscila?",
+      "legenda": "Priscila oferece uma carona para a turma, que tenta sair sem deixá-la entrar. Isabela prefere continuar escondida a encontrar a rival. Você aceitaria a carona de Priscila?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_39": {
+      "titulo": "PRISCILA INSISTE EM ENTRAR 🥤",
+      "pergunta": "Ela está com sede ou investigando?",
+      "legenda": "Os meninos tentam apressar a saída, mas Priscila pede água e insiste em entrar no apartamento. O esconderijo de Isabela volta a ficar ameaçado. Ela está com sede ou investigando?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_40": {
+      "titulo": "UM BARULHO QUASE ENTREGA TUDO 😬",
+      "pergunta": "Eles conseguiram disfarçar bem?",
+      "legenda": "Enquanto Priscila bebe água, um ruído chama sua atenção. A turma dá uma explicação e tenta levá-la logo para fora do apartamento. Eles conseguiram disfarçar bem?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_41": {
+      "titulo": "REGINA DESCONFIA DE GERALDO 👀",
+      "pergunta": "Ele está escondendo alguma coisa?",
+      "legenda": "Regina quer enviar os seguranças ao vilarejo e questiona a ausência do irmão. Geraldo reclama das acusações e diz estar ocupado com os problemas da gravadora. Ele está escondendo alguma coisa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_42": {
+      "titulo": "A FUGA DEIXA OS IRMÃOS EM ALERTA 🚨",
+      "pergunta": "Isabela deve procurar a polícia?",
+      "legenda": "Regina e Geraldo temem que Isabela os denuncie. Sem entender a fuga, eles discutem a troca das fechaduras e a busca pela menina no vilarejo. Isabela deve procurar a polícia?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_43": {
+      "titulo": "MANUELA TEME PELA FAMÍLIA 💔",
+      "pergunta": "Como proteger quem ficou para trás?",
+      "legenda": "Manuela e Marina se preocupam com as consequências de uma denúncia. Logo depois, a rotina da gravadora exige que a menina saia acompanhada. Como proteger quem ficou para trás?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_44": {
+      "titulo": "FIORINA ACREDITA EM UM MILAGRE 🙏",
+      "pergunta": "Você procuraria uma explicação primeiro?",
+      "legenda": "Fiorina interpreta as lágrimas da imagem como um sinal e considera a casa abençoada. Nico faz perguntas tentando entender o significado do acontecimento. Você procuraria uma explicação primeiro?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_45": {
+      "titulo": "REBECA MOSTRA SEU CONHECIMENTO 🧵",
+      "pergunta": "Você reconheceria um tecido melhor?",
+      "legenda": "A notícia das lágrimas precisa chegar ao padre. Na empresa, Rebeca apresenta amostras a Fred e chama atenção para a textura dos tecidos. Você reconheceria um tecido melhor?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_46": {
+      "titulo": "A ASSISTENTE SURPREENDE FRED 👏",
+      "pergunta": "Ele deveria respeitar o estilo dela?",
+      "legenda": "Rebeca compara qualidade e preço e recebe elogios pelo trabalho. Fred, porém, sugere mudar seu visual para a nova rotina na empresa. Ele deveria respeitar o estilo dela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_47": {
+      "titulo": "FRED QUER RENOVAR O GUARDA-ROUPA 👗",
+      "pergunta": "Você aceitaria essa transformação?",
+      "legenda": "Fred propõe ajudar Rebeca a renovar as roupas. Ela agradece, mas lembra que não tem dinheiro para uma mudança desse tipo. Você aceitaria essa transformação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_48": {
+      "titulo": "PRISCILA CONTINUA DE OLHO 🔎",
+      "pergunta": "Ela está perto de descobrir tudo?",
+      "legenda": "Na gravadora, Priscila diz a Regina que seguiu suas orientações. Sem novidades, recebe a tarefa de continuar observando os amigos. Ela está perto de descobrir tudo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_49": {
+      "titulo": "ISABELA TENTA IMPROVISAR O ALMOÇO 🍚",
+      "pergunta": "O que você faria com arroz e ovo?",
+      "legenda": "Cansada de biscoitos, Isabela procura comida na geladeira. O arroz frio vira o ponto de partida para uma tentativa de preparar algo diferente. O que você faria com arroz e ovo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_50": {
+      "titulo": "A PRIMEIRA AVENTURA NO FOGÃO 🍳",
+      "pergunta": "Você ensinaria Isabela a cozinhar?",
+      "legenda": "Isabela procura uma frigideira e tenta lidar com o ovo sem experiência na cozinha. A tarefa se mostra muito mais complicada do que ela esperava. Você ensinaria Isabela a cozinhar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_51": {
+      "titulo": "A COMIDA VIROU CARVÃO 😅",
+      "pergunta": "Você já queimou algo desse jeito?",
+      "legenda": "Meire e Bartolomeu continuam observando o apartamento. Enquanto isso, a tentativa de Isabela na cozinha termina com comida que parece carvão. Você já queimou algo desse jeito?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    },
+    "cena_52": {
+      "titulo": "MEIRE CRIA MAIS UMA TEORIA 😱",
+      "pergunta": "Como acabar com essas suspeitas?",
+      "legenda": "Sem entender o que acontece no apartamento, Meire imagina uma situação assustadora. Bartolomeu tenta não se deixar levar pelas suspeitas dela. Como acabar com essas suspeitas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo54",
+        "#JuhhNovelas",
+        "#Novela"
+      ]
+    }
+  }
+}
