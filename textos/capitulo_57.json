@@ -1,0 +1,567 @@
+{
+  "capitulo": 57,
+  "execucao": "38228235248",
+  "cenas": {
+    "cena_01": {
+      "titulo": "ISABELA QUER REGINA BEM LONGE! 😤❤️",
+      "pergunta": "Ela vai recuperar as coisas do pai?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nIsabela sente falta de casa, mas não de Regina. Seu desejo é recuperar as lembranças do pai. Ela vai recuperar as coisas do pai?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Regina",
+        "#LembrancasDoPai"
+      ]
+    },
+    "cena_02": {
+      "titulo": "TEM ALGUÉM TENTANDO ENTRAR! 🚪😱",
+      "pergunta": "Você chamaria a polícia nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nUma tentativa de abrir a porta assusta as crianças. A ameaça de chamar a polícia muda os planos de quem está lá fora. Você chamaria a polícia nessa situação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Regina",
+        "#TentativaDeInvasao"
+      ]
+    },
+    "cena_03": {
+      "titulo": "A AMEAÇA FEZ ELES RECUAREM! 🚨👀",
+      "pergunta": "Os intrusos vão tentar voltar?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nAs crianças percebem que os visitantes foram embora. Em outra confusão, a imagem continua despertando suspeitas. Os intrusos vão tentar voltar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Intrusos",
+        "#SantaDoVilarejo"
+      ]
+    },
+    "cena_04": {
+      "titulo": "FIORINA DESCONFIA DE GIUSEPPE! 😳💢",
+      "pergunta": "Ela está tirando conclusões precipitadas?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nFiorina acha que a visita tem outro motivo e cobra explicações antes de ouvir toda a história. Ela está tirando conclusões precipitadas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Fiorina",
+        "#Giuseppe",
+        "#CiumesDeFiorina"
+      ]
+    },
+    "cena_05": {
+      "titulo": "MEIRE ACORDA DESCONFIADA DO BOLO! 🍰😱",
+      "pergunta": "Você acreditaria na teoria dela?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nDepois de dormir sem perceber, Meire desconfia do bolo e envolve Dinho em mais uma teoria. Você acreditaria na teoria dela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Dinho",
+        "#BoloDeRegina"
+      ]
+    },
+    "cena_06": {
+      "titulo": "A TEORIA DE MEIRE NÃO TEM LIMITES! 😂🔎",
+      "pergunta": "Dinho consegue acompanhar essa imaginação?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nMeire procura explicações para o sono inesperado e imagina o pior sobre o bolo que recebeu. Dinho consegue acompanhar essa imaginação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Dinho",
+        "#TeoriasDeMeire"
+      ]
+    },
+    "cena_07": {
+      "titulo": "MANUELA CONFIA NO RESGATE! 😟🤝",
+      "pergunta": "Joaquim vai conseguir voltar por elas?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nManuela e Marina conversam sobre a fuga. A esperança está em Joaquim, mas Marina precisa sair antes de ser descoberta. Joaquim vai conseguir voltar por elas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Marina",
+        "#ResgateDeManuela"
+      ]
+    },
+    "cena_08": {
+      "titulo": "ISABELA NÃO SE SENTE SEGURA! 😨🚪",
+      "pergunta": "Os amigos vão conseguir protegê-la?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nApós a tentativa de entrada, Isabela teme que Regina a encontre. Os amigos oferecem companhia e proteção. Os amigos vão conseguir protegê-la?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Regina",
+        "#AmigosDeIsabela"
+      ]
+    },
+    "cena_09": {
+      "titulo": "FIORINA E NINA ENTRAM EM CONFLITO! 🗣️😳",
+      "pergunta": "Elas deveriam respeitar a fé uma da outra?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nA imagem que chora vira motivo de discussão. Nina pede respeito enquanto Fiorina insiste na sua interpretação. Elas deveriam respeitar a fé uma da outra?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Fiorina",
+        "#Nina",
+        "#SantaDoVilarejo"
+      ]
+    },
+    "cena_10": {
+      "titulo": "GIUSEPPE TENTA ACALMAR FIORINA! ❤️😅",
+      "pergunta": "Ela vai acreditar na explicação dele?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nGiuseppe nega as suspeitas de Fiorina e reafirma seu carinho por ela. A confusão da visita continua rendendo assunto. Ela vai acreditar na explicação dele?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Giuseppe",
+        "#Fiorina",
+        "#CiumesDeFiorina"
+      ]
+    },
+    "cena_11": {
+      "titulo": "LAURA ENTREGOU NO APARTAMENTO ERRADO! 🍰😬",
+      "pergunta": "A letra de Regina causou toda a confusão?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nRegina descobre que o bolo foi para o apartamento 27, quando deveria ter ido para o 22. A letra de Regina causou toda a confusão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Laura",
+        "#Regina",
+        "#BoloNoEnderecoErrado"
+      ]
+    },
+    "cena_12": {
+      "titulo": "UM CAVALEIRO PARA ISABELA! 👑😂",
+      "pergunta": "Você gostou da gentileza de Felipe?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nA turma organiza o quarto, e Felipe cede sua cama para Isabela. Depois das provocações, chega a hora de dormir. Você gostou da gentileza de Felipe?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Felipe",
+        "#AmigosDeIsabela"
+      ]
+    },
+    "cena_13": {
+      "titulo": "ELA TEM MEDO DE SER MENOS AMADA! 😢💔",
+      "pergunta": "Como você acolheria esse sentimento?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA comparação com Manuela desperta uma insegurança dolorosa: o medo de não receber o mesmo carinho. Como você acolheria esse sentimento?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Manuela",
+        "#MedoDeRejeicao"
+      ]
+    },
+    "cena_14": {
+      "titulo": "ISABELA ACORDA DE UM PESADELO! 😱🤝",
+      "pergunta": "Os amigos vão ajudá-la a superar esse medo?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nO pesadelo deixa Isabela abalada. Ao acordar, ela encontra amigos dispostos a protegê-la e ajudá-la a encontrar sua mãe. Os amigos vão ajudá-la a superar esse medo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#PesadeloDeIsabela",
+        "#AmigosDeIsabela"
+      ]
+    },
+    "cena_15": {
+      "titulo": "ISABELA NÃO QUER PROCURAR A MÃE! 😢💔",
+      "pergunta": "Ela deveria ouvir a proposta dos amigos?",
+      "legenda": "CAPA_SEGUNDOS=13\n\nConvencida de que foi abandonada, Isabela rejeita a ideia de encontrar a mãe verdadeira. Ela deveria ouvir a proposta dos amigos?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#MaeDeIsabela",
+        "#RejeicaoDeIsabela"
+      ]
+    },
+    "cena_16": {
+      "titulo": "MATHEUS ESTÁ DE OLHO EM FLÁVIA! 🌷😳",
+      "pergunta": "Ele vai desistir depois dessa conversa?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nUm elogio à professora Flávia chama a atenção. A possibilidade de ela gostar do pastor deixa Matheus incomodado. Ele vai desistir depois dessa conversa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Matheus",
+        "#ProfessoraFlavia",
+        "#PastorNoVilarejo"
+      ]
+    },
+    "cena_17": {
+      "titulo": "O LOOK DO DIA VIROU ASSUNTO! 👗✨",
+      "pergunta": "Fred vai aprovar essa produção?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA mudança de visual de Rebeca continua rendendo comentários sobre as escolhas do dia. Fred vai aprovar essa produção?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Fred",
+        "#LookDeRebeca"
+      ]
+    },
+    "cena_18": {
+      "titulo": "FRED ESTÁ ORGULHOSO DO VISUAL! ✨😄",
+      "pergunta": "A transformação ficou como ele imaginava?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nFred demonstra orgulho do trabalho com o visual de Rebeca e celebra sua produção. A transformação ficou como ele imaginava?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Fred",
+        "#Rebeca",
+        "#TransformacaoDeRebeca"
+      ]
+    },
+    "cena_19": {
+      "titulo": "FRED IMPLICA COM OS SAPATOS! 👠😂",
+      "pergunta": "Você seguiria a moda ou seu próprio gosto?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nRebeca prefere vestir o que gosta. Fred insiste que os sapatos precisam combinar com a produção que ele planejou. Você seguiria a moda ou seu próprio gosto?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Fred",
+        "#Rebeca",
+        "#SapatosDeRebeca"
+      ]
+    },
+    "cena_20": {
+      "titulo": "A SAPATARIA FICOU PEQUENA! 👥😅",
+      "pergunta": "Giuseppe deve mudar a imagem de lugar?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nNico reclama da multidão, e Giuseppe pensa em mudar a imagem para aliviar a movimentação na sapataria. Giuseppe deve mudar a imagem de lugar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Giuseppe",
+        "#Nico",
+        "#SapatariaDoVilarejo"
+      ]
+    },
+    "cena_21": {
+      "titulo": "GIUSEPPE DESCOBRE A GOTEIRA! 💧😱",
+      "pergunta": "Ele deve contar imediatamente para Fiorina?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nGiuseppe percebe que as lágrimas da imagem vêm de uma goteira. Agora precisa decidir como contar a verdade. Ele deve contar imediatamente para Fiorina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Giuseppe",
+        "#Fiorina",
+        "#GoteiraNaSanta"
+      ]
+    },
+    "cena_22": {
+      "titulo": "MATHEUS LEVA FLORES PARA FLÁVIA! 🌷😊",
+      "pergunta": "Você achou o gesto bonito?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nMatheus presenteia a professora e faz perguntas sobre seus planos. Flávia aceita companhia apenas até sua casa. Você achou o gesto bonito?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Matheus",
+        "#ProfessoraFlavia",
+        "#FloresParaFlavia"
+      ]
+    },
+    "cena_23": {
+      "titulo": "REGINA TEME A CHEGADA DA IMPRENSA! 📺😨",
+      "pergunta": "A reportagem pode revelar o segredo dela?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nRegina teme que a fama do vilarejo leve jornalistas até Rebeca e coloque seus planos em risco. A reportagem pode revelar o segredo dela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Geraldo",
+        "#SegredoDeRegina"
+      ]
+    },
+    "cena_24": {
+      "titulo": "ISABELA VAI VOLTAR DISFARÇADA! 🥸🚨",
+      "pergunta": "Você arriscaria voltar para resgatar Manuela?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nA turma prepara uma nova tentativa de resgate. Isabela prefere acompanhar os amigos, mas quer usar um disfarce. Você arriscaria voltar para resgatar Manuela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Manuela",
+        "#PlanoDeResgate"
+      ]
+    },
+    "cena_25": {
+      "titulo": "FRED ENCONTROU OS SAPATOS PERFEITOS! 👠✨",
+      "pergunta": "Rebeca deveria aceitar usar esses sapatos?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nFred apresenta um par destinado a uma sessão de fotos e garante que vai combinar com Rebeca. Rebeca deveria aceitar usar esses sapatos?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Fred",
+        "#Rebeca",
+        "#SapatosDaSessao"
+      ]
+    },
+    "cena_26": {
+      "titulo": "REBECA NÃO QUER USAR O QUE NÃO É DELA! 👠🤔",
+      "pergunta": "Você teria a mesma preocupação?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nRebeca teme estragar os sapatos e prefere devolvê-los. Fred insiste e promete assumir as consequências. Você teria a mesma preocupação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Fred",
+        "#SapatosEmprestados"
+      ]
+    },
+    "cena_27": {
+      "titulo": "FRED QUER REGISTRAR A TRANSFORMAÇÃO! 📸✨",
+      "pergunta": "Você gostou da empolgação dele?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nFred orienta a postura de Rebeca e quer uma foto para registrar o resultado do novo visual. Você gostou da empolgação dele?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Fred",
+        "#Rebeca",
+        "#VisualDeRebeca"
+      ]
+    },
+    "cena_28": {
+      "titulo": "GIUSEPPE NÃO CONSEGUE CONTAR A VERDADE! 💧🤐",
+      "pergunta": "Ele deveria falar mesmo decepcionando Fiorina?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nGiuseppe ensaia revelar a descoberta, mas troca a confissão por um elogio quando Fiorina se aproxima. Ele deveria falar mesmo decepcionando Fiorina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Giuseppe",
+        "#Fiorina",
+        "#SegredoDaGoteira"
+      ]
+    },
+    "cena_29": {
+      "titulo": "ELE TEME DECEPCIONAR O VILAREJO! 😟💧",
+      "pergunta": "Esconder a verdade pode piorar tudo?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nGiuseppe hesita diante da alegria dos moradores. Saber a origem das lágrimas torna a situação cada vez mais difícil. Esconder a verdade pode piorar tudo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Giuseppe",
+        "#SantaDoVilarejo",
+        "#SegredoDaGoteira"
+      ]
+    },
+    "cena_30": {
+      "titulo": "O DISFARCE ESTÁ EM PREPARAÇÃO! 🥸👀",
+      "pergunta": "Esse visual vai enganar os seguranças?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA preparação do disfarce faz parte do plano da turma para tentar chegar até Manuela. Esse visual vai enganar os seguranças?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#DisfarceDeIsabela",
+        "#ResgateDeManuela"
+      ]
+    },
+    "cena_31": {
+      "titulo": "UM VISUAL PARA PASSAR DESPERCEBIDA! 🥸🤫",
+      "pergunta": "Regina vai reconhecer Isabela?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nIsabela precisa esconder sua identidade para acompanhar os amigos nessa tentativa de resgate. Regina vai reconhecer Isabela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Regina",
+        "#PlanoDeResgate"
+      ]
+    },
+    "cena_32": {
+      "titulo": "A TURMA CONFERE O DISFARCE! 🥸🤝",
+      "pergunta": "Você aprovaria essa ideia para a missão?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nO grupo confere o resultado da preparação antes de seguir com o plano para ajudar Manuela. Você aprovaria essa ideia para a missão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#AmigosDeIsabela",
+        "#ResgateDeManuela"
+      ]
+    },
+    "cena_33": {
+      "titulo": "FALAR COMO MENINO TAMBÉM FAZ PARTE! 🥸😂",
+      "pergunta": "O jeito de falar vai entregar Isabela?",
+      "legenda": "CAPA_SEGUNDOS=13\n\nO disfarce exige mais que uma roupa diferente. A turma tenta ajustar a fala de Isabela para proteger sua identidade. O jeito de falar vai entregar Isabela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#DisfarceDeIsabela",
+        "#PlanoDeResgate"
+      ]
+    },
+    "cena_34": {
+      "titulo": "TODOS PRONTOS PARA RESGATAR MANU! 🚨🤝",
+      "pergunta": "Dessa vez eles vão conseguir?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nA turma se reúne para partir, mas a chegada de Priscila pode atrapalhar o plano antes mesmo de começar. Dessa vez eles vão conseguir?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Joaquim",
+        "#ResgateDeManuela"
+      ]
+    },
+    "cena_35": {
+      "titulo": "PRISCILA DESCONFIA DA PRESSA! 👀😬",
+      "pergunta": "Ela vai descobrir onde eles estão indo?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nOs amigos tentam despistar Priscila com respostas evasivas. O disfarce também desperta perguntas. Ela vai descobrir onde eles estão indo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Priscila",
+        "#Isabela",
+        "#PlanoDeResgate"
+      ]
+    },
+    "cena_36": {
+      "titulo": "PRISCILA FICOU PARA TRÁS! 😤🏃",
+      "pergunta": "Ela vai desistir de seguir a turma?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nPriscila perde o grupo de vista e reclama por não conseguir acompanhar os outros. Ela vai desistir de seguir a turma?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Priscila",
+        "#AmigosDeIsabela",
+        "#ResgateDeManuela"
+      ]
+    },
+    "cena_37": {
+      "titulo": "DINHO TEM CIÚME DO GATO! 🐱😂",
+      "pergunta": "Meire conversa mais com Bartolomeu?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nDinho percebe que a tia fala primeiro com Bartolomeu. Meire explica a preferência pela longa convivência. Meire conversa mais com Bartolomeu?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Dinho",
+        "#Bartolomeu"
+      ]
+    },
+    "cena_38": {
+      "titulo": "MEIRE INVENTA MAIS UMA TEORIA! 👀😂",
+      "pergunta": "Ela consegue enxergar uma turma sem suspeitar?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nAo ver mais crianças reunidas, Meire transforma o grupo em uma nova teoria e promete proteger Bartolomeu. Ela consegue enxergar uma turma sem suspeitar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Bartolomeu",
+        "#TeoriasDeMeire"
+      ]
+    },
+    "cena_39": {
+      "titulo": "A TELEVISÃO CHEGOU AO VILAREJO! 📺😱",
+      "pergunta": "Giuseppe vai contar a verdade antes da reportagem?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nUma emissora quer mostrar a imagem que chora. A notícia deixa Giuseppe ainda mais preocupado. Giuseppe vai contar a verdade antes da reportagem?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Giuseppe",
+        "#Fiorina",
+        "#ReportagemNoVilarejo"
+      ]
+    },
+    "cena_40": {
+      "titulo": "FIORINA JÁ IMAGINA O VILAREJO FAMOSO! 🙏📺",
+      "pergunta": "A empolgação dela foi longe demais?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nA novidade sobre o Vaticano aumenta a animação de Fiorina. Giuseppe percebe que precisa interromper a situação. A empolgação dela foi longe demais?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Fiorina",
+        "#Giuseppe",
+        "#SantaDoVilarejo"
+      ]
+    },
+    "cena_41": {
+      "titulo": "GIUSEPPE REVELA QUE NÃO HÁ MILAGRE! 💧😳",
+      "pergunta": "Fiorina vai aceitar ouvir a explicação?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nGiuseppe encerra as visitas e anuncia que a imagem não realizou o milagre que todos imaginavam. Fiorina vai aceitar ouvir a explicação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Giuseppe",
+        "#Fiorina",
+        "#VerdadeSobreASanta"
+      ]
+    },
+    "cena_42": {
+      "titulo": "AS LÁGRIMAS ERAM UMA GOTEIRA! 💧😱",
+      "pergunta": "Você imaginava essa explicação?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nGiuseppe mostra de onde vinha a água. A descoberta muda completamente a história da imagem que chorava. Você imaginava essa explicação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Giuseppe",
+        "#GoteiraNaSanta",
+        "#SantaDoVilarejo"
+      ]
+    },
+    "cena_43": {
+      "titulo": "SAFIRA COBRA EXPLICAÇÕES DE REBECA! 👠😤",
+      "pergunta": "Ela precisava tratar Rebeca desse jeito?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nSafira reconhece os sapatos da sessão de fotos e questiona quem autorizou Rebeca a usá-los. Ela precisava tratar Rebeca desse jeito?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Safira",
+        "#Rebeca",
+        "#SapatosDaSessao"
+      ]
+    },
+    "cena_44": {
+      "titulo": "OTÁVIO INTERROMPE A HUMILHAÇÃO! 😤👠",
+      "pergunta": "Ele fez certo ao intervir?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nSafira exige que Rebeca tire os sapatos. Otávio chega, interrompe a discussão e chama Safira para conversar. Ele fez certo ao intervir?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Otavio",
+        "#Rebeca",
+        "#Safira"
+      ]
+    },
+    "cena_45": {
+      "titulo": "SAFIRA E OTÁVIO DISCUTEM! 💥👠",
+      "pergunta": "É uma cobrança profissional ou ciúme?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nSafira acusa Otávio de favorecimento. Ele questiona a forma como ela expôs Rebeca diante dos funcionários. É uma cobrança profissional ou ciúme?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Safira",
+        "#Otavio",
+        "#Rebeca"
+      ]
+    },
+    "cena_46": {
+      "titulo": "FRED ASSUME A RESPONSABILIDADE! 👠🙋",
+      "pergunta": "Contar a verdade vai resolver a confusão?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nFred explica que pegou os sapatos e insistiu para Rebeca usá-los, mesmo quando ela demonstrou receio. Contar a verdade vai resolver a confusão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Fred",
+        "#Rebeca",
+        "#ConfusaoDosSapatos"
+      ]
+    },
+    "cena_47": {
+      "titulo": "OTÁVIO ENCERRA A CONFUSÃO DOS SAPATOS! 👠✋",
+      "pergunta": "A solução dele foi justa?",
+      "legenda": "CAPA_SEGUNDOS=13\n\nApós ouvir Fred, Otávio pede que a situação não se repita e manda conferir as condições dos sapatos. A solução dele foi justa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Otavio",
+        "#Fred",
+        "#SapatosDaSessao"
+      ]
+    },
+    "cena_48": {
+      "titulo": "O VILAREJO EXIGE EXPLICAÇÕES! 💧🗣️",
+      "pergunta": "Giuseppe merece ser ouvido?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nA descoberta da goteira deixa os moradores revoltados. Giuseppe tenta explicar que não planejou enganar ninguém. Giuseppe merece ser ouvido?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Giuseppe",
+        "#GoteiraNaSanta",
+        "#MoradoresDoVilarejo"
+      ]
+    },
+    "cena_49": {
+      "titulo": "MANUELA SE PREPARA PARA FUGIR! 🚪🤝",
+      "pergunta": "Joaquim vai chegar a tempo?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nEnquanto a confusão da imagem termina, Manuela se organiza para a próxima tentativa de fuga. Joaquim vai chegar a tempo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Joaquim",
+        "#FugaDeManuela"
+      ]
+    },
+    "cena_50": {
+      "titulo": "O PLANO É DISTRAIR NAVARRO! 🥸🚨",
+      "pergunta": "Isabela e André vão conseguir enganá-lo?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nA turma combina como se aproximar do segurança. Os disfarçados precisam deixar as implicâncias de lado e focar no resgate. Isabela e André vão conseguir enganá-lo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Andre",
+        "#Navarro"
+      ]
+    },
+    "cena_51": {
+      "titulo": "NAVARRO RECONHECE O VENDEDOR! 🍬😨",
+      "pergunta": "Ele vai perceber a ligação com a fuga?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nA oferta de doces desperta uma lembrança no segurança: o garoto esteve ali no dia em que Isabela sumiu. Ele vai perceber a ligação com a fuga?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Navarro",
+        "#DocesDoDisfarce",
+        "#ResgateDeManuela"
+      ]
+    }
+  }
+}
