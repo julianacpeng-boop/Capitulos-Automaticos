@@ -1,0 +1,556 @@
+{
+  "capitulo": 58,
+  "execucao": "38262131478",
+  "cenas": {
+    "cena_01": {
+      "titulo": "MAIS UM TRECHO DO CAPÍTULO 58! 🎬👀",
+      "pergunta": "Qual momento deste capítulo marcou você?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nAcompanhe mais um trecho de Cúmplices de Um Resgate. Qual momento deste capítulo marcou você?",
+      "hashtags": [
+        "#Capitulo58",
+        "#CumplicesDeUmResgate"
+      ]
+    },
+    "cena_02": {
+      "titulo": "ACOMPANHE O CAPÍTULO 58! 🎬✨",
+      "pergunta": "Você lembra desse trecho?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nMais um momento para acompanhar a história de Cúmplices de Um Resgate. Você lembra desse trecho?",
+      "hashtags": [
+        "#Capitulo58",
+        "#CumplicesDeUmResgate"
+      ]
+    },
+    "cena_03": {
+      "titulo": "CONTINUE NO CAPÍTULO 58! 👀🎬",
+      "pergunta": "O que você espera deste capítulo?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA história continua em mais um trecho de Cúmplices de Um Resgate. O que você espera deste capítulo?",
+      "hashtags": [
+        "#Capitulo58",
+        "#CumplicesDeUmResgate"
+      ]
+    },
+    "cena_04": {
+      "titulo": "NAVARRO PERCEBE A LIGAÇÃO COM A FUGA! 😱🍬",
+      "pergunta": "O disfarce ainda consegue enganá-lo?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nA oferta de doces desperta a memória de Navarro: o garoto esteve ali no dia em que Isabela sumiu. O disfarce ainda consegue enganá-lo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Navarro",
+        "#Isabela",
+        "#EscoteiroDisfarcado"
+      ]
+    },
+    "cena_05": {
+      "titulo": "NICO SOBROU NA CONFUSÃO DA SANTA! 💧😂",
+      "pergunta": "Você também perderia a paciência?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nEnquanto Fiorina se recupera, Nico reclama das consequências da descoberta sobre a imagem que chorava. Você também perderia a paciência?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Nico",
+        "#Fiorina",
+        "#GoteiraNaSanta"
+      ]
+    },
+    "cena_06": {
+      "titulo": "A DECEPÇÃO ABALOU FIORINA? 😟🙏",
+      "pergunta": "Ela vai continuar acreditando?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nDepois da descoberta, Fiorina conversa com Giuseppe e o padre sobre sua fé e a decepção com o suposto milagre. Ela vai continuar acreditando?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Fiorina",
+        "#Giuseppe",
+        "#SantaDoVilarejo"
+      ]
+    },
+    "cena_07": {
+      "titulo": "FIORINA DIZ QUE SUA FÉ CONTINUA FIRME! 🙏❤️",
+      "pergunta": "Você gostou da conversa com o padre?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nO padre fala sobre a fé dos moradores. Fiorina afirma que a explicação da goteira não muda sua crença. Você gostou da conversa com o padre?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Fiorina",
+        "#PadreLutero",
+        "#GoteiraNaSanta"
+      ]
+    },
+    "cena_08": {
+      "titulo": "SABRINA ADMIRA O JEITO DE TÉO! ❤️🤝",
+      "pergunta": "Você percebeu a aproximação dos dois?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nSabrina gosta de ser defendida por Téo e pergunta sobre a saudade que ele sente de Manuela. Você percebeu a aproximação dos dois?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Sabrina",
+        "#Teo",
+        "#SaudadeDeManuela"
+      ]
+    },
+    "cena_09": {
+      "titulo": "TÉO VALORIZA A AMIZADE COM SABRINA! 😊❤️",
+      "pergunta": "Essa amizade pode crescer ainda mais?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nTéo demonstra carinho pela amizade com Sabrina. Depois, os pais de Matheus pedem uma conversa com o filho. Essa amizade pode crescer ainda mais?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Teo",
+        "#Sabrina",
+        "#AmizadeDeTeo"
+      ]
+    },
+    "cena_10": {
+      "titulo": "DÓRIS ENTREGA O SEGREDO DE MATHEUS! 😳🗣️",
+      "pergunta": "Ela deveria ter deixado o irmão falar?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nOs pais querem entender o comportamento de Matheus. Dóris liga sua reação ao pastor e à professora Flávia. Ela deveria ter deixado o irmão falar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Matheus",
+        "#Doris",
+        "#ProfessoraFlavia"
+      ]
+    },
+    "cena_11": {
+      "titulo": "REBECA AINDA TEME AS FOFOCAS! 👠😟",
+      "pergunta": "Otávio consegue tranquilizá-la?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nA confusão dos sapatos foi resolvida, mas Rebeca teme comentários maldosos e a reação de Safira. Otávio consegue tranquilizá-la?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Otavio",
+        "#ConfusaoDosSapatos"
+      ]
+    },
+    "cena_12": {
+      "titulo": "OTÁVIO QUER DAR OS SAPATOS A REBECA! 👠❤️",
+      "pergunta": "Ela deveria aceitar o presente?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nRebeca teme provocar Safira. Otávio insiste que os sapatos combinam com ela e tenta deixá-la à vontade. Ela deveria aceitar o presente?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Otavio",
+        "#Rebeca",
+        "#SapatosDeRebeca"
+      ]
+    },
+    "cena_13": {
+      "titulo": "A OPERAÇÃO POLICIAL ASSUSTA GERALDO! 🚨😨",
+      "pergunta": "Ele vai conseguir esconder seu envolvimento?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nGeraldo recebe a notícia de uma operação contra a pirataria. Sua reação não combina com a comemoração esperada. Ele vai conseguir esconder seu envolvimento?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Geraldo",
+        "#PiratariaDeCDs",
+        "#OperacaoPolicial"
+      ]
+    },
+    "cena_14": {
+      "titulo": "A NOTÍCIA BOA DEIXOU GERALDO TENSO! 😬💿",
+      "pergunta": "Você percebeu o desconforto dele?",
+      "legenda": "CAPA_SEGUNDOS=6\n\nA operação contra a pirataria parece motivo para comemorar, mas Geraldo tem outras preocupações. Você percebeu o desconforto dele?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Geraldo",
+        "#PiratariaDeCDs",
+        "#Gravadora"
+      ]
+    },
+    "cena_15": {
+      "titulo": "GERALDO MANDA SUMIR COM AS PROVAS! 🚨🤐",
+      "pergunta": "A polícia vai chegar até ele?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nA preocupação aumenta, e Geraldo ordena que se livrem das provas que podem comprometê-lo. A polícia vai chegar até ele?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Geraldo",
+        "#Vargas",
+        "#ProvasDaPirataria"
+      ]
+    },
+    "cena_16": {
+      "titulo": "A LIGAÇÃO PARA JOEL VIROU URGÊNCIA! 📞😰",
+      "pergunta": "O aviso vai chegar a tempo?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nNo meio da tensão, a ligação para Joel passa a fazer parte das preocupações. O aviso vai chegar a tempo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Joel",
+        "#Geraldo",
+        "#OperacaoPolicial"
+      ]
+    },
+    "cena_17": {
+      "titulo": "MATHEUS NÃO QUER FALAR DOS SENTIMENTOS! 😳💬",
+      "pergunta": "Os pais estão tentando ajudá-lo?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nDóris conta o que percebe na escola. Matheus nega, mas os pais tentam conversar sem que ele se sinta envergonhado. Os pais estão tentando ajudá-lo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Matheus",
+        "#Doris",
+        "#ProfessoraFlavia"
+      ]
+    },
+    "cena_18": {
+      "titulo": "MANUELA ENCONTRA APOIO EM TUNTUM! 🐭❤️",
+      "pergunta": "Você acredita que os amigos vão voltar?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nDepois da conversa com Matheus, Manuela e Tuntum falam da tentativa de fuga e do valor de não abandonar um amigo. Você acredita que os amigos vão voltar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Tuntum",
+        "#ResgateDeManuela"
+      ]
+    },
+    "cena_19": {
+      "titulo": "MANUELA TEME QUE TENHAM DESISTIDO! 😢🤝",
+      "pergunta": "A turma vai achar outro jeito de ajudá-la?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nManuela sabe que o resgate é perigoso e teme continuar presa. Tuntum tenta manter a esperança. A turma vai achar outro jeito de ajudá-la?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Tuntum",
+        "#EsperancaDeResgate"
+      ]
+    },
+    "cena_20": {
+      "titulo": "O SILÊNCIO DA TURMA CHAMA ATENÇÃO! 🤫👀",
+      "pergunta": "Como você explicaria esse silêncio?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA seriedade dos amigos desperta uma pergunta sobre o que está acontecendo. Como você explicaria esse silêncio?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#AmigosDeIsabela",
+        "#Capitulo58"
+      ]
+    },
+    "cena_21": {
+      "titulo": "A TURMA INVENTA UMA DESCULPA PARA A COMIDA! 🍽️🤫",
+      "pergunta": "Alice vai desconfiar do pedido?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nOs amigos atribuem o cansaço à rotina e dizem que Felipe sente fome de madrugada para levar comida para casa. Alice vai desconfiar do pedido?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Julia",
+        "#Felipe",
+        "#ComidaParaIsabela"
+      ]
+    },
+    "cena_22": {
+      "titulo": "LOLA QUER DORMIR COM A TURMA! 🛏️😅",
+      "pergunta": "Os amigos conseguiriam guardar o segredo?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nLola quer passar a noite na casa das crianças, mas a turma precisa recusar o convite sem despertar suspeitas. Os amigos conseguiriam guardar o segredo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Lola",
+        "#Julia",
+        "#AmigosDeIsabela"
+      ]
+    },
+    "cena_23": {
+      "titulo": "JOEL QUER SE ESCONDER NO VILAREJO! 🚨🏠",
+      "pergunta": "Mudar de lugar vai despistar a polícia?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nCom medo de que a investigação avance, Joel anuncia uma mudança para o Vilarejo dos Sonhos. Mudar de lugar vai despistar a polícia?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Joel",
+        "#Geraldo",
+        "#PiratariaDeCDs"
+      ]
+    },
+    "cena_24": {
+      "titulo": "A INVESTIGAÇÃO PODE CHEGAR A GERALDO! 😨💿",
+      "pergunta": "O nome dele vai aparecer nas provas?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nO contato da gravadora com a polícia aumenta o receio de Geraldo. Na mansão, Navarro tenta ligar os escoteiros à fuga. O nome dele vai aparecer nas provas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Geraldo",
+        "#Joel",
+        "#InvestigacaoDaPirataria"
+      ]
+    },
+    "cena_25": {
+      "titulo": "NAVARRO DESCONFIA DOS ESCOTEIROS! 🥸😳",
+      "pergunta": "Sandro vai entender a gravidade?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nNavarro acha que os meninos participaram da fuga de Isabela. Sandro ainda se distrai com a história dos doces. Sandro vai entender a gravidade?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Navarro",
+        "#Sandro",
+        "#FugaDeIsabela"
+      ]
+    },
+    "cena_26": {
+      "titulo": "NAVARRO QUER ESCONDER O ERRO DE REGINA! 🤐🚨",
+      "pergunta": "Sandro vai conseguir ficar calado?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nCom medo da reação de Regina, Navarro pede silêncio e quer encontrar os garotos antes que ela descubra. Sandro vai conseguir ficar calado?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Navarro",
+        "#Sandro",
+        "#Regina"
+      ]
+    },
+    "cena_27": {
+      "titulo": "ISABELA RECLAMA DA COMIDA! 🍽️😤",
+      "pergunta": "Júlia foi dura demais ou tinha razão?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nO jantar não é o que Isabela imaginava. Júlia lembra que a casa dos amigos não funciona como um hotel. Júlia foi dura demais ou tinha razão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Julia",
+        "#JantarDeIsabela"
+      ]
+    },
+    "cena_28": {
+      "titulo": "O RESGATE VAI FICAR MAIS DIFÍCIL! 🚨😟",
+      "pergunta": "Que plano você tentaria agora?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nEntre comentários sobre a comida, a turma lamenta a tentativa frustrada e teme que a segurança tenha aumentado. Que plano você tentaria agora?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Manuela",
+        "#PlanoDeResgate"
+      ]
+    },
+    "cena_29": {
+      "titulo": "OS SEGURANÇAS CERCAM OS ESCOTEIROS! 🥸🚨",
+      "pergunta": "Os meninos vão conseguir despistá-los?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nNavarro e Sandro procuram respostas sobre a mansão. A desculpa da venda de doces já não convence tão facilmente. Os meninos vão conseguir despistá-los?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Navarro",
+        "#Sandro",
+        "#Escoteiros"
+      ]
+    },
+    "cena_30": {
+      "titulo": "NAVARRO PROCURA O GAROTO DISFARÇADO! 👀🥸",
+      "pergunta": "Ele vai reconhecer quem está procurando?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nOs seguranças examinam os escoteiros para tentar encontrar o menino ligado à fuga. Ele vai reconhecer quem está procurando?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Navarro",
+        "#Escoteiros",
+        "#FugaDeIsabela"
+      ]
+    },
+    "cena_31": {
+      "titulo": "A DESCRIÇÃO SERVE PARA TODOS! 🥸😂",
+      "pergunta": "Navarro vai sair dali sem resposta?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nNavarro descreve boné e lenço de escoteiro, mas isso não diferencia o garoto dos outros. A procura termina com ameaças. Navarro vai sair dali sem resposta?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Navarro",
+        "#Sandro",
+        "#Escoteiros"
+      ]
+    },
+    "cena_32": {
+      "titulo": "O DELEGADO CHEGA À GRAVADORA! 🚨💿",
+      "pergunta": "A visita vai deixar Geraldo em apuros?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nA produção da banda segue, mas a chegada do delegado traz novidades sobre a operação contra a pirataria. A visita vai deixar Geraldo em apuros?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Delegado",
+        "#Gravadora",
+        "#PiratariaDeCDs"
+      ]
+    },
+    "cena_33": {
+      "titulo": "A POLÍCIA SUSPEITA DE ALGUÉM DA EMPRESA! 💿😱",
+      "pergunta": "O infiltrado vai ser descoberto?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nAs mídias encontradas apontam para artistas da mesma gravadora. O delegado explica que a investigação continua. O infiltrado vai ser descoberto?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Geraldo",
+        "#Delegado",
+        "#InfiltradoNaGravadora"
+      ]
+    },
+    "cena_34": {
+      "titulo": "O GALPÃO ESCONDIA OUTRAS FRAUDES! 🚨😨",
+      "pergunta": "Geraldo vai conseguir controlar as informações?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nGeraldo quer receber as novidades da polícia. O delegado revela que o galpão também estava ligado a outras fraudes. Geraldo vai conseguir controlar as informações?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Geraldo",
+        "#Delegado",
+        "#FraudesNoGalpao"
+      ]
+    },
+    "cena_35": {
+      "titulo": "REBECA CONTINUA SEM NOTÍCIAS DA FILHA! 😢❤️",
+      "pergunta": "O apoio de Fred pode ajudá-la?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nRebeca conta que o delegado ainda não tem novidades. Fred percebe sua tristeza e oferece acolhimento. O apoio de Fred pode ajudá-la?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Fred",
+        "#FilhaDesaparecida"
+      ]
+    },
+    "cena_36": {
+      "titulo": "FRED FALA DE SAFIRA NA HORA ERRADA! 😬🗣️",
+      "pergunta": "Você já percebeu alguém ouvindo tarde demais?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nFred tenta animar Rebeca, mas seus comentários sobre Safira colocam os dois numa situação desconfortável. Você já percebeu alguém ouvindo tarde demais?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Fred",
+        "#Rebeca",
+        "#Safira"
+      ]
+    },
+    "cena_37": {
+      "titulo": "SAFIRA OUVIU TUDO! 😳💥",
+      "pergunta": "Fred vai conseguir sair dessa?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nSafira revela que ouviu os comentários e aumenta a cobrança pelo trabalho do catálogo. Fred vai conseguir sair dessa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Safira",
+        "#Fred",
+        "#CatalogoDaEmpresa"
+      ]
+    },
+    "cena_38": {
+      "titulo": "MAIS UM MOMENTO DO CAPÍTULO 58! 🎬👀",
+      "pergunta": "Qual personagem você mais acompanha?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nContinue acompanhando os acontecimentos de Cúmplices de Um Resgate. Qual personagem você mais acompanha?",
+      "hashtags": [
+        "#Capitulo58",
+        "#CumplicesDeUmResgate"
+      ]
+    },
+    "cena_39": {
+      "titulo": "A HISTÓRIA CONTINUA NO CAPÍTULO 58! 🎬✨",
+      "pergunta": "Qual cena você quer rever?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nMais um trecho para quem acompanha Cúmplices de Um Resgate. Qual cena você quer rever?",
+      "hashtags": [
+        "#Capitulo58",
+        "#CumplicesDeUmResgate"
+      ]
+    },
+    "cena_40": {
+      "titulo": "MATHEUS QUER FAZER UMA PERGUNTA PESSOAL! 😳🌷",
+      "pergunta": "Flávia já percebeu a curiosidade dele?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nMatheus espera a professora e pede para acompanhá-la. Durante o caminho, muda o assunto para uma pergunta pessoal. Flávia já percebeu a curiosidade dele?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Matheus",
+        "#ProfessoraFlavia",
+        "#PastorAugusto"
+      ]
+    },
+    "cena_41": {
+      "titulo": "FLÁVIA DIZ QUE É SÓ AMIGA DO PASTOR! 💬😳",
+      "pergunta": "Matheus vai entender o conselho dela?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nA professora esclarece o boato e aconselha Matheus a aproveitar a infância, sem pressa para namorar. Matheus vai entender o conselho dela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Matheus",
+        "#ProfessoraFlavia",
+        "#PastorAugusto"
+      ]
+    },
+    "cena_42": {
+      "titulo": "OS SEGURANÇAS PRECISAM CONTAR A REGINA! 😰🚨",
+      "pergunta": "Quem vai assumir o erro primeiro?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nDepois da conversa com Flávia, Navarro e Sandro procuram Regina para revelar um detalhe sobre a fuga. Quem vai assumir o erro primeiro?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Navarro",
+        "#Sandro",
+        "#Regina"
+      ]
+    },
+    "cena_43": {
+      "titulo": "REGINA ENTENDE COMO ISABELA FUGIU! 😡🥸",
+      "pergunta": "Navarro devia ter contado isso antes?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nAo ouvir sobre o escoteiro e a desculpa do banheiro, Regina percebe que o segurança foi distraído durante a fuga. Navarro devia ter contado isso antes?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Navarro",
+        "#FugaDeIsabela"
+      ]
+    },
+    "cena_44": {
+      "titulo": "ELES NÃO CONSEGUIRAM PEGAR NINGUÉM! 😬🏃",
+      "pergunta": "Como Regina vai reagir a mais essa notícia?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nOs seguranças contam que o garoto voltou com um amigo, mas os dois escaparam da abordagem. Como Regina vai reagir a mais essa notícia?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Navarro",
+        "#EscoteirosDisfarcados"
+      ]
+    },
+    "cena_45": {
+      "titulo": "A SAUDADE DE MANUELA APERTA! 🎸😢",
+      "pergunta": "A banda vai voltar a ser como antes?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nUma conversa com Pedro mistura música, saudade e esperança de que Manuela volte logo para casa. A banda vai voltar a ser como antes?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Pedro",
+        "#Manuela",
+        "#SaudadeDeManuela"
+      ]
+    },
+    "cena_46": {
+      "titulo": "FRED PERDE A PACIÊNCIA COM O ATRASO! 📸😤",
+      "pergunta": "Esperar a modelo está atrapalhando o trabalho?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nFred reclama da espera para a sessão de fotos. Rebeca lembra que o tempo do estúdio também tem custo. Esperar a modelo está atrapalhando o trabalho?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Fred",
+        "#Rebeca",
+        "#SessaoDeFotos"
+      ]
+    },
+    "cena_47": {
+      "titulo": "REBECA VAI SER A MODELO DE TESTE! 📸😳",
+      "pergunta": "Ela vai descobrir um novo talento?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nEnquanto a modelo não chega, Fred quer testar a iluminação com Rebeca e tenta convencê-la a participar. Ela vai descobrir um novo talento?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Fred",
+        "#Rebeca",
+        "#RebecaModelo"
+      ]
+    },
+    "cena_48": {
+      "titulo": "SABRINA ENCONTRA TÉO NO HARAS! 🎸❤️",
+      "pergunta": "Você torce pela aproximação deles?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nSabrina elogia a música de Téo e pede para ficar com ele. A conversa revela jeitos diferentes de perceber o lugar. Você torce pela aproximação deles?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Sabrina",
+        "#Teo",
+        "#Haras"
+      ]
+    },
+    "cena_49": {
+      "titulo": "TÉO PERCEBE A BELEZA DE OUTRO JEITO! 🌿❤️",
+      "pergunta": "Você gostou desse momento dos dois?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nTéo fala da grama, do vento e dos pássaros. Sabrina acrescenta que o lugar também é romântico. Você gostou desse momento dos dois?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Teo",
+        "#Sabrina",
+        "#RomanceNoHaras"
+      ]
+    },
+    "cena_50": {
+      "titulo": "REGINA PRESSIONA MANUELA! 😡🚨",
+      "pergunta": "Manuela vai conseguir proteger os amigos?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nRegina quer saber quem são os escoteiros. Manuela nega conhecer o plano e tenta resistir às acusações. Manuela vai conseguir proteger os amigos?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Manuela",
+        "#EscoteirosDisfarcados"
+      ]
+    },
+    "cena_51": {
+      "titulo": "MANUELA PRECISA AVISAR JOAQUIM! 📞😨",
+      "pergunta": "O aviso vai chegar antes de Regina agir?",
+      "legenda": "CAPA_SEGUNDOS=11\n\nRegina promete descobrir a verdade. Assim que ela sai, Manuela percebe que precisa alertar os amigos. O aviso vai chegar antes de Regina agir?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Joaquim",
+        "#PlanoDeResgate"
+      ]
+    }
+  }
+}
