@@ -1,0 +1,569 @@
+{
+  "capitulo": 61,
+  "execucao": "38651608200",
+  "cenas": {
+    "cena_01": {
+      "titulo": "AMIZADE PARA A VIDA INTEIRA! 🎶❤️",
+      "pergunta": "Qual amizade da novela você mais gosta?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nUm trecho musical destaca o valor de uma amizade que permanece. Qual amizade da novela você mais gosta?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Amizade",
+        "#Capitulo61"
+      ]
+    },
+    "cena_02": {
+      "titulo": "A ESPERA JÁ ESTÁ CANSANDO! ⏳👀",
+      "pergunta": "Você lembra desse momento?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA espera aparece na breve fala deste trecho do capítulo. Você lembra desse momento?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo61"
+      ]
+    },
+    "cena_03": {
+      "titulo": "AINDA ESPERANDO A HORA DE SAIR! ⏳🎬",
+      "pergunta": "Você teria paciência nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nAcompanhe mais um trecho do capítulo 61. Você teria paciência nessa situação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo61"
+      ]
+    },
+    "cena_04": {
+      "titulo": "QUANDO ESSA ESPERA VAI ACABAR? ⏳👀",
+      "pergunta": "Como você reagiria a essa demora?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA história continua em mais um trecho do capítulo 61. Como você reagiria a essa demora?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo61"
+      ]
+    },
+    "cena_05": {
+      "titulo": "SANDRO APRESSA A SAÍDA DO BANHEIRO! 🚪😨",
+      "pergunta": "As gêmeas vão conseguir se trocar?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nIsabela conta que as fotos foram um sucesso, mas a cobrança do lado de fora ameaça o tempo para desfazer a troca. As gêmeas vão conseguir se trocar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Manuela",
+        "#Sandro"
+      ]
+    },
+    "cena_06": {
+      "titulo": "OMAR CHEGA FAZENDO GROSSERIA! 🐎😳",
+      "pergunta": "Joel deveria corrigir o filho?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nLuiz e Hermínio recebem o dono do haras. A resposta de Omar quebra o clima da apresentação. Joel deveria corrigir o filho?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Omar",
+        "#Joel",
+        "#Haras"
+      ]
+    },
+    "cena_07": {
+      "titulo": "O DONO ELOGIA O CUIDADO COM O HARAS! 🐎👏",
+      "pergunta": "Luiz vai ganhar a confiança do patrão?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nO trabalho da equipe recebe elogios durante a chegada. Depois, a pressa para deixar a gravadora continua. Luiz vai ganhar a confiança do patrão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Luiz",
+        "#Joel",
+        "#Haras"
+      ]
+    },
+    "cena_08": {
+      "titulo": "FRED MUDA O VISUAL PARA CONQUISTAR! 🤠😂",
+      "pergunta": "Lurdinha gostou do estilo novo?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nFred aposta no xadrez e no jeito rústico, mas ouve que suas roupas de sempre combinam mais com ele. Lurdinha gostou do estilo novo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Fred",
+        "#Lurdinha",
+        "#VisualCountry"
+      ]
+    },
+    "cena_09": {
+      "titulo": "PRISCILA VAI PASSAR A TARDE COM ISABELA! 😬🏠",
+      "pergunta": "Essa visita vai complicar a situação?",
+      "legenda": "CAPA_SEGUNDOS=13\n\nPriscila diz que foi convidada por Regina. Isabela não demonstra a mesma empolgação com a companhia. Essa visita vai complicar a situação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Priscila",
+        "#Isabela",
+        "#Regina"
+      ]
+    },
+    "cena_10": {
+      "titulo": "AS GÊMEAS NÃO CONSEGUIRAM DESTROCAR! 😱🥸",
+      "pergunta": "Qual será o próximo passo da turma?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nJúlia encontra Manuela no banheiro e descobre que Isabela voltou com Regina. O jeito é levar Manu para casa. Qual será o próximo passo da turma?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Isabela",
+        "#Julia"
+      ]
+    },
+    "cena_11": {
+      "titulo": "OMAR NÃO POUPA NEM O BOLO! 🍰😤",
+      "pergunta": "A família vai conseguir acolher o novo vizinho?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nOmar critica a comida e depois conhece Matheus e Dóris, que o convidam para passear pelo vilarejo. A família vai conseguir acolher o novo vizinho?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Omar",
+        "#Matheus",
+        "#Doris"
+      ]
+    },
+    "cena_12": {
+      "titulo": "SAFIRA COBRA NOVAS FOTOS! 📸😤",
+      "pergunta": "Fred tem razão em estranhar a cobrança?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nSafira pede outra produção para o catálogo. Fred lembra que já fotografaram as peças solicitadas. Fred tem razão em estranhar a cobrança?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Safira",
+        "#Fred",
+        "#CatalogoDaEmpresa"
+      ]
+    },
+    "cena_13": {
+      "titulo": "REBECA OUVE O ALERTA DE FRED! 🐍📸",
+      "pergunta": "Como lidar com as cobranças de Safira?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nSafira esclarece que chegaram peças novas. Fred aconselha Rebeca a ficar atenta às dificuldades na empresa. Como lidar com as cobranças de Safira?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Fred",
+        "#Safira"
+      ]
+    },
+    "cena_14": {
+      "titulo": "MANUELA É ACOLHIDA PELOS AMIGOS! 🤝❤️",
+      "pergunta": "Ela vai se sentir segura no apartamento?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nManuela agradece a ajuda e fala sobre a diferença entre ela e Isabela. A turma oferece companhia e cuidado. Ela vai se sentir segura no apartamento?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Isabela",
+        "#AmigosDeManuela"
+      ]
+    },
+    "cena_15": {
+      "titulo": "MEIRE INVENTOU UM URSO ESPIÃO! 🧸📹",
+      "pergunta": "As crianças vão descobrir a câmera?",
+      "legenda": "CAPA_SEGUNDOS=13\n\nMeire mostra a Dinho uma câmera escondida no urso, ligada à televisão para captar imagem e som. As crianças vão descobrir a câmera?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Dinho",
+        "#UrsoEspiao"
+      ]
+    },
+    "cena_16": {
+      "titulo": "O PLANO É DEIXAR O URSO SEM SER VISTO! 🧸🤫",
+      "pergunta": "Meire vai conseguir enganar a turma?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nMeire precisa colocar o brinquedo no apartamento sem revelar a origem. No vilarejo, Omar conhece a praça. Meire vai conseguir enganar a turma?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Dinho",
+        "#UrsoEspiao"
+      ]
+    },
+    "cena_17": {
+      "titulo": "OMAR CONHECE TÉO E FAZ PERGUNTAS! 👀💬",
+      "pergunta": "Ele vai aprender a respeitar as diferenças?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nTéo explica que a cegueira não o impede de participar das atividades e conta como acompanha os filmes. Ele vai aprender a respeitar as diferenças?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Omar",
+        "#Teo",
+        "#Inclusao"
+      ]
+    },
+    "cena_18": {
+      "titulo": "PRISCILA E ISABELA DISPUTAM ESTILO! 👗💥",
+      "pergunta": "Quem passou dos limites nessa conversa?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nA visita vira discussão sobre quarto, roupas e aparência. Isabela não gosta de ver Priscila mexendo em suas coisas. Quem passou dos limites nessa conversa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Priscila",
+        "#Isabela",
+        "#RivalidadeDasMeninas"
+      ]
+    },
+    "cena_19": {
+      "titulo": "A LUZ DAS FOTOS CAUSA DISCUSSÃO! 📸💡",
+      "pergunta": "Fred e o fotógrafo precisam se entender?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nApós o convite para a piscina, o trabalho no estúdio exige ajustes. O fotógrafo reage às orientações de Fred. Fred e o fotógrafo precisam se entender?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Fred",
+        "#Fotografo",
+        "#SessaoDeFotos"
+      ]
+    },
+    "cena_20": {
+      "titulo": "SAFIRA FAZ UMA PROPOSTA À MODELO! 📸🤔",
+      "pergunta": "Qual é a intenção por trás desse convite?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nSafira oferece a possibilidade de novos catálogos e diz que Otávio é quem escolhe as modelos. Qual é a intenção por trás desse convite?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Safira",
+        "#Otavio",
+        "#ModeloDoCatalogo"
+      ]
+    },
+    "cena_21": {
+      "titulo": "SAFIRA INCENTIVA A APROXIMAÇÃO! 😳🕷️",
+      "pergunta": "Ela está preparando uma armadilha?",
+      "legenda": "CAPA_SEGUNDOS=13\n\nSafira sugere que a modelo se aproxime de Otávio para aumentar suas chances de continuar na marca. Ela está preparando uma armadilha?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Safira",
+        "#Otavio",
+        "#ArmadilhaDeSafira"
+      ]
+    },
+    "cena_22": {
+      "titulo": "O PRESENTE PRECISA FUGIR DAS CÂMERAS! 🧸📹",
+      "pergunta": "A turma vai notar a movimentação?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nO caminho para entregar o urso exige cuidado. Enquanto isso, os amigos acompanham as câmeras do condomínio. A turma vai notar a movimentação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#UrsoEspiao",
+        "#CamerasDoCondominio"
+      ]
+    },
+    "cena_23": {
+      "titulo": "MANUELA TEM SAUDADE DA MÃE! 😢❤️",
+      "pergunta": "Como ajudá-la sem colocar Isabela em risco?",
+      "legenda": "CAPA_SEGUNDOS=11\n\nMesmo livre, Manuela teme as consequências para a irmã e Marina. Os amigos prometem continuar ao seu lado. Como ajudá-la sem colocar Isabela em risco?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Isabela",
+        "#SaudadeDeRebeca"
+      ]
+    },
+    "cena_24": {
+      "titulo": "MEIRE LEMBRA QUE ESTÁ SENDO FILMADA! 📹😬",
+      "pergunta": "Ela vai conseguir esconder sua participação?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nA senha entregue a Alice pode revelar quem deixou o presente. Meire precisa mudar a forma de agir. Ela vai conseguir esconder sua participação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Alice",
+        "#UrsoEspiao"
+      ]
+    },
+    "cena_25": {
+      "titulo": "TEM ARBUSTO SE MEXENDO NO PÁTIO! 🌳😂",
+      "pergunta": "Você desconfiaria desse disfarce?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nUma movimentação estranha nas câmeras chama a atenção da turma e atrapalha a discrição do plano. Você desconfiaria desse disfarce?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#DisfarceDeArbusto",
+        "#CamerasDoCondominio"
+      ]
+    },
+    "cena_26": {
+      "titulo": "OMAR ESCOLHE O PRIMEIRO SORVETE! 🍦😒",
+      "pergunta": "Ele vai aproveitar a recepção dos amigos?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nA visita à sorveteria deveria celebrar a chegada do novo amigo, mas Omar continua pouco animado. Ele vai aproveitar a recepção dos amigos?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Omar",
+        "#Fiorina",
+        "#SorveteriaDoVilarejo"
+      ]
+    },
+    "cena_27": {
+      "titulo": "SORVETE PARA RECEBER O NOVO AMIGO! 🍦😊",
+      "pergunta": "Qual sabor você escolheria?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA recepção na sorveteria continua com os pedidos da turma. Qual sabor você escolheria?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Omar",
+        "#Fiorina",
+        "#Sorvete"
+      ]
+    },
+    "cena_28": {
+      "titulo": "OMAR COMPARA O SORVETE COM O DA CIDADE! 🍦😤",
+      "pergunta": "Fiorina vai aceitar essa comparação?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nOmar diz já ter provado melhores. A chegada de Manteiguinha acrescenta um novo encontro ao passeio. Fiorina vai aceitar essa comparação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Omar",
+        "#Fiorina",
+        "#Manteiguinha"
+      ]
+    },
+    "cena_29": {
+      "titulo": "OMAR DESRESPEITA TÉO APÓS O ACIDENTE! 😡🍦",
+      "pergunta": "Matheus fez certo em intervir?",
+      "legenda": "CAPA_SEGUNDOS=13\n\nO tênis sujo de sorvete deixa Omar irritado. Téo oferece ajuda, mas recebe uma resposta grosseira. Matheus fez certo em intervir?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Omar",
+        "#Teo",
+        "#Matheus"
+      ]
+    },
+    "cena_30": {
+      "titulo": "PRISCILA ACHA REGINA UMA ÓTIMA MÃE! 😳💬",
+      "pergunta": "Ela conhece a verdadeira Regina?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nPriscila diz que gostaria de estar no lugar de Isabela. A resposta mostra como ela desconhece o que acontece naquela casa. Ela conhece a verdadeira Regina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Priscila",
+        "#Isabela",
+        "#Regina"
+      ]
+    },
+    "cena_31": {
+      "titulo": "UM PRESENTE MISTERIOSO CHEGOU! 🎁👀",
+      "pergunta": "Você abriria sem saber quem enviou?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nA campainha toca, mas ninguém responde. A turma encontra um pacote na porta e tenta entender sua origem. Você abriria sem saber quem enviou?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#UrsoEspiao",
+        "#AmigosDeManuela",
+        "#PresenteMisterioso"
+      ]
+    },
+    "cena_32": {
+      "titulo": "A TURMA ABRE O URSO ESPIÃO! 🧸😱",
+      "pergunta": "Eles vão perceber que estão sendo observados?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nO pacote revela um urso de pelúcia. Os comentários sobre o presente chegam aos ouvidos de Meire e Dinho. Eles vão perceber que estão sendo observados?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#UrsoEspiao",
+        "#PresenteMisterioso"
+      ]
+    },
+    "cena_33": {
+      "titulo": "O URSO GANHA UMA VISÃO NADA BOA! 🧸😂",
+      "pergunta": "O plano de Meire já começou a falhar?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nMeire comemora o funcionamento da câmera, mas o brinquedo é deixado numa posição que bloqueia a imagem. O plano de Meire já começou a falhar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Dinho",
+        "#UrsoEspiao"
+      ]
+    },
+    "cena_34": {
+      "titulo": "MEIRE ESCUTA UMA VOZ DESCONHECIDA! 🧸👂",
+      "pergunta": "Ela vai descobrir quem está no apartamento?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nSem imagem, o áudio revela uma menina. Meire tenta adivinhar quem fala e cria novas explicações sobre Flora. Ela vai descobrir quem está no apartamento?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Manuela",
+        "#UrsoEspiao"
+      ]
+    },
+    "cena_35": {
+      "titulo": "FLÁVIA CONFESSA QUE GOSTA DE AUGUSTO! ❤️😟",
+      "pergunta": "Ela deveria insistir nessa relação?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nEm conversa com Helena, Flávia admite seus sentimentos e conta como os comentários chegaram ao tio. Ela deveria insistir nessa relação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#ProfessoraFlavia",
+        "#Helena",
+        "#PastorAugusto"
+      ]
+    },
+    "cena_36": {
+      "titulo": "HELENA QUESTIONA O AFASTAMENTO! 💔💬",
+      "pergunta": "Vale desistir antes de tentar?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nFlávia relata a decisão do pastor. Helena considera injusto que a pressão de outras pessoas afaste os dois. Vale desistir antes de tentar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Helena",
+        "#ProfessoraFlavia",
+        "#PastorAugusto"
+      ]
+    },
+    "cena_37": {
+      "titulo": "A ROUPA PRECISA APARECER NAS FOTOS! 📸👗",
+      "pergunta": "A orientação melhorou o catálogo?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nA produção recebe ajustes para destacar as peças e os acessórios. Rebeca pede para ajudar com o cinto. A orientação melhorou o catálogo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Fred",
+        "#CatalogoDaEmpresa"
+      ]
+    },
+    "cena_38": {
+      "titulo": "AS NOVAS POSES VALORIZAM O LOOK! 📸✨",
+      "pergunta": "Você gostou do resultado da produção?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nOs ajustes mostram melhor os detalhes do figurino. Depois das fotos, Fred propõe uma pausa. Você gostou do resultado da produção?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Fred",
+        "#ModeloDoCatalogo",
+        "#SessaoDeFotos"
+      ]
+    },
+    "cena_39": {
+      "titulo": "OMAR FAZ UMA PIADA OFENSIVA COM NICO! 😡👞",
+      "pergunta": "Ele precisa aprender a tratar as pessoas?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nNico conhece Omar e ouve comentários sobre sua aparência. A visita à sapataria vira uma situação desagradável. Ele precisa aprender a tratar as pessoas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Omar",
+        "#Nico",
+        "#SapatariaDoVilarejo"
+      ]
+    },
+    "cena_40": {
+      "titulo": "A TURMA EXIGE RESPEITO POR NICO! ✋😤",
+      "pergunta": "Você teria dado a mesma resposta?",
+      "legenda": "CAPA_SEGUNDOS=11\n\nOs amigos explicam que Nico merece respeito como qualquer pessoa e repreendem a atitude de Omar. Você teria dado a mesma resposta?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Omar",
+        "#Nico",
+        "#RespeitoAsDiferencas"
+      ]
+    },
+    "cena_41": {
+      "titulo": "SAFIRA MANDA OTÁVIO AO CAMARIM! 📸🕷️",
+      "pergunta": "Você percebeu a intenção dela?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nSafira interrompe o carinho de Otávio e Rebeca e insiste que ele dê atenção à modelo. Você percebeu a intenção dela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Safira",
+        "#Otavio",
+        "#Rebeca"
+      ]
+    },
+    "cena_42": {
+      "titulo": "ISABELA DESCONFIA DA VISITA DE PRISCILA! 🤔👀",
+      "pergunta": "O que Regina ganha aproximando as duas?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nDepois da saída de Priscila, Isabela questiona a intenção de Regina. Marina consegue um momento para conversar com ela. O que Regina ganha aproximando as duas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Priscila",
+        "#Marina"
+      ]
+    },
+    "cena_43": {
+      "titulo": "MARINA DESCOBRE A NOVA TROCA! 🥸😨",
+      "pergunta": "Seria melhor manter as gêmeas onde estão?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nIsabela explica por que voltou para a mansão e conta que Manuela está com Joaquim. Marina questiona outra troca. Seria melhor manter as gêmeas onde estão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Isabela",
+        "#Manuela"
+      ]
+    },
+    "cena_44": {
+      "titulo": "SAFIRA QUER REBECA NO CAMARIM! 😬🕷️",
+      "pergunta": "Ela está tentando provocar ciúme?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nApós conversar sobre o resgate, a história volta ao estúdio. Safira insiste que Rebeca procure a modelo. Ela está tentando provocar ciúme?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Safira",
+        "#Rebeca",
+        "#CamarimDaModelo"
+      ]
+    },
+    "cena_45": {
+      "titulo": "A MODELO FLERTA COM OTÁVIO! 😳💔",
+      "pergunta": "Ele vai perceber a intenção a tempo?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nSafira reforça a ordem para Rebeca ir ao camarim. Lá, a conversa da modelo com Otávio passa dos elogios profissionais. Ele vai perceber a intenção a tempo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Otavio",
+        "#Rebeca",
+        "#ArmadilhaDeSafira"
+      ]
+    },
+    "cena_46": {
+      "titulo": "REBECA COBRA EXPLICAÇÕES DE OTÁVIO! 😤💔",
+      "pergunta": "A cena no camarim pareceu uma traição?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nRebeca encontra os dois próximos e se afasta. Otávio tenta explicar por que foi ao camarim. A cena no camarim pareceu uma traição?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Otavio",
+        "#CiumeDeRebeca"
+      ]
+    },
+    "cena_47": {
+      "titulo": "OTÁVIO PEDE DESCULPAS A REBECA! 😟❤️",
+      "pergunta": "Ela vai acreditar na explicação dele?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nOtávio admite que não percebeu logo a intenção da modelo. Rebeca prefere conversar depois, longe do trabalho. Ela vai acreditar na explicação dele?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Otavio",
+        "#Rebeca",
+        "#DiscussaoNoEstudio"
+      ]
+    },
+    "cena_48": {
+      "titulo": "A CANTORIA GANHA COMPANHIA! 🎶😊",
+      "pergunta": "Você gosta desses encontros musicais?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nDepois da oferta de ajuda, a conversa dá lugar a uma cantoria em dupla. Você gosta desses encontros musicais?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#MusicaDaNovela",
+        "#Capitulo61"
+      ]
+    },
+    "cena_49": {
+      "titulo": "MÚSICA E FÉ NO CAPÍTULO 61! 🎶🙏",
+      "pergunta": "Qual momento musical marcou você?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nUm trecho musical se mistura à continuação de uma conversa sobre fé. Qual momento musical marcou você?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#MusicaDaNovela",
+        "#Capitulo61"
+      ]
+    },
+    "cena_50": {
+      "titulo": "LOLA LEVA O URSO ESPIÃO! 🧸😱",
+      "pergunta": "Meire vai acabar espionando a casa errada?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nLola se encanta pelo brinquedo que ninguém quis. A turma entrega o urso sem saber o que ele esconde. Meire vai acabar espionando a casa errada?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Lola",
+        "#Meire",
+        "#UrsoEspiao"
+      ]
+    },
+    "cena_51": {
+      "titulo": "ISABELA COBRA O JANTAR DE REGINA! 🍽️😬",
+      "pergunta": "O jeito dela vai entregar a troca?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nIsabela pergunta pelo jantar e explica a demora com os cuidados com a pele. O jeito dela vai entregar a troca?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Regina",
+        "#JantarNaMansao"
+      ]
+    },
+    "cena_52": {
+      "titulo": "REGINA SUSPEITA DA VERDADEIRA ISABELA! 😱🥸",
+      "pergunta": "O disfarce acabou de cair?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nAs roupas e as respostas deixam Regina desconfiada. Ela questiona se está diante da própria Isabela. O disfarce acabou de cair?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Isabela",
+        "#TrocaDasGemeas"
+      ]
+    }
+  }
+}
