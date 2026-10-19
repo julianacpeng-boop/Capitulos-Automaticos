@@ -1,0 +1,569 @@
+{
+  "capitulo": 66,
+  "execucao": "39278680570",
+  "cenas": {
+    "cena_01": {
+      "titulo": "OS CUSTOS VIRARAM ASSUNTO NA REUNIÃO! 💰",
+      "pergunta": "Como a empresa vai lidar com esse orçamento?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA reunião retoma a preocupação com os custos da coleção. Como a empresa vai lidar com esse orçamento?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Reuniao",
+        "#Orçamento"
+      ]
+    },
+    "cena_02": {
+      "titulo": "O ORÇAMENTO ESTÁ APERTADO! 💰",
+      "pergunta": "Será preciso mudar os planos da coleção?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA equipe discute as dificuldades para ampliar os investimentos. Será preciso mudar os planos da coleção?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#ColecaoNova",
+        "#Reuniao"
+      ]
+    },
+    "cena_03": {
+      "titulo": "A EMPRESA PRECISA CONTROLAR OS GASTOS! 📊",
+      "pergunta": "Qual decisão você tomaria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nOs custos continuam no centro da discussão sobre a coleção. Qual decisão você tomaria nessa situação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#ColecaoNova",
+        "#Custos"
+      ]
+    },
+    "cena_04": {
+      "titulo": "TOMAS COBRA CUIDADO COM OS CUSTOS! 📊",
+      "pergunta": "A cobrança dele foi justa?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nTomas apresenta os limites do orçamento e as projeções de gasto e lucro. A cobrança dele foi justa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Tomas",
+        "#Reuniao"
+      ]
+    },
+    "cena_05": {
+      "titulo": "REGINA FLAGROU A LIGAÇÃO! 😱",
+      "pergunta": "Por que o sinal de Damião não veio?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nO contato com Rebeca é interrompido pela chegada de Regina. Por que o sinal de Damião não veio?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Manuela",
+        "#Marina"
+      ]
+    },
+    "cena_06": {
+      "titulo": "MARINA ASSUME A CULPA PARA PROTEGER MANU! 💔",
+      "pergunta": "Ela fez certo em contar que arranjou o celular?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nMarina tenta proteger Manuela, mas Regina exige saber para quem ligavam. Ela fez certo em contar que arranjou o celular?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Manuela",
+        "#Regina"
+      ]
+    },
+    "cena_07": {
+      "titulo": "REGINA DESCOBRE QUE ERA REBECA! 😰",
+      "pergunta": "A ligação deixou alguma pista para a mãe?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nRegina disfarça ao telefone e manda tirar Marina do quarto. A ligação deixou alguma pista para a mãe?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Rebeca",
+        "#Marina"
+      ]
+    },
+    "cena_08": {
+      "titulo": "NICO QUER SABER SE É ATRAENTE! 😂",
+      "pergunta": "Giuseppe vai conseguir aconselhar o amigo?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nUma pergunta inesperada revela o que está tirando a concentração de Nico. Giuseppe vai conseguir aconselhar o amigo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Nico",
+        "#Giuseppe"
+      ]
+    },
+    "cena_09": {
+      "titulo": "NICO QUER ARRANJAR UMA NAMORADA! ❤️",
+      "pergunta": "Quem do vilarejo combinaria com ele?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nNico conta que gostaria de dividir a vida com alguém e pede ajuda a Giuseppe. Quem do vilarejo combinaria com ele?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Nico",
+        "#Giuseppe",
+        "#Namoro"
+      ]
+    },
+    "cena_10": {
+      "titulo": "O AMOR DE NICO PODE ESTAR NO VILAREJO! 💛",
+      "pergunta": "Você acha que ele vai encontrar alguém?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nGiuseppe incentiva Nico a olhar ao redor e conhecer melhor as pessoas. Você acha que ele vai encontrar alguém?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Nico",
+        "#Giuseppe",
+        "#Vilarejo"
+      ]
+    },
+    "cena_11": {
+      "titulo": "REBECA ESTRANHA A LIGAÇÃO DESCONHECIDA! ☎️",
+      "pergunta": "Ela deveria investigar esse telefonema?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nRebeca conta a Otávio que ouviu vozes ao fundo antes de desligarem. Ela deveria investigar esse telefonema?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Otavio",
+        "#LigacaoSecreta"
+      ]
+    },
+    "cena_12": {
+      "titulo": "MARINA FOI TRANCADA NO PORÃO! 😱",
+      "pergunta": "Ela conseguirá encontrar uma saída?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nRegina pune Marina, que pensa na passagem secreta para fugir. Ela conseguirá encontrar uma saída?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Regina",
+        "#Porao"
+      ]
+    },
+    "cena_13": {
+      "titulo": "OS AMIGOS PEDEM MAIS CUIDADO A ISABELA! 👀",
+      "pergunta": "Ela deveria evitar sair sozinha?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nDepois da confusão com Dinho, a turma teme novos riscos para o esconderijo. Ela deveria evitar sair sozinha?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#IrmaosVaz",
+        "#Dinho"
+      ]
+    },
+    "cena_14": {
+      "titulo": "MEIRE E DINHO SE TRANCAM DE MEDO! 😂",
+      "pergunta": "Eles vão perceber a confusão que inventaram?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nA teoria da gangue faz os dois fecharem portas e janelas do apartamento. Eles vão perceber a confusão que inventaram?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Dinho",
+        "#Bartolomeu"
+      ]
+    },
+    "cena_15": {
+      "titulo": "REGINA DEIXA MANUELA DE CASTIGO! 😠",
+      "pergunta": "Como ela vai conseguir pedir ajuda?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nManuela recebe mais uma ordem para permanecer no quarto. Como ela vai conseguir pedir ajuda?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Manuela",
+        "#Castigo"
+      ]
+    },
+    "cena_16": {
+      "titulo": "MANUELA DECIDE TOMAR CORAGEM! 💪",
+      "pergunta": "Esse é o começo da reação dela?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nPreocupada com Marina e a família, Manuela resolve agir e procura Tuntum. Esse é o começo da reação dela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Marina",
+        "#Tuntum"
+      ]
+    },
+    "cena_17": {
+      "titulo": "TUNTUM RECEBE UMA MISSÃO ARRISCADA! 🐭",
+      "pergunta": "O bilhete vai chegar aos amigos da banda?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nManuela pede que o ratinho siga Regina e leve uma mensagem aos cúmplices. O bilhete vai chegar aos amigos da banda?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Tuntum",
+        "#Manuela",
+        "#BilheteSecreto"
+      ]
+    },
+    "cena_18": {
+      "titulo": "MATHEUS ENFRENTA OMAR POR TÉO! 👏",
+      "pergunta": "Ele fez certo em defender o amigo?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nMatheus cobra respeito e diz que não aceitará mais brincadeiras cruéis com Téo. Ele fez certo em defender o amigo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Matheus",
+        "#Omar",
+        "#Teo"
+      ]
+    },
+    "cena_19": {
+      "titulo": "REGINA COBRA EXPLICAÇÕES DOS CAPANGAS! 😠",
+      "pergunta": "Eles vão contar o que aconteceu?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nRegina quer saber por que a casa ficou sem vigilância durante a ligação. Eles vão contar o que aconteceu?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Sandro",
+        "#Navarro"
+      ]
+    },
+    "cena_20": {
+      "titulo": "REGINA DESCOBRE O TRUQUE DA TORTA! 🥧",
+      "pergunta": "Marina conseguiu ganhar tempo suficiente?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nRegina percebe como os capangas foram afastados e reclama do risco que correram. Marina conseguiu ganhar tempo suficiente?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Marina",
+        "#Capangas"
+      ]
+    },
+    "cena_21": {
+      "titulo": "FREDERICO ESTÁ SEM INSPIRAÇÃO! 🎨",
+      "pergunta": "O que ajudaria a destravar essa coleção?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nPreocupado com os desenhos, Frederico procura uma ideia que faça a diferença. O que ajudaria a destravar essa coleção?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Frederico",
+        "#Tomas",
+        "#ColecaoNova"
+      ]
+    },
+    "cena_22": {
+      "titulo": "REBECA INSPIROU A NOVA COLEÇÃO! 🌸",
+      "pergunta": "A mistura do campo com a cidade combina?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nFrederico encontra um caminho para unir elementos urbanos e campestres. A mistura do campo com a cidade combina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Frederico",
+        "#Rebeca",
+        "#ColecaoNova"
+      ]
+    },
+    "cena_23": {
+      "titulo": "MATHEUS DESABAFA SOBRE AS MALDADES DE OMAR! 😤",
+      "pergunta": "Conversar com o pai de Omar ajudaria?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nFlávia ouve Matheus e tenta mostrar uma saída sem violência. Conversar com o pai de Omar ajudaria?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Matheus",
+        "#Flavia",
+        "#Omar"
+      ]
+    },
+    "cena_24": {
+      "titulo": "FLÁVIA PROMETE FICAR DE OLHO EM OMAR! 🤝",
+      "pergunta": "Essa ajuda pode mudar a situação de Téo?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nA professora acolhe Matheus e promete agir se as provocações continuarem. Essa ajuda pode mudar a situação de Téo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Flavia",
+        "#Matheus",
+        "#Omar"
+      ]
+    },
+    "cena_25": {
+      "titulo": "REGINA QUER DESCOBRIR QUEM DEU O CELULAR! 📱",
+      "pergunta": "Damião vai conseguir disfarçar?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nRegina desconfia de ajuda dentro da casa, e Damião se culpa por não ter dado o sinal. Damião vai conseguir disfarçar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Damiao",
+        "#Marina"
+      ]
+    },
+    "cena_26": {
+      "titulo": "FREDERICO QUER BUSCAR INSPIRAÇÃO NO CAMPO! 🌿",
+      "pergunta": "Essa visita vai ajudar a coleção?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nAnimado com os desenhos, Frederico pede uma viagem ao vilarejo. Essa visita vai ajudar a coleção?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Frederico",
+        "#Rebeca",
+        "#Vilarejo"
+      ]
+    },
+    "cena_27": {
+      "titulo": "REBECA SUGERE LEVAR LURDINHA! 😉",
+      "pergunta": "Essa companhia vai agradar Frederico?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nSem poder interromper a busca pela filha, Rebeca sugere outra guia para a visita. Essa companhia vai agradar Frederico?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Frederico",
+        "#Lurdinha"
+      ]
+    },
+    "cena_28": {
+      "titulo": "SABRINA CONTA O SEGREDO DE MATHEUS! 👀",
+      "pergunta": "Omar vai usar essa informação para provocá-lo?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nA conversa sobre a professora Flávia dá novo assunto à dupla. Omar vai usar essa informação para provocá-lo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Sabrina",
+        "#Omar",
+        "#Matheus"
+      ]
+    },
+    "cena_29": {
+      "titulo": "MATHEUS ESCREVE UMA CARTA PARA FLÁVIA! 💌",
+      "pergunta": "Dóris vai conseguir guardar esse segredo?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nMatheus tenta escrever sem a interferência da irmã e pede discrição. Dóris vai conseguir guardar esse segredo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Matheus",
+        "#Doris",
+        "#Flavia"
+      ]
+    },
+    "cena_30": {
+      "titulo": "MATHEUS QUER PASSEAR COM A PROFESSORA! 💌",
+      "pergunta": "Essa cartinha vai ser entregue?",
+      "legenda": "CAPA_SEGUNDOS=4\n\nO convite aparece na mensagem que Matheus está escrevendo. Essa cartinha vai ser entregue?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Matheus",
+        "#Flavia",
+        "#Cartinha"
+      ]
+    },
+    "cena_31": {
+      "titulo": "REGINA QUER DEIXAR MANUELA SEM COMIDA! 😠",
+      "pergunta": "Damião vai conseguir ajudar as duas?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nRegina reforça a vigilância e anuncia mais uma punição para Manuela e Marina. Damião vai conseguir ajudar as duas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Manuela",
+        "#Marina"
+      ]
+    },
+    "cena_32": {
+      "titulo": "UM SANDUÍCHE CAPRICHADO PARA COMEÇAR! 🥪",
+      "pergunta": "Você aceitaria um pedacinho?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nO lanche ganha várias camadas e uma oferta de dividir. Você aceitaria um pedacinho?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Sanduiche",
+        "#Lanche"
+      ]
+    },
+    "cena_33": {
+      "titulo": "JOAQUIM FICA PREOCUPADO COM MANUELA! ❤️",
+      "pergunta": "Ele tem razão em desconfiar desse atraso?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nEnquanto a banda espera, Joaquim teme que algo tenha acontecido com Manu. Ele tem razão em desconfiar desse atraso?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Joaquim",
+        "#Manuela",
+        "#BandaC1R"
+      ]
+    },
+    "cena_34": {
+      "titulo": "O DONO DO HARAS CHAMA A ATENÇÃO! 🐴",
+      "pergunta": "Você também acharia estranha essa chegada tardia?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nLuiz e Pedro conversam sobre as exigências e a presença do patrão. Você também acharia estranha essa chegada tardia?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Luiz",
+        "#Pedro",
+        "#Haras"
+      ]
+    },
+    "cena_35": {
+      "titulo": "FREDERICO MOSTRA OS DESENHOS A OTÁVIO! 🎨",
+      "pergunta": "Você aprovaria essa mistura de estilos?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nRebeca elogia as peças enquanto Frederico apresenta o conceito da coleção. Você aprovaria essa mistura de estilos?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Frederico",
+        "#Rebeca",
+        "#Otavio"
+      ]
+    },
+    "cena_36": {
+      "titulo": "OTÁVIO AUTORIZA A VIAGEM COM LURDINHA! 🌿",
+      "pergunta": "A pesquisa de campo vai render boas ideias?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nFrederico consegue permissão para visitar o vilarejo acompanhado. A pesquisa de campo vai render boas ideias?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Otavio",
+        "#Frederico",
+        "#Lurdinha"
+      ]
+    },
+    "cena_37": {
+      "titulo": "TUNTUM CHEGOU À GRAVADORA! 🐭",
+      "pergunta": "Ele encontrará as crianças sem ser descoberto?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nDepois de acompanhar Regina, o ratinho aproveita a distração para seguir sua missão. Ele encontrará as crianças sem ser descoberto?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Tuntum",
+        "#Regina",
+        "#Gravadora"
+      ]
+    },
+    "cena_38": {
+      "titulo": "O BILHETE DE MANUELA CHEGA À BANDA! 📝",
+      "pergunta": "Os amigos vão entender o perigo a tempo?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nA desculpa de Regina não convence a turma, e Tuntum aparece com uma mensagem. Os amigos vão entender o perigo a tempo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Tuntum",
+        "#Manuela",
+        "#BandaC1R"
+      ]
+    },
+    "cena_39": {
+      "titulo": "OS CÚMPLICES PRECISAM AGIR COM CUIDADO! 😰",
+      "pergunta": "Como tirar Manuela da mansão sem levantar suspeitas?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nO bilhete revela o perigo, mas a turma sabe que Geraldo também está envolvido. Como tirar Manuela da mansão sem levantar suspeitas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#IrmaosVaz",
+        "#Geraldo"
+      ]
+    },
+    "cena_40": {
+      "titulo": "A TURMA TENTA DESVIAR A ATENÇÃO DE GERALDO! 🤫",
+      "pergunta": "Esse plano vai funcionar?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nAs crianças pedem reuniões e tentam abrir espaço para descobrir o que aconteceu. Esse plano vai funcionar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#IrmaosVaz",
+        "#Geraldo",
+        "#Gravadora"
+      ]
+    },
+    "cena_41": {
+      "titulo": "ISABELA PENSA EM DESMASCARAR REGINA! 👀",
+      "pergunta": "O plano dela protegeria Manuela e Marina?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nEnquanto os amigos procuram informações, Isabela tenta encontrar uma solução. O plano dela protegeria Manuela e Marina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Regina",
+        "#Manuela"
+      ]
+    },
+    "cena_42": {
+      "titulo": "ISABELA QUER APARECER AO LADO DA IRMÃ! 😱",
+      "pergunta": "As duas juntas acabariam com a mentira de Regina?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nIsabela imagina mostrar as gêmeas ao pessoal da gravadora para revelar tudo. As duas juntas acabariam com a mentira de Regina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Manuela",
+        "#Gemeas"
+      ]
+    },
+    "cena_43": {
+      "titulo": "CHEGOU VISITA NO PIOR MOMENTO! 🚪",
+      "pergunta": "Onde Isabela vai se esconder?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nA ideia de ajudar com a limpeza surpreende quem estava no apartamento. Onde Isabela vai se esconder?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Lola",
+        "#ApartamentoDosIrmaos"
+      ]
+    },
+    "cena_44": {
+      "titulo": "FELIPE ENCONTRA FOTOS DA FAMÍLIA DE MANUELA! 📸",
+      "pergunta": "O que mais ele ouviu na sala de Geraldo?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nEnquanto Regina perde a confiança nos empregados, Felipe conta o que descobriu. O que mais ele ouviu na sala de Geraldo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Felipe",
+        "#Geraldo",
+        "#Manuela"
+      ]
+    },
+    "cena_45": {
+      "titulo": "MARINA ESTÁ CORRENDO PERIGO! 😱",
+      "pergunta": "Os amigos conseguirão avisar Manuela?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nO relato sobre a conversa de Regina assusta a turma e exige uma resposta urgente. Os amigos conseguirão avisar Manuela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Regina",
+        "#IrmaosVaz"
+      ]
+    },
+    "cena_46": {
+      "titulo": "A MENSAGEM FOI VISTA E FICOU SEM RESPOSTA! 📱",
+      "pergunta": "Você também perde a paciência com esse silêncio?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nA falta de resposta vira motivo de reclamação neste trecho. Você também perde a paciência com esse silêncio?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#MensagemSemResposta",
+        "#Conversa"
+      ]
+    },
+    "cena_47": {
+      "titulo": "A FAXINA TERMINOU, MAS O ESCONDERIJO CONTINUA! 😬",
+      "pergunta": "Isabela vai conseguir sair sem ser vista?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nMãe e filha finalizam a limpeza e decidem tomar um lanche. Isabela vai conseguir sair sem ser vista?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Lola",
+        "#ApartamentoDosIrmaos"
+      ]
+    },
+    "cena_48": {
+      "titulo": "FREDERICO RESPIRA A INSPIRAÇÃO DO CAMPO! 🌿",
+      "pergunta": "Ele vai transformar esse passeio em uma boa coleção?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nDepois da faxina no apartamento, o passeio pelo vilarejo ganha destaque. Ele vai transformar esse passeio em uma boa coleção?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Frederico",
+        "#Lurdinha",
+        "#ColecaoNova"
+      ]
+    },
+    "cena_49": {
+      "titulo": "AS ESTAMPAS VÃO TRAZER O CAMPO PARA A MODA! 🌸",
+      "pergunta": "Que elemento do campo você colocaria nas peças?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nFrederico explica como quer transformar aromas e paisagens em inspiração. Que elemento do campo você colocaria nas peças?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Frederico",
+        "#Lurdinha",
+        "#Estampas"
+      ]
+    },
+    "cena_50": {
+      "titulo": "O CHÁ DAS BONECAS ESTÁ QUASE COMPLETO! 🫖",
+      "pergunta": "Quem será que ficou faltando?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nO lanche vira uma brincadeira, mas uma ausência chama atenção. Quem será que ficou faltando?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Lola",
+        "#Bonecas",
+        "#ChaDaTarde"
+      ]
+    },
+    "cena_51": {
+      "titulo": "LOLA QUER VOLTAR PARA BUSCAR A BONECA! 😱",
+      "pergunta": "Essa volta pode revelar o esconderijo?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nAo lembrar de Mercedes, Lola decide retornar ao apartamento dos irmãos. Essa volta pode revelar o esconderijo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Lola",
+        "#Mercedes",
+        "#Isabela"
+      ]
+    },
+    "cena_52": {
+      "titulo": "O CAPÍTULO TERMINA COM MAIS SUSPENSE! 🎬",
+      "pergunta": "O que você acha que vem depois?",
+      "legenda": "CAPA_SEGUNDOS=2\n\nO capítulo chega ao fim com planos e segredos ainda em andamento. O que você acha que vem depois?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo66"
+      ]
+    }
+  }
+}
