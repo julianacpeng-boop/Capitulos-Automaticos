@@ -1,0 +1,535 @@
+{
+  "capitulo": 65,
+  "execucao": "39175667731",
+  "cenas": {
+    "cena_01": {
+      "titulo": "MAIS UM CAPÍTULO COMEÇA! 🎬",
+      "pergunta": "O que você espera desta continuação?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nAcompanhe a abertura de mais um capítulo de Cúmplices de um Resgate. O que você espera desta continuação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo65"
+      ]
+    },
+    "cena_02": {
+      "titulo": "REGINA VOLTA A INTIMIDAR! 😠",
+      "pergunta": "Até onde ela vai com essas ameaças?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nRegina retoma a cobrança pelo que aconteceu no passeio. Até onde ela vai com essas ameaças?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Manuela"
+      ]
+    },
+    "cena_03": {
+      "titulo": "A AMEAÇA ATINGE A FAMÍLIA! 😰",
+      "pergunta": "Como Manuela pode se proteger?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nRegina usa a família para pressionar a menina. Como Manuela pode se proteger?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Manuela",
+        "#Rebeca"
+      ]
+    },
+    "cena_04": {
+      "titulo": "MANUELA SÓ QUERIA ABRAÇAR A MÃE! 💔",
+      "pergunta": "Você também ficou comovido com essa saudade?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nManuela explica que não resistiu ao ver Rebeca, mas Regina reage com ameaças. Você também ficou comovido com essa saudade?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Rebeca",
+        "#Regina"
+      ]
+    },
+    "cena_05": {
+      "titulo": "HELENA DESABAFA SOBRE PEDRO! ❤️",
+      "pergunta": "Ela deveria esclarecer tudo com Flávia?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nHelena conta sua angústia com o amor por Pedro e as tentativas da mãe de aproximá-la do pastor. Ela deveria esclarecer tudo com Flávia?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Helena",
+        "#Pedro",
+        "#Flavia"
+      ]
+    },
+    "cena_06": {
+      "titulo": "REBECA PEDE PROTEÇÃO PARA A FILHA 💔",
+      "pergunta": "Qual parte dessa saudade mais tocou você?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nRebeca faz uma prece por Manuela e explica a Otávio o motivo de sua tristeza. Qual parte dessa saudade mais tocou você?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Manuela",
+        "#Otavio"
+      ]
+    },
+    "cena_07": {
+      "titulo": "REBECA NÃO CONSEGUE PARAR DE PENSAR NELA! 😢",
+      "pergunta": "Como seguir a rotina com essa preocupação?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nRebeca pensa no que a filha pode estar enfrentando longe de casa. Como seguir a rotina com essa preocupação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Manuela",
+        "#SaudadeDaFilha"
+      ]
+    },
+    "cena_08": {
+      "titulo": "MANUELA CONTA QUE VIU A MÃE! 😭",
+      "pergunta": "Esse encontro pode renovar a esperança dela?",
+      "legenda": "CAPA_SEGUNDOS=38\n\nDepois de falar da saudade, Manuela conta a Marina que viu Rebeca. Esse encontro pode renovar a esperança dela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Marina",
+        "#Rebeca"
+      ]
+    },
+    "cena_09": {
+      "titulo": "ELA ACREDITA QUE A MÃE ESTÁ POR PERTO! 💛",
+      "pergunta": "Rebeca está perto de descobrir a verdade?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nManuela relembra o encontro e se anima com a possibilidade de a mãe estar procurando por ela. Rebeca está perto de descobrir a verdade?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Marina",
+        "#Rebeca"
+      ]
+    },
+    "cena_10": {
+      "titulo": "ISABELA QUER DESMASCARAR REGINA! 😤",
+      "pergunta": "Ela deveria agir sozinha ou ouvir os amigos?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nIsabela perde a paciência com o esconderijo, mas os irmãos lembram os riscos para Manuela. Ela deveria agir sozinha ou ouvir os amigos?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Regina",
+        "#IrmaosVaz"
+      ]
+    },
+    "cena_11": {
+      "titulo": "HELENA ESCLARECE TUDO COM FLÁVIA! 🤝",
+      "pergunta": "Essa conversa pode salvar a amizade?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nHelena garante que não sente nada pelo pastor e incentiva Flávia a não desistir. Essa conversa pode salvar a amizade?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Helena",
+        "#Flavia",
+        "#PastorAugusto"
+      ]
+    },
+    "cena_12": {
+      "titulo": "A SAUDADE DE MARINA VIROU DESABAFO! 🌙",
+      "pergunta": "Você já sofreu com um amor à distância?",
+      "legenda": "CAPA_SEGUNDOS=37\n\nSem receber ligações nem respostas, ele coloca os sentimentos para fora. Você já sofreu com um amor à distância?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#AmorADistancia"
+      ]
+    },
+    "cena_13": {
+      "titulo": "FOI AMOR À PRIMEIRA VISTA! ❤️",
+      "pergunta": "A distância precisa atrapalhar um namoro?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nEle relembra como conheceu Marina e lamenta o silêncio dela. A distância precisa atrapalhar um namoro?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#AmorADistancia"
+      ]
+    },
+    "cena_14": {
+      "titulo": "MARINA TEVE UMA IDEIA PARA O RESGATE! 📱",
+      "pergunta": "Essa ligação pode mudar tudo?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nMarina propõe conseguir um celular e ligar escondida para a mãe de Manuela. Essa ligação pode mudar tudo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Manuela",
+        "#Rebeca"
+      ]
+    },
+    "cena_15": {
+      "titulo": "ELAS QUEREM CONTAR ONDE MANUELA ESTÁ! 😱",
+      "pergunta": "Rebeca conseguirá agir sem colocar as duas em risco?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nMarina planeja informar o endereço e pedir cuidado com a reação de Rebeca. Rebeca conseguirá agir sem colocar as duas em risco?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Manuela",
+        "#Rebeca"
+      ]
+    },
+    "cena_16": {
+      "titulo": "OMAR E SABRINA IGNORAM A TURMA! 😒",
+      "pergunta": "Téo está sendo compreensivo demais?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nOs amigos percebem a aproximação dos dois e se incomodam com a falta de resposta. Téo está sendo compreensivo demais?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Omar",
+        "#Sabrina",
+        "#Teo"
+      ]
+    },
+    "cena_17": {
+      "titulo": "MARINA DESPISTA LAURA PARA FALAR COM DAMIÃO! 🤫",
+      "pergunta": "A desculpa dela convenceu você?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nMarina afasta Laura da conversa para pedir ajuda com um celular. A desculpa dela convenceu você?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Laura",
+        "#Damiao"
+      ]
+    },
+    "cena_18": {
+      "titulo": "O CELULAR PRECISA ESCAPAR DA VIGILÂNCIA! 📱",
+      "pergunta": "Damião vai conseguir sair sem ser seguido?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nMarina pede um aparelho que permita falar com Rebeca sem o controle de Regina. Damião vai conseguir sair sem ser seguido?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Damiao",
+        "#Regina"
+      ]
+    },
+    "cena_19": {
+      "titulo": "OMAR E SABRINA DEBOCHAM DA TURMA! 😠",
+      "pergunta": "Você acha que essa dupla vai longe demais?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nA reação dos amigos vira motivo de comentário entre Omar e Sabrina. Você acha que essa dupla vai longe demais?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Omar",
+        "#Sabrina",
+        "#Matheus"
+      ]
+    },
+    "cena_20": {
+      "titulo": "OMAR INVENTA ÓCULOS QUE FAZEM ENXERGAR! 😡",
+      "pergunta": "O que você acha dessa crueldade com Téo?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nOmar usa uma promessa falsa para enganar Téo e preparar uma humilhação. O que você acha dessa crueldade com Téo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Omar",
+        "#Teo",
+        "#Sabrina"
+      ]
+    },
+    "cena_21": {
+      "titulo": "TÉO AGRADECE SEM SABER DA MENTIRA 💔",
+      "pergunta": "Alguém deveria alertá-lo imediatamente?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nTéo acredita na ajuda, mas Omar admite a Sabrina que a história é falsa. Alguém deveria alertá-lo imediatamente?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Teo",
+        "#Omar",
+        "#Sabrina"
+      ]
+    },
+    "cena_22": {
+      "titulo": "ISABELA NÃO QUER MAIS FICAR ESCONDIDA! 😤",
+      "pergunta": "Sair do apartamento é uma boa ideia?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nEntediada enquanto os outros estão fora, Isabela resolve circular pelo prédio. Sair do apartamento é uma boa ideia?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#ApartamentoDosIrmaos"
+      ]
+    },
+    "cena_23": {
+      "titulo": "ISABELA SAI PARA EXPLORAR O PRÉDIO! 👀",
+      "pergunta": "Ela vai conseguir passear sem ser reconhecida?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nIsabela encontra uma forma de se exercitar e matar o tempo fora do apartamento. Ela vai conseguir passear sem ser reconhecida?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Condominio"
+      ]
+    },
+    "cena_24": {
+      "titulo": "A TORTA DE MARINA SAIU DO FORNO! 🥧",
+      "pergunta": "Esse lanche vai ajudar o plano dela?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nO cheiro da torta atrai os capangas, que querem garantir uma boa porção. Esse lanche vai ajudar o plano dela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Sandro",
+        "#Navarro"
+      ]
+    },
+    "cena_25": {
+      "titulo": "DINHO PRENDEU O SUPOSTO CHEFE! 😱",
+      "pergunta": "Como essa confusão vai terminar?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nDinho acredita nas teorias da tia e mantém o garoto preso enquanto espera Meire. Como essa confusão vai terminar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Dinho",
+        "#Meire",
+        "#Disfarce"
+      ]
+    },
+    "cena_26": {
+      "titulo": "A TORTA COMEÇA A FAZER EFEITO! 😂",
+      "pergunta": "Marina conseguiu abrir uma chance para agir?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nDepois de comer, os capangas precisam correr para o banheiro. Marina conseguiu abrir uma chance para agir?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Sandro",
+        "#Navarro"
+      ]
+    },
+    "cena_27": {
+      "titulo": "A CORDA ESTÁ APERTADA, DINHO! 🥸",
+      "pergunta": "Ele deveria perceber que caiu numa armadilha?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nO garoto reclama de dor nas mãos e pede que Dinho afrouxe a corda. Ele deveria perceber que caiu numa armadilha?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Dinho",
+        "#Disfarce",
+        "#Fuga"
+      ]
+    },
+    "cena_28": {
+      "titulo": "DINHO CAIU NA CONVERSA! 😂",
+      "pergunta": "Você já esperava essa virada?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nO pedido para afrouxar as cordas abre uma oportunidade de escapar. Você já esperava essa virada?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Dinho",
+        "#Fuga"
+      ]
+    },
+    "cena_29": {
+      "titulo": "DAMIÃO ESTÁ EM MISSÃO SECRETA! 🚗",
+      "pergunta": "Ele está sendo cauteloso ou exagerando?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nAntes de comprar o celular, Damião quer garantir que não está sendo seguido. Ele está sendo cauteloso ou exagerando?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Damiao",
+        "#CelularSecreto"
+      ]
+    },
+    "cena_30": {
+      "titulo": "ATÉ A VAGA VIROU PROBLEMA! 🚗",
+      "pergunta": "Você também perderia a paciência com essa demora?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA preocupação em estacionar marca este trecho da missão. Você também perderia a paciência com essa demora?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Damiao",
+        "#Estacionamento"
+      ]
+    },
+    "cena_31": {
+      "titulo": "TÉO RECEBE OS ÓCULOS DE OMAR! 👓",
+      "pergunta": "Os amigos vão perceber a mentira a tempo?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nTéo aceita experimentar o presente sem conhecer a verdadeira intenção de Omar. Os amigos vão perceber a mentira a tempo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Teo",
+        "#Omar",
+        "#OculosDeBrinquedo"
+      ]
+    },
+    "cena_32": {
+      "titulo": "OMAR CONTINUA ENGANANDO TÉO! 😠",
+      "pergunta": "Essa brincadeira passou de todos os limites?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nOmar inventa novas instruções enquanto Téo espera que os óculos funcionem. Essa brincadeira passou de todos os limites?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Omar",
+        "#Teo",
+        "#OculosDeBrinquedo"
+      ]
+    },
+    "cena_33": {
+      "titulo": "OS AMIGOS TIRAM TÉO DESSA SITUAÇÃO! 🤝",
+      "pergunta": "Ainda bem que eles chegaram, não é?",
+      "legenda": "CAPA_SEGUNDOS=4\n\nMatheus interrompe o teste dos óculos e leva Téo com a turma. Ainda bem que eles chegaram, não é?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Teo",
+        "#Matheus",
+        "#OculosDeBrinquedo"
+      ]
+    },
+    "cena_34": {
+      "titulo": "MEIRE ENCONTRA DINHO AMARRADO! 😂",
+      "pergunta": "A versão dele só vai piorar essa história?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nDinho conta que o garoto escapou, enquanto Meire imagina mais perigos no apartamento. A versão dele só vai piorar essa história?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Dinho",
+        "#Bartolomeu"
+      ]
+    },
+    "cena_35": {
+      "titulo": "MEIRE ACHA MELHOR SE ESCONDER! 😨",
+      "pergunta": "Dinho vai continuar acreditando nessas teorias?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nA síndica transforma a fuga em motivo para fechar portas e janelas. Dinho vai continuar acreditando nessas teorias?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Dinho",
+        "#Condominio"
+      ]
+    },
+    "cena_36": {
+      "titulo": "A MÃE DE MANUELA VIROU PREOCUPAÇÃO! 👀",
+      "pergunta": "Regina vai conseguir esconder o segredo?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA presença de Rebeca passa a ameaçar o plano dos dois. Regina vai conseguir esconder o segredo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Rebeca",
+        "#Manuela"
+      ]
+    },
+    "cena_37": {
+      "titulo": "REGINA TEME QUE REBECA ENCONTRE A FILHA! 😱",
+      "pergunta": "O lançamento da banda pode revelar Manuela?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nRegina quer evitar a exposição da menina, mas Geraldo lembra que a banda será lançada. O lançamento da banda pode revelar Manuela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Geraldo",
+        "#Manuela"
+      ]
+    },
+    "cena_38": {
+      "titulo": "DAMIÃO CONSEGUIU O CELULAR! 📱",
+      "pergunta": "Agora a ligação para Rebeca vai dar certo?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nMarina recebe o aparelho e escuta o relato cheio de suspense da missão. Agora a ligação para Rebeca vai dar certo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Damiao",
+        "#Marina",
+        "#CelularSecreto"
+      ]
+    },
+    "cena_39": {
+      "titulo": "TRÊS BUZINADAS VÃO AVISAR A CHEGADA! 🚗",
+      "pergunta": "Esse aviso será suficiente para proteger o plano?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nMarina combina um sinal com Damião antes de subir para o quarto de Manuela. Esse aviso será suficiente para proteger o plano?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Damiao",
+        "#Regina"
+      ]
+    },
+    "cena_40": {
+      "titulo": "MANUELA NÃO VÊ A HORA DE LIGAR! 💛",
+      "pergunta": "Rebeca vai atender esse número desconhecido?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nEnquanto espera Marina, a menina pensa na mãe e na saudade de casa. Rebeca vai atender esse número desconhecido?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Rebeca",
+        "#LigacaoSecreta"
+      ]
+    },
+    "cena_41": {
+      "titulo": "É HORA DE FALAR COM REBECA! 📱",
+      "pergunta": "O que Manuela deveria dizer primeiro?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nMarina orienta a menina a falar apenas o essencial e sair ao ouvir o sinal. O que Manuela deveria dizer primeiro?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Manuela",
+        "#Rebeca"
+      ]
+    },
+    "cena_42": {
+      "titulo": "ELAS DISCAM O NÚMERO DE REBECA! ☎️",
+      "pergunta": "Esse contato finalmente vai funcionar?",
+      "legenda": "CAPA_SEGUNDOS=4\n\nManuela informa o número enquanto Rebeca participa de uma reunião na empresa. Esse contato finalmente vai funcionar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Rebeca",
+        "#LigacaoSecreta"
+      ]
+    },
+    "cena_43": {
+      "titulo": "REBECA DEIXA A LIGAÇÃO PARA DEPOIS! 😰",
+      "pergunta": "Você atenderia mesmo durante a reunião?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nPressionada pela interrupção, Rebeca decide retornar depois ao número desconhecido. Você atenderia mesmo durante a reunião?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Safira",
+        "#LigacaoSecreta"
+      ]
+    },
+    "cena_44": {
+      "titulo": "A TORTA ATRAPALHOU A VIGILÂNCIA! 😂",
+      "pergunta": "Quanto tempo Marina ainda tem para agir?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nOs capangas precisam interromper o trabalho enquanto Regina procura por eles. Quanto tempo Marina ainda tem para agir?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Sandro",
+        "#Navarro",
+        "#Regina"
+      ]
+    },
+    "cena_45": {
+      "titulo": "REGINA VOLTOU ANTES DO ESPERADO! 😱",
+      "pergunta": "Alguém vai conseguir avisar Marina?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nRegina encontra Laura distraída e começa a procurar os seguranças. Alguém vai conseguir avisar Marina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Laura",
+        "#Marina"
+      ]
+    },
+    "cena_46": {
+      "titulo": "MARINA INSISTE: NÃO VAMOS DESISTIR! 📱",
+      "pergunta": "Rebeca vai atender antes que Regina descubra?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nCom Manuela nervosa, Marina decide tentar mais uma vez. Rebeca vai atender antes que Regina descubra?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Manuela",
+        "#Rebeca"
+      ]
+    },
+    "cena_47": {
+      "titulo": "TÉO TENTA DESCULPAR A CRUELDADE DE OMAR! 💔",
+      "pergunta": "Matheus tem razão em cobrar uma reação?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nOs amigos explicam que os óculos eram de brinquedo, mas Téo ainda procura uma justificativa. Matheus tem razão em cobrar uma reação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Teo",
+        "#Omar",
+        "#Matheus"
+      ]
+    },
+    "cena_48": {
+      "titulo": "A ESPERANÇA AGORA É QUE REBECA ATENDA! 🙏",
+      "pergunta": "Será que essa ligação vai salvar Manuela?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nMarina e Manuela aguardam uma resposta enquanto a reunião de Rebeca continua. Será que essa ligação vai salvar Manuela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Manuela",
+        "#Rebeca"
+      ]
+    },
+    "cena_49": {
+      "titulo": "REBECA ATENDE, MAS ALGUÉM CHEGOU! 😱",
+      "pergunta": "Será que a ligação foi descoberta?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nRebeca decide atender no momento em que Manuela e Marina são surpreendidas. Será que a ligação foi descoberta?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Manuela",
+        "#Marina"
+      ]
+    }
+  }
+}
