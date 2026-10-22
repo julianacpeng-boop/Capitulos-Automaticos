@@ -1,0 +1,571 @@
+{
+  "capitulo": 68,
+  "execucao": "39685540291",
+  "cenas": {
+    "cena_01": {
+      "titulo": "COMEÇA O CAPÍTULO 68! 🎬",
+      "pergunta": "Qual segredo você quer ver revelado?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nAcompanhe mais um capítulo de Cúmplices de um Resgate. Qual segredo você quer ver revelado?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo68"
+      ]
+    },
+    "cena_02": {
+      "titulo": "A HISTÓRIA CONTINUA! 👀",
+      "pergunta": "Qual personagem você quer acompanhar?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nMais um trecho da abertura do capítulo 68. Qual personagem você quer acompanhar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo68"
+      ]
+    },
+    "cena_03": {
+      "titulo": "MAIS UM CAPÍTULO CHEIO DE EXPECTATIVA! 🎬",
+      "pergunta": "O que você espera desta continuação?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nAcompanhe a sequência da história no capítulo 68. O que você espera desta continuação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo68"
+      ]
+    },
+    "cena_04": {
+      "titulo": "DAMIÃO TENTA AFASTAR NAVARRO! ☕",
+      "pergunta": "A desculpa do café vai funcionar?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nDamião procura um jeito de tirar Navarro do caminho enquanto espera Marina. A desculpa do café vai funcionar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Damiao",
+        "#Navarro",
+        "#Marina"
+      ]
+    },
+    "cena_05": {
+      "titulo": "MARINA NÃO CHEGA E A TENSÃO AUMENTA! ⏳",
+      "pergunta": "Ela conseguirá sair sem ser vista?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nDamião espera por Marina e teme que alguém perceba o plano. Ela conseguirá sair sem ser vista?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Damiao",
+        "#Marina",
+        "#Fuga"
+      ]
+    },
+    "cena_06": {
+      "titulo": "OS CÚMPLICES DECIDEM IR ATRÁS DE MARINA! 🤝",
+      "pergunta": "Essa missão deveria envolver menos pessoas?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nA turma discute como ajudar Marina e quem poderá participar do resgate. Essa missão deveria envolver menos pessoas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#IrmaosVaz",
+        "#Marina",
+        "#Resgate"
+      ]
+    },
+    "cena_07": {
+      "titulo": "A MISSÃO É ENTRAR NA MANSÃO! 🏠",
+      "pergunta": "Qual seria a melhor forma de chegar até Marina?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nOs amigos tentam definir como agir sem serem descobertos. Qual seria a melhor forma de chegar até Marina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#IrmaosVaz",
+        "#Mansao"
+      ]
+    },
+    "cena_08": {
+      "titulo": "OMAR ENCONTROU A CARTA DE MATHEUS! 😠",
+      "pergunta": "O que você acha que ele vai fazer com ela?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nOmar mostra a Sabrina o papel que encontrou e prepara mais uma maldade. O que você acha que ele vai fazer com ela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Omar",
+        "#Sabrina",
+        "#Matheus"
+      ]
+    },
+    "cena_09": {
+      "titulo": "FORTUNATO QUESTIONA GERALDO! 👀",
+      "pergunta": "Você confiaria na resposta dele?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nO avô de Priscila quer saber qual é a relação de Geraldo com o pai da menina. Você confiaria na resposta dele?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Fortunato",
+        "#Geraldo",
+        "#Priscila"
+      ]
+    },
+    "cena_10": {
+      "titulo": "GERALDO DIZ QUE NÃO VÊ O PAI DE PRISCILA! 🤫",
+      "pergunta": "Essa explicação convenceu Fortunato?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nGeraldo minimiza a antiga relação e promete evitar a aproximação da menina. Essa explicação convenceu Fortunato?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Geraldo",
+        "#Fortunato",
+        "#Priscila"
+      ]
+    },
+    "cena_11": {
+      "titulo": "FREDERICO CHEGA À COOPERATIVA! 🧵",
+      "pergunta": "O que vai inspirá-lo nessa visita?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nFrederico começa a conhecer as mulheres e o trabalho da cooperativa. O que vai inspirá-lo nessa visita?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Frederico",
+        "#Cooperativa",
+        "#Vilarejo"
+      ]
+    },
+    "cena_12": {
+      "titulo": "AS PEÇAS DA COOPERATIVA ENCANTAM FRED! ✨",
+      "pergunta": "Você também valorizaria esse trabalho artesanal?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nEntre elogios e comentários sobre Rebeca, Frederico encontra novas referências. Você também valorizaria esse trabalho artesanal?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Frederico",
+        "#Clara",
+        "#Cooperativa"
+      ]
+    },
+    "cena_13": {
+      "titulo": "A COLEÇÃO GANHOU MAIS INSPIRAÇÃO! 🎨",
+      "pergunta": "Que detalhe artesanal você colocaria nas peças?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nFrederico se anima com o acabamento e os trabalhos que encontra no vilarejo. Que detalhe artesanal você colocaria nas peças?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Frederico",
+        "#Artesanato",
+        "#ColecaoNova"
+      ]
+    },
+    "cena_14": {
+      "titulo": "DAMIÃO NÃO PARA DE LUSTRAR O CARRO! 🚗",
+      "pergunta": "Essa dedicação está parecendo nervosismo?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nO cuidado exagerado com a limpeza do carro chama atenção. Essa dedicação está parecendo nervosismo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Damiao",
+        "#Carro",
+        "#Vigilancia"
+      ]
+    },
+    "cena_15": {
+      "titulo": "MANUELA VÊ MARINA EM APUROS! 😰",
+      "pergunta": "Como ajudá-la estando presa no quarto?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nDo quarto, Manuela percebe o perigo que Marina enfrenta no jardim. Como ajudá-la estando presa no quarto?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Marina",
+        "#Jardim"
+      ]
+    },
+    "cena_16": {
+      "titulo": "TUNTUM PRECISA DISTRAIR NAVARRO! 🐭",
+      "pergunta": "O ratinho vai conseguir salvar o plano?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nManuela pede mais uma missão arriscada para ajudar Marina a escapar. O ratinho vai conseguir salvar o plano?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Tuntum",
+        "#Navarro",
+        "#Marina"
+      ]
+    },
+    "cena_17": {
+      "titulo": "OMAR EXPÕE A CARTA DE MATHEUS! 😡",
+      "pergunta": "Como a escola deveria reagir a essa humilhação?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nOmar lê a mensagem para Flávia diante dos colegas e revela o autor. Como a escola deveria reagir a essa humilhação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Omar",
+        "#Matheus",
+        "#Flavia"
+      ]
+    },
+    "cena_18": {
+      "titulo": "GIUSEPPE PERCEBE A TENSÃO DE PEDRO! 👀",
+      "pergunta": "Ele já entendeu o motivo da discussão?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nPedro tenta explicar o dia difícil e admite que discutiu com Helena. Ele já entendeu o motivo da discussão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Giuseppe",
+        "#Pedro",
+        "#Helena"
+      ]
+    },
+    "cena_19": {
+      "titulo": "GIUSEPPE MANDA PEDRO PEDIR DESCULPAS! 🤝",
+      "pergunta": "Ele fez certo em chamar a atenção do filho?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nGiuseppe pede que Pedro trate Helena com mais carinho e cuidado. Ele fez certo em chamar a atenção do filho?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Giuseppe",
+        "#Pedro",
+        "#Helena"
+      ]
+    },
+    "cena_20": {
+      "titulo": "REGINA MANDA BUSCAR MARINA NO PORÃO! 😱",
+      "pergunta": "O plano de fuga vai dar tempo?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nRegina dá novas ordens aos capangas e exige que tragam Marina. O plano de fuga vai dar tempo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Marina",
+        "#Capangas"
+      ]
+    },
+    "cena_21": {
+      "titulo": "O PLANO TERMINOU EM BANHO DE PISCINA! 😂",
+      "pergunta": "Essa distração foi suficiente para a fuga?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nA confusão na piscina abre uma oportunidade no jardim. Essa distração foi suficiente para a fuga?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Tuntum",
+        "#Piscina",
+        "#Fuga"
+      ]
+    },
+    "cena_22": {
+      "titulo": "MARINA SUMIU DO PORÃO! 😱",
+      "pergunta": "Os capangas vão conseguir alcançá-la?",
+      "legenda": "CAPA_SEGUNDOS=4\n\nA descoberta da ausência de Marina causa correria na mansão. Os capangas vão conseguir alcançá-la?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Capangas",
+        "#Porao"
+      ]
+    },
+    "cena_23": {
+      "titulo": "OS AMIGOS NÃO SABEM SE MANUELA ESCAPOU! 😰",
+      "pergunta": "Eles deveriam voltar ou procurar a irmã?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nDepois da fuga de Marina, a turma tenta decidir o próximo passo. Eles deveriam voltar ou procurar a irmã?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Marina",
+        "#IrmaosVaz"
+      ]
+    },
+    "cena_24": {
+      "titulo": "SAFIRA CONTINUA HUMILHANDO REBECA! 😤",
+      "pergunta": "Como você reagiria a esse tratamento?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nUma ligação de fornecedor vira motivo para novas cobranças e provocações. Como você reagiria a esse tratamento?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Safira",
+        "#Rebeca",
+        "#Empresa"
+      ]
+    },
+    "cena_25": {
+      "titulo": "GERALDO COBRA EXPLICAÇÕES DE SAFIRA! ☎️",
+      "pergunta": "Por que esconder o parentesco de Priscila?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nA visita de Fortunato força os dois a conversar sobre a história contada à família. Por que esconder o parentesco de Priscila?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Geraldo",
+        "#Safira",
+        "#Priscila"
+      ]
+    },
+    "cena_26": {
+      "titulo": "PEDRO VAI PEDIR DESCULPAS A HELENA! 🤝",
+      "pergunta": "Ela vai aceitar esse pedido?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nEnquanto Marina e Damião fogem, Pedro procura Helena para conversar. Ela vai aceitar esse pedido?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Pedro",
+        "#Helena",
+        "#Desculpas"
+      ]
+    },
+    "cena_27": {
+      "titulo": "ONDE MATHEUS FOI SE ESCONDER? 🔎",
+      "pergunta": "Os amigos vão encontrá-lo logo?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA procura por Matheus continua depois da humilhação na escola. Os amigos vão encontrá-lo logo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Matheus",
+        "#BuscaPeloAmigo"
+      ]
+    },
+    "cena_28": {
+      "titulo": "A TURMA CONTINUA PROCURANDO MATHEUS! 😟",
+      "pergunta": "Onde você acha que ele está?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nOs amigos seguem sem encontrar o menino. Onde você acha que ele está?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Matheus",
+        "#Teo",
+        "#Doris"
+      ]
+    },
+    "cena_29": {
+      "titulo": "DÓRIS E TÉO NÃO ENCONTRAM MATHEUS! 😰",
+      "pergunta": "Ele vai conseguir pedir ajuda a alguém?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nDepois de procurar pelo vilarejo, os dois continuam preocupados. Ele vai conseguir pedir ajuda a alguém?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Doris",
+        "#Teo",
+        "#Matheus"
+      ]
+    },
+    "cena_30": {
+      "titulo": "MARINA DECIDE FICAR PARA PROTEGER AS MENINAS! 💔",
+      "pergunta": "Você entende a decisão dela?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nMarina pede que Damião fuja e explica por que não quer abandonar as gêmeas. Você entende a decisão dela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Damiao",
+        "#Gemeas"
+      ]
+    },
+    "cena_31": {
+      "titulo": "MARINA SE RENDE PARA DAMIÃO ESCAPAR! 😱",
+      "pergunta": "Ele vai conseguir levar a verdade adiante?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nAntes de se entregar, Marina pede que Damião procure Ofélio e conte tudo. Ele vai conseguir levar a verdade adiante?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Damiao",
+        "#Ofelio"
+      ]
+    },
+    "cena_32": {
+      "titulo": "HELENA PERDOA, MAS EXIGE RESPEITO! 👏",
+      "pergunta": "Ela fez certo em estabelecer condições?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nPedro se desculpa, e Helena deixa claro que sua vida pessoal precisa ser respeitada. Ela fez certo em estabelecer condições?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Helena",
+        "#Pedro",
+        "#Respeito"
+      ]
+    },
+    "cena_33": {
+      "titulo": "HELENA QUER UMA RELAÇÃO PROFISSIONAL! 😳",
+      "pergunta": "Esse limite vai mudar os dois?",
+      "legenda": "CAPA_SEGUNDOS=13\n\nHelena afirma que prefere separar o trabalho das questões pessoais. Esse limite vai mudar os dois?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Helena",
+        "#Pedro",
+        "#Clinica"
+      ]
+    },
+    "cena_34": {
+      "titulo": "DÓRIS AVISA QUE MATHEUS SUMIU! 😰",
+      "pergunta": "A família conseguirá encontrá-lo?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nNa cooperativa, a notícia preocupa a mãe e leva a uma nova busca. A família conseguirá encontrá-lo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Doris",
+        "#Matheus",
+        "#Clara"
+      ]
+    },
+    "cena_35": {
+      "titulo": "MATHEUS SE ESCONDE NO GALINHEIRO! 💔",
+      "pergunta": "Fiorina vai conseguir confortá-lo?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nEnvergonhado com a exposição da carta, Matheus diz que não quer mais sair. Fiorina vai conseguir confortá-lo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Matheus",
+        "#Fiorina",
+        "#Galinheiro"
+      ]
+    },
+    "cena_36": {
+      "titulo": "MARINA FOI PEGA, MAS DAMIÃO ESCAPOU! 😱",
+      "pergunta": "Regina vai conseguir impedir que ele conte tudo?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nA recaptura provoca discussão, e Regina procura uma forma de desacreditar o motorista. Regina vai conseguir impedir que ele conte tudo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Damiao",
+        "#Regina"
+      ]
+    },
+    "cena_37": {
+      "titulo": "REGINA PLANEJA ACUSAR DAMIÃO DE ROUBO! 😠",
+      "pergunta": "Essa mentira pode atrapalhar o resgate?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nRegina quer ir à polícia antes de Damião e manda preparar uma história para Laura. Essa mentira pode atrapalhar o resgate?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Damiao",
+        "#Geraldo"
+      ]
+    },
+    "cena_38": {
+      "titulo": "FREDERICO ELOGIA LURDINHA! ❤️",
+      "pergunta": "O passeio aproximou os dois?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nFrederico agradece pela visita ao vilarejo e fala do que admira nela. O passeio aproximou os dois?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Frederico",
+        "#Lurdinha",
+        "#Vilarejo"
+      ]
+    },
+    "cena_39": {
+      "titulo": "FREDERICO JÁ ESTÁ FALANDO EM CASAMENTO! 😂",
+      "pergunta": "Ele está se adiantando demais?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nUma conversa sobre os doces vira mais uma tentativa de conquistar Lurdinha. Ele está se adiantando demais?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Frederico",
+        "#Lurdinha",
+        "#Casamento"
+      ]
+    },
+    "cena_40": {
+      "titulo": "MANUELA REZA POR MARINA E DAMIÃO! 🙏",
+      "pergunta": "Ela vai descobrir o que aconteceu?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nSem notícias da fuga, Manuela pede proteção para os dois. Ela vai descobrir o que aconteceu?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Marina",
+        "#Damiao"
+      ]
+    },
+    "cena_41": {
+      "titulo": "A TURMA AINDA NÃO SABE SE MARINA ESTÁ A SALVO! 😰",
+      "pergunta": "Como descobrir a verdade sem levantar suspeitas?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nOs amigos reúnem as informações que conseguiram depois da missão. Como descobrir a verdade sem levantar suspeitas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Damiao",
+        "#IrmaosVaz"
+      ]
+    },
+    "cena_42": {
+      "titulo": "MEIRE INSISTE NA TEORIA DA GANGUE! 🔭",
+      "pergunta": "Dinho deveria parar de alimentar essa história?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nOs dois continuam espionando o apartamento e imaginando novas ameaças. Dinho deveria parar de alimentar essa história?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Dinho",
+        "#Bartolomeu"
+      ]
+    },
+    "cena_43": {
+      "titulo": "MATHEUS CONTA AO PAI A HUMILHAÇÃO QUE SOFREU 💔",
+      "pergunta": "Ele precisava ser ouvido antes de ser julgado?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nLuiz procura entender o que aconteceu depois de encontrar o filho. Ele precisava ser ouvido antes de ser julgado?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Matheus",
+        "#Luiz",
+        "#Omar"
+      ]
+    },
+    "cena_44": {
+      "titulo": "LUIZ DIZ QUE AMAR NÃO É VERGONHA! 💛",
+      "pergunta": "Esse conselho pode ajudar Matheus?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nAo ouvir sobre a carta, Luiz acolhe o filho e elogia a decisão de não agir com violência. Esse conselho pode ajudar Matheus?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Luiz",
+        "#Matheus",
+        "#Flavia"
+      ]
+    },
+    "cena_45": {
+      "titulo": "LUIZ PROMETE CONVERSAR COM A PROFESSORA! 🤝",
+      "pergunta": "Omar deve receber uma punição?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nLuiz propõe resolver a situação sem briga e divide uma lembrança da infância. Omar deve receber uma punição?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Luiz",
+        "#Matheus",
+        "#Flavia"
+      ]
+    },
+    "cena_46": {
+      "titulo": "SAFIRA DÁ UMA TAREFA DIFÍCIL A REBECA! 😒",
+      "pergunta": "Ela está tentando fazer Rebeca fracassar?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nSafira exige uma amostra de tecido e depois admite que costuma ser importado. Ela está tentando fazer Rebeca fracassar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Safira",
+        "#Rebeca",
+        "#Tecido"
+      ]
+    },
+    "cena_47": {
+      "titulo": "REGINA INVENTA FÉRIAS PARA MARINA! 😠",
+      "pergunta": "Laura vai perceber que essa versão não faz sentido?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nRegina explica os sumiços dizendo que Marina saiu de férias e Damião foi dispensado. Laura vai perceber que essa versão não faz sentido?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Laura",
+        "#Marina"
+      ]
+    },
+    "cena_48": {
+      "titulo": "DÓRIS COBRA SABRINA PELA MALDADE COM MATHEUS! 😤",
+      "pergunta": "Participar da provocação também é responsabilidade dela?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nDóris enfrenta Sabrina depois da exposição da carta na escola. Participar da provocação também é responsabilidade dela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Doris",
+        "#Sabrina",
+        "#Matheus"
+      ]
+    },
+    "cena_49": {
+      "titulo": "FLÁVIA REPREENDE OMAR! 👏",
+      "pergunta": "Um bilhete para o pai é uma punição suficiente?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nA professora rejeita a desculpa de brincadeira e exige responsabilidade pela humilhação. Um bilhete para o pai é uma punição suficiente?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Flavia",
+        "#Omar",
+        "#Matheus"
+      ]
+    },
+    "cena_50": {
+      "titulo": "MANUELA DESCONFIA DAS FÉRIAS DE MARINA! 👀",
+      "pergunta": "Ela vai descobrir para onde Marina foi levada?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nLaura repete a explicação de Regina, mas a menina estranha a história. Ela vai descobrir para onde Marina foi levada?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Laura",
+        "#Marina"
+      ]
+    },
+    "cena_51": {
+      "titulo": "DAMIÃO FOI DEMITIDO SEM SE DESPEDIR? 😟",
+      "pergunta": "Laura deveria desconfiar desses sumiços?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nManuela ouve a versão sobre Damião e continua sem respostas. Laura deveria desconfiar desses sumiços?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Laura",
+        "#Damiao"
+      ]
+    },
+    "cena_52": {
+      "titulo": "MANUELA QUER DESCOBRIR A VERDADE! 🙏",
+      "pergunta": "Como ela pode ajudar estando presa?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nA história das férias não convence, e Manuela pede proteção para Marina e Damião. Como ela pode ajudar estando presa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Marina",
+        "#Damiao"
+      ]
+    }
+  }
+}
