@@ -1,0 +1,556 @@
+{
+  "capitulo": 70,
+  "execucao": "40078209566",
+  "cenas": {
+    "cena_01": {
+      "titulo": "O CAPÍTULO 70 COMEÇA 🎶",
+      "pergunta": "Qual personagem você quer acompanhar hoje?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA música abre a continuação da história das gêmeas. Qual personagem você quer acompanhar hoje?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Abertura",
+        "#Gemeas",
+        "#Capitulo70"
+      ]
+    },
+    "cena_02": {
+      "titulo": "A HISTÓRIA DAS GÊMEAS CONTINUA 🎵",
+      "pergunta": "Que segredo você espera ver revelado?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA abertura acompanha mais um capítulo de Cúmplices de um Resgate. Que segredo você espera ver revelado?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Abertura",
+        "#Gemeas",
+        "#Capitulo70"
+      ]
+    },
+    "cena_03": {
+      "titulo": "MAIS UM CAPÍTULO PELA FRENTE 🎬",
+      "pergunta": "Quem você quer ver escapando das armações?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nAcompanhe a sequência da história de Manuela e Isabela. Quem você quer ver escapando das armações?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Isabela",
+        "#Capitulo70"
+      ]
+    },
+    "cena_04": {
+      "titulo": "REGINA EXIGE RESPOSTAS DE MANUELA 😡",
+      "pergunta": "Como Manuela pode se defender dessa acusação?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nRegina acusa Manuela de participar da fuga e não aceita suas respostas. Como Manuela pode se defender dessa acusação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Manuela",
+        "#Fuga"
+      ]
+    },
+    "cena_05": {
+      "titulo": "REGINA MANDA MANUELA PARA O PORÃO 🚨",
+      "pergunta": "Quem pode descobrir o que Regina fez?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nSem acreditar em Manuela, Regina ordena que Sandro prepare o porão. Quem pode descobrir o que Regina fez?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Manuela",
+        "#Sandro"
+      ]
+    },
+    "cena_06": {
+      "titulo": "OMAR ESCOLHE DÓRIS COMO PRÓXIMO ALVO 😤",
+      "pergunta": "Você percebeu a maldade dessa ideia?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nOmar e Sabrina querem usar o esquecimento de Dóris para preparar outra provocação. Você percebeu a maldade dessa ideia?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Omar",
+        "#Sabrina",
+        "#Doris"
+      ]
+    },
+    "cena_07": {
+      "titulo": "OS CAPANGAS QUEREM PEGAR ISABELA 😱",
+      "pergunta": "Eles vão cair em mais uma pista falsa?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nVargas e Navarro decidem agir sem avisar Regina, esperando recapturar Isabela. Eles vão cair em mais uma pista falsa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Vargas",
+        "#Navarro",
+        "#Isabela"
+      ]
+    },
+    "cena_08": {
+      "titulo": "REGINA CHANTAGEIA MANUELA NO PORÃO 💔",
+      "pergunta": "Manuela vai conseguir proteger a família?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nRegina condiciona o conforto da menina às informações sobre Isabela e os empregados. Manuela vai conseguir proteger a família?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Manuela",
+        "#Isabela"
+      ]
+    },
+    "cena_09": {
+      "titulo": "ATÉ SANDRO SENTE PENA DAS GÊMEAS 😟",
+      "pergunta": "Ele poderia fazer algo para ajudá-las?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nSandro questiona o lugar úmido, mas Regina insiste no castigo e exige vigilância. Ele poderia fazer algo para ajudá-las?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Sandro",
+        "#Regina",
+        "#Gemeas"
+      ]
+    },
+    "cena_10": {
+      "titulo": "REGINA PRECISA DE OUTRO MOTORISTA 👀",
+      "pergunta": "Essa contratação pode abrir uma oportunidade?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nCom poucos funcionários na mansão, Regina percebe que precisa de outra pessoa. Essa contratação pode abrir uma oportunidade?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Sandro",
+        "#Mansao"
+      ]
+    },
+    "cena_11": {
+      "titulo": "ISABELA DESCONFIA DA HISTÓRIA DA FUGA 🔎",
+      "pergunta": "Se Marina estivesse livre, já teria procurado Isabela?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nSem notícias de Marina, os amigos começam a questionar a versão de Regina. Se Marina estivesse livre, já teria procurado Isabela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Marina",
+        "#Regina"
+      ]
+    },
+    "cena_12": {
+      "titulo": "OS AMIGOS QUEREM OUVIR MANUELA 🤝",
+      "pergunta": "Como falar com ela sem Regina perceber?",
+      "legenda": "CAPA_SEGUNDOS=7\n\nA turma decide buscar respostas com Manuela antes de tirar conclusões. Como falar com ela sem Regina perceber?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#IrmaosVaz",
+        "#Marina"
+      ]
+    },
+    "cena_13": {
+      "titulo": "OMAR OFERECE UMA FALSA FÓRMULA 😠",
+      "pergunta": "Você confiaria nessa proposta de paz?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nOmar e Sabrina fingem querer ajudar Dóris a melhorar a memória. Você confiaria nessa proposta de paz?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Omar",
+        "#Sabrina",
+        "#Doris"
+      ]
+    },
+    "cena_14": {
+      "titulo": "DÓRIS DESCONFIA DESSA RECEITA 🤢",
+      "pergunta": "Você teria percebido a armação?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nOs ingredientes estranhos fazem Dóris hesitar diante da fórmula oferecida por Omar. Você teria percebido a armação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Doris",
+        "#Omar",
+        "#Receita"
+      ]
+    },
+    "cena_15": {
+      "titulo": "VARGAS E NAVARRO FICAM DE TOCAIA 👀",
+      "pergunta": "Essa dupla consegue manter a atenção?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nOs capangas vigiam a casa e tentam mostrar que estão preparados para agir. Essa dupla consegue manter a atenção?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Vargas",
+        "#Navarro",
+        "#Tocaia"
+      ]
+    },
+    "cena_16": {
+      "titulo": "PRISCILA QUER ALMOÇAR COM REGINA 🏡",
+      "pergunta": "Aurora tem razão em se preocupar com essas visitas?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nPriscila pede ao avô que a leve à casa de Regina, contrariando a avó. Aurora tem razão em se preocupar com essas visitas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Priscila",
+        "#Aurora",
+        "#Fortunato"
+      ]
+    },
+    "cena_17": {
+      "titulo": "AURORA NÃO GOSTA DESSA APROXIMAÇÃO 😟",
+      "pergunta": "Você também desconfiaria de Regina?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nDepois da saída de Priscila, Aurora demonstra preocupação com as visitas frequentes. Você também desconfiaria de Regina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Aurora",
+        "#Priscila",
+        "#Regina"
+      ]
+    },
+    "cena_18": {
+      "titulo": "OS CAPANGAS VEEM MOVIMENTO NA CASA 🕵️",
+      "pergunta": "Será que eles estão seguindo a pista certa?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nVargas e Navarro observam alguém sair e continuam procurando sinais de Isabela. Será que eles estão seguindo a pista certa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Vargas",
+        "#Navarro",
+        "#Isabela"
+      ]
+    },
+    "cena_19": {
+      "titulo": "A DUPLA PLANEJA INVADIR A CASA 🚨",
+      "pergunta": "A vontade de ganhar aumento vai atrapalhar tudo?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nVargas insiste em entrar na casa para procurar Isabela, mesmo sem ter certeza. A vontade de ganhar aumento vai atrapalhar tudo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Vargas",
+        "#Navarro",
+        "#Isabela"
+      ]
+    },
+    "cena_20": {
+      "titulo": "NICO NÃO QUER CONVERSA COM NINGUÉM 😤",
+      "pergunta": "Você teria paciência com esse mau humor?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nOs amigos encontram Nico irritado e descobrem que ele está sem namorada. Você teria paciência com esse mau humor?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Nico",
+        "#Giuseppe",
+        "#Matheus"
+      ]
+    },
+    "cena_21": {
+      "titulo": "A TURMA VAI ARRUMAR UM PAR PARA NICO 💘",
+      "pergunta": "Esse plano de cupido tem chance de dar certo?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nAs crianças decidem procurar uma pretendente para tentar melhorar o humor de Nico. Esse plano de cupido tem chance de dar certo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Nico",
+        "#Matheus",
+        "#Doris"
+      ]
+    },
+    "cena_22": {
+      "titulo": "REGINA INVENTA OUTRA DESCULPA PARA LAURA 🤥",
+      "pergunta": "Laura vai perceber que Manuela continua na mansão?",
+      "legenda": "CAPA_SEGUNDOS=38\n\nPara esconder o porão, Regina diz que a menina ficará na casa de uma amiga. Laura vai perceber que Manuela continua na mansão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Laura",
+        "#Manuela"
+      ]
+    },
+    "cena_23": {
+      "titulo": "MANU PROCURA A PASSAGEM SECRETA 🔎",
+      "pergunta": "Essa passagem pode ajudá-la a escapar?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nEnquanto Regina resolve a falta de motorista, Manuela tenta encontrar uma saída no porão. Essa passagem pode ajudá-la a escapar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Tuntum",
+        "#PassagemSecreta"
+      ]
+    },
+    "cena_24": {
+      "titulo": "O SEGREDO ESTÁ DENTRO DO ARMÁRIO 🚪",
+      "pergunta": "Você teria procurado ali primeiro?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nTuntum indica o armário e Manuela relaciona o lugar à passagem secreta. Você teria procurado ali primeiro?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Tuntum",
+        "#PassagemSecreta"
+      ]
+    },
+    "cena_25": {
+      "titulo": "MANUELA CONSEGUE OUVIR TUNTUM 😲",
+      "pergunta": "Você também ficaria surpresa com essa conversa?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nManuela se espanta ao entender o ratinho, enquanto a turma pensa em pretendentes para Nico. Você também ficaria surpresa com essa conversa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Tuntum",
+        "#Nico"
+      ]
+    },
+    "cena_26": {
+      "titulo": "HELENA VIROU A ESCOLHIDA PARA NICO 😳",
+      "pergunta": "Como convencer Helena a aceitar esse encontro?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nOs amigos discutem possíveis pares e encontram um jeito de tentar levar Helena ao jantar. Como convencer Helena a aceitar esse encontro?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Helena",
+        "#Nico",
+        "#Encontro"
+      ]
+    },
+    "cena_27": {
+      "titulo": "OS CAPANGAS CHEGAM DISFARÇADOS 🛠️",
+      "pergunta": "Você acreditaria nessa história de manutenção?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nVargas e Navarro usam uma desculpa para entrar na casa e procurar Isabela. Você acreditaria nessa história de manutenção?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Vargas",
+        "#Navarro",
+        "#Disfarce"
+      ]
+    },
+    "cena_28": {
+      "titulo": "A BUSCA POR ISABELA NÃO DÁ EM NADA 😮‍💨",
+      "pergunta": "Por quanto tempo essa mentira vai enganar os capangas?",
+      "legenda": "CAPA_SEGUNDOS=6\n\nA dupla procura pela casa, mas não encontra a menina que esperava recapturar. Por quanto tempo essa mentira vai enganar os capangas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Vargas",
+        "#Navarro",
+        "#Isabela"
+      ]
+    },
+    "cena_29": {
+      "titulo": "REGINA RECEBE PRISCILA SEM PACIÊNCIA 😬",
+      "pergunta": "Priscila vai entender esse tratamento?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nPriscila aparece sem convite e Regina tenta dispensar a visita. Priscila vai entender esse tratamento?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Priscila",
+        "#Visita"
+      ]
+    },
+    "cena_30": {
+      "titulo": "PRISCILA VAI EMBORA SEM A ATENÇÃO QUE QUERIA 💔",
+      "pergunta": "Ela deveria insistir nessa amizade com Regina?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nRegina diz que precisa ficar sozinha e encerra a visita de Priscila. Ela deveria insistir nessa amizade com Regina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Priscila",
+        "#Regina",
+        "#Visita"
+      ]
+    },
+    "cena_31": {
+      "titulo": "A HISTÓRIA SEGUE CHEIA DE SEGREDOS 🎬",
+      "pergunta": "Qual armação você quer ver descoberta?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA continuação do capítulo acompanha os conflitos que cercam as gêmeas. Qual armação você quer ver descoberta?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Gemeas",
+        "#Manuela",
+        "#Isabela"
+      ]
+    },
+    "cena_32": {
+      "titulo": "O CAPÍTULO AINDA NÃO ACABOU 👀",
+      "pergunta": "Quem pode mudar o rumo dessa história?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nMais um trecho da história de Manuela e Isabela. Quem pode mudar o rumo dessa história?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Gemeas",
+        "#Manuela",
+        "#Isabela"
+      ]
+    },
+    "cena_33": {
+      "titulo": "MANU GANHA UMA COMPANHIA ESPECIAL 🐭",
+      "pergunta": "Como seria conversar com seu animal de estimação?",
+      "legenda": "CAPA_SEGUNDOS=31\n\nManuela se alegra ao entender Tuntum e conta como se sente sozinha na mansão. Como seria conversar com seu animal de estimação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Tuntum",
+        "#Mansao"
+      ]
+    },
+    "cena_34": {
+      "titulo": "MANU E TUNTUM QUEREM SAIR DALI 🤝",
+      "pergunta": "Essa dupla vai conseguir bolar um bom plano?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nCom a conversa mais fácil, Manuela e Tuntum pensam em deixar o porão. Essa dupla vai conseguir bolar um bom plano?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Tuntum",
+        "#Porao"
+      ]
+    },
+    "cena_35": {
+      "titulo": "TUNTUM MOSTRA A SAÍDA SECRETA 🚪",
+      "pergunta": "Manuela deveria aproveitar essa oportunidade?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nO ratinho aponta o fundo falso do armário e oferece ajuda para afastar os capangas. Manuela deveria aproveitar essa oportunidade?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Tuntum",
+        "#PassagemSecreta"
+      ]
+    },
+    "cena_36": {
+      "titulo": "HELENA ACHA QUE O CONVITE É DE PEDRO 💌",
+      "pergunta": "Ela deveria conferir quem realmente a convidou?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nRebeca incentiva a irmã a aceitar um jantar, enquanto Helena estranha o convite. Ela deveria conferir quem realmente a convidou?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Helena",
+        "#Rebeca",
+        "#Pedro"
+      ]
+    },
+    "cena_37": {
+      "titulo": "NICO ACEITA UM ENCONTRO ÀS CEGAS 💘",
+      "pergunta": "Você aceitaria sem saber quem estaria esperando?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nA turma convence Nico a participar do jantar sem revelar a identidade da convidada. Você aceitaria sem saber quem estaria esperando?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Nico",
+        "#Helena",
+        "#Encontro"
+      ]
+    },
+    "cena_38": {
+      "titulo": "DÓRIS RECEBE UMA MISSÃO NO ENCONTRO 🔑",
+      "pergunta": "Esse plano de trancar a sorveteria pode acabar bem?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nOs amigos pedem que Dóris feche as portas para impedir Helena de sair do jantar. Esse plano de trancar a sorveteria pode acabar bem?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Doris",
+        "#Helena",
+        "#Nico"
+      ]
+    },
+    "cena_39": {
+      "titulo": "PRISCILA CONTA QUE REGINA A DISPENSOU 😢",
+      "pergunta": "Os avós estão certos em aconselhar menos visitas?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nTriste com a recepção, Priscila tenta explicar por que gosta tanto de ficar com Regina. Os avós estão certos em aconselhar menos visitas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Priscila",
+        "#Regina",
+        "#Fortunato"
+      ]
+    },
+    "cena_40": {
+      "titulo": "MANU QUER AVISAR O PESSOAL DA BANDA 🤝",
+      "pergunta": "Como ela pode fazer esse pedido chegar aos amigos?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nManuela pensa em buscar ajuda da banda para conseguir sair do porão. Como ela pode fazer esse pedido chegar aos amigos?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Tuntum",
+        "#IrmaosVaz"
+      ]
+    },
+    "cena_41": {
+      "titulo": "MANUELA ACORDA E PROCURA TUNTUM 🐭",
+      "pergunta": "A conversa com o ratinho foi um sonho?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nDepois de receber o lanche, Manuela tenta entender o que aconteceu enquanto estava desacordada. A conversa com o ratinho foi um sonho?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Tuntum",
+        "#Sonho"
+      ]
+    },
+    "cena_42": {
+      "titulo": "ERA TÃO BOM CONVERSAR COM TUNTUM 💛",
+      "pergunta": "Você queria que Manuela continuasse ouvindo o ratinho?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nManuela lamenta não entender Tuntum, e Dóris começa a separar ingredientes. Você queria que Manuela continuasse ouvindo o ratinho?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Tuntum",
+        "#Doris"
+      ]
+    },
+    "cena_43": {
+      "titulo": "DÓRIS PREPARA A RECEITA DE OMAR 🤢",
+      "pergunta": "Ela devia ter pedido ajuda antes de experimentar?",
+      "legenda": "CAPA_SEGUNDOS=45\n\nDóris reúne os ingredientes para tentar deixar de ser esquecida. Ela devia ter pedido ajuda antes de experimentar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Doris",
+        "#Omar",
+        "#Receita"
+      ]
+    },
+    "cena_44": {
+      "titulo": "DÓRIS QUER LEMBRAR DO PLANO 😬",
+      "pergunta": "Será que a receita vai ajudar em alguma coisa?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nMesmo achando a mistura desagradável, Dóris quer lembrar da missão no encontro. Será que a receita vai ajudar em alguma coisa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Doris",
+        "#Receita",
+        "#Encontro"
+      ]
+    },
+    "cena_45": {
+      "titulo": "REBECA DESEJA SORTE A HELENA 💕",
+      "pergunta": "Como Helena vai reagir ao descobrir quem a espera?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nRebeca tranquiliza a irmã, que sai animada acreditando que vai encontrar Pedro. Como Helena vai reagir ao descobrir quem a espera?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Helena",
+        "#Pedro"
+      ]
+    },
+    "cena_46": {
+      "titulo": "SAFIRA FICA NO ESCRITÓRIO ATÉ TARDE 👀",
+      "pergunta": "O que ela está planejando dessa vez?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nOtávio encontra Safira depois do expediente e avisa que está indo para casa. O que ela está planejando dessa vez?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Safira",
+        "#Otavio",
+        "#Escritorio"
+      ]
+    },
+    "cena_47": {
+      "titulo": "UMA VOZ NO TELEFONE INTRIGA REBECA 📞",
+      "pergunta": "Você pediria uma explicação a Otávio?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nRebeca liga para Otávio e ouve que ele está tomando banho, sem saber com quem fala. Você pediria uma explicação a Otávio?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Otavio",
+        "#Telefonema"
+      ]
+    },
+    "cena_48": {
+      "titulo": "ALGUÉM APARECE EM BUSCA DE AJUDA 👀",
+      "pergunta": "Essa chegada pode mudar o que acontece na mansão?",
+      "legenda": "CAPA_SEGUNDOS=40\n\nDepois da sequência musical, uma visita procura saber se há uma oportunidade. Essa chegada pode mudar o que acontece na mansão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Mansao",
+        "#Motorista",
+        "#Capitulo70"
+      ]
+    },
+    "cena_49": {
+      "titulo": "O CANDIDATO A MOTORISTA CHEGOU 🚗",
+      "pergunta": "Será que Regina vai reconhecer esse rosto?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nO visitante diz que veio pela agência, mas Regina acha que já o conhece. Será que Regina vai reconhecer esse rosto?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Motorista",
+        "#Mansao"
+      ]
+    },
+    "cena_50": {
+      "titulo": "O CAPÍTULO TERMINA COM ESSA DÚVIDA 🎬",
+      "pergunta": "O que você espera da continuação?",
+      "legenda": "CAPA_SEGUNDOS=0\n\nO capítulo chega ao fim depois da chegada do candidato à mansão. O que você espera da continuação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Motorista",
+        "#Capitulo70"
+      ]
+    }
+  }
+}
