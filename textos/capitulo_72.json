@@ -1,0 +1,565 @@
+{
+  "capitulo": 72,
+  "execucao": "40591583277",
+  "cenas": {
+    "cena_01": {
+      "titulo": "MEIRE ENTRA EM DESESPERO POR BARTOLOMEU 😱",
+      "pergunta": "Onde será que o gato foi parar?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nPreocupada com o sumiço de Bartolomeu, Meire não aceita as explicações de Dinho. Onde será que o gato foi parar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Dinho",
+        "#Bartolomeu"
+      ]
+    },
+    "cena_02": {
+      "titulo": "MEIRE SUSPEITA DE UMA MALDADE CONTRA O GATO 😨",
+      "pergunta": "Dinho vai conseguir acalmar a tia?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nMeire imagina que Bartolomeu corre perigo e sai decidida a procurá-lo. Dinho vai conseguir acalmar a tia?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Dinho",
+        "#Bartolomeu"
+      ]
+    },
+    "cena_03": {
+      "titulo": "BARTOLOMEU SE DESPEDE DE BEIJOCA 🐱",
+      "pergunta": "A peixinha estará segura com Lola por perto?",
+      "legenda": "CAPA_SEGUNDOS=38\n\nAntes de ir embora, Bartolomeu deixa claro que ainda está de olho na peixinha. A peixinha estará segura com Lola por perto?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Bartolomeu",
+        "#Beijoca",
+        "#Lola"
+      ]
+    },
+    "cena_04": {
+      "titulo": "OS AVÓS SE PREOCUPAM COM PRISCILA 💔",
+      "pergunta": "Safira vai perceber que a filha precisa dela?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nOs avós contam a Safira que Priscila está triste e procurando acolhimento na casa de Regina. Safira vai perceber que a filha precisa dela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Safira",
+        "#Priscila",
+        "#Familia"
+      ]
+    },
+    "cena_05": {
+      "titulo": "SAFIRA É COBRADA A DAR ATENÇÃO À FILHA 😠",
+      "pergunta": "Ela vai ouvir o pedido dos pais?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nA família pede que Safira se aproxime de Priscila, mas a conversa provoca uma discussão. Ela vai ouvir o pedido dos pais?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Safira",
+        "#Priscila",
+        "#Familia"
+      ]
+    },
+    "cena_06": {
+      "titulo": "BARTOLOMEU VOLTA PARA OS BRAÇOS DE MEIRE 🐱",
+      "pergunta": "Dinho vai ter sossego depois dessa volta?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nMeire comemora o retorno do gato e pede que Dinho cuide dele. Dinho vai ter sossego depois dessa volta?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Dinho",
+        "#Bartolomeu"
+      ]
+    },
+    "cena_07": {
+      "titulo": "UM BILHETE MISTERIOSO NA COLEIRA DO GATO 👀",
+      "pergunta": "Quem deixou esse recado para Meire?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nMeire encontra um bilhete preso à coleira de Bartolomeu e fica apreensiva. Quem deixou esse recado para Meire?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Bartolomeu",
+        "#Misterio"
+      ]
+    },
+    "cena_08": {
+      "titulo": "O BILHETE AMEAÇA O RETORNO DE BARTOLOMEU 😱",
+      "pergunta": "Meire vai acreditar na ameaça?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nO recado avisa que o gato pode não voltar se a perseguição continuar. Meire vai acreditar na ameaça?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Bartolomeu",
+        "#Bilhete"
+      ]
+    },
+    "cena_09": {
+      "titulo": "OS CÚMPLICES PREPARAM A PERSEGUIÇÃO 🚲",
+      "pergunta": "A bicicleta será suficiente para seguir Geraldo?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nCom uma bicicleta emprestada por duas horas, os amigos combinam como acompanhar Geraldo. A bicicleta será suficiente para seguir Geraldo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Cumplices",
+        "#Geraldo",
+        "#Bicicleta"
+      ]
+    },
+    "cena_10": {
+      "titulo": "DÓRIS SE PREPARA PARA BEIJAR O SAPO 🐸",
+      "pergunta": "Ela vai acreditar na história do príncipe?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nConvencida de que pode desfazer um feitiço, Dóris cria coragem para ajudar o suposto príncipe. Ela vai acreditar na história do príncipe?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Doris",
+        "#SapoPrincipe",
+        "#ContoDeFadas"
+      ]
+    },
+    "cena_11": {
+      "titulo": "DÓRIS E O SUPOSTO FEITIÇO 🐸",
+      "pergunta": "O que aconteceu depois do beijo?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA transcrição desta cena contém poucas palavras reconhecíveis; confira o vídeo antes de publicar. O que aconteceu depois do beijo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Doris",
+        "#SapoPrincipe",
+        "#Cena11"
+      ]
+    },
+    "cena_12": {
+      "titulo": "PRISCILA QUESTIONA O PASSEIO COM SAFIRA 💔",
+      "pergunta": "Safira levou a filha para sair por vontade própria?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nPriscila pergunta se os avós precisaram pedir para a mãe passar um tempo com ela. Safira levou a filha para sair por vontade própria?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Priscila",
+        "#Safira",
+        "#MaeEFilha"
+      ]
+    },
+    "cena_13": {
+      "titulo": "PRISCILA QUER SABER SE A MÃE A CONHECE 😔",
+      "pergunta": "Safira sabe do que a filha gosta?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nDurante o passeio, Priscila pergunta à mãe se ela conhece suas preferências. Safira sabe do que a filha gosta?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Priscila",
+        "#Safira",
+        "#MaeEFilha"
+      ]
+    },
+    "cena_14": {
+      "titulo": "DÓRIS ACREDITA QUE OTÁVIO ERA O SAPO 😲",
+      "pergunta": "Como Otávio vai reagir a essa história?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nDepois da brincadeira de Omar e Sabrina, Dóris conta a Otávio que acredita ter desfeito um feitiço. Como Otávio vai reagir a essa história?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Doris",
+        "#Otavio",
+        "#SapoPrincipe"
+      ]
+    },
+    "cena_15": {
+      "titulo": "DÓRIS COMEMORA O SUPOSTO FEITIÇO DESFEITO 🐸",
+      "pergunta": "Rebeca e Otávio terão um final feliz?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nDóris informa onde Rebeca está e acredita ter ajudado o casal com um beijo no sapo. Rebeca e Otávio terão um final feliz?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Doris",
+        "#Otavio",
+        "#Rebeca"
+      ]
+    },
+    "cena_16": {
+      "titulo": "SAFIRA QUER SAIR DO RESTAURANTE ÀS PRESSAS 😳",
+      "pergunta": "Por que ela não quer encontrar Thomas?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nAo perceber a presença de Thomas, Safira insiste em levar Priscila para outro lugar. Por que ela não quer encontrar Thomas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Safira",
+        "#Priscila",
+        "#Thomas"
+      ]
+    },
+    "cena_17": {
+      "titulo": "SANDRO NÃO GOSTA NADA DA MÚSICA 🎶",
+      "pergunta": "Precisava reagir desse jeito?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nUma música provoca a impaciência de Sandro durante o caminho. Precisava reagir desse jeito?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Sandro",
+        "#Musica",
+        "#Caminho"
+      ]
+    },
+    "cena_18": {
+      "titulo": "REBECA NÃO QUER RECEBER OTÁVIO 💔",
+      "pergunta": "Ela deveria ouvir o que ele tem a dizer?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nAo saber que Otávio chegou, Rebeca pede à mãe que não abra a porta. Ela deveria ouvir o que ele tem a dizer?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Otavio",
+        "#Familia"
+      ]
+    },
+    "cena_19": {
+      "titulo": "OTÁVIO DECIDE ESPERAR POR REBECA 🚪",
+      "pergunta": "Quanto tempo ele vai esperar por ela?",
+      "legenda": "CAPA_SEGUNDOS=38\n\nA pedido da filha, a mãe de Rebeca diz que ela saiu, mas Otávio resolve aguardar. Quanto tempo ele vai esperar por ela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Otavio",
+        "#Familia"
+      ]
+    },
+    "cena_20": {
+      "titulo": "CENA 20: CONTEÚDO A CONFERIR 🎬",
+      "pergunta": "O que acontece nesta cena?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA transcrição reconheceu apenas a palavra “Roda”; confira o vídeo para criar a legenda da cena. O que acontece nesta cena?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Cena20",
+        "#Capitulo72"
+      ]
+    },
+    "cena_21": {
+      "titulo": "PEDRO ELOGIA O TALENTO DE HELENA 🐶",
+      "pergunta": "Você também acha que ela será uma ótima veterinária?",
+      "legenda": "CAPA_SEGUNDOS=40\n\nDepois de cuidar de um cachorro, Helena recebe palavras de incentivo de Pedro. Você também acha que ela será uma ótima veterinária?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Helena",
+        "#Pedro",
+        "#Veterinaria"
+      ]
+    },
+    "cena_22": {
+      "titulo": "HELENA RECEBE UM RECADO DE JOEL 👀",
+      "pergunta": "O que será que ele quer conversar com ela?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nLuiz chega com um convite de Joel para que Helena vá ao haras. O que será que ele quer conversar com ela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Helena",
+        "#Pedro",
+        "#Joel"
+      ]
+    },
+    "cena_23": {
+      "titulo": "MARINA TENTA ESCOLHER UMA CARTA COM AS MÃOS PRESAS 😟",
+      "pergunta": "O capanga vai soltá-la?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nEnquanto está presa, Marina responde ao homem que propõe um truque de cartas. O capanga vai soltá-la?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Cativeiro",
+        "#Resgate"
+      ]
+    },
+    "cena_24": {
+      "titulo": "GERALDO PRESSIONA MARINA POR UMA RESPOSTA 😡",
+      "pergunta": "Marina vai resistir à ameaça?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nNo cativeiro, Geraldo exige saber onde Isabela está e tenta intimidar Marina. Marina vai resistir à ameaça?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Geraldo",
+        "#Isabela"
+      ]
+    },
+    "cena_25": {
+      "titulo": "MARINA OUVE O NOME DE OFÉLIO E GANHA ESPERANÇA ❤️",
+      "pergunta": "Será que ele conseguirá ajudá-la?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nAo ouvir que Ofélio é o novo motorista, Marina acredita que seu companheiro está por perto. Será que ele conseguirá ajudá-la?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Ofelio",
+        "#Resgate"
+      ]
+    },
+    "cena_26": {
+      "titulo": "OS CÚMPLICES PRECISAM EXPLICAR A QUEDA 🚲",
+      "pergunta": "A desculpa para os machucados vai convencer?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nDepois da tentativa de seguir Geraldo, os amigos disfarçam o que aconteceu com a bicicleta. A desculpa para os machucados vai convencer?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Cumplices",
+        "#Bicicleta",
+        "#Segredo"
+      ]
+    },
+    "cena_27": {
+      "titulo": "DÓRIS CONTA QUE BEIJOU UM SAPO 😱",
+      "pergunta": "Alguém vai acreditar na história dela?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nDóris diz que o sapo virou Otávio e surpreende quem escuta seu relato. Alguém vai acreditar na história dela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Doris",
+        "#Otavio",
+        "#SapoPrincipe"
+      ]
+    },
+    "cena_28": {
+      "titulo": "MATHEUS DESCONFIA DAS ARMADILHAS DE OMAR 😠",
+      "pergunta": "Dóris vai acreditar no aviso do irmão?",
+      "legenda": "CAPA_SEGUNDOS=40\n\nAo ouvir sobre o sapo e a suposta fórmula de memória, Matheus alerta Dóris sobre Omar e Sabrina. Dóris vai acreditar no aviso do irmão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Doris",
+        "#Matheus",
+        "#Omar"
+      ]
+    },
+    "cena_29": {
+      "titulo": "MATHEUS ENFRENTA OMAR PARA DEFENDER DÓRIS 👊",
+      "pergunta": "Omar vai parar com as brincadeiras?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nMatheus cobra respeito e enfrenta Omar e Sabrina pelo que fizeram com sua irmã. Omar vai parar com as brincadeiras?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Matheus",
+        "#Doris",
+        "#Omar"
+      ]
+    },
+    "cena_30": {
+      "titulo": "OTÁVIO CONTINUA ESPERANDO POR REBECA 💔",
+      "pergunta": "Ele vai conseguir conversar com ela?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nOtávio insiste em esperar por Rebeca, mesmo sem conseguir vê-la. Ele vai conseguir conversar com ela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Otavio",
+        "#Rebeca",
+        "#Desencontro"
+      ]
+    },
+    "cena_31": {
+      "titulo": "JOEL FAZ UMA PROPOSTA SURPREENDENTE A HELENA 😲",
+      "pergunta": "Ela vai aceitar trabalhar no haras?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nJoel propõe que Helena seja a veterinária particular de seu haras. Ela vai aceitar trabalhar no haras?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Joel",
+        "#Helena",
+        "#Haras"
+      ]
+    },
+    "cena_32": {
+      "titulo": "HELENA PENSA EM PEDRO AO OUVIR A PROPOSTA 🤔",
+      "pergunta": "Ela está pronta para tomar essa decisão?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nJoel diz confiar no talento de Helena, mas ela se preocupa com o que acontecerá com Pedro. Ela está pronta para tomar essa decisão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Helena",
+        "#Pedro",
+        "#Joel"
+      ]
+    },
+    "cena_33": {
+      "titulo": "JOEL OFERECE MAIS DINHEIRO A HELENA 💰",
+      "pergunta": "Ela vai aceitar a proposta ou continuar com Pedro?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nJoel afirma que pode pagar mais, e Helena pede tempo para pensar. Ela vai aceitar a proposta ou continuar com Pedro?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Helena",
+        "#Joel",
+        "#Pedro"
+      ]
+    },
+    "cena_34": {
+      "titulo": "CENA 34: A DECISÃO AINDA NÃO É SIMPLES 🤔",
+      "pergunta": "O que será que Helena vai decidir?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA transcrição desta cena registra apenas a frase “Não é assim tão simples”; confira o vídeo para completar o contexto. O que será que Helena vai decidir?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Helena",
+        "#Joel",
+        "#Capitulo72"
+      ]
+    },
+    "cena_35": {
+      "titulo": "ISABELA DESCOBRE QUE MARINA FOI CAPTURADA 😱",
+      "pergunta": "Como os amigos poderão resgatá-la?",
+      "legenda": "CAPA_SEGUNDOS=40\n\nOs cúmplices contam a Isabela que Marina não conseguiu escapar dos capangas. Como os amigos poderão resgatá-la?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Marina",
+        "#Resgate"
+      ]
+    },
+    "cena_36": {
+      "titulo": "ISABELA DESCOBRE QUE OFÉLIO ESTÁ NA MANSÃO 👀",
+      "pergunta": "O novo aliado conseguirá ajudar no resgate?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nOs amigos contam a Isabela que Manuela recebeu ajuda de Ofélio e que tentaram seguir Geraldo. O novo aliado conseguirá ajudar no resgate?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Ofelio",
+        "#Marina"
+      ]
+    },
+    "cena_37": {
+      "titulo": "ISABELA RECONHECE O ESFORÇO DOS CÚMPLICES 🤝",
+      "pergunta": "Qual será o próximo passo para salvar Marina?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nDepois de discutir com os amigos, Isabela admite que eles estão tentando ajudar e pede cautela. Qual será o próximo passo para salvar Marina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Marina",
+        "#Resgate"
+      ]
+    },
+    "cena_38": {
+      "titulo": "THOMAS QUESTIONA SAFIRA SOBRE O ALMOÇO 👀",
+      "pergunta": "Ela conseguirá esconder quem é Priscila?",
+      "legenda": "CAPA_SEGUNDOS=42\n\nThomas percebe que Safira saiu apressada do restaurante e pergunta sobre a menina que a acompanhava. Ela conseguirá esconder quem é Priscila?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Thomas",
+        "#Safira",
+        "#Priscila"
+      ]
+    },
+    "cena_39": {
+      "titulo": "SAFIRA DIZ A THOMAS QUE PRISCILA É SUA AFILHADA 😳",
+      "pergunta": "Por que ela esconde a verdade?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nQuestionada por Thomas, Safira apresenta Priscila como filha de uma amiga. Por que ela esconde a verdade?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Safira",
+        "#Thomas",
+        "#Priscila"
+      ]
+    },
+    "cena_40": {
+      "titulo": "REBECA FINALMENTE ENCONTRA OTÁVIO 💔",
+      "pergunta": "Essa conversa vai esclarecer o mal-entendido?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nDepois de ouvir os conselhos da mãe, Rebeca encontra Otávio, que esperava por ela. Essa conversa vai esclarecer o mal-entendido?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Otavio",
+        "#Encontro"
+      ]
+    },
+    "cena_41": {
+      "titulo": "REBECA COBRA EXPLICAÇÕES DE OTÁVIO 😠",
+      "pergunta": "Ele conseguirá entender o motivo da mágoa?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nOtávio tenta conversar, mas Rebeca diz estar cansada de se sentir enganada. Ele conseguirá entender o motivo da mágoa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Otavio",
+        "#Desentendimento"
+      ]
+    },
+    "cena_42": {
+      "titulo": "TUM TUM GUIA MANUELA ATÉ O ENCONTRO 🐭",
+      "pergunta": "Os dois conseguirão chegar sem serem vistos?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nManuela pede a Tum Tum que a guie até a casa da piscina para encontrar Ofélio. Os dois conseguirão chegar sem serem vistos?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#TumTum",
+        "#Ofelio"
+      ]
+    },
+    "cena_43": {
+      "titulo": "OTÁVIO TENTA PROVAR SUA INOCÊNCIA 💔",
+      "pergunta": "Rebeca vai acreditar na explicação sobre o celular?",
+      "legenda": "CAPA_SEGUNDOS=37\n\nDurante a discussão, Otávio diz que perdeu o celular e suspeita que alguém tenha armado uma brincadeira. Rebeca vai acreditar na explicação sobre o celular?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Otavio",
+        "#Rebeca",
+        "#Celular"
+      ]
+    },
+    "cena_44": {
+      "titulo": "REBECA NÃO ACREDITA NA HISTÓRIA DO CELULAR 😢",
+      "pergunta": "Quem conseguirá esclarecer o que aconteceu?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nRebeca suspeita que Otávio deixou o celular com outra mulher e continua magoada. Quem conseguirá esclarecer o que aconteceu?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Otavio",
+        "#Celular"
+      ]
+    },
+    "cena_45": {
+      "titulo": "MANUELA REVELA A PASSAGEM SECRETA A OFÉLIO 🔎",
+      "pergunta": "Essa passagem pode ajudar no resgate?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nManuela mostra a Ofélio o caminho que liga o porão à casa da piscina e apresenta Tum Tum. Essa passagem pode ajudar no resgate?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Ofelio",
+        "#TumTum"
+      ]
+    },
+    "cena_46": {
+      "titulo": "MANUELA RECEBE NOTÍCIAS DA FAMÍLIA ❤️",
+      "pergunta": "Quando ela poderá voltar para casa?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nOfélio conta a Manuela sobre a busca da família e dos amigos, aumentando a saudade dela. Quando ela poderá voltar para casa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Ofelio",
+        "#Familia"
+      ]
+    },
+    "cena_47": {
+      "titulo": "REBECA DIZ QUE NÃO QUER MAIS VER OTÁVIO 💔",
+      "pergunta": "Os dois vão conseguir superar esse mal-entendido?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nOtávio insiste que alguém armou contra ele, mas Rebeca diz que está cansada de desconfiar. Os dois vão conseguir superar esse mal-entendido?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Otavio",
+        "#Separacao"
+      ]
+    },
+    "cena_48": {
+      "titulo": "AS CRIANÇAS ENCONTRAM REBECA NO VILAREJO 😔",
+      "pergunta": "Ela terá alguma notícia de Manuela?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nDepois de conversarem sobre Omar, as crianças encontram Rebeca e perguntam sobre Manu. Ela terá alguma notícia de Manuela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Manuela",
+        "#Vilarejo"
+      ]
+    },
+    "cena_49": {
+      "titulo": "REBECA PROMETE CONTINUAR A BUSCA POR MANU 🙏",
+      "pergunta": "Quando a família terá notícias de Manuela?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nMesmo triste e sem novidades, Rebeca diz às crianças que não vai desistir de procurar a filha. Quando a família terá notícias de Manuela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Manuela",
+        "#Esperanca"
+      ]
+    },
+    "cena_50": {
+      "titulo": "OTÁVIO PERGUNTA A SAFIRA SOBRE O CELULAR 📱",
+      "pergunta": "Ela vai admitir o que aconteceu?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nOtávio confronta Safira sobre o desaparecimento do celular, mas ela nega ter pegado. Ela vai admitir o que aconteceu?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Otavio",
+        "#Safira",
+        "#Celular"
+      ]
+    },
+    "cena_51": {
+      "titulo": "CENA 51: TRECHO FINAL A CONFERIR 🎬",
+      "pergunta": "O que aparece no final do episódio?",
+      "legenda": "CAPA_SEGUNDOS=0\n\nA transcrição desta cena está vazia e o trecho tem menos de um segundo; confira o vídeo antes de publicar. O que aparece no final do episódio?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Cena51",
+        "#Capitulo72"
+      ]
+    }
+  }
+}
