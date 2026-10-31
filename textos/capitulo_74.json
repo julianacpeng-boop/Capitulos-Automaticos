@@ -1,0 +1,545 @@
+{
+  "capitulo": 74,
+  "execucao": "41187308776",
+  "cenas": {
+    "cena_01": {
+      "titulo": "SANDRO SAI E A TURMA RESPIRA ALIVIADA 😂",
+      "pergunta": "Essa desculpa de Manuela salvou a visita?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nA confusão no porão afasta Sandro, mas a roupa de Felipe chama atenção dos amigos. Essa desculpa de Manuela salvou a visita?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Sandro",
+        "#Felipe"
+      ]
+    },
+    "cena_02": {
+      "titulo": "ANDRÉ SE OFERECE PARA LEVAR A MARMITA 🍱",
+      "pergunta": "É gentileza ou vontade de visitar os amigos?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nDepois da explicação de Felipe, André surpreende a família ao se oferecer para fazer a entrega. É gentileza ou vontade de visitar os amigos?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Andre",
+        "#Familia",
+        "#Marmita"
+      ]
+    },
+    "cena_03": {
+      "titulo": "MANU NÃO QUER FICAR SOZINHA DE NOVO 💔",
+      "pergunta": "A promessa de se ver na gravadora traz esperança?",
+      "legenda": "CAPA_SEGUNDOS=36\n\nNa despedida, Manuela confessa a solidão e recebe o apoio dos amigos. A promessa de se ver na gravadora traz esperança?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#IrmaosVaz",
+        "#Gravadora"
+      ]
+    },
+    "cena_04": {
+      "titulo": "FELIPE PRECISA SAIR COM OUTRA CALÇA 😅",
+      "pergunta": "Ele exagerou no constrangimento?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nA turma quer ir embora, mas Felipe não gosta da roupa que precisa usar. Ele exagerou no constrangimento?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Felipe",
+        "#IrmaosVaz",
+        "#RoupaEmprestada"
+      ]
+    },
+    "cena_05": {
+      "titulo": "A TURMA SE DESPEDE DE MANUELA 🤝",
+      "pergunta": "Até quando ela vai precisar esperar pelo resgate?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nOs amigos partem com cuidado antes de Sandro voltar; no vilarejo, Nico começa o dia mal. Até quando ela vai precisar esperar pelo resgate?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#IrmaosVaz",
+        "#Sandro"
+      ]
+    },
+    "cena_06": {
+      "titulo": "NICO CONTA COMO O ENCONTRO FRACASSOU 💔",
+      "pergunta": "Os amigos deveriam ter ouvido sem fazer piadas?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nNico desabafa sobre a rejeição e lembra o quanto sofre com comentários sobre sua altura. Os amigos deveriam ter ouvido sem fazer piadas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Nico",
+        "#Doris",
+        "#Matheus"
+      ]
+    },
+    "cena_07": {
+      "titulo": "NICO RELEMBRA AS ZOMBAÇÕES DA ESCOLA 😢",
+      "pergunta": "Como acolher alguém que vive essa situação?",
+      "legenda": "CAPA_SEGUNDOS=6\n\nTriste, Nico pede para ficar sozinho; depois, Otávio chega à igreja buscando ajuda. Como acolher alguém que vive essa situação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Nico",
+        "#Doris",
+        "#Matheus"
+      ]
+    },
+    "cena_08": {
+      "titulo": "OTÁVIO PEDE AJUDA POR REBECA 🙏",
+      "pergunta": "Nina e o pastor podem esclarecer essa história?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nOtávio procura Nina e aproveita a presença do pastor para falar sobre Rebeca. Nina e o pastor podem esclarecer essa história?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Otavio",
+        "#Rebeca",
+        "#Nina"
+      ]
+    },
+    "cena_09": {
+      "titulo": "OTÁVIO DIZ QUE NUNCA HOUVE OUTRA MULHER ❤️",
+      "pergunta": "Rebeca deveria dar espaço para essa conversa?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nOtávio explica seus sentimentos e pede que Nina o ajude a desfazer o mal-entendido. Rebeca deveria dar espaço para essa conversa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Otavio",
+        "#Rebeca",
+        "#Nina"
+      ]
+    },
+    "cena_10": {
+      "titulo": "BERTHA PROVOCA REBECA NA COOPERATIVA 😤",
+      "pergunta": "Rebeca merece essa recepção no trabalho?",
+      "legenda": "CAPA_SEGUNDOS=31\n\nA volta de Rebeca desperta alfinetadas de Bertha durante a conferência das peças. Rebeca merece essa recepção no trabalho?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Bertha",
+        "#Cooperativa"
+      ]
+    },
+    "cena_11": {
+      "titulo": "BERTHA DIZ QUE REBECA NÃO MANDA MAIS 😡",
+      "pergunta": "Ela está tentando tirar a autoridade de Rebeca?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nRebeca explica a função de supervisionar as entregas, mas Bertha reage com hostilidade. Ela está tentando tirar a autoridade de Rebeca?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Bertha",
+        "#Cooperativa"
+      ]
+    },
+    "cena_12": {
+      "titulo": "REGINA DEIXA ESCAPAR A PISTA DO GALPÃO 👀",
+      "pergunta": "Ofélio percebeu a oportunidade?",
+      "legenda": "CAPA_SEGUNDOS=31\n\nRegina cobra vigilância de Sandro e menciona uma visita ao galpão diante de Ofélio. Ofélio percebeu a oportunidade?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Ofelio",
+        "#Galpao"
+      ]
+    },
+    "cena_13": {
+      "titulo": "REGINA PREFERE SAIR SOZINHA 🚗",
+      "pergunta": "Ofélio vai conseguir descobrir o destino dela?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nO novo motorista se mantém atento depois que Regina recusa sua companhia. Ofélio vai conseguir descobrir o destino dela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Ofelio",
+        "#Motorista"
+      ]
+    },
+    "cena_14": {
+      "titulo": "MEIRE ESTRANHA O QUE ESTÁ VENDO 🔎",
+      "pergunta": "Vem mais uma teoria sem sentido por aí?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nUm encontro deixa Meire curiosa e provoca respostas nada pacientes. Vem mais uma teoria sem sentido por aí?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Bartolomeu",
+        "#Suspeita"
+      ]
+    },
+    "cena_15": {
+      "titulo": "MEIRE VOLTA À HISTÓRIA DOS ROBÔS 🤖",
+      "pergunta": "Dinho vai conseguir fazê-la mudar de ideia?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nMeire interpreta o que viu como prova de sua teoria; na mansão, Laura reclama do apetite dos homens. Dinho vai conseguir fazê-la mudar de ideia?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Dinho",
+        "#Laura"
+      ]
+    },
+    "cena_16": {
+      "titulo": "OFÉLIO TENTA SE APROXIMAR DE SANDRO 🤝",
+      "pergunta": "Ele pode conseguir uma informação importante?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nDepois das brincadeiras de Laura sobre comida, Ofélio tenta ganhar a confiança do segurança. Ele pode conseguir uma informação importante?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Ofelio",
+        "#Sandro",
+        "#Laura"
+      ]
+    },
+    "cena_17": {
+      "titulo": "OFÉLIO INVESTIGA O TAL GALPÃO 🕵️",
+      "pergunta": "Sandro vai acabar contando mais do que devia?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nUsando o trabalho de motorista como desculpa, Ofélio pergunta onde fica o galpão de Regina. Sandro vai acabar contando mais do que devia?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Ofelio",
+        "#Sandro",
+        "#Galpao"
+      ]
+    },
+    "cena_18": {
+      "titulo": "SANDRO AVISA OFÉLIO PARA PERGUNTAR MENOS 😬",
+      "pergunta": "O segurança já está desconfiado?",
+      "legenda": "CAPA_SEGUNDOS=4\n\nAntes de voltar ao posto, Sandro dá um conselho que soa como alerta. O segurança já está desconfiado?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Ofelio",
+        "#Sandro",
+        "#Galpao"
+      ]
+    },
+    "cena_19": {
+      "titulo": "OFÉLIO LIGA O GALPÃO AO SUMIÇO DE MARINA 🚨",
+      "pergunta": "Essa pode ser a pista que faltava?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nOfélio quer avisar Manuela de sua suspeita, enquanto Marina enfrenta os truques de Vargas. Essa pode ser a pista que faltava?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Ofelio",
+        "#Marina",
+        "#Galpao"
+      ]
+    },
+    "cena_20": {
+      "titulo": "REGINA REVELA QUE O DINHEIRO NÃO BASTA 😡",
+      "pergunta": "O que ela quer além da fortuna?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nMarina pede que liberte as meninas, mas Regina afirma que tudo faz parte de um plano. O que ela quer além da fortuna?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Marina",
+        "#Gemeas"
+      ]
+    },
+    "cena_21": {
+      "titulo": "REGINA ADMITE QUE QUER PODER E VINGANÇA 🔥",
+      "pergunta": "Até onde essa obsessão pode levá-la?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nDiante de Marina, Regina revela que quer se vingar dela e das meninas. Até onde essa obsessão pode levá-la?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Marina",
+        "#Vinganca"
+      ]
+    },
+    "cena_22": {
+      "titulo": "AS CRIANÇAS DÃO PERNAS DE PAU A NICO 😳",
+      "pergunta": "Essa tentativa de ajudar passou dos limites?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nOs amigos levam um presente para Nico parecer mais alto, mas ele não gosta da ideia. Essa tentativa de ajudar passou dos limites?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Nico",
+        "#Doris",
+        "#Matheus"
+      ]
+    },
+    "cena_23": {
+      "titulo": "REGINA EXIGE QUE MARINA LIGUE PARA RAUL 📞",
+      "pergunta": "Marina vai encontrar um jeito de pedir ajuda?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nRegina quer uma conversa que pareça normal e pressiona Marina a obedecer. Marina vai encontrar um jeito de pedir ajuda?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Marina",
+        "#Raul"
+      ]
+    },
+    "cena_24": {
+      "titulo": "MARINA PEDE SOCORRO DURANTE A LIGAÇÃO 🚨",
+      "pergunta": "Raul vai perceber o perigo que ela corre?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nRaul estranha a voz de Marina, e ela aproveita a conversa para pedir ajuda. Raul vai perceber o perigo que ela corre?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Raul",
+        "#Regina"
+      ]
+    },
+    "cena_25": {
+      "titulo": "REGINA INVENTA UMA BARATA PARA DISFARÇAR 🤥",
+      "pergunta": "Você acreditaria nessa explicação?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nDepois de ouvir o pedido de socorro, Raul recebe uma desculpa de Regina sobre o grito. Você acreditaria nessa explicação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Raul",
+        "#Marina"
+      ]
+    },
+    "cena_26": {
+      "titulo": "RAUL INSISTE EM FALAR COM ISABELA 📞",
+      "pergunta": "Essa insistência pode atrapalhar o plano de Regina?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nRaul pede que chamem a menina antes de a conversa dar lugar à sequência musical. Essa insistência pode atrapalhar o plano de Regina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Raul",
+        "#Isabela",
+        "#Regina"
+      ]
+    },
+    "cena_27": {
+      "titulo": "REBECA É CHAMADA PARA UMA CONVERSA 💬",
+      "pergunta": "Ela vai aceitar ouvir sobre Otávio?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nNina e o pastor chamam Rebeca à igreja para conversar sobre o relacionamento. Ela vai aceitar ouvir sobre Otávio?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Nina",
+        "#Otavio"
+      ]
+    },
+    "cena_28": {
+      "titulo": "O PASTOR PEDE QUE REBECA RECONSIDERE 💛",
+      "pergunta": "A dor por Manuela está pesando nessa decisão?",
+      "legenda": "CAPA_SEGUNDOS=31\n\nA conversa aborda o sofrimento de Rebeca e a sinceridade que viram em Otávio. A dor por Manuela está pesando nessa decisão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Otavio",
+        "#Manuela"
+      ]
+    },
+    "cena_29": {
+      "titulo": "REBECA TEM MEDO DE SOFRER OUTRA VEZ 💔",
+      "pergunta": "Vale tentar esclarecer antes de se afastar?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nNina e o pastor pedem que Rebeca reflita se tudo foi um mal-entendido. Vale tentar esclarecer antes de se afastar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Otavio",
+        "#Nina"
+      ]
+    },
+    "cena_30": {
+      "titulo": "NICO SE ARRISCA NAS PERNAS DE PAU 😬",
+      "pergunta": "Ele devia ter recusado essa experiência?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nAs crianças incentivam Nico a se sentir mais alto, mas ele perde o equilíbrio. Ele devia ter recusado essa experiência?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Nico",
+        "#Doris",
+        "#Matheus"
+      ]
+    },
+    "cena_31": {
+      "titulo": "NICO CAI E OS AMIGOS CORREM PARA AJUDAR 😱",
+      "pergunta": "A brincadeira foi longe demais?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nDepois da queda, as crianças tentam levantar Nico e descobrir onde está doendo. A brincadeira foi longe demais?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Nico",
+        "#Doris",
+        "#Matheus"
+      ]
+    },
+    "cena_32": {
+      "titulo": "NICO SE ARREPENDE DA BRINCADEIRA 😣",
+      "pergunta": "Os amigos entenderam o risco que criaram?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nMachucado, Nico reclama por ter aceitado subir nas pernas de pau. Os amigos entenderam o risco que criaram?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Nico",
+        "#PernasDePau",
+        "#Queda"
+      ]
+    },
+    "cena_33": {
+      "titulo": "GIUSEPPE ENCONTRA NICO MACHUCADO 👞",
+      "pergunta": "Nico deveria ter contado toda a história?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nNico tenta resumir o acidente, enquanto Giuseppe cobra que ele volte ao trabalho. Nico deveria ter contado toda a história?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Nico",
+        "#Giuseppe",
+        "#Doris"
+      ]
+    },
+    "cena_34": {
+      "titulo": "REGINA FLAGRA OFÉLIO PERTO DO PORÃO 🚨",
+      "pergunta": "Ele vai conseguir proteger o segredo de Manuela?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nOfélio tenta explicar por que está ali e Regina admite que trancou alguém no porão. Ele vai conseguir proteger o segredo de Manuela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Ofelio",
+        "#Manuela"
+      ]
+    },
+    "cena_35": {
+      "titulo": "OFÉLIO QUESTIONA O CASTIGO DE MANU 😡",
+      "pergunta": "Ele está correndo risco ao enfrentar Regina?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nOfélio protesta contra o castigo e tenta justificar ter circulado sozinho pela casa. Ele está correndo risco ao enfrentar Regina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Ofelio",
+        "#Regina",
+        "#Manuela"
+      ]
+    },
+    "cena_36": {
+      "titulo": "OFÉLIO ENTREGA O COCHILO DE SANDRO 😬",
+      "pergunta": "Esse deslize vai complicar a missão?",
+      "legenda": "CAPA_SEGUNDOS=7\n\nRegina percebe que o segurança dormiu e ameaça demitir Ofélio se ele desobedecer de novo. Esse deslize vai complicar a missão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Ofelio",
+        "#Sandro",
+        "#Regina"
+      ]
+    },
+    "cena_37": {
+      "titulo": "MANU SE PREOCUPA COM O RISCO DE OFÉLIO 🐭",
+      "pergunta": "Tuntum poderia ter levado o recado com mais segurança?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nDepois da tensão no porão, Manuela teme pelo motorista; Rebeca também repensa sua decisão. Tuntum poderia ter levado o recado com mais segurança?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Ofelio",
+        "#Tuntum"
+      ]
+    },
+    "cena_38": {
+      "titulo": "REGINA ENCONTRA SANDRO DORMINDO 😤",
+      "pergunta": "A desculpa da meditação convenceu alguém?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nRegina acorda Sandro e cobra explicações pela falta de vigilância na mansão. A desculpa da meditação convenceu alguém?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Sandro",
+        "#Mansao"
+      ]
+    },
+    "cena_39": {
+      "titulo": "SANDRO CHORA E DIZ QUE ESTÁ EXAUSTO 😢",
+      "pergunta": "Regina vai ouvir a reclamação dele?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nAo saber que Ofélio chegou ao porão, Regina repreende Sandro, que diz estar cansado. Regina vai ouvir a reclamação dele?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Sandro",
+        "#Regina",
+        "#Ofelio"
+      ]
+    },
+    "cena_40": {
+      "titulo": "SANDRO RECLAMA DA SOBRECARGA 💔",
+      "pergunta": "Ele deveria ter ajuda para manter a rotina?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nSandro explica que está sozinho com tudo, mas Regina encerra a conversa sem acolhê-lo. Ele deveria ter ajuda para manter a rotina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Sandro",
+        "#Regina",
+        "#Mansao"
+      ]
+    },
+    "cena_41": {
+      "titulo": "DÓRIS CONTA A VERDADE SOBRE O ACIDENTE 👞",
+      "pergunta": "Giuseppe vai encontrar uma solução melhor?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nDóris explica por que deram pernas de pau a Nico, e Giuseppe pensa em ajudar com seu ofício. Giuseppe vai encontrar uma solução melhor?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Doris",
+        "#Nico",
+        "#Giuseppe"
+      ]
+    },
+    "cena_42": {
+      "titulo": "MANU INVENTA UM RATO PARA PROTEGER OFÉLIO 🐭",
+      "pergunta": "Essa desculpa vai impedir outro castigo?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nPressionada sobre os gritos, Manuela tenta evitar que Regina prejudique Ofélio. Essa desculpa vai impedir outro castigo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Regina",
+        "#Ofelio"
+      ]
+    },
+    "cena_43": {
+      "titulo": "REGINA TIRA MANUELA DO PORÃO 👀",
+      "pergunta": "Essa mudança pode facilitar o plano dos amigos?",
+      "legenda": "CAPA_SEGUNDOS=7\n\nPara evitar suspeitas de Laura e Ofélio, Regina decide levar Manuela de volta ao quarto. Essa mudança pode facilitar o plano dos amigos?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Manuela",
+        "#Porao"
+      ]
+    },
+    "cena_44": {
+      "titulo": "FELIPE CHAMA ISABELA PARA DANÇAR 💃",
+      "pergunta": "Ela vai esquecer a irritação por alguns minutos?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nCansada de ficar no apartamento, Isabela recebe um convite para se divertir com a turma. Ela vai esquecer a irritação por alguns minutos?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Felipe",
+        "#Isabela",
+        "#IrmaosVaz"
+      ]
+    },
+    "cena_45": {
+      "titulo": "BARTOLOMEU NÃO QUER CARINHO FORÇADO 🐱",
+      "pergunta": "Meire entende os limites do próprio gato?",
+      "legenda": "CAPA_SEGUNDOS=4\n\nMeire insiste no carinho enquanto Bartolomeu demonstra sua contrariedade. Meire entende os limites do próprio gato?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Bartolomeu",
+        "#Gatos"
+      ]
+    },
+    "cena_46": {
+      "titulo": "MEIRE VOLTA A ESPIAR AS CRIANÇAS 🔭",
+      "pergunta": "Ela vai interpretar tudo errado de novo?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nPreocupada com os vizinhos, Meire procura um jeito de observar o apartamento. Ela vai interpretar tudo errado de novo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Bartolomeu",
+        "#IrmaosVaz"
+      ]
+    },
+    "cena_47": {
+      "titulo": "AS SOMBRAS VIRAM ROBÔS NA CABEÇA DE MEIRE 🤖",
+      "pergunta": "Como ela chegou a essa conclusão?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nMeire observa as sombras e imagina uma produção de robôs humanoides. Como ela chegou a essa conclusão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Bartolomeu",
+        "#Robos"
+      ]
+    },
+    "cena_48": {
+      "titulo": "MEIRE INVENTA UMA FUSÃO ENTRE GENTE E ROBÔ 🤦",
+      "pergunta": "Flora merecia entrar nessa teoria?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nA síndica passa a imaginar que os moradores estão sendo usados nas supostas experiências. Flora merecia entrar nessa teoria?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Flora",
+        "#Robos"
+      ]
+    },
+    "cena_49": {
+      "titulo": "MEIRE TEM CERTEZA DA PRÓPRIA TEORIA 😂",
+      "pergunta": "Quem vai fazê-la enxergar a realidade?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nConvencida de que descobriu tudo, Meire decide que não será a próxima vítima imaginária. Quem vai fazê-la enxergar a realidade?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Bartolomeu",
+        "#Robos"
+      ]
+    }
+  }
+}
