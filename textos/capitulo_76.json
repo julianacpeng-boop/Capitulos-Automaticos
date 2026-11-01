@@ -1,0 +1,600 @@
+{
+  "capitulo": 76,
+  "execucao": "41319365937",
+  "cenas": {
+    "cena_01": {
+      "titulo": "REGINA PEDE PERDÃO A PRISCILA 😏",
+      "pergunta": "Ela quer mesmo recuperar essa amizade?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nDepois da confusão com Meire, Regina se aproxima de Priscila e tenta desfazer a mágoa. Ela quer mesmo recuperar essa amizade?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Priscila",
+        "#Meire"
+      ]
+    },
+    "cena_02": {
+      "titulo": "PRISCILA ACEITA AS DESCULPAS DE REGINA 🤝",
+      "pergunta": "Ela deveria confiar nessa aproximação?",
+      "legenda": "CAPA_SEGUNDOS=7\n\nRegina garante que gosta da menina e recebe seu perdão. Ela deveria confiar nessa aproximação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Priscila",
+        "#Amizade"
+      ]
+    },
+    "cena_03": {
+      "titulo": "HELENA CONTA A REBECA O QUE SENTE 💔",
+      "pergunta": "Ficar na clínica vai aproximá-la de Pedro?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nRebeca celebra o romance com Otávio, enquanto Helena admite sua tristeza por Pedro. Ficar na clínica vai aproximá-la de Pedro?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Helena",
+        "#Rebeca",
+        "#Pedro"
+      ]
+    },
+    "cena_04": {
+      "titulo": "REBECA VÊ CIÚME NA ATITUDE DE PEDRO 👀",
+      "pergunta": "Será que ele está enxergando Helena de outro jeito?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nAs irmãs conversam sobre o amor de Helena e a dificuldade de demonstrar seus sentimentos. Será que ele está enxergando Helena de outro jeito?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Helena",
+        "#Pedro"
+      ]
+    },
+    "cena_05": {
+      "titulo": "REGINA INCENTIVA UMA AMIZADE COM PRISCILA 🤔",
+      "pergunta": "Por que essa preocupação apareceu agora?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nRegina fala da carência de Priscila e tenta convencer Manuela a se aproximar dela. Por que essa preocupação apareceu agora?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Manuela",
+        "#Priscila"
+      ]
+    },
+    "cena_06": {
+      "titulo": "MANU ESTRANHA O INTERESSE DE REGINA 🔎",
+      "pergunta": "Essa conversa tem alguma intenção escondida?",
+      "legenda": "CAPA_SEGUNDOS=31\n\nManuela sente pena de Priscila, mas estranha a preocupação de Regina com a menina. Essa conversa tem alguma intenção escondida?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Regina",
+        "#Priscila"
+      ]
+    },
+    "cena_07": {
+      "titulo": "OS VILÕES SABEM QUE MARINA É ESPERTA 🚨",
+      "pergunta": "Eles vão conseguir impedir o resgate?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nGeraldo discute a segurança do galpão e cobra que os capangas encontrem Isabela. Eles vão conseguir impedir o resgate?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Geraldo",
+        "#Marina",
+        "#Isabela"
+      ]
+    },
+    "cena_08": {
+      "titulo": "PRISCILA COBRA A AUSÊNCIA DE SAFIRA 😤",
+      "pergunta": "Safira está perdendo a confiança da própria filha?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nPriscila reclama que a mãe não cumpriu o combinado e diz que não vai contar mais com ela. Safira está perdendo a confiança da própria filha?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Priscila",
+        "#Safira",
+        "#Familia"
+      ]
+    },
+    "cena_09": {
+      "titulo": "PRISCILA PREFERE PASSAR O DIA COM REGINA 🏡",
+      "pergunta": "Essa amizade vai trazer mais problemas?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nPriscila avisa que aceitou o convite de Regina e sai com o avô. Essa amizade vai trazer mais problemas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Priscila",
+        "#Regina",
+        "#Fortunato"
+      ]
+    },
+    "cena_10": {
+      "titulo": "MANU RECEBE PRISCILA NA MANSÃO 🤝",
+      "pergunta": "As duas vão conseguir se entender?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nPriscila chega à casa de Regina e recebe uma acolhida de Manuela. As duas vão conseguir se entender?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Priscila",
+        "#Regina"
+      ]
+    },
+    "cena_11": {
+      "titulo": "REGINA DEIXA AS MENINAS SOZINHAS 👀",
+      "pergunta": "Priscila queria a companhia de quem nessa visita?",
+      "legenda": "CAPA_SEGUNDOS=4\n\nRegina diz que precisa trabalhar e deixa Priscila com Manuela. Priscila queria a companhia de quem nessa visita?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Regina",
+        "#Priscila",
+        "#Manuela"
+      ]
+    },
+    "cena_12": {
+      "titulo": "GERALDO AMEAÇA MARINA COM A BUSCA POR ISABELA 😡",
+      "pergunta": "Marina vai conseguir proteger as gêmeas?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nMarina tenta enfrentar Geraldo, mas ele usa o perigo para Isabela como ameaça. Marina vai conseguir proteger as gêmeas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Geraldo",
+        "#Marina",
+        "#Isabela"
+      ]
+    },
+    "cena_13": {
+      "titulo": "GIUSEPPE ENTREGA O SAPATO ESPECIAL 👞",
+      "pergunta": "Nico vai gostar dessa surpresa?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nGiuseppe interrompe Nico para entregar o presente que fez pensando nele. Nico vai gostar dessa surpresa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Giuseppe",
+        "#Nico",
+        "#Presente"
+      ]
+    },
+    "cena_14": {
+      "titulo": "NICO ADORA O PRESENTE DE GIUSEPPE ❤️",
+      "pergunta": "Um gesto de cuidado pode mudar o dia de alguém?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nNico experimenta o sapato e se emociona ao perceber a diferença. Um gesto de cuidado pode mudar o dia de alguém?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Nico",
+        "#Giuseppe",
+        "#SapatoNovo"
+      ]
+    },
+    "cena_15": {
+      "titulo": "FELIPE ACHA QUE CHEGOU AO GALPÃO 🔎",
+      "pergunta": "Ele vai conseguir confirmar onde Marina está?",
+      "legenda": "CAPA_SEGUNDOS=34\n\nDepois de Nico agradecer o presente, Felipe manda notícias da missão aos amigos. Ele vai conseguir confirmar onde Marina está?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Felipe",
+        "#Marina",
+        "#Galpao"
+      ]
+    },
+    "cena_16": {
+      "titulo": "PRISCILA TOCA NO ASSUNTO JOAQUIM 😳",
+      "pergunta": "Manuela deveria acreditar no que ela diz?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nTentando conversar, Manuela ouve Priscila sugerir que o problema entre elas seria Joaquim. Manuela deveria acreditar no que ela diz?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Priscila",
+        "#Manuela",
+        "#Joaquim"
+      ]
+    },
+    "cena_17": {
+      "titulo": "FELIPE ENCONTRA MARINA NO CATIVEIRO 🚨",
+      "pergunta": "Como sair dali sem os capangas perceberem?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nFelipe aparece para ajudar Marina e conta que Isabela está protegida com seus irmãos. Como sair dali sem os capangas perceberem?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Felipe",
+        "#Marina",
+        "#Isabela"
+      ]
+    },
+    "cena_18": {
+      "titulo": "MARINA QUER SAIR, MAS A FUGA COMPLICA 😰",
+      "pergunta": "Felipe se preparou para essa missão?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nMarina pede ajuda para ser solta, enquanto Felipe enfrenta dificuldades para deixar o local. Felipe se preparou para essa missão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#Felipe",
+        "#Galpao"
+      ]
+    },
+    "cena_19": {
+      "titulo": "FELIPE PRECISA DE UMA CARONA PARA VOLTAR 📍",
+      "pergunta": "Joaquim vai chegar a tempo?",
+      "legenda": "CAPA_SEGUNDOS=7\n\nSem conseguir voltar com Geraldo, Felipe pede que Joaquim vá buscá-lo no galpão. Joaquim vai chegar a tempo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Felipe",
+        "#Joaquim",
+        "#Galpao"
+      ]
+    },
+    "cena_20": {
+      "titulo": "NICO MOSTRA O VISUAL AOS AMIGOS 👞",
+      "pergunta": "A turma vai notar o que mudou?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nAnimado com o presente, Nico chama a atenção dos amigos para a novidade. A turma vai notar o que mudou?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Nico",
+        "#SapatoNovo",
+        "#Amigos"
+      ]
+    },
+    "cena_21": {
+      "titulo": "A TURMA PERCEBE QUE NICO ESTÁ MAIS ALTO 😄",
+      "pergunta": "Giuseppe acertou no presente?",
+      "legenda": "CAPA_SEGUNDOS=6\n\nOs amigos notam o efeito do sapato e Nico comemora o resultado. Giuseppe acertou no presente?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Nico",
+        "#Giuseppe",
+        "#SapatoNovo"
+      ]
+    },
+    "cena_22": {
+      "titulo": "FELIPE CONFIRMA O PARADEIRO DE MARINA 🚨",
+      "pergunta": "Agora a turma conseguirá organizar o resgate?",
+      "legenda": "CAPA_SEGUNDOS=31\n\nAo reencontrar os irmãos, Felipe confirma que viu Marina no galpão. Agora a turma conseguirá organizar o resgate?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Felipe",
+        "#Marina",
+        "#IrmaosVaz"
+      ]
+    },
+    "cena_23": {
+      "titulo": "FELIPE VIRA ALVO DE BRINCADEIRAS 😅",
+      "pergunta": "Depois do susto, ele merecia esse constrangimento?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nOs irmãos provocam Felipe por ter perdido a calça durante a missão. Depois do susto, ele merecia esse constrangimento?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Felipe",
+        "#Julia",
+        "#Joaquim"
+      ]
+    },
+    "cena_24": {
+      "titulo": "PEDRO VÊ O ANEL DE REBECA E VAI EMBORA 💔",
+      "pergunta": "A desculpa do jantar convenceu alguém?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nAo notar o compromisso de Rebeca, Pedro muda de ideia e desiste de ficar para jantar. A desculpa do jantar convenceu alguém?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Pedro",
+        "#Rebeca",
+        "#Helena"
+      ]
+    },
+    "cena_25": {
+      "titulo": "ISABELA QUER IR RESGATAR MARINA 💪",
+      "pergunta": "Seria corajoso ou arriscado demais?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nA turma confirma o cativeiro, mas impede Isabela de se colocar em perigo sozinha. Seria corajoso ou arriscado demais?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Isabela",
+        "#Marina",
+        "#IrmaosVaz"
+      ]
+    },
+    "cena_26": {
+      "titulo": "OFÉLIO É ESCOLHIDO PARA AJUDAR NO RESGATE 🤝",
+      "pergunta": "Ele conseguirá entrar no galpão?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nOs amigos discutem a ajuda de Ofélio para tirar Marina do cativeiro. Ele conseguirá entrar no galpão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Ofelio",
+        "#Marina",
+        "#Isabela"
+      ]
+    },
+    "cena_27": {
+      "titulo": "MANU SOFRE COM O QUE OUVIU DE PRISCILA 💔",
+      "pergunta": "Ela está confundindo a situação com Joaquim?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nManuela mistura a saudade da família com a tristeza de achar que Joaquim gosta de outra. Ela está confundindo a situação com Joaquim?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Joaquim",
+        "#Priscila"
+      ]
+    },
+    "cena_28": {
+      "titulo": "UMA PAUSA AO SOM DA NOVELA 🎶",
+      "pergunta": "Essa trilha também traz lembranças para você?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nA sequência musical acompanha mais um trecho do capítulo. Essa trilha também traz lembranças para você?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#TrilhaSonora",
+        "#Musica",
+        "#Capitulo76"
+      ]
+    },
+    "cena_29": {
+      "titulo": "A HISTÓRIA SEGUE COM SUA TRILHA 🎵",
+      "pergunta": "Qual momento do capítulo mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=4\n\nA música acompanha a transição para a continuação da história. Qual momento do capítulo mais chamou sua atenção?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#TrilhaSonora",
+        "#Musica",
+        "#Capitulo76"
+      ]
+    },
+    "cena_30": {
+      "titulo": "NINA SENTE FALTA DO SORRISO DE MANUELA 💛",
+      "pergunta": "Você também espera esse reencontro?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nAo preparar algo de que a neta gosta, Nina lembra do jeito carinhoso de Manuela. Você também espera esse reencontro?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Nina",
+        "#Manuela",
+        "#Familia"
+      ]
+    },
+    "cena_31": {
+      "titulo": "O PLANO EXIGE QUE OFÉLIO ENGANE REGINA 🕵️",
+      "pergunta": "Ele vai conseguir aparentar ser um aliado dela?",
+      "legenda": "CAPA_SEGUNDOS=36\n\nEnquanto a família mantém a esperança, os amigos discutem como dar a Ofélio acesso ao galpão. Ele vai conseguir aparentar ser um aliado dela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Ofelio",
+        "#Regina",
+        "#Marina"
+      ]
+    },
+    "cena_32": {
+      "titulo": "OFÉLIO PRECISA MOSTRAR QUE SABE DEMAIS 🃏",
+      "pergunta": "Essa carta na manga pode virar o jogo?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nA turma pensa em usar as informações de Ofélio para fazê-lo ganhar espaço com Regina. Essa carta na manga pode virar o jogo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Ofelio",
+        "#Regina",
+        "#IrmaosVaz"
+      ]
+    },
+    "cena_33": {
+      "titulo": "REBECA ANUNCIA QUE DEIXARÁ A CONFECÇÃO 💼",
+      "pergunta": "Bertha precisava reagir desse jeito?",
+      "legenda": "CAPA_SEGUNDOS=31\n\nDiante das provocações, Rebeca informa que Clara assumirá seu lugar permanentemente. Bertha precisava reagir desse jeito?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Bertha",
+        "#Clara"
+      ]
+    },
+    "cena_34": {
+      "titulo": "REBECA DIZ QUE TEM OUTRAS PRIORIDADES 👏",
+      "pergunta": "Ela fez bem em seguir seu caminho?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nRebeca encerra a discussão, deseja sorte às colegas e avisa que voltará para a cidade. Ela fez bem em seguir seu caminho?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Rebeca",
+        "#Bertha",
+        "#Confeccao"
+      ]
+    },
+    "cena_35": {
+      "titulo": "JOAQUIM FICA PARA ESPERAR MANUELA 💛",
+      "pergunta": "A turma consegue esconder esse interesse?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nOs amigos entram, enquanto Joaquim decide esperar Manuela do lado de fora. A turma consegue esconder esse interesse?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Joaquim",
+        "#Manuela",
+        "#IrmaosVaz"
+      ]
+    },
+    "cena_36": {
+      "titulo": "MAIS UM TRECHO DA MISSÃO 👀",
+      "pergunta": "O plano dos amigos vai funcionar?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA continuação acompanha a movimentação em torno da missão de ajudar Marina. O plano dos amigos vai funcionar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Marina",
+        "#IrmaosVaz",
+        "#Missao"
+      ]
+    },
+    "cena_37": {
+      "titulo": "MANU RECEBE JOAQUIM COM DESCONFIANÇA 😒",
+      "pergunta": "Ela deveria perguntar diretamente sobre Priscila?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nMagoada com o que ouviu, Manuela fala de Priscila enquanto Joaquim tenta focar no plano. Ela deveria perguntar diretamente sobre Priscila?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Joaquim",
+        "#Priscila"
+      ]
+    },
+    "cena_38": {
+      "titulo": "A CONVERSA DEIXA UMA REAÇÃO NO AR 😳",
+      "pergunta": "O que você faria no lugar deles?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nMais um trecho da história traz surpresa e dificuldade para encontrar as palavras. O que você faria no lugar deles?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Gemeas",
+        "#Amigos",
+        "#Capitulo76"
+      ]
+    },
+    "cena_39": {
+      "titulo": "JOAQUIM LEVA O PLANO A OFÉLIO 🚨",
+      "pergunta": "Ofélio vai aceitar se aproximar de Regina?",
+      "legenda": "CAPA_SEGUNDOS=31\n\nJoaquim conta que encontraram Marina e explica que Ofélio precisará fingir uma aliança. Ofélio vai aceitar se aproximar de Regina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Joaquim",
+        "#Ofelio",
+        "#Marina"
+      ]
+    },
+    "cena_40": {
+      "titulo": "POR MARINA, OFÉLIO ACEITA O DESAFIO ❤️",
+      "pergunta": "Essa bicicleta será importante no plano?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nOfélio aceita ajudar e ouve as primeiras instruções; na empresa, Fred celebra a reconciliação de Otávio. Essa bicicleta será importante no plano?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Ofelio",
+        "#Marina",
+        "#Joaquim"
+      ]
+    },
+    "cena_41": {
+      "titulo": "FRED QUER DESCOBRIR O SEGREDO DE LURDINHA 😂",
+      "pergunta": "Ela vai conseguir guardar a novidade?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nFrederico percebe a reação de Lurdinha e insiste para saber o que ela está escondendo. Ela vai conseguir guardar a novidade?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Frederico",
+        "#Lurdinha",
+        "#Enterprise"
+      ]
+    },
+    "cena_42": {
+      "titulo": "OTÁVIO AGUARDA UM INVESTIDOR ⏳",
+      "pergunta": "Quem é a pessoa que está demorando tanto?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nOtávio pergunta sobre o almoço marcado, e Fred tenta descobrir mais detalhes. Quem é a pessoa que está demorando tanto?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Otavio",
+        "#Frederico",
+        "#Investidor"
+      ]
+    },
+    "cena_43": {
+      "titulo": "OMAR QUER EXPULSAR OS AMIGOS DO LAGO 😡",
+      "pergunta": "Era preciso agir assim com quem só queria brincar?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nOmar usa o terreno da família para impedir que as crianças aproveitem o lago. Era preciso agir assim com quem só queria brincar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Omar",
+        "#Matheus",
+        "#Doris"
+      ]
+    },
+    "cena_44": {
+      "titulo": "OMAR INVENTA TAXAS ATÉ PARA SABRINA 💸",
+      "pergunta": "Ela esperava ser cobrada também?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nOmar exige dinheiro por cada atividade e não abre exceção nem para a amiga. Ela esperava ser cobrada também?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Omar",
+        "#Sabrina",
+        "#Haras"
+      ]
+    },
+    "cena_45": {
+      "titulo": "A HISTÓRIA CONTINUA CHEIA DE EXPECTATIVA 🎬",
+      "pergunta": "Quem você quer ver se dando bem?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nAcompanhe mais um trecho do capítulo das gêmeas e de seus amigos. Quem você quer ver se dando bem?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Gemeas",
+        "#IrmaosVaz",
+        "#Capitulo76"
+      ]
+    },
+    "cena_46": {
+      "titulo": "VICENTE QUER OUVIR O DUETO 🎤",
+      "pergunta": "Priscila vai aceitar ficar de fora dessa vez?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nVicente pede que Joaquim cante com a menina que conhece como Isabela, deixando Priscila contrariada. Priscila vai aceitar ficar de fora dessa vez?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Vicente",
+        "#Joaquim",
+        "#Priscila"
+      ]
+    },
+    "cena_47": {
+      "titulo": "TODOS A POSTOS PARA COMEÇAR 🎶",
+      "pergunta": "Como vai ser a apresentação dos dois?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nDepois da provocação de Priscila, o ensaio é preparado para começar. Como vai ser a apresentação dos dois?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Priscila",
+        "#Banda",
+        "#Ensaio"
+      ]
+    },
+    "cena_48": {
+      "titulo": "MAIS UM MOMENTO DO CAPÍTULO 🎬",
+      "pergunta": "Qual personagem você mais quer acompanhar?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA história segue com os caminhos de Manuela, Isabela e seus amigos. Qual personagem você mais quer acompanhar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Manuela",
+        "#Isabela",
+        "#Capitulo76"
+      ]
+    },
+    "cena_49": {
+      "titulo": "MEIRE APRESENTA SEU ROBÔ EXTERMINADOR 🤖",
+      "pergunta": "Bartolomeu aguenta mais essa invenção?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nMeire mostra um aparelho que pretende usar contra os robôs que imagina existir no prédio. Bartolomeu aguenta mais essa invenção?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Bartolomeu",
+        "#Robos"
+      ]
+    },
+    "cena_50": {
+      "titulo": "DINHO ENCONTRA A NOVA INVENÇÃO DA TIA 😳",
+      "pergunta": "Essa ideia de Meire tem alguma chance de dar certo?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nMeire insiste no suposto robô enquanto Dinho tenta entender o que ela montou. Essa ideia de Meire tem alguma chance de dar certo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Dinho",
+        "#Robos"
+      ]
+    },
+    "cena_51": {
+      "titulo": "A INVENÇÃO DE MEIRE COMEÇA A SOLTAR FUMAÇA 😱",
+      "pergunta": "O que essa experiência vai provocar no condomínio?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nOs vizinhos percebem fumaça no apartamento da síndica, e Lola aparece para visitar Isabela. O que essa experiência vai provocar no condomínio?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Meire",
+        "#Dinho",
+        "#Condominio"
+      ]
+    },
+    "cena_52": {
+      "titulo": "LOLA PEDE UMA TRANSFORMAÇÃO A ISABELA 💄",
+      "pergunta": "Parecer mais velha vai fazer os amigos ouvi-la?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nLola leva maquiagem e explica que quer ganhar credibilidade com os cúmplices. Parecer mais velha vai fazer os amigos ouvi-la?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Lola",
+        "#Isabela",
+        "#Maquiagem"
+      ]
+    },
+    "cena_53": {
+      "titulo": "ISABELA DIZ QUE A MUDANÇA VAI ALÉM DO ROSTO 👗",
+      "pergunta": "Que transformação Lola está esperando?",
+      "legenda": "CAPA_SEGUNDOS=4\n\nLola pergunta o que precisa mudar, e Isabela sai para buscar o que vai usar. Que transformação Lola está esperando?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Lola",
+        "#Isabela",
+        "#Transformacao"
+      ]
+    },
+    "cena_54": {
+      "titulo": "LOLA ESTÁ PRONTA PARA A TRANSFORMAÇÃO ✨",
+      "pergunta": "Como será o resultado dessa ideia?",
+      "legenda": "CAPA_SEGUNDOS=2\n\nIsabela apresenta o que considera necessário e se prepara para transformar Lola. Como será o resultado dessa ideia?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Lola",
+        "#Isabela",
+        "#Maquiagem"
+      ]
+    }
+  }
+}
