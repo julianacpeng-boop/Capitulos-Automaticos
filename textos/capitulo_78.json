@@ -1,0 +1,567 @@
+{
+  "capitulo": 78,
+  "execucao": "41486669652",
+  "cenas": {
+    "cena_01": {
+      "titulo": "A AMIZADE QUE NÃO TEM FIM 🎶",
+      "pergunta": "Essa música também marcou você?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nA AMIZADE QUE NÃO TEM FIM — Essa música também marcou você?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Amizade",
+        "#Musica"
+      ]
+    },
+    "cena_02": {
+      "titulo": "A CANÇÃO CONTINUA",
+      "pergunta": "Você lembra dessa canção?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nA CANÇÃO CONTINUA — Você lembra dessa canção?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Musica",
+        "#Nostalgia"
+      ]
+    },
+    "cena_03": {
+      "titulo": "O MUNDO AO SOM DA MÚSICA 🎵",
+      "pergunta": "Qual é sua música favorita da novela?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nO MUNDO AO SOM DA MÚSICA — Qual é sua música favorita da novela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#TrilhaSonora",
+        "#Musica"
+      ]
+    },
+    "cena_04": {
+      "titulo": "A DESCULPA DAS BONECAS NÃO CONVENCE 😳",
+      "pergunta": "Você acreditaria nessa explicação?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nA DESCULPA DAS BONECAS NÃO CONVENCE — Você acreditaria nessa explicação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Bonecas",
+        "#Desculpa"
+      ]
+    },
+    "cena_05": {
+      "titulo": "ELA NÃO QUER MAIS BRINCAR COM A AMIGA",
+      "pergunta": "Você perdoaria essa atitude?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nELA NÃO QUER MAIS BRINCAR COM A AMIGA — Você perdoaria essa atitude?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Amizade",
+        "#Desentendimento"
+      ]
+    },
+    "cena_06": {
+      "titulo": "REBECA SAI ATRÁS DE UMA CRIANÇA EM CATIVEIRO 😱",
+      "pergunta": "Será que ela encontrou uma pista?",
+      "legenda": "CAPA_SEGUNDOS=34\n\nREBECA SAI ATRÁS DE UMA CRIANÇA EM CATIVEIRO — Será que ela encontrou uma pista?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Rebeca",
+        "#Misterio"
+      ]
+    },
+    "cena_07": {
+      "titulo": "UMA PISTA NO COMPUTADOR 🔎",
+      "pergunta": "O que eles vão descobrir?",
+      "legenda": "CAPA_SEGUNDOS=7\n\nUMA PISTA NO COMPUTADOR — O que eles vão descobrir?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Rebeca",
+        "#Investigacao"
+      ]
+    },
+    "cena_08": {
+      "titulo": "UMA CONVERSA SOBRE OS MENINOS",
+      "pergunta": "O que aconteceu com as crianças?",
+      "legenda": "CAPA_SEGUNDOS=37\n\nUMA CONVERSA SOBRE OS MENINOS — O que aconteceu com as crianças?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Aras",
+        "#Criancas"
+      ]
+    },
+    "cena_09": {
+      "titulo": "OMAR SE ACHA DONO DE TUDO 😡",
+      "pergunta": "O pai dele vai tomar uma atitude?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nOMAR SE ACHA DONO DE TUDO — O pai dele vai tomar uma atitude?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Omar",
+        "#Conflito"
+      ]
+    },
+    "cena_10": {
+      "titulo": "O PAI PROMETE CONVERSAR COM OMAR",
+      "pergunta": "Você acha que Omar vai mudar?",
+      "legenda": "CAPA_SEGUNDOS=39\n\nO PAI PROMETE CONVERSAR COM OMAR — Você acha que Omar vai mudar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Omar",
+        "#Familia"
+      ]
+    },
+    "cena_11": {
+      "titulo": "ISABELA NÃO QUER MAIS ESSA AMIZADE 💔",
+      "pergunta": "Você já passou por uma situação assim?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nISABELA NÃO QUER MAIS ESSA AMIZADE — Você já passou por uma situação assim?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Isabela",
+        "#Amizade"
+      ]
+    },
+    "cena_12": {
+      "titulo": "É AGORA OU NUNCA PARA DESMASCARAR REGINA 🔥",
+      "pergunta": "Esse plano vai dar certo?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nÉ AGORA OU NUNCA PARA DESMASCARAR REGINA — Esse plano vai dar certo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Regina",
+        "#Plano"
+      ]
+    },
+    "cena_13": {
+      "titulo": "REBECA DESCOBRE QUE NÃO ERA SUA FILHA 😢",
+      "pergunta": "Ela vai conseguir encontrar Manuela?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nREBECA DESCOBRE QUE NÃO ERA SUA FILHA — Ela vai conseguir encontrar Manuela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Rebeca",
+        "#Manuela"
+      ]
+    },
+    "cena_14": {
+      "titulo": "CADÊ MINHA FILHA, OTÁVIO? 💔",
+      "pergunta": "Como você reagiria nesse momento?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nCADÊ MINHA FILHA, OTÁVIO? — Como você reagiria nesse momento?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Rebeca",
+        "#Otavio"
+      ]
+    },
+    "cena_15": {
+      "titulo": "MARINA ENCONTRA UMA FORMA DE SER ALIMENTADA",
+      "pergunta": "Você faria esse pedido ao sequestrador?",
+      "legenda": "CAPA_SEGUNDOS=39\n\nMARINA ENCONTRA UMA FORMA DE SER ALIMENTADA — Você faria esse pedido ao sequestrador?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Marina",
+        "#Cativeiro"
+      ]
+    },
+    "cena_16": {
+      "titulo": "MARINA FICA SEM COMIDA E SEM BANHO 😟",
+      "pergunta": "Até quando ela vai suportar?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nMARINA FICA SEM COMIDA E SEM BANHO — Até quando ela vai suportar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Marina",
+        "#Cativeiro"
+      ]
+    },
+    "cena_17": {
+      "titulo": "O PAI PERDE A PACIÊNCIA COM OMAR 😠",
+      "pergunta": "Omar vai obedecer ao pai?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nO PAI PERDE A PACIÊNCIA COM OMAR 😠 — Omar vai obedecer ao pai?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Omar",
+        "#Familia"
+      ]
+    },
+    "cena_18": {
+      "titulo": "OMAR É OBRIGADO A CONVIDAR AS CRIANÇAS",
+      "pergunta": "Essa ordem foi justa?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nOMAR É OBRIGADO A CONVIDAR AS CRIANÇAS — Essa ordem foi justa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Omar",
+        "#Criancas"
+      ]
+    },
+    "cena_19": {
+      "titulo": "OFÉLIO RECEBE UMA MISSÃO SECRETA 👀",
+      "pergunta": "Ele conseguirá chegar ao galpão?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nOFÉLIO RECEBE UMA MISSÃO SECRETA — Ele conseguirá chegar ao galpão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Ofelio",
+        "#Galpao"
+      ]
+    },
+    "cena_20": {
+      "titulo": "O PRIMEIRO CLIPE VAI COMEÇAR 🎬",
+      "pergunta": "Qual música deveria entrar no clipe?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nO PRIMEIRO CLIPE VAI COMEÇAR — Qual música deveria entrar no clipe?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Clipe",
+        "#Banda"
+      ]
+    },
+    "cena_21": {
+      "titulo": "NICO É HUMILHADO POR CAUSA DO SAPATO 😢",
+      "pergunta": "Você defenderia Nico?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nNICO É HUMILHADO POR CAUSA DO SAPATO — Você defenderia Nico?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Nico",
+        "#Respeito"
+      ]
+    },
+    "cena_22": {
+      "titulo": "NICO DECIDE ABANDONAR OS SAPATOS",
+      "pergunta": "O que você diria para ele?",
+      "legenda": "CAPA_SEGUNDOS=36\n\nNICO DECIDE ABANDONAR OS SAPATOS — O que você diria para ele?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Nico",
+        "#Autoestima"
+      ]
+    },
+    "cena_23": {
+      "titulo": "NICO ACHA QUE NÃO MERECE SER FELIZ 💔",
+      "pergunta": "Como você o consolaria?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nNICO ACHA QUE NÃO MERECE SER FELIZ — Como você o consolaria?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Nico",
+        "#Amizade"
+      ]
+    },
+    "cena_24": {
+      "titulo": "OFÉLIO CONSEGUE CHEGAR AO GALPÃO 😮",
+      "pergunta": "Será que alguém vai desconfiar?",
+      "legenda": "CAPA_SEGUNDOS=11\n\nOFÉLIO CONSEGUE CHEGAR AO GALPÃO 😮 — Será que alguém vai desconfiar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Ofelio",
+        "#Galpao"
+      ]
+    },
+    "cena_25": {
+      "titulo": "OFÉLIO PROCURA O ENDEREÇO SECRETO",
+      "pergunta": "Ele vai encontrar o lugar certo?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nOFÉLIO PROCURA O ENDEREÇO SECRETO — Ele vai encontrar o lugar certo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Ofelio",
+        "#Suspense"
+      ]
+    },
+    "cena_26": {
+      "titulo": "NINGUÉM RESPONDE À PORTA",
+      "pergunta": "O que está acontecendo lá dentro?",
+      "legenda": "CAPA_SEGUNDOS=7\n\nNINGUÉM RESPONDE À PORTA — O que está acontecendo lá dentro?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Galpao",
+        "#Misterio"
+      ]
+    },
+    "cena_27": {
+      "titulo": "OFÉLIO ENTREGA A BOLSA DE REGINA",
+      "pergunta": "Será que Navarro vai deixá-lo entrar?",
+      "legenda": "CAPA_SEGUNDOS=7\n\nOFÉLIO ENTREGA A BOLSA DE REGINA — Será que Navarro vai deixá-lo entrar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Ofelio",
+        "#Regina"
+      ]
+    },
+    "cena_28": {
+      "titulo": "OFÉLIO INVENTA UMA DESCULPA PARA ENTRAR 😅",
+      "pergunta": "Você acha que Navarro vai acreditar?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nOFÉLIO INVENTA UMA DESCULPA PARA ENTRAR — Você acha que Navarro vai acreditar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Ofelio",
+        "#Navarro"
+      ]
+    },
+    "cena_29": {
+      "titulo": "MARINA ENFRENTA NAVARRO 😤",
+      "pergunta": "Ela vai conseguir se libertar?",
+      "legenda": "CAPA_SEGUNDOS=11\n\nMARINA ENFRENTA NAVARRO — Ela vai conseguir se libertar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Marina",
+        "#Navarro"
+      ]
+    },
+    "cena_30": {
+      "titulo": "REGINA NÃO QUER MANUELA NO CLIPE",
+      "pergunta": "O plano das meninas corre perigo?",
+      "legenda": "CAPA_SEGUNDOS=6\n\nREGINA NÃO QUER MANUELA NO CLIPE — O plano das meninas corre perigo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Regina",
+        "#Manuela"
+      ]
+    },
+    "cena_31": {
+      "titulo": "MARINA RECEBE UMA VISITA INESPERADA ❤️",
+      "pergunta": "Será que ela finalmente será salva?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nMARINA RECEBE UMA VISITA INESPERADA — Será que ela finalmente será salva?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Marina",
+        "#Resgate"
+      ]
+    },
+    "cena_32": {
+      "titulo": "ISABELA EXIGE FICAR NA FRENTE DO CLIPE 🎤",
+      "pergunta": "Você acha a exigência justa?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nISABELA EXIGE FICAR NA FRENTE DO CLIPE — Você acha a exigência justa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Isabela",
+        "#Clipe"
+      ]
+    },
+    "cena_33": {
+      "titulo": "UMA TENTATIVA DE FUGA NO GALPÃO 😱",
+      "pergunta": "O resgate vai funcionar?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nUMA TENTATIVA DE FUGA NO GALPÃO — O resgate vai funcionar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Marina",
+        "#Fuga"
+      ]
+    },
+    "cena_34": {
+      "titulo": "MARINA EXIGE PRIVACIDADE",
+      "pergunta": "Será que ela está escondendo um plano?",
+      "legenda": "CAPA_SEGUNDOS=7\n\nMARINA EXIGE PRIVACIDADE — Será que ela está escondendo um plano?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Marina",
+        "#Galpao"
+      ]
+    },
+    "cena_35": {
+      "titulo": "O RESGATE DE MARINA ESTÁ EM ANDAMENTO",
+      "pergunta": "Será que conseguirão sair a tempo?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nO RESGATE DE MARINA ESTÁ EM ANDAMENTO — Será que conseguirão sair a tempo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Marina",
+        "#Resgate"
+      ]
+    },
+    "cena_36": {
+      "titulo": "ISABELA SE REVOLTA COM A GRAVAÇÃO 😡",
+      "pergunta": "Ela deveria aceitar a decisão?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nISABELA SE REVOLTA COM A GRAVAÇÃO — Ela deveria aceitar a decisão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Isabela",
+        "#Clipe"
+      ]
+    },
+    "cena_37": {
+      "titulo": "O PLANO ESTÁ EM AÇÃO 🎬",
+      "pergunta": "O que pode acontecer agora?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nO PLANO ESTÁ EM AÇÃO — O que pode acontecer agora?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Plano",
+        "#Suspense"
+      ]
+    },
+    "cena_38": {
+      "titulo": "A TENSÃO AUMENTA",
+      "pergunta": "Você acha que o plano vai dar certo?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nA TENSÃO AUMENTA — Você acha que o plano vai dar certo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Suspense",
+        "#Novela"
+      ]
+    },
+    "cena_39": {
+      "titulo": "SERÁ QUE VÃO DESMASCARAR REGINA?",
+      "pergunta": "Qual é seu palpite?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nSERÁ QUE VÃO DESMASCARAR REGINA? — Qual é seu palpite?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Regina",
+        "#Misterio"
+      ]
+    },
+    "cena_40": {
+      "titulo": "MARINA ESTÁ PRESTES A FUGIR! 😱",
+      "pergunta": "Regina vai descobrir a tempo?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nMARINA ESTÁ PRESTES A FUGIR! — Regina vai descobrir a tempo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Marina",
+        "#Fuga"
+      ]
+    },
+    "cena_41": {
+      "titulo": "SANDRO É AFASTADO COM UMA DESCULPA",
+      "pergunta": "A distração vai funcionar?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nSANDRO É AFASTADO COM UMA DESCULPA — A distração vai funcionar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Sandro",
+        "#Plano"
+      ]
+    },
+    "cena_42": {
+      "titulo": "MANUELA TEM MEDO DO PLANO DAR ERRADO",
+      "pergunta": "Você também estaria preocupada?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nMANUELA TEM MEDO DO PLANO DAR ERRADO — Você também estaria preocupada?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Manuela",
+        "#Regina"
+      ]
+    },
+    "cena_43": {
+      "titulo": "REBECA NÃO CONSEGUE PARAR DE PENSAR NA FILHA 💔",
+      "pergunta": "Ela vai reencontrar Manuela?",
+      "legenda": "CAPA_SEGUNDOS=11\n\nREBECA NÃO CONSEGUE PARAR DE PENSAR NA FILHA — Ela vai reencontrar Manuela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Rebeca",
+        "#Saudade"
+      ]
+    },
+    "cena_44": {
+      "titulo": "MANUELA SONHA EM ABRAÇAR SUA MÃE 🥹",
+      "pergunta": "Esse reencontro está próximo?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nMANUELA SONHA EM ABRAÇAR SUA MÃE — Esse reencontro está próximo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Manuela",
+        "#Familia"
+      ]
+    },
+    "cena_45": {
+      "titulo": "REGINA DESCOBRE ALGO SUSPEITO 😨",
+      "pergunta": "Ela vai estragar a surpresa?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nREGINA DESCOBRE ALGO SUSPEITO — Ela vai estragar a surpresa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Regina",
+        "#Segredo"
+      ]
+    },
+    "cena_46": {
+      "titulo": "TODO MUNDO ESPERA POR UMA SURPRESA",
+      "pergunta": "Onde será que Regina foi parar?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nTODO MUNDO ESPERA POR UMA SURPRESA — Onde será que Regina foi parar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Clipe",
+        "#Surpresa"
+      ]
+    },
+    "cena_47": {
+      "titulo": "REGINA DESCOBRE O PLANO DAS GÊMEAS 😱",
+      "pergunta": "Como as meninas vão escapar?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nREGINA DESCOBRE O PLANO DAS GÊMEAS — Como as meninas vão escapar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Regina",
+        "#Gemeas"
+      ]
+    },
+    "cena_48": {
+      "titulo": "A SURPRESA AINDA NÃO FOI REVELADA",
+      "pergunta": "O que os convidados estão esperando?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nA SURPRESA AINDA NÃO FOI REVELADA — O que os convidados estão esperando?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Surpresa",
+        "#Clipe"
+      ]
+    },
+    "cena_49": {
+      "titulo": "O PLANO DE DESMASCARAR REGINA FALHOU? 😨",
+      "pergunta": "As meninas estão em perigo?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nO PLANO DE DESMASCARAR REGINA FALHOU? — As meninas estão em perigo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Regina",
+        "#Suspense"
+      ]
+    },
+    "cena_50": {
+      "titulo": "REGINA ORDENA QUE SUMAM COM ISABELA 😱",
+      "pergunta": "Quem conseguirá salvar as gêmeas?",
+      "legenda": "CAPA_SEGUNDOS=31\n\nREGINA ORDENA QUE SUMAM COM ISABELA — Quem conseguirá salvar as gêmeas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Regina",
+        "#Isabela"
+      ]
+    },
+    "cena_51": {
+      "titulo": "UM FINAL CHEIO DE SUSPENSE",
+      "pergunta": "O que você acha que vem no próximo capítulo?",
+      "legenda": "CAPA_SEGUNDOS=0\n\nUM FINAL CHEIO DE SUSPENSE — O que você acha que vem no próximo capítulo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo78",
+        "#Suspense",
+        "#ProximoCapitulo"
+      ]
+    }
+  }
+}
