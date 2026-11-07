@@ -1,0 +1,562 @@
+{
+  "capitulo": 81,
+  "execucao": "42358543083",
+  "cenas": {
+    "cena_01": {
+      "titulo": "COMEÇA O CAPÍTULO 81",
+      "pergunta": "Quem você quer acompanhar neste capítulo?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nAcompanhe o início do capítulo 81. Quem você quer acompanhar neste capítulo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#JuhhNovelas"
+      ]
+    },
+    "cena_02": {
+      "titulo": "MAIS UMA PARTE DO CAPÍTULO 81",
+      "pergunta": "Qual é sua expectativa para a história?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nContinue acompanhando Cúmplices de um Resgate. Qual é sua expectativa para a história?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#JuhhNovelas"
+      ]
+    },
+    "cena_03": {
+      "titulo": "A HISTÓRIA CONTINUA NO CAPÍTULO 81",
+      "pergunta": "Qual personagem mais chama sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nMais um trecho para acompanhar a novela. Qual personagem mais chama sua atenção?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#JuhhNovelas"
+      ]
+    },
+    "cena_04": {
+      "titulo": "DINHO RECLAMA DA SUJEIRA NO PRÉDIO",
+      "pergunta": "Você também cobraria cuidado com a limpeza?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nA sujeira deixada pelos animais provoca uma reclamação entre os vizinhos. Você também cobraria cuidado com a limpeza?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Dinho",
+        "#Convivencia"
+      ]
+    },
+    "cena_05": {
+      "titulo": "OS IRMÃOS NÃO ENCONTRAM FELIPE 😰",
+      "pergunta": "Eles vão descobrir onde ele foi?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nA busca continua até que um carro conhecido chama a atenção do grupo. Eles vão descobrir onde ele foi?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Felipe",
+        "#IrmaosVaz"
+      ]
+    },
+    "cena_06": {
+      "titulo": "FELIPE VOLTA DE CARONA COM SANDRO 👀",
+      "pergunta": "Ele deveria ter saído sem avisar?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nOs irmãos querem entender a saída de Felipe e o encontro com Marina. Ele deveria ter saído sem avisar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Felipe",
+        "#Sandro"
+      ]
+    },
+    "cena_07": {
+      "titulo": "NINA E FIORINA SE UNEM POR UM MOTIVO",
+      "pergunta": "Essa união vai durar depois da reunião?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nAs duas deixam as diferenças de lado para defender o vilarejo. Essa união vai durar depois da reunião?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Nina",
+        "#Fiorina"
+      ]
+    },
+    "cena_08": {
+      "titulo": "OMAR DEFENDE OS PRÉDIOS NO VILAREJO 😤",
+      "pergunta": "Modernizar vale perder o jeito do lugar?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nA proposta da construtora divide os moradores e provoca discussão. Modernizar vale perder o jeito do lugar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Omar",
+        "#Vilarejo"
+      ]
+    },
+    "cena_09": {
+      "titulo": "A REUNIÃO VAI TERMINAR EM VOTAÇÃO",
+      "pergunta": "Você votaria pela venda das casas?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nSem consenso, os moradores decidem registrar a opinião de cada um. Você votaria pela venda das casas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Vilarejo",
+        "#VendaDasCasas"
+      ]
+    },
+    "cena_10": {
+      "titulo": "MARINA COBRA O ACORDO DE REGINA",
+      "pergunta": "Essa cobrança pode colocá-la em perigo?",
+      "legenda": "CAPA_SEGUNDOS=31\n\nMarina exige cuidar de Isabela e lembra Regina de que tem contatos fora da mansão. Essa cobrança pode colocá-la em perigo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Marina",
+        "#Regina"
+      ]
+    },
+    "cena_11": {
+      "titulo": "MARINA SÓ VOLTOU POR CAUSA DE RAUL!",
+      "pergunta": "Ele vai perceber o que está acontecendo?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nRegina deixa claro o motivo do retorno de Marina, enquanto a votação empata no vilarejo. Ele vai perceber o que está acontecendo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Marina",
+        "#Raul"
+      ]
+    },
+    "cena_12": {
+      "titulo": "TÉO MOSTRA O QUE O VILAREJO TEM DE MELHOR ❤️",
+      "pergunta": "O discurso dele mudaria seu voto?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nTéo fala dos sons, dos cheiros e da convivência que o progresso pode destruir. O discurso dele mudaria seu voto?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Teo",
+        "#Vilarejo"
+      ]
+    },
+    "cena_13": {
+      "titulo": "TÉO CONQUISTA O APOIO DOS MORADORES",
+      "pergunta": "Você também se emocionou com essa defesa?",
+      "legenda": "CAPA_SEGUNDOS=6\n\nA fala de Téo recebe aplausos e reforça a união pelo vilarejo. Você também se emocionou com essa defesa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Teo",
+        "#UniaoDoVilarejo"
+      ]
+    },
+    "cena_14": {
+      "titulo": "REBECA ESTÁ CHEGANDO! ESCONDAM TUDO! 🌸",
+      "pergunta": "A surpresa vai continuar em segredo?",
+      "legenda": "CAPA_SEGUNDOS=37\n\nOs preparativos precisam desaparecer antes que Rebeca chegue ao escritório. A surpresa vai continuar em segredo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Rebeca",
+        "#FestaSurpresa"
+      ]
+    },
+    "cena_15": {
+      "titulo": "FRED INVENTA UMA DESCULPA PARA GANHAR TEMPO",
+      "pergunta": "Rebeca vai desconfiar dessa maquiagem?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nFred tenta atrasá-la enquanto, longe dali, a saudade da mãe pesa no aniversário. Rebeca vai desconfiar dessa maquiagem?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Fred",
+        "#Rebeca"
+      ]
+    },
+    "cena_16": {
+      "titulo": "REBECA É LEVADA AO SALÃO 💇",
+      "pergunta": "Você aceitaria esse presente no aniversário?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nFred insiste em renovar o visual dela mesmo sem uma comemoração anunciada. Você aceitaria esse presente no aniversário?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Rebeca",
+        "#Fred"
+      ]
+    },
+    "cena_17": {
+      "titulo": "O CABELEIREIRO PROMETE TRANSFORMAR REBECA",
+      "pergunta": "Como você acha que vai ficar o resultado?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nFred apresenta Rebeca ao amigo e deixa os cuidados do cabelo nas mãos dele. Como você acha que vai ficar o resultado?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Rebeca",
+        "#SalaoDeBeleza"
+      ]
+    },
+    "cena_18": {
+      "titulo": "O NOVO VISUAL RECEBE ELOGIOS ✨",
+      "pergunta": "Você gostou da ideia de mudar no aniversário?",
+      "legenda": "CAPA_SEGUNDOS=37\n\nO cuidado com o visual termina com uma reação animada. Você gostou da ideia de mudar no aniversário?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Rebeca",
+        "#NovoVisual"
+      ]
+    },
+    "cena_19": {
+      "titulo": "A FAMÍLIA TAMBÉM ENTRA NO CLIMA SPRING 🌸",
+      "pergunta": "Uma surpresa fica melhor com a família?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nOs convidados se preparam para participar da comemoração de Rebeca. Uma surpresa fica melhor com a família?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Rebeca",
+        "#Familia"
+      ]
+    },
+    "cena_20": {
+      "titulo": "A COPIADORA VIROU DESCULPA PARA A SURPRESA 😂",
+      "pergunta": "Você cairia nessa estratégia?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nRebeca é mantida ocupada enquanto todos aguardam em silêncio. Você cairia nessa estratégia?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Rebeca",
+        "#FestaSurpresa"
+      ]
+    },
+    "cena_21": {
+      "titulo": "FIORINA DESCOBRE O VOTO DE GIUSEPPE!",
+      "pergunta": "Ele deveria ter assumido a opinião antes?",
+      "legenda": "CAPA_SEGUNDOS=36\n\nUm papel revela que Giuseppe apoiou a venda e Fiorina exige explicações. Ele deveria ter assumido a opinião antes?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Fiorina",
+        "#Giuseppe"
+      ]
+    },
+    "cena_22": {
+      "titulo": "GIUSEPPE TENTA COLOCAR A CULPA EM NICO",
+      "pergunta": "Essa desculpa tinha alguma chance?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nConfrontado com a letra no papel, Giuseppe tenta escapar da bronca. Essa desculpa tinha alguma chance?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Giuseppe",
+        "#Nico"
+      ]
+    },
+    "cena_23": {
+      "titulo": "REBECA ENCONTRA A FAMÍLIA NA SURPRESA ❤️",
+      "pergunta": "Qual seria sua reação ao ver todo mundo?",
+      "legenda": "CAPA_SEGUNDOS=6\n\nA festa reúne pessoas queridas e a decoração celebra a primavera. Qual seria sua reação ao ver todo mundo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Rebeca",
+        "#FestaSurpresa"
+      ]
+    },
+    "cena_24": {
+      "titulo": "ISABELA QUER SABER ONDE ESTÁ MARINA",
+      "pergunta": "As cartas vão trazer uma resposta?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nUma tentativa de distraí-la com mágica esbarra na preocupação com a babá. As cartas vão trazer uma resposta?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Isabela",
+        "#Marina"
+      ]
+    },
+    "cena_25": {
+      "titulo": "AS CARTAS REVELAM ONDE MARINA ESTÁ 🃏",
+      "pergunta": "Dá para ficar tranquila sabendo que ela está com Regina?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nIsabela descobre que Marina voltou à mansão e teme pela segurança dela. Dá para ficar tranquila sabendo que ela está com Regina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Isabela",
+        "#Marina"
+      ]
+    },
+    "cena_26": {
+      "titulo": "UMA DECLARAÇÃO SÓ PARA OS DOIS ❤️",
+      "pergunta": "O que você achou desse momento do casal?",
+      "legenda": "CAPA_SEGUNDOS=7\n\nOtávio e Rebeca trocam declarações longe dos convidados. O que você achou desse momento do casal?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Otavio",
+        "#Rebeca"
+      ]
+    },
+    "cena_27": {
+      "titulo": "O PRESENTE EMOCIONA, MAS FALTA MANUELA",
+      "pergunta": "Nem uma surpresa consegue diminuir essa saudade?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nRebeca recebe o carinho de Otávio, mas acaba lembrando da filha. Nem uma surpresa consegue diminuir essa saudade?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Rebeca",
+        "#Manuela"
+      ]
+    },
+    "cena_28": {
+      "titulo": "REBECA DIZ QUE MANUELA É SEU MAIOR PRESENTE 💔",
+      "pergunta": "Você também se emocionou com essa lembrança?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nNo aniversário, Rebeca fala da falta que sente da filha e recebe apoio de Otávio. Você também se emocionou com essa lembrança?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Rebeca",
+        "#Manuela"
+      ]
+    },
+    "cena_29": {
+      "titulo": "SAFIRA SE REVOLTA COM O PRESENTE DE OTÁVIO 💎",
+      "pergunta": "Ela deveria respeitar a felicidade de Rebeca?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nSafira critica a família e não esconde a indignação com a joia. Ela deveria respeitar a felicidade de Rebeca?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Safira",
+        "#Rebeca"
+      ]
+    },
+    "cena_30": {
+      "titulo": "REGINA APRESENTA MARINA A OFÉLIO 👀",
+      "pergunta": "Eles vão conseguir disfarçar o que sentem?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nA chegada de Marina à mansão exige cuidado para não despertar suspeitas. Eles vão conseguir disfarçar o que sentem?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Marina",
+        "#Ofelio"
+      ]
+    },
+    "cena_31": {
+      "titulo": "O ANIVERSÁRIO DE REBECA SEGUE EM FESTA 🎂",
+      "pergunta": "Qual foi o melhor momento da comemoração?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nA celebração continua com parabéns e música. Qual foi o melhor momento da comemoração?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Rebeca",
+        "#Aniversario"
+      ]
+    },
+    "cena_32": {
+      "titulo": "REGINA IMPÕE SILÊNCIO SOBRE RAUL",
+      "pergunta": "Até quando os empregados vão sustentar essa versão?",
+      "legenda": "CAPA_SEGUNDOS=39\n\nA ordem é responder somente ao que Raul perguntar. Até quando os empregados vão sustentar essa versão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Regina",
+        "#Raul"
+      ]
+    },
+    "cena_33": {
+      "titulo": "NINGUÉM PODE FALAR ALÉM DO PERGUNTADO",
+      "pergunta": "Você desconfiaria de respostas tão controladas?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA restrição sobre o que dizer a Raul continua em destaque. Você desconfiaria de respostas tão controladas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Regina",
+        "#Raul"
+      ]
+    },
+    "cena_34": {
+      "titulo": "REGINA CONTROLA CADA RESPOSTA",
+      "pergunta": "Esse nervosismo vai chamar a atenção de Raul?",
+      "legenda": "CAPA_SEGUNDOS=11\n\nRegina cobra obediência dos empregados antes da visita. Esse nervosismo vai chamar a atenção de Raul?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Regina",
+        "#Mansao"
+      ]
+    },
+    "cena_35": {
+      "titulo": "RAUL REPARA NAS MARCAS DOS PULSOS DE MARINA 🔎",
+      "pergunta": "Ele vai acreditar que é só uma alergia?",
+      "legenda": "CAPA_SEGUNDOS=31\n\nMarina tenta explicar as marcas, mas Raul estranha a aparência dos ferimentos. Ele vai acreditar que é só uma alergia?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Raul",
+        "#Marina"
+      ]
+    },
+    "cena_36": {
+      "titulo": "SAFIRA EXIGE O CELULAR DE VOLTA",
+      "pergunta": "Tomás consegue conter a confusão?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nAbalada com Otávio e Rebeca, Safira discute e tenta recuperar o telefone. Tomás consegue conter a confusão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Safira",
+        "#Tomas"
+      ]
+    },
+    "cena_37": {
+      "titulo": "RAUL PEDE PARA CONVERSAR A SÓS COM A AFILHADA",
+      "pergunta": "Essa pode ser a chance de contar a verdade?",
+      "legenda": "CAPA_SEGUNDOS=41\n\nAs interrupções de Regina levam Raul a pedir uma conversa particular. Essa pode ser a chance de contar a verdade?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Raul",
+        "#Manuela"
+      ]
+    },
+    "cena_38": {
+      "titulo": "RAUL PERCEBE A TRISTEZA NO OLHAR DELA 💔",
+      "pergunta": "Ela vai conseguir se abrir com ele?",
+      "legenda": "CAPA_SEGUNDOS=37\n\nLonge das interrupções de Regina, Raul nota que as palavras não escondem a tristeza. Ela vai conseguir se abrir com ele?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Raul",
+        "#Manuela"
+      ]
+    },
+    "cena_39": {
+      "titulo": "VOCÊ PODE CONFIAR EM MIM, DIZ RAUL",
+      "pergunta": "Ela vai aproveitar essa oportunidade?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nRaul oferece apoio e tenta entender o motivo da tristeza da menina. Ela vai aproveitar essa oportunidade?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Raul",
+        "#Confianca"
+      ]
+    },
+    "cena_40": {
+      "titulo": "REBECA AGRADECE A SURPRESA DA FAMÍLIA 🌸",
+      "pergunta": "Carinho assim ajuda nos dias difíceis?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nRebeca celebra a presença das pessoas queridas, enquanto Safira continua inconformada. Carinho assim ajuda nos dias difíceis?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Rebeca",
+        "#Familia"
+      ]
+    },
+    "cena_41": {
+      "titulo": "REGINA TEME O QUE ELA PODE CONTAR 😰",
+      "pergunta": "O segredo está perto de ser descoberto?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nRegina não consegue se acalmar com a conversa particular entre Raul e a menina. O segredo está perto de ser descoberto?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Regina",
+        "#Geraldo"
+      ]
+    },
+    "cena_42": {
+      "titulo": "PRISCILA ESTRANHA O ESTADO DA MÃE",
+      "pergunta": "Você também ficaria preocupada com ela?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nAo encontrar Safira na casa dos avós, Priscila quer saber se a mãe está bem. Você também ficaria preocupada com ela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Priscila",
+        "#Safira"
+      ]
+    },
+    "cena_43": {
+      "titulo": "MÃE TENTA CUIDAR, SAFIRA REBATE",
+      "pergunta": "Como essa família pode superar tanta mágoa?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nO gesto de oferecer um chá não impede uma resposta dolorosa de Safira. Como essa família pode superar tanta mágoa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Safira",
+        "#MaeEFilha"
+      ]
+    },
+    "cena_44": {
+      "titulo": "UM AVISO RÁPIDO PELO TELEFONE",
+      "pergunta": "Você costuma avisar quando está a caminho?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nUma breve conversa ao telefone registra um aviso de chegada. Você costuma avisar quando está a caminho?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Telefonema"
+      ]
+    },
+    "cena_45": {
+      "titulo": "ALÍCIA ENCONTRA FLORA E COBRA EXPLICAÇÕES",
+      "pergunta": "Como ela pôde deixar os sobrinhos sozinhos?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nNo mercado, Alícia questiona Flora sobre ter abandonado o cuidado das crianças. Como ela pôde deixar os sobrinhos sozinhos?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Alicia",
+        "#Flora"
+      ]
+    },
+    "cena_46": {
+      "titulo": "CUIDAR DE TRÊS CRIANÇAS NÃO É FÁCIL",
+      "pergunta": "Isso justifica ir embora sem organizar ajuda?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA dificuldade de cuidar dos três volta ao centro da conversa. Isso justifica ir embora sem organizar ajuda?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Flora",
+        "#IrmaosVaz"
+      ]
+    },
+    "cena_47": {
+      "titulo": "ALÍCIA LEMBRA: ELES SÃO RESPONSABILIDADE SUA",
+      "pergunta": "Flora está enxergando o risco para os sobrinhos?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nAlícia insiste que as crianças precisam de proteção e de uma solução. Flora está enxergando o risco para os sobrinhos?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Alicia",
+        "#Flora"
+      ]
+    },
+    "cena_48": {
+      "titulo": "FLORA IMPLORA POR MAIS TEMPO 😟",
+      "pergunta": "Alícia deve aceitar continuar ajudando assim?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nFlora promete voltar, mas não diz quando e pede que a vizinha cuide dos meninos. Alícia deve aceitar continuar ajudando assim?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Flora",
+        "#Alicia"
+      ]
+    },
+    "cena_49": {
+      "titulo": "SAFIRA ACORDA E JÁ DISCUTE COM PRISCILA",
+      "pergunta": "Como interromper esse ciclo de provocações?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nDepois de dormir na casa dos pais, Safira encontra a filha e o clima pesa. Como interromper esse ciclo de provocações?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Safira",
+        "#Priscila"
+      ]
+    },
+    "cena_50": {
+      "titulo": "SAFIRA PRECISA PEDIR ROUPA À MÃE",
+      "pergunta": "Ela consegue aceitar ajuda sem atacar?",
+      "legenda": "CAPA_SEGUNDOS=36\n\nA pressa para trabalhar obriga Safira a reconsiderar a oferta de uma roupa emprestada. Ela consegue aceitar ajuda sem atacar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#Safira",
+        "#MaeEFilha"
+      ]
+    },
+    "cena_51": {
+      "titulo": "FIM DO CAPÍTULO 81",
+      "pergunta": "Qual cena mais marcou você?",
+      "legenda": "CAPA_SEGUNDOS=0\n\nEncerramento do capítulo 81. Qual cena mais marcou você?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo81",
+        "#JuhhNovelas"
+      ]
+    }
+  }
+}
