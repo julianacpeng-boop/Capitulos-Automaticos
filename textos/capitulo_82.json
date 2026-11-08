@@ -1,0 +1,598 @@
+{
+  "capitulo": 82,
+  "execucao": "42467493627",
+  "cenas": {
+    "cena_01": {
+      "titulo": "O CAPÍTULO 82 COMEÇA COM MÚSICA 🎶",
+      "pergunta": "Qual música da novela você mais gosta?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA história começa ao som da trilha da novela. Qual música da novela você mais gosta?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Musica",
+        "#TrilhaSonora"
+      ]
+    },
+    "cena_02": {
+      "titulo": "O DIA JÁ COMEÇOU COM PROVOCAÇÃO",
+      "pergunta": "Como você responderia a esse comentário?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nUma pergunta atravessada marca o começo da conversa. Como você responderia a esse comentário?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Convivencia",
+        "#Familia"
+      ]
+    },
+    "cena_03": {
+      "titulo": "A PROVOCAÇÃO AINDA ESTÁ NO AR",
+      "pergunta": "Dá para começar o dia em paz assim?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nA conversa retoma o comentário sobre o mau humor. Dá para começar o dia em paz assim?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Convivencia",
+        "#Familia"
+      ]
+    },
+    "cena_04": {
+      "titulo": "SAFIRA ACEITA A ROUPA DA MÃE A CONTRAGOSTO",
+      "pergunta": "Você aceitaria a ajuda sem reclamar?",
+      "legenda": "CAPA_SEGUNDOS=31\n\nA pressa para trabalhar faz Safira reconsiderar a roupa emprestada. Você aceitaria a ajuda sem reclamar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Safira",
+        "#MaeEFilha"
+      ]
+    },
+    "cena_05": {
+      "titulo": "ALÍCIA ENCONTROU TIA FLORA! 👀",
+      "pergunta": "Essa notícia vai trazer esperança aos meninos?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nAlícia conta que viu Flora no supermercado e recebe uma enxurrada de perguntas. Essa notícia vai trazer esperança aos meninos?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Alicia",
+        "#Flora"
+      ]
+    },
+    "cena_06": {
+      "titulo": "FLORA PROMETEU VOLTAR, MAS NÃO DISSE QUANDO",
+      "pergunta": "Essa promessa é suficiente para as crianças?",
+      "legenda": "CAPA_SEGUNDOS=34\n\nA conversa revela que Flora continua adiando sua responsabilidade pelos sobrinhos. Essa promessa é suficiente para as crianças?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Flora",
+        "#IrmaosVaz"
+      ]
+    },
+    "cena_07": {
+      "titulo": "AS OBRIGAÇÕES DE FLORA SOBRARAM PARA ELES 💔",
+      "pergunta": "É justo os meninos terem que lidar com tudo?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nOs irmãos desconfiam das desculpas da tia e querem saber onde encontrá-la. É justo os meninos terem que lidar com tudo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Flora",
+        "#IrmaosVaz"
+      ]
+    },
+    "cena_08": {
+      "titulo": "FIORINA NÃO ENCONTRA OS OVOS 🥚",
+      "pergunta": "O que pode ter acontecido no galinheiro?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nAo buscar os ovos, Fiorina se depara com um sumiço inesperado. O que pode ter acontecido no galinheiro?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Fiorina",
+        "#Galinheiro"
+      ]
+    },
+    "cena_09": {
+      "titulo": "ROUBARAM OS OVOS DE FIORINA!",
+      "pergunta": "Quem você acha que levou tudo?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nSem pintinhos nem sinal dos ovos, Fiorina conclui que houve um roubo. Quem você acha que levou tudo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Fiorina",
+        "#OvosRoubados"
+      ]
+    },
+    "cena_10": {
+      "titulo": "ELES QUEREM CONVENCER FLORA A VOLTAR",
+      "pergunta": "Prometer cuidar da casa vai resolver?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nAs crianças pensam em como trazer a tia de volta para não continuarem sozinhas. Prometer cuidar da casa vai resolver?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Flora",
+        "#IrmaosVaz"
+      ]
+    },
+    "cena_11": {
+      "titulo": "NINA E FIORINA TROCAM ACUSAÇÕES 😤",
+      "pergunta": "Elas vão descobrir quem realmente aprontou?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nA sujeira dos ovos reacende a discussão e as suspeitas entre as vizinhas. Elas vão descobrir quem realmente aprontou?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Nina",
+        "#Fiorina"
+      ]
+    },
+    "cena_12": {
+      "titulo": "ATÉ A IGREJA FOI ALVO DOS OVOS",
+      "pergunta": "Quem teria motivo para fazer isso?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nO pastor encontra sujeira na igreja e recebe ajuda para limpar. Quem teria motivo para fazer isso?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#PastorAugusto",
+        "#Igreja"
+      ]
+    },
+    "cena_13": {
+      "titulo": "ELA SE OFERECE PARA AJUDAR O PASTOR ❤️",
+      "pergunta": "Você gostou dessa aproximação?",
+      "legenda": "CAPA_SEGUNDOS=7\n\nEntre elogios e preocupação com a igreja, os dois combinam a limpeza. Você gostou dessa aproximação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#PastorAugusto",
+        "#Flavia"
+      ]
+    },
+    "cena_14": {
+      "titulo": "FIORINA ACUSA NINA PELOS OVOS",
+      "pergunta": "Essa suspeita faz algum sentido?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nFiorina vê uma armação contra o galinheiro, mas Nina nega ter participado. Essa suspeita faz algum sentido?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Fiorina",
+        "#Nina"
+      ]
+    },
+    "cena_15": {
+      "titulo": "NINA NÃO AGUENTA MAIS AS ACUSAÇÕES",
+      "pergunta": "Quem deveria ceder nessa discussão?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nA briga cresce e Nina resolve voltar para limpar as próprias janelas. Quem deveria ceder nessa discussão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Nina",
+        "#Fiorina"
+      ]
+    },
+    "cena_16": {
+      "titulo": "FRED ESTRANHA O SUMIÇO DE SAFIRA 👀",
+      "pergunta": "É vergonha depois da festa ou outra coisa?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nFred especula por que Safira ainda não saiu da sala. É vergonha depois da festa ou outra coisa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Fred",
+        "#Safira"
+      ]
+    },
+    "cena_17": {
+      "titulo": "O VISUAL DE SAFIRA DEIXA FRED EM CHOQUE 😂",
+      "pergunta": "A reação dele foi exagerada?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nDepois da especulação sobre Safira, a aparição dela provoca espanto. A reação dele foi exagerada?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Fred",
+        "#Safira"
+      ]
+    },
+    "cena_18": {
+      "titulo": "REBECA NÃO ENTRA NA ZOMBARIA DE FRED",
+      "pergunta": "Você concorda com a postura dela?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nFred critica a roupa de Safira, mas Rebeca prefere não dar importância ao visual. Você concorda com a postura dela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Rebeca",
+        "#Fred"
+      ]
+    },
+    "cena_19": {
+      "titulo": "A TURMA VAI INVESTIGAR O ROUBO DOS OVOS 🔎",
+      "pergunta": "Eles vão conseguir descobrir o culpado?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nOs ataques pelo vilarejo viram uma missão para as crianças. Eles vão conseguir descobrir o culpado?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#OvosRoubados",
+        "#Investigacao"
+      ]
+    },
+    "cena_20": {
+      "titulo": "MANTEIGUINHA ENTRA NA INVESTIGAÇÃO 🐾",
+      "pergunta": "O faro dele vai resolver o mistério?",
+      "legenda": "CAPA_SEGUNDOS=13\n\nA turma conta com o cachorro para seguir pistas nas casas atingidas. O faro dele vai resolver o mistério?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Manteiguinha",
+        "#Investigacao"
+      ]
+    },
+    "cena_21": {
+      "titulo": "FLORA PEDIU DEMISSÃO DO MERCADO! 😰",
+      "pergunta": "Como os sobrinhos vão encontrá-la agora?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nOs meninos chegam tarde e descobrem que a tia não trabalha mais ali. Como os sobrinhos vão encontrá-la agora?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Flora",
+        "#IrmaosVaz"
+      ]
+    },
+    "cena_22": {
+      "titulo": "PEDRO ESTRANHA A ROUPA NOVA DE HELENA",
+      "pergunta": "É preocupação ou ciúme?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nHelena está feliz com o presente, mas Pedro questiona o visual. É preocupação ou ciúme?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Helena",
+        "#Pedro"
+      ]
+    },
+    "cena_23": {
+      "titulo": "MANTEIGUINHA ENCONTRA UMA PISTA 🐾",
+      "pergunta": "O rastro vai levar ao verdadeiro culpado?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nDurante a investigação, o cachorro reconhece um cheiro diferente. O rastro vai levar ao verdadeiro culpado?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Manteiguinha",
+        "#OvosRoubados"
+      ]
+    },
+    "cena_24": {
+      "titulo": "O FARO DE MANTEIGUINHA APONTA O CAMINHO",
+      "pergunta": "Você seguiria a pista dele?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nAs crianças entendem os sinais do cachorro e decidem acompanhar o rastro. Você seguiria a pista dele?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Manteiguinha",
+        "#Investigacao"
+      ]
+    },
+    "cena_25": {
+      "titulo": "REBECA CONHECE RAUL",
+      "pergunta": "Ela tinha motivo para ficar tão nervosa?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nOtávio tranquiliza Rebeca antes de apresentar o amigo. Ela tinha motivo para ficar tão nervosa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Rebeca",
+        "#Raul"
+      ]
+    },
+    "cena_26": {
+      "titulo": "RAUL APROVA A NAMORADA DE OTÁVIO 📸",
+      "pergunta": "Você gostou desse primeiro encontro?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nA apresentação termina com elogios e uma foto para registrar o momento. Você gostou desse primeiro encontro?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Raul",
+        "#Rebeca"
+      ]
+    },
+    "cena_27": {
+      "titulo": "MANTEIGUINHA LEVA TODOS ATÉ OMAR 👀",
+      "pergunta": "O faro dele encontrou o responsável?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nO rastro dos ovos termina no haras e a turma começa a questionar Omar. O faro dele encontrou o responsável?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Manteiguinha",
+        "#Omar"
+      ]
+    },
+    "cena_28": {
+      "titulo": "O SAPATO DE OMAR ESTÁ SUJO DE OVO! 🥚",
+      "pergunta": "Essa marca entrega o que ele fez?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nOmar nega precisar roubar, mas surge uma pista no próprio sapato. Essa marca entrega o que ele fez?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Omar",
+        "#OvosRoubados"
+      ]
+    },
+    "cena_29": {
+      "titulo": "PEDRO TENTA FAZER HELENA TROCAR DE ROUPA",
+      "pergunta": "Ele está passando dos limites?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nAntes de saírem para o haras, Pedro insiste que a roupa pode chamar atenção. Ele está passando dos limites?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Pedro",
+        "#Helena"
+      ]
+    },
+    "cena_30": {
+      "titulo": "PEDRO INSISTE NO JALECO",
+      "pergunta": "Helena deveria aceitar essa exigência?",
+      "legenda": "CAPA_SEGUNDOS=11\n\nA discussão sobre o visual acaba com Pedro entregando um jaleco a Helena. Helena deveria aceitar essa exigência?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Pedro",
+        "#Helena"
+      ]
+    },
+    "cena_31": {
+      "titulo": "SEM OVOS, FIORINA TEME PELOS GELATOS 🍦",
+      "pergunta": "Como ela vai lidar com o prejuízo?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nO roubo afeta as receitas e deixa Fiorina indignada com o responsável. Como ela vai lidar com o prejuízo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Fiorina",
+        "#Gelato"
+      ]
+    },
+    "cena_32": {
+      "titulo": "FIORINA SUSPEITA DO COMPRADOR DAS CASAS",
+      "pergunta": "É uma pista ou uma teoria exagerada?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nFiorina imagina que os ataques façam parte de um plano para esvaziar o vilarejo. É uma pista ou uma teoria exagerada?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Fiorina",
+        "#Construtora"
+      ]
+    },
+    "cena_33": {
+      "titulo": "NINGUÉM ACREDITA NA TEORIA DE FIORINA",
+      "pergunta": "Você também acha que ela foi longe demais?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nA suspeita contra o comprador recebe críticas na conversa. Você também acha que ela foi longe demais?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Fiorina",
+        "#Giuseppe"
+      ]
+    },
+    "cena_34": {
+      "titulo": "OMAR NEGA TUDO MESMO COM A PISTA 😤",
+      "pergunta": "A desculpa do ovo da geladeira convence?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nAs crianças confrontam Omar com o sapato sujo e o rastro seguido por Manteiguinha. A desculpa do ovo da geladeira convence?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Omar",
+        "#Manteiguinha"
+      ]
+    },
+    "cena_35": {
+      "titulo": "OMAR IMPLORA PARA TÉO GUARDAR SEGREDO",
+      "pergunta": "Téo deveria proteger o amigo dessa vez?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nCom medo de perder a festa e decepcionar o pai, Omar pede ajuda. Téo deveria proteger o amigo dessa vez?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Omar",
+        "#Teo"
+      ]
+    },
+    "cena_36": {
+      "titulo": "TÉO PEDE QUE NINGUÉM CONTE NADA",
+      "pergunta": "Ele está se colocando numa situação injusta?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nDepois de conversar com Omar, Téo decide resolver o assunto com a mãe. Ele está se colocando numa situação injusta?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Teo",
+        "#Omar"
+      ]
+    },
+    "cena_37": {
+      "titulo": "ISABELA RECUSA A MARMITA 😬",
+      "pergunta": "Ela tem razão em reclamar ou está exagerando?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nIsabela não quer a comida e pede que avisem Regina e Geraldo. Ela tem razão em reclamar ou está exagerando?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Isabela",
+        "#Marmita"
+      ]
+    },
+    "cena_38": {
+      "titulo": "REGINA MANTÉM MARINA SOB VIGILÂNCIA",
+      "pergunta": "Como Marina pode pedir ajuda a Raul?",
+      "legenda": "CAPA_SEGUNDOS=31\n\nRegina exige aparência de normalidade e manda Sandro ficar atento. Como Marina pode pedir ajuda a Raul?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Regina",
+        "#Marina"
+      ]
+    },
+    "cena_39": {
+      "titulo": "MARINA E OFÉLIO PRECISAM ESCONDER O AMOR ❤️",
+      "pergunta": "Eles vão conseguir manter o disfarce?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nMesmo com o risco, Ofélio fala da vontade de abraçar Marina. Eles vão conseguir manter o disfarce?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Marina",
+        "#Ofelio"
+      ]
+    },
+    "cena_40": {
+      "titulo": "FIORINA TEME QUE O LADRÃO VOLTE",
+      "pergunta": "Téo vai contar o que sabe?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nFiorina fala do prejuízo e continua preocupada com novos roubos. Téo vai contar o que sabe?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Fiorina",
+        "#Teo"
+      ]
+    },
+    "cena_41": {
+      "titulo": "TÉO ASSUME O ROUBO DOS OVOS! 😱",
+      "pergunta": "Ele deveria mentir para proteger Omar?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nDiante da mãe, Téo decide dizer que foi ele quem pegou os ovos. Ele deveria mentir para proteger Omar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Teo",
+        "#OvosRoubados"
+      ]
+    },
+    "cena_42": {
+      "titulo": "UM CISCO VIROU DESCULPA PARA O FLAGRANTE 👀",
+      "pergunta": "Essa explicação vai convencer?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nA aproximação entre Marina e Ofélio é disfarçada como ajuda com um cisco no olho. Essa explicação vai convencer?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Marina",
+        "#Ofelio"
+      ]
+    },
+    "cena_43": {
+      "titulo": "OFÉLIO INVENTA UMA HISTÓRIA PARA DISFARÇAR",
+      "pergunta": "Ele vai conseguir afastar a desconfiança?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nDepois do quase flagrante, Ofélio tenta explicar a proximidade com Marina. Ele vai conseguir afastar a desconfiança?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Ofelio",
+        "#Marina"
+      ]
+    },
+    "cena_44": {
+      "titulo": "ELE NÃO ESPERAVA ESSE LADO DE OFÉLIO",
+      "pergunta": "Você acreditaria nessa conversa?",
+      "legenda": "CAPA_SEGUNDOS=7\n\nA história inventada sobre o romance provoca surpresa no interlocutor. Você acreditaria nessa conversa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Ofelio",
+        "#Disfarce"
+      ]
+    },
+    "cena_45": {
+      "titulo": "MAIS UM MOMENTO DO CAPÍTULO 82",
+      "pergunta": "Qual personagem mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nAcompanhe a continuação de Cúmplices de um Resgate. Qual personagem mais chamou sua atenção?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#JuhhNovelas"
+      ]
+    },
+    "cena_46": {
+      "titulo": "FIORINA NÃO ACREDITA NA CONFISSÃO DE TÉO 💔",
+      "pergunta": "Ela vai perceber que ele está protegendo alguém?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nA mãe tenta entender por que o filho teria roubado e jogado os ovos. Ela vai perceber que ele está protegendo alguém?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Fiorina",
+        "#Teo"
+      ]
+    },
+    "cena_47": {
+      "titulo": "TÉO ACEITA O CASTIGO NO LUGAR DE OMAR",
+      "pergunta": "Ser um bom amigo exige esse sacrifício?",
+      "legenda": "CAPA_SEGUNDOS=33\n\nMesmo pedindo desculpas, Téo recebe uma punição pelo que afirma ter feito. Ser um bom amigo exige esse sacrifício?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Teo",
+        "#Omar"
+      ]
+    },
+    "cena_48": {
+      "titulo": "TÉO SUSTENTA A MENTIRA E VAI DE CASTIGO",
+      "pergunta": "Até quando ele vai esconder a verdade?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nFiorina oferece mais uma chance de contar tudo, mas Téo mantém a versão. Até quando ele vai esconder a verdade?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Teo",
+        "#Fiorina"
+      ]
+    },
+    "cena_49": {
+      "titulo": "FRED QUER MUDAR PARA CONQUISTAR LURDINHA",
+      "pergunta": "Ele precisa mudar ou ser ele mesmo?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nUma conversa com Rebeca faz Fred comparar seu estilo ao de Otávio. Ele precisa mudar ou ser ele mesmo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Fred",
+        "#Lurdinha"
+      ]
+    },
+    "cena_50": {
+      "titulo": "REBECA REVELA O QUE GOSTA EM OTÁVIO ❤️",
+      "pergunta": "Para você, o que mais atrai numa pessoa?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nFred busca dicas de aparência, enquanto Rebeca começa falando do caráter. Para você, o que mais atrai numa pessoa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Rebeca",
+        "#Otavio"
+      ]
+    },
+    "cena_51": {
+      "titulo": "RAUL NÃO VAI EMBORA AMANHÃ! 👀",
+      "pergunta": "A permanência dele pode ajudar Manuela?",
+      "legenda": "CAPA_SEGUNDOS=39\n\nRegina tenta encerrar a visita, mas Raul avisa que ficará mais dias. A permanência dele pode ajudar Manuela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Raul",
+        "#Regina"
+      ]
+    },
+    "cena_52": {
+      "titulo": "ISABELA FINALMENTE RECEBE A COMIDA QUE QUER",
+      "pergunta": "Vale pagar tanto só pela apresentação?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nA refeição chega separada e rende outra discussão no galpão. Vale pagar tanto só pela apresentação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Isabela",
+        "#Galpao"
+      ]
+    },
+    "cena_53": {
+      "titulo": "ISABELA DESCOBRE POR QUE MARINA SAIU",
+      "pergunta": "Ela vai conseguir usar essa informação?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nDepois de insistir, Isabela ouve que Marina foi à mansão por causa da volta de Raul. Ela vai conseguir usar essa informação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#Isabela",
+        "#Marina"
+      ]
+    },
+    "cena_54": {
+      "titulo": "FIM DO CAPÍTULO 82",
+      "pergunta": "Qual foi a cena mais marcante?",
+      "legenda": "CAPA_SEGUNDOS=0\n\nEncerramento do capítulo 82. Qual foi a cena mais marcante?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo82",
+        "#JuhhNovelas"
+      ]
+    }
+  }
+}
