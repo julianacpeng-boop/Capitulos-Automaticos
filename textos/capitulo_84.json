@@ -1,0 +1,522 @@
+{
+  "capitulo": 84,
+  "execucao": "42703585445",
+  "cenas": {
+    "cena_01": {
+      "titulo": "ISABELA NÃO SABE COMO AGIR 😰",
+      "pergunta": "O que você faria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=7\n\nA presença de Raul traz esperança, mas Isabela ainda precisa decidir seu próximo passo. O que você faria nessa situação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Isabela",
+        "#Raul"
+      ]
+    },
+    "cena_02": {
+      "titulo": "REBECA DESABA DEPOIS DA FALSA PISTA",
+      "pergunta": "Como alguém pode brincar com a dor de uma mãe?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nRebeca conta a Otávio que não encontrou nada no endereço e recebe apoio. Como alguém pode brincar com a dor de uma mãe?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Rebeca",
+        "#Otavio"
+      ]
+    },
+    "cena_03": {
+      "titulo": "GERALDO MANDA CAÇAR ISABELA 💔",
+      "pergunta": "Ela vai conseguir escapar dos capangas?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nAo saber da fuga, Geraldo exige que os homens encontrem a menina imediatamente. Ela vai conseguir escapar dos capangas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Geraldo",
+        "#Isabela"
+      ]
+    },
+    "cena_04": {
+      "titulo": "OTÁVIO PEDE CUIDADO COM REBECA",
+      "pergunta": "Ela vai conseguir se recuperar desse golpe?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nOtávio pede a Fred que faça companhia a Rebeca e evite falar de trabalho. Ela vai conseguir se recuperar desse golpe?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Otavio",
+        "#Rebeca"
+      ]
+    },
+    "cena_05": {
+      "titulo": "MARINA AVISA OFÉLIO SOBRE A FUGA 🚨",
+      "pergunta": "Como eles podem ajudar sem se entregar?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nMarina teme o perigo nas ruas e pede que Ofélio fique atento a Isabela. Como eles podem ajudar sem se entregar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Marina",
+        "#Ofelio"
+      ]
+    },
+    "cena_06": {
+      "titulo": "RAUL ESTRANHA A VIGILÂNCIA DE SANDRO",
+      "pergunta": "Esse excesso vai revelar que algo está errado?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nNa gravadora, Raul questiona a necessidade de seguir a menina até o estúdio. Esse excesso vai revelar que algo está errado?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Raul",
+        "#Sandro"
+      ]
+    },
+    "cena_07": {
+      "titulo": "MANUELA DESCOBRE QUE A IRMÃ FUGIU ❤️",
+      "pergunta": "Raul pode ajudar a salvar Isabela?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nA notícia mobiliza o grupo, mas a presença de Sandro dificulta pedir ajuda. Raul pode ajudar a salvar Isabela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Manuela",
+        "#Isabela"
+      ]
+    },
+    "cena_08": {
+      "titulo": "A TURMA COMBINA COMO DISTRAIR SANDRO",
+      "pergunta": "O plano vai dar tempo de falar com Raul?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nEnquanto alguns distraem o segurança, Manuela e Joaquim tentarão conversar com o padrinho. O plano vai dar tempo de falar com Raul?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Joaquim",
+        "#Manuela"
+      ]
+    },
+    "cena_09": {
+      "titulo": "VARGAS ENCONTRA ISABELA E PARTE ATRÁS DELA 👀",
+      "pergunta": "Ela vai conseguir despistá-lo?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nUm barulho chama a atenção do capanga e coloca Isabela em risco novamente. Ela vai conseguir despistá-lo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Vargas",
+        "#Isabela"
+      ]
+    },
+    "cena_10": {
+      "titulo": "REGINA CHEGA E ATRAPALHA A CONVERSA COM RAUL",
+      "pergunta": "Ela percebeu que as crianças iam pedir ajuda?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nQuando Joaquim começa a se aproximar do médico, Regina interfere e manda todos ao ensaio. Ela percebeu que as crianças iam pedir ajuda?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Regina",
+        "#Raul"
+      ]
+    },
+    "cena_11": {
+      "titulo": "VARGAS PERDE ISABELA DE VISTA 🔎",
+      "pergunta": "Ele vai esconder o erro de Regina?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nO capanga teme perder o emprego e pensa em não contar que viu a menina. Ele vai esconder o erro de Regina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Vargas",
+        "#Isabela"
+      ]
+    },
+    "cena_12": {
+      "titulo": "REGINA PEDE QUE PRISCILA ESPIONE OS AMIGOS",
+      "pergunta": "Priscila vai contar os segredos das crianças?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nRegina quer saber o que os colegas conversam com Isabela e pede vigilância. Priscila vai contar os segredos das crianças?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Priscila",
+        "#Regina"
+      ]
+    },
+    "cena_13": {
+      "titulo": "ISABELA PENSA EM IR À POLÍCIA 😱",
+      "pergunta": "O medo por Marina e Manuela vai impedi-la?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nCom fome e frio, Isabela considera denunciar tudo, mas teme a reação de Regina. O medo por Marina e Manuela vai impedi-la?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Isabela",
+        "#Manuela"
+      ]
+    },
+    "cena_14": {
+      "titulo": "OTÁVIO NÃO QUER DEIXAR REBECA SOZINHA",
+      "pergunta": "Um passeio pode aliviar um dia tão difícil?",
+      "legenda": "CAPA_SEGUNDOS=34\n\nDepois da falsa notícia, Otávio propõe uma distração para apoiar Rebeca. Um passeio pode aliviar um dia tão difícil?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Otavio",
+        "#Rebeca"
+      ]
+    },
+    "cena_15": {
+      "titulo": "FELIPE NÃO PERDE A ESPERANÇA EM ISABELA 🤝",
+      "pergunta": "Onde você acha que ela procuraria abrigo?",
+      "legenda": "CAPA_SEGUNDOS=4\n\nOs amigos discutem por que Isabela ainda não os procurou. Onde você acha que ela procuraria abrigo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Felipe",
+        "#Isabela"
+      ]
+    },
+    "cena_16": {
+      "titulo": "ELES INVENTAM UMA DESCULPA PARA PRISCILA IR EMBORA",
+      "pergunta": "Ela acreditou que Flora estava no apartamento?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nOs irmãos fingem precisar dormir para encerrar a visita e proteger o segredo. Ela acreditou que Flora estava no apartamento?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Priscila",
+        "#IrmaosVaz"
+      ]
+    },
+    "cena_17": {
+      "titulo": "OS IRMÃOS ESPERAM PRISCILA SAIR PARA AGIR 🏃",
+      "pergunta": "É seguro sair à procura de Isabela tão tarde?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nAntes de continuar a busca, eles tentam garantir que não serão seguidos. É seguro sair à procura de Isabela tão tarde?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#IrmaosVaz",
+        "#Isabela"
+      ]
+    },
+    "cena_18": {
+      "titulo": "FELIPE CHAMA ISABELA PELAS RUAS",
+      "pergunta": "Eles vão conseguir encontrá-la nessa busca?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nMesmo preocupado, Felipe mantém suas declarações enquanto chama por Isabela. Eles vão conseguir encontrá-la nessa busca?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Felipe",
+        "#Isabela"
+      ]
+    },
+    "cena_19": {
+      "titulo": "A TURMA DECIDE PROCURAR NA GRAVADORA 😤",
+      "pergunta": "Será que Isabela foi até lá?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nSem pista nas ruas, os irmãos pensam em outro lugar onde a amiga poderia estar. Será que Isabela foi até lá?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#IrmaosVaz",
+        "#Gravadora"
+      ]
+    },
+    "cena_20": {
+      "titulo": "REBECA AINDA ACREDITA NO SEU FINAL FELIZ",
+      "pergunta": "Você também torce por esse reencontro?",
+      "legenda": "CAPA_SEGUNDOS=33\n\nDepois do filme, Rebeca fala da filha e da esperança de voltar a sorrir. Você também torce por esse reencontro?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Rebeca",
+        "#Manuela"
+      ]
+    },
+    "cena_21": {
+      "titulo": "REBECA AGRADECE O CARINHO DE OTÁVIO 🤫",
+      "pergunta": "Esse apoio faz diferença nos momentos difíceis?",
+      "legenda": "CAPA_SEGUNDOS=7\n\nO passeio ao cinema termina com gratidão e uma conversa afetuosa. Esse apoio faz diferença nos momentos difíceis?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Rebeca",
+        "#Otavio"
+      ]
+    },
+    "cena_22": {
+      "titulo": "ISABELA É ENCONTRADA DORMINDO NO CINEMA",
+      "pergunta": "Ela deveria aceitar ajuda para voltar?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nAo saber que a menina está sozinha, uma pessoa propõe chamar um segurança. Ela deveria aceitar ajuda para voltar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Isabela",
+        "#Cinema"
+      ]
+    },
+    "cena_23": {
+      "titulo": "ISABELA NÃO ENCONTRA UM LUGAR SEGURO 🕵️",
+      "pergunta": "Como escapar se os capangas vigiam os lugares conhecidos?",
+      "legenda": "CAPA_SEGUNDOS=11\n\nSozinha e sem destino, Isabela tenta se afastar dos locais onde pode ser encontrada. Como escapar se os capangas vigiam os lugares conhecidos?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Isabela",
+        "#FugaDoCativeiro"
+      ]
+    },
+    "cena_24": {
+      "titulo": "A BUSCA TERMINA SEM NOTÍCIAS DE ISABELA",
+      "pergunta": "O que os irmãos ainda podem fazer?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nCansados de procurar, os amigos discutem por que ela não deu nenhum sinal. O que os irmãos ainda podem fazer?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Isabela",
+        "#IrmaosVaz"
+      ]
+    },
+    "cena_25": {
+      "titulo": "ISABELA ACORDA NA CASA DE DESCONHECIDOS 🥶",
+      "pergunta": "Você conseguiria confiar em quem a socorreu?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nDepois de desmaiar, Isabela recebe abrigo e uma bebida quente. Você conseguiria confiar em quem a socorreu?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Isabela",
+        "#Acolhimento"
+      ]
+    },
+    "cena_26": {
+      "titulo": "SACOLINHA AJUDA A MÃE A SUSTENTAR A CASA",
+      "pergunta": "Isabela vai aprender com essa realidade?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nDiogo conta como ganha dinheiro ajudando no mercado, enquanto Benedita explica a dificuldade em casa. Isabela vai aprender com essa realidade?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Sacolinha",
+        "#Benedita"
+      ]
+    },
+    "cena_27": {
+      "titulo": "BENEDITA TEM MEDO DE VOLTAR À CADEIA 🎬",
+      "pergunta": "Como Isabela pode mostrar que não causará problemas?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nA presença da menina preocupa Benedita, que quer encontrar uma forma de mandá-la de volta. Como Isabela pode mostrar que não causará problemas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Benedita",
+        "#Isabela"
+      ]
+    },
+    "cena_28": {
+      "titulo": "MANUELA IMAGINA ISABELA CONTANDO TUDO",
+      "pergunta": "A fuga pode trazer ajuda para quem ficou preso?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nSem notícias da irmã, Manuela pensa na possibilidade de ela procurar a polícia. A fuga pode trazer ajuda para quem ficou preso?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Manuela",
+        "#Isabela"
+      ]
+    },
+    "cena_29": {
+      "titulo": "MANUELA TEME COLOCAR A FAMÍLIA EM PERIGO 💭",
+      "pergunta": "Coragem também é proteger quem se ama?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nA preocupação com os familiares pesa mais do que a vontade de sair do cativeiro. Coragem também é proteger quem se ama?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Manuela",
+        "#Familia"
+      ]
+    },
+    "cena_30": {
+      "titulo": "OMAR PLANEJA HUMILHAR MATEUS",
+      "pergunta": "Ele não aprendeu nada com as próprias desculpas?",
+      "legenda": "CAPA_SEGUNDOS=33\n\nDepois da punição pelos ovos, Omar pensa em uma vingança e o relógio entra no plano. Ele não aprendeu nada com as próprias desculpas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Omar",
+        "#Mateus"
+      ]
+    },
+    "cena_31": {
+      "titulo": "LOLA QUER USAR A TOUCA DA MÃE 🎮",
+      "pergunta": "Você também queria experimentar tudo quando era criança?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nCuriosa com o tratamento capilar, Lola insiste para participar. Você também queria experimentar tudo quando era criança?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Lola",
+        "#Alicia"
+      ]
+    },
+    "cena_32": {
+      "titulo": "MÃE E FILHA VÃO DE TOUCA AJUDAR OS MENINOS",
+      "pergunta": "Meire vai interpretar isso de que jeito?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nAlícia aceita a companhia de Lola para limpar o apartamento sem interromper o tratamento. Meire vai interpretar isso de que jeito?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Alicia",
+        "#Lola"
+      ]
+    },
+    "cena_33": {
+      "titulo": "OMAR PRESSIONA A AMIGA A PARTICIPAR DA ARMAÇÃO 🌙",
+      "pergunta": "Ela deveria recusar mesmo sendo amiga dele?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nOmar usa a amizade para exigir ajuda em sua vingança contra Mateus. Ela deveria recusar mesmo sendo amiga dele?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Omar",
+        "#ArmacaoContraMateus"
+      ]
+    },
+    "cena_34": {
+      "titulo": "O PLANO DE OMAR É COLOCADO EM PRÁTICA",
+      "pergunta": "Alguém vai flagrar a armação?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nEntre pressa e medo de serem vistos, a ordem é agir perto da carteira do colega. Alguém vai flagrar a armação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Omar",
+        "#Mateus"
+      ]
+    },
+    "cena_35": {
+      "titulo": "LOLA AJUDA A MÃE COM AS PRESILHAS 📣",
+      "pergunta": "Você gosta desses momentos entre as duas?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nMãe e filha se ajudam enquanto cuidam do tratamento. Você gosta desses momentos entre as duas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Lola",
+        "#Alicia"
+      ]
+    },
+    "cena_36": {
+      "titulo": "MEIRE CHAMA DINHO PARA OLHAR O TELESCÓPIO",
+      "pergunta": "O que ela acha que descobriu desta vez?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nA vigilância interrompe até a rotina de banho de Dinho. O que ela acha que descobriu desta vez?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Meire",
+        "#Dinho"
+      ]
+    },
+    "cena_37": {
+      "titulo": "MEIRE CONFUNDE TOUCA COM MÁQUINA DE LAVAGEM CEREBRAL 🔍",
+      "pergunta": "Até onde vai essa imaginação?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nO tratamento de Alícia e Lola vira uma nova teoria sobre os irmãos Vaz. Até onde vai essa imaginação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Meire",
+        "#Alicia"
+      ]
+    },
+    "cena_38": {
+      "titulo": "O COMENTÁRIO SOBRE A CRENÇA CONTINUA",
+      "pergunta": "Você também está acompanhando essa confusão?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nUm comentário retoma a situação do trecho anterior. Você também está acompanhando essa confusão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#JuhhNovelas"
+      ]
+    },
+    "cena_39": {
+      "titulo": "OMAR INVENTA QUE SEU RELÓGIO SUMIU 🙏",
+      "pergunta": "A professora vai perceber a intenção dele?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nOmar relata o suposto desaparecimento e tenta direcionar a suspeita para Mateus. A professora vai perceber a intenção dele?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Omar",
+        "#Relogio"
+      ]
+    },
+    "cena_40": {
+      "titulo": "O RELÓGIO APARECE NA MOCHILA DE MATEUS",
+      "pergunta": "Como ele vai provar que é uma armação?",
+      "legenda": "CAPA_SEGUNDOS=40\n\nA professora encontra o objeto durante a verificação e Omar acusa o colega. Como ele vai provar que é uma armação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Mateus",
+        "#Relogio"
+      ]
+    },
+    "cena_41": {
+      "titulo": "ALÍCIA EXPLICA A TOUCA, MAS MEIRE DESCONFIA ❤️",
+      "pergunta": "Ela vai aceitar uma explicação tão simples?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nAté uma oferta de touca emprestada provoca receio em Meire. Ela vai aceitar uma explicação tão simples?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Alicia",
+        "#Meire"
+      ]
+    },
+    "cena_42": {
+      "titulo": "MATEUS JURA QUE NÃO ROUBOU O RELÓGIO",
+      "pergunta": "Como provar a inocência diante de uma falsa evidência?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nAbalado, Mateus diz que alguém colocou o objeto na mochila de propósito. Como provar a inocência diante de uma falsa evidência?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Mateus",
+        "#ProfessoraFlavia"
+      ]
+    },
+    "cena_43": {
+      "titulo": "MATEUS TEME FICAR MARCADO COMO LADRÃO 🎟️",
+      "pergunta": "Só recuperar o relógio resolve essa injustiça?",
+      "legenda": "CAPA_SEGUNDOS=13\n\nMesmo com apoio da professora, Mateus se preocupa com o que os outros pensarão. Só recuperar o relógio resolve essa injustiça?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Mateus",
+        "#Injustica"
+      ]
+    },
+    "cena_44": {
+      "titulo": "FLORA DECIDE VOLTAR PARA OS SOBRINHOS",
+      "pergunta": "Ela vai finalmente assumir sua responsabilidade?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nFlora diz ao namorado que não pode continuar deixando as crianças sozinhas. Ela vai finalmente assumir sua responsabilidade?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Flora",
+        "#IrmaosVaz"
+      ]
+    },
+    "cena_45": {
+      "titulo": "O NAMORADO DE FLORA TENTA IMPEDIR A VOLTA 😟",
+      "pergunta": "Ela deve aceitar que ele rejeite as crianças?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nEle trata a ajuda da vizinha como solução e pressiona Flora a priorizar o casal. Ela deve aceitar que ele rejeite as crianças?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Flora",
+        "#IrmaosVaz"
+      ]
+    },
+    "cena_46": {
+      "titulo": "OMAR ACUSA MATEUS NA FRENTE DE LUIZ",
+      "pergunta": "Como um pai reage a uma acusação dessas?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nOmar leva a história do relógio ao haras e surpreende o pai do colega. Como um pai reage a uma acusação dessas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Omar",
+        "#Luiz"
+      ]
+    },
+    "cena_47": {
+      "titulo": "LUIZ DEFENDE A HONESTIDADE DOS FILHOS 😔",
+      "pergunta": "Você também enfrentaria essa acusação?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nOmar insiste na ofensa, mas Luiz afirma que não existe ladrão em sua casa. Você também enfrentaria essa acusação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo84",
+        "#Luiz",
+        "#Mateus"
+      ]
+    }
+  }
+}
