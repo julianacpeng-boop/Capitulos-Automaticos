@@ -1,0 +1,567 @@
+{
+  "capitulo": 88,
+  "execucao": "43383413715",
+  "cenas": {
+    "cena_01": {
+      "titulo": "REGINA COBRA A MISSÃO DE PRISCILA E PROMETE AJUDAR NO SEU SONHO 🤫",
+      "pergunta": "Priscila vai continuar confiando em Regina?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nApós a briga, Regina lembra que Priscila precisa descobrir os segredos da amiga. Priscila vai continuar confiando em Regina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Regina",
+        "#Priscila"
+      ]
+    },
+    "cena_02": {
+      "titulo": "MEIRE CHAMA BARTOLOMEU PARA O LEITE MAS O GATO NÃO APARECE",
+      "pergunta": "Onde será que Bartolomeu foi parar?",
+      "legenda": "CAPA_SEGUNDOS=7\n\nA rotina da manhã muda quando Meire percebe a ausência do gato. Onde será que Bartolomeu foi parar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Meire",
+        "#Bartolomeu"
+      ]
+    },
+    "cena_03": {
+      "titulo": "DINHO TENTA SAIR MAS A TIA O CONVOCA PARA PROCURAR BARTOLOMEU 🐱",
+      "pergunta": "Dinho consegue esconder o que sabe?",
+      "legenda": "CAPA_SEGUNDOS=43\n\nMeire não aceita as desculpas e exige a ajuda do sobrinho nas buscas. Dinho consegue esconder o que sabe?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Dinho",
+        "#Bartolomeu"
+      ]
+    },
+    "cena_04": {
+      "titulo": "OTÁVIO SE DECLARA E DIZ QUE SE APAIXONA MAIS A CADA OLHAR",
+      "pergunta": "Você gosta desse casal?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nDepois do mal-estar de Rebeca, Otávio a enche de elogios e carinho. Você gosta desse casal?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Otavio",
+        "#Rebeca"
+      ]
+    },
+    "cena_05": {
+      "titulo": "OS AMIGOS PROCURAM OFÉLIO E OFERECEM AJUDA PARA SALVAR ISABELA 🤝",
+      "pergunta": "O plano das crianças vai dar certo?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nAs crianças querem participar da fuga e explicam por que podem ser úteis. O plano das crianças vai dar certo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Ofelio",
+        "#Isabela"
+      ]
+    },
+    "cena_06": {
+      "titulo": "MATEUS CONTA QUE OUVIU OMAR PLANEJAR UMA HUMILHAÇÃO NA FESTA",
+      "pergunta": "A banda deveria aceitar esse alerta?",
+      "legenda": "CAPA_SEGUNDOS=13\n\nA conversa sobre o show muda quando Mateus revela o que escutou. A banda deveria aceitar esse alerta?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Mateus",
+        "#Omar"
+      ]
+    },
+    "cena_07": {
+      "titulo": "MATEUS SE MAGOA POR NÃO SER LEVADO A SÉRIO E VAI EMBORA 😔",
+      "pergunta": "O amigo deveria ter acreditado nele?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nO aviso sobre Omar acaba em desentendimento e Mateus decide se afastar. O amigo deveria ter acreditado nele?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Mateus",
+        "#Amizade"
+      ]
+    },
+    "cena_08": {
+      "titulo": "FLÁVIA E AUGUSTO SE ANIMAM COM A PEÇA SOBRE DAVI E GOLIAS",
+      "pergunta": "Você assistiria a essa apresentação?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nA parceria avança e os dois conversam sobre os ensinamentos da história. Você assistiria a essa apresentação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Flavia",
+        "#Augusto"
+      ]
+    },
+    "cena_09": {
+      "titulo": "A FESTA DE OMAR VIRA ASSUNTO E A ESCOLHA DO VESTIDO JÁ COMEÇA 👗",
+      "pergunta": "Você também planeja a roupa com antecedência?",
+      "legenda": "CAPA_SEGUNDOS=40\n\nA expectativa pela festa movimenta a conversa e a busca por um tecido especial. Você também planeja a roupa com antecedência?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Festa",
+        "#Vestido"
+      ]
+    },
+    "cena_10": {
+      "titulo": "UM TECIDO NOVO CHAMA ATENÇÃO E VIRA APOSTA PARA O LOOK DA FESTA",
+      "pergunta": "Você escolheria esse tecido para uma festa?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nEntre elogios e conversa sobre descontos, a escolha do vestido ganha destaque. Você escolheria esse tecido para uma festa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Moda",
+        "#Festa"
+      ]
+    },
+    "cena_11": {
+      "titulo": "A PARCERIA DE FLÁVIA E AUGUSTO VIRA FOFOCA ENTRE AS MORADORAS 👀",
+      "pergunta": "Por que transformar um projeto em fofoca?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nDepois da conversa sobre tecido, surge o comentário sobre a professora e o pastor. Por que transformar um projeto em fofoca?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Flavia",
+        "#Augusto"
+      ]
+    },
+    "cena_12": {
+      "titulo": "REBECA SENTE QUE ESTÁ SENDO OBSERVADA ENQUANTO PASSEIA COM OTÁVIO",
+      "pergunta": "Ela deveria levar essa sensação a sério?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nO plano de um lanche é interrompido pela impressão de que alguém os observa. Ela deveria levar essa sensação a sério?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Rebeca",
+        "#Otavio"
+      ]
+    },
+    "cena_13": {
+      "titulo": "OTÁVIO ELOGIA REBECA E TENTA TRANQUILIZÁ-LA SOBRE OS OLHARES ❤️",
+      "pergunta": "O carinho dele consegue acalmar Rebeca?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nOtávio diz que a beleza de Rebeca atrai olhares e valoriza a companhia dela. O carinho dele consegue acalmar Rebeca?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Otavio",
+        "#Rebeca"
+      ]
+    },
+    "cena_14": {
+      "titulo": "O SUMIÇO DE BARTOLOMEU DEIXA MEIRE CADA VEZ MAIS DESCONFIADA",
+      "pergunta": "Quem Meire vai culpar pelo desaparecimento?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nSem encontrar o gato no condomínio, Meire estranha o que aconteceu. Quem Meire vai culpar pelo desaparecimento?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Meire",
+        "#Bartolomeu"
+      ]
+    },
+    "cena_15": {
+      "titulo": "MEIRE SUSPEITA DAS CRIANÇAS E DINHO SÓ AUMENTA A CONFUSÃO 🐾",
+      "pergunta": "As crianças vão acabar levando a culpa?",
+      "legenda": "CAPA_SEGUNDOS=33\n\nAs provocações de Dinho não ajudam a tia, que procura explicações para o sumiço. As crianças vão acabar levando a culpa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Meire",
+        "#Dinho"
+      ]
+    },
+    "cena_16": {
+      "titulo": "MEIRE DECIDE PROCURAR LOLA E ACHA QUE O PEIXE PODE SER A PISTA",
+      "pergunta": "Essa visita vai resolver o mistério?",
+      "legenda": "CAPA_SEGUNDOS=34\n\nConvencida de que Bartolomeu está vivo, Meire muda o rumo da busca. Essa visita vai resolver o mistério?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Meire",
+        "#Lola"
+      ]
+    },
+    "cena_17": {
+      "titulo": "OFÉLIO CHEGA E OS AMIGOS TORCEM PARA O RESGATE DE ISABELA DAR CERTO 🙏",
+      "pergunta": "Eles vão conseguir voltar sem serem vistos?",
+      "legenda": "CAPA_SEGUNDOS=31\n\nAs crianças desconfiam do silêncio dos vilões e aguardam notícias de Isabela. Eles vão conseguir voltar sem serem vistos?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Ofelio",
+        "#Isabela"
+      ]
+    },
+    "cena_18": {
+      "titulo": "SANDRO OBEDECE À ORDEM DE REGINA E LEVA MARINA DE VOLTA AO GALPÃO",
+      "pergunta": "Como Isabela será ajudada sem Marina?",
+      "legenda": "CAPA_SEGUNDOS=11\n\nMarina tenta argumentar que é mais útil na mansão, mas Sandro insiste em levá-la. Como Isabela será ajudada sem Marina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Marina",
+        "#Sandro"
+      ]
+    },
+    "cena_19": {
+      "titulo": "GERALDO RECEBE AS FOTOS E QUER ESCONDER DE REGINA SEU PASSADO 😨",
+      "pergunta": "Qual segredo Geraldo teme que Regina descubra?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nDepois da entrega de Navarro, Geraldo demonstra preocupação em não deixar rastros. Qual segredo Geraldo teme que Regina descubra?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Geraldo",
+        "#Segredo"
+      ]
+    },
+    "cena_20": {
+      "titulo": "REGINA PESQUISA A EMPRESA DE OTÁVIO E RECONHECE A MÃE DE PRISCILA",
+      "pergunta": "Essa descoberta vai mudar os planos de Regina?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nA pesquisa sobre a empresa leva Regina ao nome e ao trabalho de Safira. Essa descoberta vai mudar os planos de Regina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Regina",
+        "#Safira"
+      ]
+    },
+    "cena_21": {
+      "titulo": "ISABELA REENCONTRA OS AMIGOS MAS BARRA O ABRAÇO POR CAUSA DA PERNA 🥹",
+      "pergunta": "Você também estava esperando esse reencontro?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nOfélio leva companhia de confiança e Isabela mostra seu jeito exigente. Você também estava esperando esse reencontro?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Isabela",
+        "#Amizade"
+      ]
+    },
+    "cena_22": {
+      "titulo": "OS AMIGOS AGRADECEM A BENEDITA POR TER CUIDADO DE ISABELA",
+      "pergunta": "Benedita merece todo esse reconhecimento?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nAs apresentações são feitas e Isabela admite que sentiu saudade dos amigos. Benedita merece todo esse reconhecimento?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Benedita",
+        "#Isabela"
+      ]
+    },
+    "cena_23": {
+      "titulo": "MEIRE INVADE A CONVERSA E ATÉ INTERROGA O PEIXE SOBRE BARTOLOMEU 😂",
+      "pergunta": "Você também riu dessa investigação?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nNa casa de Lola, Meire insiste em encontrar uma pista para o paradeiro do gato. Você também riu dessa investigação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Meire",
+        "#Bartolomeu"
+      ]
+    },
+    "cena_24": {
+      "titulo": "MEIRE SE EMOCIONA AO DIZER QUE BARTOLOMEU É SEU VERDADEIRO AMIGO",
+      "pergunta": "O que você faria para ajudar Meire?",
+      "legenda": "CAPA_SEGUNDOS=7\n\nA preocupação com o gato revela o carinho de Meire, que continua procurando. O que você faria para ajudar Meire?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Meire",
+        "#Bartolomeu"
+      ]
+    },
+    "cena_25": {
+      "titulo": "MARINA ENFRENTA OS CAPANGAS E COBRA QUE PROCUREM UM TRABALHO HONESTO 😤",
+      "pergunta": "Eles vão se importar com as palavras de Marina?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nTrancada no galpão, Marina critica as atitudes dos homens que a mantêm presa. Eles vão se importar com as palavras de Marina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Marina",
+        "#Galpao"
+      ]
+    },
+    "cena_26": {
+      "titulo": "AS FOFOCAS VIRAM COBRANÇA E FLÁVIA E AUGUSTO PRECISAM SE EXPLICAR",
+      "pergunta": "Eles deveriam dar satisfação sobre essa parceria?",
+      "legenda": "CAPA_SEGUNDOS=36\n\nO trabalho na peça é questionado por moradoras que insinuam um relacionamento. Eles deveriam dar satisfação sobre essa parceria?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Flavia",
+        "#Augusto"
+      ]
+    },
+    "cena_27": {
+      "titulo": "AUGUSTO DEFENDE FLÁVIA E REAFIRMA SEU RESPEITO PELA IGREJA ⛪",
+      "pergunta": "As explicações vão encerrar a fofoca?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nDiante das acusações, o pastor nega qualquer caso e defende a professora. As explicações vão encerrar a fofoca?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Augusto",
+        "#Flavia"
+      ]
+    },
+    "cena_28": {
+      "titulo": "NINA ESCOLHE COM CLARA UM TECIDO PARA IR À FESTA DE ANIVERSÁRIO",
+      "pergunta": "Qual modelo de vestido você imaginou?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nConvidada a fazer o bolo, Nina também quer se vestir bem para o evento. Qual modelo de vestido você imaginou?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Nina",
+        "#Clara"
+      ]
+    },
+    "cena_29": {
+      "titulo": "SACOLINHA PEDE QUE ISABELA FIQUE MAS ELA DECIDE VOLTAR PARA AJUDAR 🥺",
+      "pergunta": "Isabela deveria continuar em segurança ali?",
+      "legenda": "CAPA_SEGUNDOS=34\n\nMesmo com dor na perna, Isabela quer voltar para ajudar quem está em perigo. Isabela deveria continuar em segurança ali?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Isabela",
+        "#Sacolinha"
+      ]
+    },
+    "cena_30": {
+      "titulo": "ISABELA SE DESPEDE DE BENEDITA E LEMBRA O QUE APRENDEU COM ELA",
+      "pergunta": "Qual foi a maior mudança de Isabela nessa visita?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nAntes de partir, Isabela agradece e fala sobre a importância de dividir. Qual foi a maior mudança de Isabela nessa visita?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Isabela",
+        "#Benedita"
+      ]
+    },
+    "cena_31": {
+      "titulo": "OMAR PROMETE FIGURINOS SURPRESA PARA A BANDA E ESCONDE O TEMA 🎭",
+      "pergunta": "Você confiaria nessa surpresa de Omar?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nA banda fica curiosa com as roupas e Mateus reaparece para o ensaio. Você confiaria nessa surpresa de Omar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Omar",
+        "#Banda"
+      ]
+    },
+    "cena_32": {
+      "titulo": "O NOVO SISTEMA DE SEGURANÇA DÁ UM PRAZO CURTO PARA O RESGATE",
+      "pergunta": "Eles vão sair antes de os portões trancarem?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nOfélio orienta o grupo sobre a passagem secreta e avisa que é preciso agir rápido. Eles vão sair antes de os portões trancarem?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Ofelio",
+        "#Resgate"
+      ]
+    },
+    "cena_33": {
+      "titulo": "OFÉLIO DESCOBRE QUE MARINA FOI LEVADA E TEME POR ISABELA 😨",
+      "pergunta": "Como ele vai cuidar de Isabela sem a ajuda dela?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nA explicação sobre a ausência de Marina esconde um problema sério para o plano. Como ele vai cuidar de Isabela sem a ajuda dela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Ofelio",
+        "#Marina"
+      ]
+    },
+    "cena_34": {
+      "titulo": "JOAQUIM E FELIPE AJUDAM ISABELA A ANDAR SEM CHAMAR ATENÇÃO",
+      "pergunta": "Felipe vai conseguir manter a discrição?",
+      "legenda": "CAPA_SEGUNDOS=39\n\nEnquanto os empregados conversam, o grupo tenta avançar escondido pela mansão. Felipe vai conseguir manter a discrição?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Joaquim",
+        "#Felipe"
+      ]
+    },
+    "cena_35": {
+      "titulo": "ISABELA VOLTA AO PORÃO E LAMENTA TER DE FICAR LONGE DE MARINA 💔",
+      "pergunta": "A volta à mansão foi a melhor escolha?",
+      "legenda": "CAPA_SEGUNDOS=37\n\nO plano leva Isabela ao esconderijo, mas a falta de Marina preocupa a todos. A volta à mansão foi a melhor escolha?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Isabela",
+        "#Marina"
+      ]
+    },
+    "cena_36": {
+      "titulo": "ISABELA DIZ QUE VAI SE RECUPERAR E DESMASCARAR REGINA",
+      "pergunta": "Você acredita que ela conseguirá revelar tudo?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nFelipe oferece proteção, mas Isabela afirma que precisa recuperar a perna e agir. Você acredita que ela conseguirá revelar tudo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Isabela",
+        "#Regina"
+      ]
+    },
+    "cena_37": {
+      "titulo": "FLÁVIA É COBRADA PELO TIO POR SUPOSTO CASO COM O PASTOR AUGUSTO 😟",
+      "pergunta": "Ela vai conseguir explicar a verdade ao tio?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nOs comentários chegam à família de Flávia e ela precisa enfrentar uma nova cobrança. Ela vai conseguir explicar a verdade ao tio?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Flavia",
+        "#Fofoca"
+      ]
+    },
+    "cena_38": {
+      "titulo": "SANDRO BLOQUEIA A SAÍDA E OS MENINOS ESPERAM UMA CHANCE DE FUGIR",
+      "pergunta": "Será que ainda dá tempo de alcançar o portão?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nPresos na mansão pela presença de Sandro, os amigos precisam escolher o momento certo. Será que ainda dá tempo de alcançar o portão?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Sandro",
+        "#Joaquim"
+      ]
+    },
+    "cena_39": {
+      "titulo": "FLÁVIA EXPLICA QUE SÓ ESTÁ AJUDANDO AUGUSTO COM A PEÇA DAS CRIANÇAS 🎭",
+      "pergunta": "O tio deveria apoiar essa iniciativa?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nA professora defende o projeto e questiona por que todos enxergam maldade na parceria. O tio deveria apoiar essa iniciativa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Flavia",
+        "#Teatro"
+      ]
+    },
+    "cena_40": {
+      "titulo": "JOAQUIM E FELIPE TENTAM PASSAR SEM ACORDAR SANDRO PARA ESCAPAR",
+      "pergunta": "Você arriscaria passar por ele dormindo?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nOs meninos veem uma oportunidade e tentam sair sem chamar atenção. Você arriscaria passar por ele dormindo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Joaquim",
+        "#Felipe"
+      ]
+    },
+    "cena_41": {
+      "titulo": "O PORTÃO TRANCA E JOAQUIM E FELIPE TERÃO DE DORMIR NA MANSÃO 🔒",
+      "pergunta": "Onde eles podem ficar sem serem descobertos?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nO prazo acaba e Ofélio orienta os dois a permanecer escondidos até amanhecer. Onde eles podem ficar sem serem descobertos?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Joaquim",
+        "#Felipe"
+      ]
+    },
+    "cena_42": {
+      "titulo": "JÚLIA RECEBE A MENSAGEM E DESCOBRE QUE OS IRMÃOS FICARAM PRESOS",
+      "pergunta": "Você também ficaria preocupada no lugar de Júlia?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nA notícia sobre a noite na mansão aumenta a ansiedade dos amigos que ficaram fora. Você também ficaria preocupada no lugar de Júlia?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Julia",
+        "#Irmaos"
+      ]
+    },
+    "cena_43": {
+      "titulo": "GERALDO DIZ QUE MANTER MARINA PRESA IMPEDE ISABELA DE PEDIR AJUDA 😡",
+      "pergunta": "Isabela vai encontrar uma saída para esse impasse?",
+      "legenda": "CAPA_SEGUNDOS=42\n\nNa conversa com Regina, Geraldo aponta Marina como o motivo para o silêncio de Isabela. Isabela vai encontrar uma saída para esse impasse?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Geraldo",
+        "#Marina"
+      ]
+    },
+    "cena_44": {
+      "titulo": "REGINA TEME O ENCONTRO DE MÃE E FILHA MESMO COM MARINA REFÉM",
+      "pergunta": "O medo de Regina mostra que o plano está falhando?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nA ameaça contra Marina não elimina a preocupação de Regina com Rebeca na cidade. O medo de Regina mostra que o plano está falhando?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Regina",
+        "#Rebeca"
+      ]
+    },
+    "cena_45": {
+      "titulo": "SOZINHA NO ESCRITÓRIO REBECA SE PERGUNTA SE TERÁ A FILHA DE VOLTA 💔",
+      "pergunta": "Rebeca está perto de reencontrar Manuela?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nMesmo com o apoio de Otávio, a saudade da filha continua pesando para Rebeca. Rebeca está perto de reencontrar Manuela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Rebeca",
+        "#Manuela"
+      ]
+    },
+    "cena_46": {
+      "titulo": "A PRESENÇA DAS MENINAS NA CIDADE CONTINUA NO CENTRO DA PREOCUPAÇÃO",
+      "pergunta": "Qual encontro pode mudar o rumo dessa história?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nO assunto das meninas na cidade permanece em destaque neste trecho. Qual encontro pode mudar o rumo dessa história?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Gemeas",
+        "#Segredo"
+      ]
+    },
+    "cena_47": {
+      "titulo": "O ASSUNTO DAS MENINAS NA CIDADE MANTÉM A TENSÃO ENTRE OS ENVOLVIDOS 👀",
+      "pergunta": "Você acha que esse segredo vai durar muito?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nEste trecho retoma a referência às meninas na cidade e ao risco de novos encontros. Você acha que esse segredo vai durar muito?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Gemeas",
+        "#Misterio"
+      ]
+    },
+    "cena_48": {
+      "titulo": "OS MENINOS ESCAPAM DE SER VISTOS E DECIDEM VOLTAR AO PORÃO",
+      "pergunta": "Eles deveriam ir direto para o esconderijo?",
+      "legenda": "CAPA_SEGUNDOS=37\n\nDepois de passarem perto do perigo, Joaquim e Felipe pensam em passar a noite com Isa. Eles deveriam ir direto para o esconderijo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Joaquim",
+        "#Felipe"
+      ]
+    },
+    "cena_49": {
+      "titulo": "A FOME FAZ FELIPE CONVENCER JOAQUIM A ARRISCAR UM LANCHE ESCONDIDO 🍽️",
+      "pergunta": "Vale a pena correr esse risco por comida?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nNa cozinha da mansão, Felipe insiste em comer enquanto Ofélio conta novidades sobre o plano. Vale a pena correr esse risco por comida?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Felipe",
+        "#Joaquim"
+      ]
+    },
+    "cena_50": {
+      "titulo": "MANUELA DESCOBRE QUE A IRMÃ ESTÁ FERIDA E QUE MARINA FOI LEVADA",
+      "pergunta": "Como Manuela pode ajudar Isabela sem levantar suspeitas?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nOfélio explica as duas complicações e Manuela percebe que precisa ajudar a irmã. Como Manuela pode ajudar Isabela sem levantar suspeitas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Manuela",
+        "#Isabela"
+      ]
+    },
+    "cena_51": {
+      "titulo": "JOAQUIM E FELIPE VEEM MAIS COMIDA E QUEREM PEGAR UM PEDAÇO ESCONDIDOS 🍰",
+      "pergunta": "Esse lanche ainda vai entregar os dois?",
+      "legenda": "CAPA_SEGUNDOS=11\n\nMesmo prometendo discrição, os amigos continuam tentados pela comida da cozinha. Esse lanche ainda vai entregar os dois?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo88",
+        "#Joaquim",
+        "#Felipe"
+      ]
+    }
+  }
+}
