@@ -1,0 +1,523 @@
+{
+  "capitulo": 91,
+  "execucao": "43733199926",
+  "cenas": {
+    "cena_01": {
+      "titulo": "MEIRE REENCONTRA BARTOLOMEU E NÃO CONSEGUE ESCONDER A SAUDADE 🐱",
+      "pergunta": "Você também ficou feliz com esse reencontro?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nDepois de tanta procura, Meire comemora ter o gato de volta. Você também ficou feliz com esse reencontro?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Meire",
+        "#Bartolomeu"
+      ]
+    },
+    "cena_02": {
+      "titulo": "ISABELA COBRA NOTÍCIAS DE MARINA E PEDE QUE OFÉLIO AVISE QUE ELA ESTÁ SEGURA",
+      "pergunta": "Como Ofélio vai conseguir falar com Marina?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nA falta de contato com o galpão preocupa Isabela e Ofélio. Como Ofélio vai conseguir falar com Marina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Isabela",
+        "#Marina"
+      ]
+    },
+    "cena_03": {
+      "titulo": "JOEL REÚNE OS CONVIDADOS E CONTA A HISTÓRIA DO PRESENTE QUE RECEBEU DO PAI 🌱",
+      "pergunta": "Uma lembrança simples pode mudar uma vida?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nAntes de anunciar o presente de Omar, Joel relembra o esforço do pai e um saco de sementes. Uma lembrança simples pode mudar uma vida?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Joel",
+        "#Aniversario"
+      ]
+    },
+    "cena_04": {
+      "titulo": "JOEL PRESENTEIA OMAR COM DOURADO E PEDE DEDICAÇÃO AO CAVALO",
+      "pergunta": "Omar vai dar ao animal o cuidado que ele merece?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nO presente de aniversário impressiona e Joel explica o que espera do filho. Omar vai dar ao animal o cuidado que ele merece?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Omar",
+        "#Dourado"
+      ]
+    },
+    "cena_05": {
+      "titulo": "SAFIRA ENCONTRA REBECA NA EMPRESA E PROVOCA SOBRE O RELACIONAMENTO COM OTÁVIO 👀",
+      "pergunta": "Safira deveria respeitar a busca de Rebeca pela filha?",
+      "legenda": "CAPA_SEGUNDOS=37\n\nRebeca explica que foi ligar para mães de crianças desaparecidas, mas recebe provocações. Safira deveria respeitar a busca de Rebeca pela filha?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Safira",
+        "#Rebeca"
+      ]
+    },
+    "cena_06": {
+      "titulo": "REBECA ENFRENTA SAFIRA E DIZ QUE NÃO VAI ACEITAR SUAS PROVOCAÇÕES",
+      "pergunta": "Você gostou da resposta de Rebeca?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nOs ataques de Safira à busca pela filha fazem Rebeca reagir e encerrar a conversa. Você gostou da resposta de Rebeca?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Rebeca",
+        "#Safira"
+      ]
+    },
+    "cena_07": {
+      "titulo": "OMAR PEDE PARA MONTAR DOURADO MAS JOEL AVISA QUE O CAVALO AINDA É ARISCO 🐎",
+      "pergunta": "Ele vai respeitar a ordem do pai?",
+      "legenda": "CAPA_SEGUNDOS=41\n\nDepois de tratar os amigos mal, Omar insiste em montar e recebe uma negativa. Ele vai respeitar a ordem do pai?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Omar",
+        "#Joel"
+      ]
+    },
+    "cena_08": {
+      "titulo": "SAFIRA PERCEBE AS CONTAS FORA DO LUGAR E SUSPEITA QUE FREDERICO MEXEU NELAS",
+      "pergunta": "Essa desconfiança pode revelar o telefonema para Priscila?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nAs contas deixadas de outro jeito chamam a atenção de Safira. Essa desconfiança pode revelar o telefonema para Priscila?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Safira",
+        "#Frederico"
+      ]
+    },
+    "cena_09": {
+      "titulo": "A QUALIDADE DO SORVETE DE FIORINA RECEBE ELOGIOS DURANTE A FESTA 🍦",
+      "pergunta": "Qual sabor você escolheria nessa barraca?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nO sorvete faz sucesso e rende uma comparação com os sabores da Itália. Qual sabor você escolheria nessa barraca?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Fiorina",
+        "#Sorvete"
+      ]
+    },
+    "cena_10": {
+      "titulo": "SURGE A IDEIA DE FAZER ENTREGAS PARA A SORVETERIA CHEGAR A MAIS CLIENTES",
+      "pergunta": "Você pediria um sorvete por entrega?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nA distância da sorveteria inspira uma conversa sobre um novo serviço. Você pediria um sorvete por entrega?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Sorveteria",
+        "#Entregas"
+      ]
+    },
+    "cena_11": {
+      "titulo": "MEIRE MIMA BARTOLOMEU E DESCOBRE QUE UM RAPAZ O DEIXOU NO PET SHOP 🐾",
+      "pergunta": "Essa pista vai levar Meire até Dinho?",
+      "legenda": "CAPA_SEGUNDOS=34\n\nO carinho pelo gato é interrompido por uma informação sobre o desaparecimento. Essa pista vai levar Meire até Dinho?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Meire",
+        "#Bartolomeu"
+      ]
+    },
+    "cena_12": {
+      "titulo": "MEIRE QUESTIONA DINHO SOBRE O GATO E ELE NEGA QUALQUER ENVOLVIMENTO",
+      "pergunta": "Dinho vai conseguir sustentar essa desculpa?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nA história do rapaz do pet shop faz Meire perguntar diretamente ao sobrinho. Dinho vai conseguir sustentar essa desculpa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Dinho",
+        "#Meire"
+      ]
+    },
+    "cena_13": {
+      "titulo": "OMAR OFERECE A TÉO A PRIMEIRA VOLTA EM DOURADO APESAR DO AVISO DE PERIGO 😨",
+      "pergunta": "Téo deveria aceitar esse convite?",
+      "legenda": "CAPA_SEGUNDOS=34\n\nMateus alerta que o cavalo é arisco, mas Omar apresenta a montaria como um gesto de amizade. Téo deveria aceitar esse convite?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Omar",
+        "#Teo"
+      ]
+    },
+    "cena_14": {
+      "titulo": "OS AMIGOS DESCONFIAM QUE GERALDO ESCOLHEU AS FOTOS PARA ESCONDER AS GÊMEAS",
+      "pergunta": "A divulgação da banda pode revelar a verdade?",
+      "legenda": "CAPA_SEGUNDOS=31\n\nA pouca aparição de Isabela é ligada ao sequestro e às mentiras de Geraldo. A divulgação da banda pode revelar a verdade?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Geraldo",
+        "#Gemeas"
+      ]
+    },
+    "cena_15": {
+      "titulo": "TÉO SE APROXIMA DE DOURADO COM CUIDADO E CONTA O QUE APRENDEU COM LUIZ 🐎",
+      "pergunta": "Você gostou da calma de Téo com o cavalo?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nAntes da volta, Téo fala sobre conquistar a confiança do animal e recebe ajuda de Mateus. Você gostou da calma de Téo com o cavalo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Teo",
+        "#Dourado"
+      ]
+    },
+    "cena_16": {
+      "titulo": "MANUELA LEVA A ISABELA A PRÉVIA DAS FOTOS DE DIVULGAÇÃO DA BANDA",
+      "pergunta": "Isabela vai gostar do espaço que recebeu nas fotos?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nA notícia das imagens anima Isabela, enquanto Omar se compara a Téo. Isabela vai gostar do espaço que recebeu nas fotos?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Manuela",
+        "#Isabela"
+      ]
+    },
+    "cena_17": {
+      "titulo": "OMAR DECIDE MONTAR DOURADO E RECEBE UM ÚLTIMO AVISO PARA IR COM CALMA",
+      "pergunta": "Ele deveria ouvir quem acabou de montar o cavalo?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nDepois do passeio de Téo, Omar quer provar que também consegue. Ele deveria ouvir quem acabou de montar o cavalo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Omar",
+        "#Dourado"
+      ]
+    },
+    "cena_18": {
+      "titulo": "OMAR CAI DO CAVALO E OS AMIGOS IMPEDEM QUE ELE BATA EM DOURADO",
+      "pergunta": "Você também defenderia o animal nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nA queda provoca uma reação agressiva, mas os amigos lembram que o cavalo não fez de propósito. Você também defenderia o animal nessa situação?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Omar",
+        "#Dourado"
+      ]
+    },
+    "cena_19": {
+      "titulo": "ISABELA SE REVOLTA COM AS FOTOS E COBRA QUE MANUELA TIVESSE RECLAMADO 📸",
+      "pergunta": "A escolha das fotos foi injusta com Isabela?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nAo ver Priscila em destaque, Isabela critica o material e quer saber quem o escolheu. A escolha das fotos foi injusta com Isabela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Isabela",
+        "#Manuela"
+      ]
+    },
+    "cena_20": {
+      "titulo": "MATEUS CONTA QUE OMAR QUERIA APRONTAR COM TÉO E DEFENDE O AMIGO",
+      "pergunta": "Você acha que Téo deveria se afastar de Omar?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nDepois da confusão, Mateus explica a provocação que tentou impedir. Você acha que Téo deveria se afastar de Omar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Mateus",
+        "#Teo"
+      ]
+    },
+    "cena_21": {
+      "titulo": "OFÉLIO LEVA COMIDA AOS CAPANGAS E TENTA DESCOBRIR ONDE NAVARRO ESTÁ 🍱",
+      "pergunta": "Essa desculpa vai abrir caminho para ajudar Marina?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nA visita ao galpão mistura quentinhas, perguntas e uma conversa sobre lavar as mãos. Essa desculpa vai abrir caminho para ajudar Marina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Ofelio",
+        "#Marina"
+      ]
+    },
+    "cena_22": {
+      "titulo": "OMAR CONTA A JOEL QUE FOI EMPURRADO POR INVEJA DO CAVALO",
+      "pergunta": "Joel vai ouvir a outra versão da história?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nAo mostrar o machucado, Omar apresenta os acontecimentos de um jeito que culpa os amigos. Joel vai ouvir a outra versão da história?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Omar",
+        "#Joel"
+      ]
+    },
+    "cena_23": {
+      "titulo": "OMAR CULPA MATEUS PELA QUEDA E DIZ QUE LUIZ NÃO DOMOU O CAVALO DIREITO 😠",
+      "pergunta": "Joel vai acreditar nessa acusação sem investigar?",
+      "legenda": "CAPA_SEGUNDOS=31\n\nOmar diz que foi desafiado a montar e coloca pai e filho no centro da culpa. Joel vai acreditar nessa acusação sem investigar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Omar",
+        "#Mateus"
+      ]
+    },
+    "cena_24": {
+      "titulo": "MARINA PEDE QUE OFÉLIO NÃO SE ARRISQUE E LEMBRA QUE AS MENINAS PRECISAM DELE",
+      "pergunta": "Ele vai conseguir ajudá-la sem comprometer o plano?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nCom a segurança reforçada, Marina se preocupa com o risco da tentativa de resgate. Ele vai conseguir ajudá-la sem comprometer o plano?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Marina",
+        "#Ofelio"
+      ]
+    },
+    "cena_25": {
+      "titulo": "OS CAPANGAS PERDEM A PACIÊNCIA E EXPULSAM OFÉLIO DO GALPÃO 🚪",
+      "pergunta": "Como ele vai voltar a falar com Marina?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nAs perguntas de Ofélio incomodam os homens, que exigem sua saída. Como ele vai voltar a falar com Marina?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Ofelio",
+        "#Galpao"
+      ]
+    },
+    "cena_26": {
+      "titulo": "FIORINA MANDA O FILHO IR EMBORA E NÃO QUER QUE ELE COMA O BOLO DE NINA",
+      "pergunta": "A rivalidade entre as duas passou do ponto?",
+      "legenda": "CAPA_SEGUNDOS=42\n\nA preocupação com o frio vira mais um motivo para Fiorina evitar o bolo da rival. A rivalidade entre as duas passou do ponto?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Fiorina",
+        "#Nina"
+      ]
+    },
+    "cena_27": {
+      "titulo": "OS AMIGOS QUEREM ANTECIPAR O LANÇAMENTO DA BANDA PARA LIBERTAR AS GÊMEAS 💡",
+      "pergunta": "A ideia pode fazer Rebeca reconhecer Manuela?",
+      "legenda": "CAPA_SEGUNDOS=38\n\nO grupo planeja uma reunião com Vicente e Arthur sem a presença de Geraldo. A ideia pode fazer Rebeca reconhecer Manuela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Banda",
+        "#Gemeas"
+      ]
+    },
+    "cena_28": {
+      "titulo": "A FESTA CHEGA AO PARABÉNS ENQUANTO NINA E FIORINA AINDA TROCAM PROVOCAÇÕES",
+      "pergunta": "Quem fez o maior sucesso com os doces da festa?",
+      "legenda": "CAPA_SEGUNDOS=31\n\nO bolo é elogiado e Joel chama os convidados para cantar para Omar. Quem fez o maior sucesso com os doces da festa?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Nina",
+        "#Fiorina"
+      ]
+    },
+    "cena_29": {
+      "titulo": "OMAR CORTA O BOLO E ESCOLHE O PAI PARA RECEBER O PRIMEIRO PEDAÇO 🎂",
+      "pergunta": "Para quem você daria o primeiro pedaço do seu bolo?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nDepois do parabéns, Omar faz sua escolha e separa o segundo pedaço para si. Para quem você daria o primeiro pedaço do seu bolo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Omar",
+        "#Aniversario"
+      ]
+    },
+    "cena_30": {
+      "titulo": "ISABELA RECLAMA DA DOR NA PERNA E PERCEBE QUE O FERIMENTO ESTÁ PIORANDO",
+      "pergunta": "Como ela vai conseguir atendimento sem ser descoberta?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nO tempo no porão aumenta a preocupação de Isabela com o machucado. Como ela vai conseguir atendimento sem ser descoberta?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Isabela",
+        "#Ferimento"
+      ]
+    },
+    "cena_31": {
+      "titulo": "MATEUS TEM MEDO DE CONTAR O QUE ACONTECEU MAS OS PAIS GARANTEM QUE O AMAM ❤️",
+      "pergunta": "Você também se emocionou com esse acolhimento?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nAntes de relatar a confusão com Omar, Mateus pede que os pais não o odeiem. Você também se emocionou com esse acolhimento?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Mateus",
+        "#Familia"
+      ]
+    },
+    "cena_32": {
+      "titulo": "PRISCILA MOSTRA AS FOTOS E PEDE ORGULHO À MÃE MAS SAFIRA SÓ PENSA NA LIGAÇÃO",
+      "pergunta": "Safira deveria ter dado mais atenção à filha?",
+      "legenda": "CAPA_SEGUNDOS=38\n\nPriscila tenta compartilhar uma conquista, enquanto Safira busca detalhes do telefonema. Safira deveria ter dado mais atenção à filha?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Priscila",
+        "#Safira"
+      ]
+    },
+    "cena_33": {
+      "titulo": "MANUELA VÊ O FERIMENTO DE ISABELA E DIZ QUE ELA PRECISA IR AO HOSPITAL 😨",
+      "pergunta": "Como as irmãs podem buscar ajuda com segurança?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nA dor aumenta e as duas percebem que precisam resolver a situação com urgência. Como as irmãs podem buscar ajuda com segurança?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Manuela",
+        "#Isabela"
+      ]
+    },
+    "cena_34": {
+      "titulo": "JOEL PROCURA LUIZ E O ACUSA DEPOIS DE OUVIR A VERSÃO DE OMAR",
+      "pergunta": "Ele deveria conversar com todos antes de acusar?",
+      "legenda": "CAPA_SEGUNDOS=36\n\nLuiz tenta se desculpar, mas também explica que foi Omar quem ofereceu a montaria. Ele deveria conversar com todos antes de acusar?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Joel",
+        "#Luiz"
+      ]
+    },
+    "cena_35": {
+      "titulo": "LUIZ DEFENDE A HONESTIDADE DO FILHO E ACABA DEMITIDO POR JOEL 💔",
+      "pergunta": "Luiz foi injustiçado por defender Mateus?",
+      "legenda": "CAPA_SEGUNDOS=33\n\nAo contestar as acusações contra o filho, Luiz ouve a ordem para deixar o trabalho. Luiz foi injustiçado por defender Mateus?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Luiz",
+        "#Mateus"
+      ]
+    },
+    "cena_36": {
+      "titulo": "OFÉLIO VÊ O FERIMENTO E PROMETE LEVAR ISABELA AO HOSPITAL PARA CUMPRIR SUA PALAVRA",
+      "pergunta": "Ele vai conseguir sair da mansão com ela?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nManuela pede ajuda e Ofélio assume o risco para proteger as meninas. Ele vai conseguir sair da mansão com ela?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Ofelio",
+        "#Isabela"
+      ]
+    },
+    "cena_37": {
+      "titulo": "MANUELA SE DESPEDE DA IRMÃ E COMBINA DISTRAIR SANDRO DURANTE A SAÍDA 🙏",
+      "pergunta": "O plano vai funcionar sem levantar suspeitas?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nEnquanto Ofélio ajuda Isabela, Manuela decide ficar para disfarçar a ausência. O plano vai funcionar sem levantar suspeitas?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Manuela",
+        "#Isabela"
+      ]
+    },
+    "cena_38": {
+      "titulo": "SAFIRA PERGUNTA SE ALGUÉM ENTROU EM SUA SALA E TENTA DESCOBRIR QUEM MEXEU NAS CONTAS",
+      "pergunta": "Ela está perto de encontrar o responsável?",
+      "legenda": "CAPA_SEGUNDOS=39\n\nNo escritório, Safira questiona Tomás sobre movimentos na sua sala. Ela está perto de encontrar o responsável?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Safira",
+        "#Tomas"
+      ]
+    },
+    "cena_39": {
+      "titulo": "ARTHUR ELOGIA O TRABALHO DE VICENTE E APOSTA NO SUCESSO DAS CRIANÇAS 🎶",
+      "pergunta": "O lançamento da banda vai mudar a vida deles?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nA qualidade do material e o talento dos músicos animam a conversa na gravadora. O lançamento da banda vai mudar a vida deles?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Arthur",
+        "#Vicente"
+      ]
+    },
+    "cena_40": {
+      "titulo": "JOAQUIM PROPÕE USAR A INTERNET PARA COMEÇAR A DIVULGAÇÃO DA BANDA",
+      "pergunta": "Essa é a melhor chance de revelar Manuela ao público?",
+      "legenda": "CAPA_SEGUNDOS=40\n\nOs integrantes conseguem a reunião e defendem que já estão prontos para o lançamento. Essa é a melhor chance de revelar Manuela ao público?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Joaquim",
+        "#Banda"
+      ]
+    },
+    "cena_41": {
+      "titulo": "A IDEIA DA BANDA AGRADA NA GRAVADORA E MANUELA COMEÇA A DISTRAIR SANDRO 💡",
+      "pergunta": "As duas partes do plano vão dar certo?",
+      "legenda": "CAPA_SEGUNDOS=37\n\nEnquanto o projeto recebe apoio, Manuela chama Sandro com a história de um bicho no porão. As duas partes do plano vão dar certo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Manuela",
+        "#Banda"
+      ]
+    },
+    "cena_42": {
+      "titulo": "GERALDO CHEGA À REUNIÃO E REJEITA A IDEIA DE DIVULGAR A BANDA PELA INTERNET",
+      "pergunta": "Ele vai conseguir impedir o lançamento outra vez?",
+      "legenda": "CAPA_SEGUNDOS=39\n\nA proposta anima Arthur, mas Geraldo apresenta motivos para adiar a divulgação. Ele vai conseguir impedir o lançamento outra vez?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Geraldo",
+        "#Banda"
+      ]
+    },
+    "cena_43": {
+      "titulo": "GERALDO CONVENCE A GRAVADORA A ESPERAR E FRUSTRA O PLANO DAS CRIANÇAS 😤",
+      "pergunta": "Qual pode ser a próxima saída para revelar a verdade?",
+      "legenda": "CAPA_SEGUNDOS=37\n\nApesar dos argumentos favoráveis, a decisão é aguardar antes da divulgação. Qual pode ser a próxima saída para revelar a verdade?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Geraldo",
+        "#Criancas"
+      ]
+    },
+    "cena_44": {
+      "titulo": "OFÉLIO EXPLICA A FALTA DE DOCUMENTOS E PEDE ATENDIMENTO PARA ISABELA NO HOSPITAL",
+      "pergunta": "Eles vão conseguir ajuda a tempo?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nA chegada ao hospital traz mais um obstáculo e os dois precisam aguardar. Eles vão conseguir ajuda a tempo?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Ofelio",
+        "#Isabela"
+      ]
+    },
+    "cena_45": {
+      "titulo": "ISABELA QUESTIONA A ESCOLHA DO HOSPITAL MAS OFÉLIO TEME QUE ELA SEJA RECONHECIDA 🏥",
+      "pergunta": "Como você resolveria esse impasse?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nNa espera, os dois discutem como conseguir atendimento sem expor o esconderijo. Como você resolveria esse impasse?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Isabela",
+        "#Ofelio"
+      ]
+    },
+    "cena_46": {
+      "titulo": "MATEUS PERCEBE QUE LUIZ FOI DEMITIDO E SE CULPA PELO QUE ACONTECEU",
+      "pergunta": "Como ajudar Mateus a entender que não é o culpado?",
+      "legenda": "CAPA_SEGUNDOS=42\n\nA volta do pai para casa desperta perguntas e a família descobre a demissão. Como ajudar Mateus a entender que não é o culpado?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Mateus",
+        "#Luiz"
+      ]
+    },
+    "cena_47": {
+      "titulo": "LUIZ CONFORTA A FAMÍLIA E DIZ QUE ENQUANTO ESTIVEREM UNIDOS VAI FICAR TUDO BEM ❤️",
+      "pergunta": "Você também torce para essa família superar a injustiça?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nMesmo abalado com a demissão, Luiz tenta acolher os filhos e manter a esperança. Você também torce para essa família superar a injustiça?",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo91",
+        "#Luiz",
+        "#Familia"
+      ]
+    }
+  }
+}
