@@ -1,0 +1,576 @@
+{
+  "capitulo": 93,
+  "execucao": "44042115000",
+  "cenas": {
+    "cena_01": {
+      "titulo": "Regina decide vasculhar o hospital atrás de uma pista de Isabela 🔎",
+      "pergunta": "O que você achou da atitude de quem aparece nesta cena?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nRegina decide vasculhar o hospital atrás de uma pista de Isabela.",
+      "hashtags": [
+        "#Regina",
+        "#Isabela",
+        "#Hospital",
+        "#Busca"
+      ]
+    },
+    "cena_02": {
+      "titulo": "Otávio chega todo arrumado e pede uma pausa nas buscas de Rebeca",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=6\n\nOtávio chega todo arrumado e pede uma pausa nas buscas de Rebeca.",
+      "hashtags": [
+        "#Otávio",
+        "#Rebeca",
+        "#Surpresa",
+        "#Romance"
+      ]
+    },
+    "cena_03": {
+      "titulo": "Otávio prepara um jantar na empresa para surpreender Rebeca ❤️",
+      "pergunta": "Qual detalhe desse momento mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nOtávio prepara um jantar na empresa para surpreender Rebeca.",
+      "hashtags": [
+        "#Otávio",
+        "#Rebeca",
+        "#Jantar",
+        "#Fred"
+      ]
+    },
+    "cena_04": {
+      "titulo": "Fred capricha no visual e dá seu toque especial ao jantar do casal",
+      "pergunta": "O que você acha que deve acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=4\n\nFred capricha no visual e dá seu toque especial ao jantar do casal.",
+      "hashtags": [
+        "#Fred",
+        "#Jantar",
+        "#Surpresa",
+        "#Rebeca"
+      ]
+    },
+    "cena_05": {
+      "titulo": "Ela quase reclama da comida, mas lembra de quem tem menos 🍽️",
+      "pergunta": "O que você achou da atitude de quem aparece nesta cena?",
+      "legenda": "CAPA_SEGUNDOS=39\n\nEla quase reclama da comida, mas lembra de quem tem menos.",
+      "hashtags": [
+        "#Gratidão",
+        "#Comida",
+        "#Reflexão",
+        "#Jantar"
+      ]
+    },
+    "cena_06": {
+      "titulo": "Ofélio chega com um vídeo do vilarejo para surpreender Manuela",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=34\n\nOfélio chega com um vídeo do vilarejo para surpreender Manuela.",
+      "hashtags": [
+        "#Ofélio",
+        "#Manuela",
+        "#Vilarejo",
+        "#Saudade"
+      ]
+    },
+    "cena_07": {
+      "titulo": "Manuela revê a festa do vilarejo e sente saudade dos amigos 🥹",
+      "pergunta": "Qual detalhe desse momento mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nManuela revê a festa do vilarejo e sente saudade dos amigos.",
+      "hashtags": [
+        "#Manuela",
+        "#Ofélio",
+        "#Festa",
+        "#Saudade"
+      ]
+    },
+    "cena_08": {
+      "titulo": "Rebeca explica por que nem o jantar consegue aliviar sua tristeza",
+      "pergunta": "O que você acha que deve acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nRebeca explica por que nem o jantar consegue aliviar sua tristeza.",
+      "hashtags": [
+        "#Rebeca",
+        "#Otávio",
+        "#Manuela",
+        "#Preocupação"
+      ]
+    },
+    "cena_09": {
+      "titulo": "Rebeca pede paciência enquanto Otávio cobra reconhecimento 💔",
+      "pergunta": "O que você achou da atitude de quem aparece nesta cena?",
+      "legenda": "CAPA_SEGUNDOS=37\n\nRebeca pede paciência enquanto Otávio cobra reconhecimento.",
+      "hashtags": [
+        "#Rebeca",
+        "#Otávio",
+        "#Discussão",
+        "#Relacionamento"
+      ]
+    },
+    "cena_10": {
+      "titulo": "Otávio declara seu amor, mas Rebeca decide ir embora após a discussão",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nOtávio declara seu amor, mas Rebeca decide ir embora após a discussão.",
+      "hashtags": [
+        "#Otávio",
+        "#Rebeca",
+        "#Briga",
+        "#Amor"
+      ]
+    },
+    "cena_11": {
+      "titulo": "Mateus aprende com Doris a fazer vestidos para ajudar o pai 🧵",
+      "pergunta": "Qual detalhe desse momento mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nMateus aprende com Doris a fazer vestidos para ajudar o pai.",
+      "hashtags": [
+        "#Doris",
+        "#Mateus",
+        "#Vestidos",
+        "#Família"
+      ]
+    },
+    "cena_12": {
+      "titulo": "Regina mostra a foto de Isabela e pede respostas no hospital",
+      "pergunta": "O que você acha que deve acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nRegina mostra a foto de Isabela e pede respostas no hospital.",
+      "hashtags": [
+        "#Regina",
+        "#Isabela",
+        "#Hospital",
+        "#Investigação"
+      ]
+    },
+    "cena_13": {
+      "titulo": "Doris mal consegue ficar acordada depois da noite fazendo vestidos 😴",
+      "pergunta": "O que você achou da atitude de quem aparece nesta cena?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nDoris mal consegue ficar acordada depois da noite fazendo vestidos.",
+      "hashtags": [
+        "#Doris",
+        "#Mateus",
+        "#Téo",
+        "#Solidariedade"
+      ]
+    },
+    "cena_14": {
+      "titulo": "Omar usa a demissão de Luiz para provocar e humilhar Mateus",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nOmar usa a demissão de Luiz para provocar e humilhar Mateus.",
+      "hashtags": [
+        "#Omar",
+        "#Mateus",
+        "#Luiz",
+        "#Provocação"
+      ]
+    },
+    "cena_15": {
+      "titulo": "Regina encontra o registro de outra Isabela e recebe uma notícia grave 🏥",
+      "pergunta": "Qual detalhe desse momento mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nRegina encontra o registro de outra Isabela e recebe uma notícia grave.",
+      "hashtags": [
+        "#Regina",
+        "#Isabela",
+        "#Hospital",
+        "#Mistério"
+      ]
+    },
+    "cena_16": {
+      "titulo": "Um trecho sem falas marca a sequência dos acontecimentos do capítulo",
+      "pergunta": "O que você acha que deve acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=2\n\nUm trecho sem falas marca a sequência dos acontecimentos do capítulo.",
+      "hashtags": [
+        "#Capítulo93",
+        "#CenaSemFalas",
+        "#SequênciaNovela"
+      ]
+    },
+    "cena_17": {
+      "titulo": "Fred descobre que o jantar romântico acabou em discussão 😟",
+      "pergunta": "O que você achou da atitude de quem aparece nesta cena?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nFred descobre que o jantar romântico acabou em discussão.",
+      "hashtags": [
+        "#Fred",
+        "#Otávio",
+        "#Rebeca",
+        "#Jantar"
+      ]
+    },
+    "cena_18": {
+      "titulo": "Otávio decide não procurar Rebeca enquanto Omar tenta convencer Téo",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nOtávio decide não procurar Rebeca enquanto Omar tenta convencer Téo.",
+      "hashtags": [
+        "#Otávio",
+        "#Omar",
+        "#Téo",
+        "#Lago"
+      ]
+    },
+    "cena_19": {
+      "titulo": "Omar fala da saudade da mãe e consegue convencer Téo 🎭",
+      "pergunta": "Qual detalhe desse momento mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nOmar fala da saudade da mãe e consegue convencer Téo.",
+      "hashtags": [
+        "#Omar",
+        "#Téo",
+        "#Manipulação",
+        "#Amizade"
+      ]
+    },
+    "cena_20": {
+      "titulo": "Rebeca reflete sobre a discussão e o apoio que recebe de Otávio",
+      "pergunta": "O que você acha que deve acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=33\n\nRebeca reflete sobre a discussão e o apoio que recebe de Otávio.",
+      "hashtags": [
+        "#Rebeca",
+        "#Otávio",
+        "#Reflexão",
+        "#Reconciliação"
+      ]
+    },
+    "cena_21": {
+      "titulo": "Rebeca desabafa com a mãe e ouve um conselho sobre Otávio 💬",
+      "pergunta": "O que você achou da atitude de quem aparece nesta cena?",
+      "legenda": "CAPA_SEGUNDOS=39\n\nRebeca desabafa com a mãe e ouve um conselho sobre Otávio.",
+      "hashtags": [
+        "#Rebeca",
+        "#Otávio",
+        "#Conselho",
+        "#Manuela"
+      ]
+    },
+    "cena_22": {
+      "titulo": "A mãe explica que Otávio quer participar do que Rebeca está vivendo",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nA mãe explica que Otávio quer participar do que Rebeca está vivendo.",
+      "hashtags": [
+        "#Rebeca",
+        "#Otávio",
+        "#Diálogo",
+        "#Conselho"
+      ]
+    },
+    "cena_23": {
+      "titulo": "Giuseppe apresenta o carrinho e Nico já pergunta pelo aumento 🍦",
+      "pergunta": "Qual detalhe desse momento mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nGiuseppe apresenta o carrinho e Nico já pergunta pelo aumento.",
+      "hashtags": [
+        "#Giuseppe",
+        "#Nico",
+        "#Mateus",
+        "#Sorvete"
+      ]
+    },
+    "cena_24": {
+      "titulo": "Mateus vira exemplo de entusiasmo e Doris aproveita para vender vestidos",
+      "pergunta": "O que você acha que deve acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nMateus vira exemplo de entusiasmo e Doris aproveita para vender vestidos.",
+      "hashtags": [
+        "#Mateus",
+        "#Doris",
+        "#Nico",
+        "#Vestidos"
+      ]
+    },
+    "cena_25": {
+      "titulo": "A banda vai ser lançada, mas a propaganda esconde seus integrantes 🎤",
+      "pergunta": "O que você achou da atitude de quem aparece nesta cena?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nA banda vai ser lançada, mas a propaganda esconde seus integrantes.",
+      "hashtags": [
+        "#Banda",
+        "#Geraldo",
+        "#Lançamento",
+        "#Silhuetas"
+      ]
+    },
+    "cena_26": {
+      "titulo": "O carrinho pesa e a dupla precisa dividir as tarefas da entrega",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=6\n\nO carrinho pesa e a dupla precisa dividir as tarefas da entrega.",
+      "hashtags": [
+        "#Nico",
+        "#Sorvete",
+        "#Carrinho",
+        "#Entrega"
+      ]
+    },
+    "cena_27": {
+      "titulo": "Nico oferece ajuda extra e acaba deixando a cliente indignada 😬",
+      "pergunta": "Qual detalhe desse momento mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nNico oferece ajuda extra e acaba deixando a cliente indignada.",
+      "hashtags": [
+        "#Nico",
+        "#Doris",
+        "#Sorvete",
+        "#MalEntendido"
+      ]
+    },
+    "cena_28": {
+      "titulo": "Doris oferece os vestidos de boneca e conquista o interesse da cliente",
+      "pergunta": "O que você acha que deve acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nDoris oferece os vestidos de boneca e conquista o interesse da cliente.",
+      "hashtags": [
+        "#Doris",
+        "#Vestidos",
+        "#Venda",
+        "#Bonecas"
+      ]
+    },
+    "cena_29": {
+      "titulo": "A banda descobre que Laura viu Isabela no pronto-socorro 🚨",
+      "pergunta": "O que você achou da atitude de quem aparece nesta cena?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nA banda descobre que Laura viu Isabela no pronto-socorro.",
+      "hashtags": [
+        "#Isabela",
+        "#Laura",
+        "#Banda",
+        "#Hospital"
+      ]
+    },
+    "cena_30": {
+      "titulo": "Os amigos decidem escutar atrás da porta para descobrir o que Regina sabe",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nOs amigos decidem escutar atrás da porta para descobrir o que Regina sabe.",
+      "hashtags": [
+        "#Regina",
+        "#Geraldo",
+        "#Banda",
+        "#Segredo"
+      ]
+    },
+    "cena_31": {
+      "titulo": "Regina conta a Geraldo que Isabela pode ter falecido 😨",
+      "pergunta": "Qual detalhe desse momento mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=11\n\nRegina conta a Geraldo que Isabela pode ter falecido.",
+      "hashtags": [
+        "#Regina",
+        "#Isabela",
+        "#Segredo",
+        "#Hospital"
+      ]
+    },
+    "cena_32": {
+      "titulo": "Regina e Geraldo suspeitam da morte de Isabela sem confirmar a identidade",
+      "pergunta": "O que você acha que deve acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nRegina e Geraldo suspeitam da morte de Isabela sem confirmar a identidade.",
+      "hashtags": [
+        "#Regina",
+        "#Geraldo",
+        "#Isabela",
+        "#Suspeita"
+      ]
+    },
+    "cena_33": {
+      "titulo": "Luiz busca apoio na fé depois de mais uma tentativa de emprego 🙏",
+      "pergunta": "O que você achou da atitude de quem aparece nesta cena?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nLuiz busca apoio na fé depois de mais uma tentativa de emprego.",
+      "hashtags": [
+        "#Luiz",
+        "#Desemprego",
+        "#Fé",
+        "#Esperança"
+      ]
+    },
+    "cena_34": {
+      "titulo": "Luiz faz uma oração e pede que nada falte aos filhos e a Clara",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nLuiz faz uma oração e pede que nada falte aos filhos e a Clara.",
+      "hashtags": [
+        "#Luiz",
+        "#Clara",
+        "#Família",
+        "#Oração"
+      ]
+    },
+    "cena_35": {
+      "titulo": "Os amigos veem uma chance de proteger Isabela no engano de Regina 🤫",
+      "pergunta": "Qual detalhe desse momento mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nOs amigos veem uma chance de proteger Isabela no engano de Regina.",
+      "hashtags": [
+        "#Isabela",
+        "#Regina",
+        "#Amigos",
+        "#Segredo"
+      ]
+    },
+    "cena_36": {
+      "titulo": "Luiz volta sem emprego e encontra apoio para enfrentar sua ansiedade",
+      "pergunta": "O que você acha que deve acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=13\n\nLuiz volta sem emprego e encontra apoio para enfrentar sua ansiedade.",
+      "hashtags": [
+        "#Luiz",
+        "#Família",
+        "#Desemprego",
+        "#Fé"
+      ]
+    },
+    "cena_37": {
+      "titulo": "Doris e Mateus querem ajudar, mas Luiz quer preservar a infância deles 🥹",
+      "pergunta": "O que você achou da atitude de quem aparece nesta cena?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nDoris e Mateus querem ajudar, mas Luiz quer preservar a infância deles.",
+      "hashtags": [
+        "#Doris",
+        "#Mateus",
+        "#Luiz",
+        "#Família"
+      ]
+    },
+    "cena_38": {
+      "titulo": "Omar exige que a ordem contra o cavalo seja cumprida apesar dos apelos",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nOmar exige que a ordem contra o cavalo seja cumprida apesar dos apelos.",
+      "hashtags": [
+        "#Omar",
+        "#Cavalo",
+        "#Luiz",
+        "#ProteçãoAnimal"
+      ]
+    },
+    "cena_39": {
+      "titulo": "Omar dá um prazo cruel e deixa o funcionário revoltado com sua frieza 😡",
+      "pergunta": "Qual detalhe desse momento mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nOmar dá um prazo cruel e deixa o funcionário revoltado com sua frieza.",
+      "hashtags": [
+        "#Omar",
+        "#Cavalo",
+        "#Crueldade",
+        "#Injustiça"
+      ]
+    },
+    "cena_40": {
+      "titulo": "Sofia percebe Otávio abatido e se oferece como companhia para sair",
+      "pergunta": "O que você acha que deve acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nSofia percebe Otávio abatido e se oferece como companhia para sair.",
+      "hashtags": [
+        "#Sofia",
+        "#Otávio",
+        "#Rebeca",
+        "#Convite"
+      ]
+    },
+    "cena_41": {
+      "titulo": "Otávio recusa Sofia e Isabela recebe a notícia do engano de Regina 😮",
+      "pergunta": "O que você achou da atitude de quem aparece nesta cena?",
+      "legenda": "CAPA_SEGUNDOS=4\n\nOtávio recusa Sofia e Isabela recebe a notícia do engano de Regina.",
+      "hashtags": [
+        "#Otávio",
+        "#Sofia",
+        "#Isabela",
+        "#Regina"
+      ]
+    },
+    "cena_42": {
+      "titulo": "Isabela resolve aproveitar o engano e virar fantasma para assustar Regina",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nIsabela resolve aproveitar o engano e virar fantasma para assustar Regina.",
+      "hashtags": [
+        "#Isabela",
+        "#Regina",
+        "#Fantasma",
+        "#Vingança"
+      ]
+    },
+    "cena_43": {
+      "titulo": "Manuela teme que o plano de fantasma revele o esconderijo de Isabela 👻",
+      "pergunta": "Qual detalhe desse momento mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nManuela teme que o plano de fantasma revele o esconderijo de Isabela.",
+      "hashtags": [
+        "#Isabela",
+        "#Manuela",
+        "#Regina",
+        "#Esconderijo"
+      ]
+    },
+    "cena_44": {
+      "titulo": "Mateus e Doris vão à igreja pedir um emprego novo para o pai",
+      "pergunta": "O que você acha que deve acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=6\n\nMateus e Doris vão à igreja pedir um emprego novo para o pai.",
+      "hashtags": [
+        "#Mateus",
+        "#Doris",
+        "#Oração",
+        "#Emprego"
+      ]
+    },
+    "cena_45": {
+      "titulo": "O pastor conversa com os irmãos sobre ansiedade e confiança em Deus 🙏",
+      "pergunta": "O que você achou da atitude de quem aparece nesta cena?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nO pastor conversa com os irmãos sobre ansiedade e confiança em Deus.",
+      "hashtags": [
+        "#Doris",
+        "#Mateus",
+        "#Pastor",
+        "#Esperança"
+      ]
+    },
+    "cena_46": {
+      "titulo": "Uma fala sobre não conseguir se perdoar revela o peso de uma decisão",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nUma fala sobre não conseguir se perdoar revela o peso de uma decisão.",
+      "hashtags": [
+        "#Consciência",
+        "#Culpa",
+        "#Decisão",
+        "#Capítulo93"
+      ]
+    },
+    "cena_47": {
+      "titulo": "Pedro presenteia a clínica com uma planta para trazer mais vida ao lugar 🪴",
+      "pergunta": "Qual detalhe desse momento mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nPedro presenteia a clínica com uma planta para trazer mais vida ao lugar.",
+      "hashtags": [
+        "#Pedro",
+        "#Clínica",
+        "#Presente",
+        "#Carinho"
+      ]
+    },
+    "cena_48": {
+      "titulo": "Mesmo com seu jeito bruto, Pedro acerta na escolha de um presente simples",
+      "pergunta": "O que você acha que deve acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nMesmo com seu jeito bruto, Pedro acerta na escolha de um presente simples.",
+      "hashtags": [
+        "#Pedro",
+        "#Planta",
+        "#Presente",
+        "#Clínica"
+      ]
+    },
+    "cena_49": {
+      "titulo": "Felipe tenta escapar da louça, mas a falta de água é de verdade 🚰",
+      "pergunta": "O que você achou da atitude de quem aparece nesta cena?",
+      "legenda": "CAPA_SEGUNDOS=37\n\nFelipe tenta escapar da louça, mas a falta de água é de verdade.",
+      "hashtags": [
+        "#Felipe",
+        "#Louça",
+        "#FaltaDeÁgua",
+        "#Convivência"
+      ]
+    },
+    "cena_50": {
+      "titulo": "A falta de água é confirmada e Isabela decide agir ainda hoje",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=11\n\nA falta de água é confirmada e Isabela decide agir ainda hoje.",
+      "hashtags": [
+        "#Isabela",
+        "#Regina",
+        "#Plano",
+        "#FaltaDeÁgua"
+      ]
+    },
+    "cena_51": {
+      "titulo": "Isabela já consegue andar e avisa que Regina vai pagar pelo que fez 👻",
+      "pergunta": "Qual detalhe desse momento mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=41\n\nIsabela já consegue andar e avisa que Regina vai pagar pelo que fez.",
+      "hashtags": [
+        "#Isabela",
+        "#Ofélio",
+        "#Regina",
+        "#Marina"
+      ]
+    },
+    "cena_52": {
+      "titulo": "Um breve trecho sem falas encerra a sequência do capítulo 93",
+      "pergunta": "O que você acha que deve acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=0\n\nUm breve trecho sem falas encerra a sequência do capítulo 93.",
+      "hashtags": [
+        "#Capítulo93",
+        "#CenaFinal",
+        "#Novela"
+      ]
+    }
+  }
+}
