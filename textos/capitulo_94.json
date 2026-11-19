@@ -1,0 +1,583 @@
+{
+  "capitulo": 94,
+  "execucao": "44431176308",
+  "cenas": {
+    "cena_01": {
+      "titulo": "Isabela testa a perna e se prepara para assustar Regina ainda hoje 👻",
+      "pergunta": "Qual foi a reação que mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nIsabela testa a perna e se prepara para assustar Regina ainda hoje.",
+      "hashtags": [
+        "#Isabela",
+        "#Regina",
+        "#Recuperação"
+      ]
+    },
+    "cena_02": {
+      "titulo": "Isabela avisa Ofélio que Regina vai pagar pelo sofrimento das meninas",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nIsabela avisa Ofélio que Regina vai pagar pelo sofrimento das meninas.",
+      "hashtags": [
+        "#Isabela",
+        "#Ofélio",
+        "#Marina",
+        "#Regina"
+      ]
+    },
+    "cena_03": {
+      "titulo": "A falta de água já provoca reclamações e ninguém quer enfrentar esse aperto 🚰",
+      "pergunta": "Você concorda com essa atitude?",
+      "legenda": "CAPA_SEGUNDOS=4\n\nA falta de água já provoca reclamações e ninguém quer enfrentar esse aperto.",
+      "hashtags": [
+        "#FaltaDeÁgua",
+        "#Condomínio",
+        "#Moradores"
+      ]
+    },
+    "cena_04": {
+      "titulo": "Meire reúne os moradores e explica que o problema atinge toda a cidade",
+      "pergunta": "O que você acha que vai acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nMeire reúne os moradores e explica que o problema atinge toda a cidade.",
+      "hashtags": [
+        "#Meire",
+        "#Racionamento",
+        "#Condomínio",
+        "#Água"
+      ]
+    },
+    "cena_05": {
+      "titulo": "Meire anuncia dois dias sem água e deixa os moradores indignados 😤",
+      "pergunta": "Qual foi a reação que mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nMeire anuncia dois dias sem água e deixa os moradores indignados.",
+      "hashtags": [
+        "#Meire",
+        "#Racionamento",
+        "#Moradores",
+        "#Água"
+      ]
+    },
+    "cena_06": {
+      "titulo": "Felipe encontra uma vantagem na falta de água: escapar do banho",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nFelipe encontra uma vantagem na falta de água: escapar do banho.",
+      "hashtags": [
+        "#Felipe",
+        "#Banho",
+        "#FaltaDeÁgua"
+      ]
+    },
+    "cena_07": {
+      "titulo": "Ofélio é surpreendido enquanto anda pela casa e recebe uma advertência 😬",
+      "pergunta": "Você concorda com essa atitude?",
+      "legenda": "CAPA_SEGUNDOS=4\n\nOfélio é surpreendido enquanto anda pela casa e recebe uma advertência.",
+      "hashtags": [
+        "#Ofélio",
+        "#Casa",
+        "#Advertência"
+      ]
+    },
+    "cena_08": {
+      "titulo": "Priscila vê a propaganda da banda e se revolta por aparecer só como sombra",
+      "pergunta": "O que você acha que vai acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nPriscila vê a propaganda da banda e se revolta por aparecer só como sombra.",
+      "hashtags": [
+        "#Priscila",
+        "#Banda",
+        "#Silhuetas",
+        "#Divulgação"
+      ]
+    },
+    "cena_09": {
+      "titulo": "Priscila admite que queria destaque e não aceita aparecer igual aos outros 🎤",
+      "pergunta": "Qual foi a reação que mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=13\n\nPriscila admite que queria destaque e não aceita aparecer igual aos outros.",
+      "hashtags": [
+        "#Priscila",
+        "#Banda",
+        "#Destaque"
+      ]
+    },
+    "cena_10": {
+      "titulo": "Uma frase curta interrompe um trecho com poucas falas registradas",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nUma frase curta interrompe um trecho com poucas falas registradas.",
+      "hashtags": [
+        "#Capítulo94",
+        "#Sequência",
+        "#Cena"
+      ]
+    },
+    "cena_11": {
+      "titulo": "A saudade de Manuela aperta e um pedido emocionado toma conta da cena 🥺",
+      "pergunta": "Você concorda com essa atitude?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nA saudade de Manuela aperta e um pedido emocionado toma conta da cena.",
+      "hashtags": [
+        "#Manuela",
+        "#Saudade",
+        "#Família"
+      ]
+    },
+    "cena_12": {
+      "titulo": "A tristeza por uma amiga leva a mãe a chamar a filha para conversar",
+      "pergunta": "O que você acha que vai acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nA tristeza por uma amiga leva a mãe a chamar a filha para conversar.",
+      "hashtags": [
+        "#Mãe",
+        "#Filha",
+        "#Amizade",
+        "#Conversa"
+      ]
+    },
+    "cena_13": {
+      "titulo": "O medo de perder a mãe revela uma insegurança que ela nunca tinha contado 💔",
+      "pergunta": "Qual foi a reação que mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nO medo de perder a mãe revela uma insegurança que ela nunca tinha contado.",
+      "hashtags": [
+        "#Mãe",
+        "#Filha",
+        "#Família",
+        "#Medo"
+      ]
+    },
+    "cena_14": {
+      "titulo": "Um encontro entre mãe e filha traz uma reação cheia de empolgação",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nUm encontro entre mãe e filha traz uma reação cheia de empolgação.",
+      "hashtags": [
+        "#Mãe",
+        "#Filha",
+        "#Encontro"
+      ]
+    },
+    "cena_15": {
+      "titulo": "Pedro e Helena cedem o espaço e os visitantes retomam o trabalho 📖",
+      "pergunta": "Você concorda com essa atitude?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nPedro e Helena cedem o espaço e os visitantes retomam o trabalho.",
+      "hashtags": [
+        "#Pedro",
+        "#Helena",
+        "#Trabalho",
+        "#Vilarejo"
+      ]
+    },
+    "cena_16": {
+      "titulo": "Omar chega à sapataria ofendendo e ouve que as pessoas têm nome",
+      "pergunta": "O que você acha que vai acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nOmar chega à sapataria ofendendo e ouve que as pessoas têm nome.",
+      "hashtags": [
+        "#Omar",
+        "#Sapataria",
+        "#Respeito"
+      ]
+    },
+    "cena_17": {
+      "titulo": "Omar humilha Mateus e ainda usa a falta de dinheiro do pai para provocar 😡",
+      "pergunta": "Qual foi a reação que mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=34\n\nOmar humilha Mateus e ainda usa a falta de dinheiro do pai para provocar.",
+      "hashtags": [
+        "#Omar",
+        "#Mateus",
+        "#Luiz",
+        "#Humilhação"
+      ]
+    },
+    "cena_18": {
+      "titulo": "Uma voz chamando por Regina interrompe a cena e desperta estranheza",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=11\n\nUma voz chamando por Regina interrompe a cena e desperta estranheza.",
+      "hashtags": [
+        "#Regina",
+        "#Voz",
+        "#Mistério"
+      ]
+    },
+    "cena_19": {
+      "titulo": "Regina desconfia de Manuela e ameaça a menina por uma possível fuga 👻",
+      "pergunta": "Você concorda com essa atitude?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nRegina desconfia de Manuela e ameaça a menina por uma possível fuga.",
+      "hashtags": [
+        "#Regina",
+        "#Manuela",
+        "#Porão"
+      ]
+    },
+    "cena_20": {
+      "titulo": "Uma fala curta marca este trecho sem contexto suficiente na transcrição",
+      "pergunta": "O que você acha que vai acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=2\n\nUma fala curta marca este trecho sem contexto suficiente na transcrição.",
+      "hashtags": [
+        "#Capítulo94",
+        "#SequênciaNovela"
+      ]
+    },
+    "cena_21": {
+      "titulo": "Doris conta que Mateus ficou trabalhando mais e Clara se preocupa 🥹",
+      "pergunta": "Qual foi a reação que mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nDoris conta que Mateus ficou trabalhando mais e Clara se preocupa.",
+      "hashtags": [
+        "#Doris",
+        "#Mateus",
+        "#Clara",
+        "#Trabalho"
+      ]
+    },
+    "cena_22": {
+      "titulo": "Clara decide conversar com Mateus e manda Doris descansar das vendas",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nClara decide conversar com Mateus e manda Doris descansar das vendas.",
+      "hashtags": [
+        "#Clara",
+        "#Mateus",
+        "#Doris",
+        "#Vestidos"
+      ]
+    },
+    "cena_23": {
+      "titulo": "A história de João e o Pé de Feijão abre as portas para a imaginação 🌱",
+      "pergunta": "Você concorda com essa atitude?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nA história de João e o Pé de Feijão abre as portas para a imaginação.",
+      "hashtags": [
+        "#JoãoEPéDeFeijão",
+        "#Fábula",
+        "#Imaginação"
+      ]
+    },
+    "cena_24": {
+      "titulo": "O castelo cheio de riquezas ganha um perigo: o gigante que vive lá",
+      "pergunta": "O que você acha que vai acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nO castelo cheio de riquezas ganha um perigo: o gigante que vive lá.",
+      "hashtags": [
+        "#JoãoEPéDeFeijão",
+        "#Gigante",
+        "#Castelo"
+      ]
+    },
+    "cena_25": {
+      "titulo": "Doris acorda do sonho e acha que feijões mágicos podem ajudar seu pai ✨",
+      "pergunta": "Qual foi a reação que mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=42\n\nDoris acorda do sonho e acha que feijões mágicos podem ajudar seu pai.",
+      "hashtags": [
+        "#Doris",
+        "#FeijõesMágicos",
+        "#Luiz",
+        "#Sonho"
+      ]
+    },
+    "cena_26": {
+      "titulo": "Doris insiste para sair rapidinho e recebe uma tarefa antes de voltar",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nDoris insiste para sair rapidinho e recebe uma tarefa antes de voltar.",
+      "hashtags": [
+        "#Doris",
+        "#Clara",
+        "#Mateus"
+      ]
+    },
+    "cena_27": {
+      "titulo": "Sem água no filtro e sem gelo, os irmãos sentem o aperto do racionamento 🥵",
+      "pergunta": "Você concorda com essa atitude?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nSem água no filtro e sem gelo, os irmãos sentem o aperto do racionamento.",
+      "hashtags": [
+        "#Irmãos",
+        "#FaltaDeÁgua",
+        "#Felipe"
+      ]
+    },
+    "cena_28": {
+      "titulo": "Os irmãos pensam em reservar água enquanto Meire guarda a sua na banheira",
+      "pergunta": "O que você acha que vai acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nOs irmãos pensam em reservar água enquanto Meire guarda a sua na banheira.",
+      "hashtags": [
+        "#Meire",
+        "#Água",
+        "#Reserva",
+        "#Higiene"
+      ]
+    },
+    "cena_29": {
+      "titulo": "Meire reserva água para o banho de Bartolomeu e deixa o sobrinho perplexo 🐈",
+      "pergunta": "Qual foi a reação que mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nMeire reserva água para o banho de Bartolomeu e deixa o sobrinho perplexo.",
+      "hashtags": [
+        "#Meire",
+        "#Bartolomeu",
+        "#Banheira"
+      ]
+    },
+    "cena_30": {
+      "titulo": "Doris revela a Téo seu plano de encontrar feijões mágicos para ajudar Luiz",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nDoris revela a Téo seu plano de encontrar feijões mágicos para ajudar Luiz.",
+      "hashtags": [
+        "#Doris",
+        "#Téo",
+        "#FeijõesMágicos",
+        "#Luiz"
+      ]
+    },
+    "cena_31": {
+      "titulo": "Téo tenta explicar que é uma fábula, mas Doris continua acreditando 🌱",
+      "pergunta": "Você concorda com essa atitude?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nTéo tenta explicar que é uma fábula, mas Doris continua acreditando.",
+      "hashtags": [
+        "#Téo",
+        "#Doris",
+        "#Fábula",
+        "#Imaginação"
+      ]
+    },
+    "cena_32": {
+      "titulo": "Fiorina aparece com uma cesta e a visita provoca uma tentativa de esconder alguém",
+      "pergunta": "O que você acha que vai acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nFiorina aparece com uma cesta e a visita provoca uma tentativa de esconder alguém.",
+      "hashtags": [
+        "#Fiorina",
+        "#Flávia",
+        "#Visita",
+        "#Segredo"
+      ]
+    },
+    "cena_33": {
+      "titulo": "Fiorina comenta os boatos e questiona a aproximação de Flávia com o pastor 😟",
+      "pergunta": "Qual foi a reação que mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nFiorina comenta os boatos e questiona a aproximação de Flávia com o pastor.",
+      "hashtags": [
+        "#Fiorina",
+        "#Flávia",
+        "#Pastor",
+        "#Preconceito"
+      ]
+    },
+    "cena_34": {
+      "titulo": "Depois da conversa constrangedora, Flávia se desculpa com o pastor",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nDepois da conversa constrangedora, Flávia se desculpa com o pastor.",
+      "hashtags": [
+        "#Flávia",
+        "#Pastor",
+        "#Constrangimento"
+      ]
+    },
+    "cena_35": {
+      "titulo": "A crença de Doris nos feijões vira uma ideia cruel de vingança 😠",
+      "pergunta": "Você concorda com essa atitude?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nA crença de Doris nos feijões vira uma ideia cruel de vingança.",
+      "hashtags": [
+        "#Doris",
+        "#FeijõesMágicos",
+        "#Vingança"
+      ]
+    },
+    "cena_36": {
+      "titulo": "Isabela procura um figurino para dar o grande susto em Regina à noite",
+      "pergunta": "O que você acha que vai acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nIsabela procura um figurino para dar o grande susto em Regina à noite.",
+      "hashtags": [
+        "#Isabela",
+        "#Manuela",
+        "#Regina",
+        "#Fantasma"
+      ]
+    },
+    "cena_37": {
+      "titulo": "A preocupação com Manuela continua pesando no encontro de Rebeca e Otávio 💔",
+      "pergunta": "Qual foi a reação que mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nA preocupação com Manuela continua pesando no encontro de Rebeca e Otávio.",
+      "hashtags": [
+        "#Rebeca",
+        "#Otávio",
+        "#Manuela"
+      ]
+    },
+    "cena_38": {
+      "titulo": "Otávio pede atenção, mas Rebeca explica que não consegue fingir felicidade",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nOtávio pede atenção, mas Rebeca explica que não consegue fingir felicidade.",
+      "hashtags": [
+        "#Otávio",
+        "#Rebeca",
+        "#Discussão"
+      ]
+    },
+    "cena_39": {
+      "titulo": "Otávio reafirma seu amor enquanto Rebeca busca o caminho para o vilarejo 🚌",
+      "pergunta": "Você concorda com essa atitude?",
+      "legenda": "CAPA_SEGUNDOS=36\n\nOtávio reafirma seu amor enquanto Rebeca busca o caminho para o vilarejo.",
+      "hashtags": [
+        "#Otávio",
+        "#Rebeca",
+        "#Vilarejo"
+      ]
+    },
+    "cena_40": {
+      "titulo": "Doris recebe uma oferta de feijões mágicos e acredita que seu sonho vai se realizar",
+      "pergunta": "O que você acha que vai acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nDoris recebe uma oferta de feijões mágicos e acredita que seu sonho vai se realizar.",
+      "hashtags": [
+        "#Doris",
+        "#FeijõesMágicos",
+        "#Armadilha"
+      ]
+    },
+    "cena_41": {
+      "titulo": "Doris entrega todo o dinheiro e confessa que Mateus não sabe da compra 😰",
+      "pergunta": "Qual foi a reação que mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nDoris entrega todo o dinheiro e confessa que Mateus não sabe da compra.",
+      "hashtags": [
+        "#Doris",
+        "#Mateus",
+        "#Dinheiro",
+        "#Feijões"
+      ]
+    },
+    "cena_42": {
+      "titulo": "Um pedido de truque de baralho acaba em ameaça de fazer o outro sumir",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=13\n\nUm pedido de truque de baralho acaba em ameaça de fazer o outro sumir.",
+      "hashtags": [
+        "#Baralho",
+        "#Truque",
+        "#Mágica"
+      ]
+    },
+    "cena_43": {
+      "titulo": "As poesias para a musa são interrompidas pelo toque do celular de Ofélio 📱",
+      "pergunta": "Você concorda com essa atitude?",
+      "legenda": "CAPA_SEGUNDOS=37\n\nAs poesias para a musa são interrompidas pelo toque do celular de Ofélio.",
+      "hashtags": [
+        "#Ofélio",
+        "#Poesia",
+        "#Celular"
+      ]
+    },
+    "cena_44": {
+      "titulo": "Marina liga escondida, sente ciúme de Laura e pergunta pelas meninas",
+      "pergunta": "O que você acha que vai acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nMarina liga escondida, sente ciúme de Laura e pergunta pelas meninas.",
+      "hashtags": [
+        "#Marina",
+        "#Ofélio",
+        "#Laura",
+        "#Ciúme"
+      ]
+    },
+    "cena_45": {
+      "titulo": "Ofélio chama Marina de Sandro e se enrola para disfarçar a conversa 🤭",
+      "pergunta": "Qual foi a reação que mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nOfélio chama Marina de Sandro e se enrola para disfarçar a conversa.",
+      "hashtags": [
+        "#Ofélio",
+        "#Marina",
+        "#Sandro",
+        "#Laura"
+      ]
+    },
+    "cena_46": {
+      "titulo": "Ofélio chama Marina de Julieta e consegue avisar que Isabela está melhor",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nOfélio chama Marina de Julieta e consegue avisar que Isabela está melhor.",
+      "hashtags": [
+        "#Ofélio",
+        "#Marina",
+        "#Isabela",
+        "#Julieta"
+      ]
+    },
+    "cena_47": {
+      "titulo": "Ofélio inventa que Sandro gosta de Laura para explicar o telefonema 😂",
+      "pergunta": "Você concorda com essa atitude?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nOfélio inventa que Sandro gosta de Laura para explicar o telefonema.",
+      "hashtags": [
+        "#Ofélio",
+        "#Sandro",
+        "#Laura",
+        "#Disfarce"
+      ]
+    },
+    "cena_48": {
+      "titulo": "Rebeca procura Otávio para se explicar enquanto Doris confia nos feijões",
+      "pergunta": "O que você acha que vai acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nRebeca procura Otávio para se explicar enquanto Doris confia nos feijões.",
+      "hashtags": [
+        "#Rebeca",
+        "#Otávio",
+        "#Doris",
+        "#Feijões"
+      ]
+    },
+    "cena_49": {
+      "titulo": "Rebeca reconhece que ignorou os sentimentos de Otávio e pede perdão ❤️",
+      "pergunta": "Qual foi a reação que mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nRebeca reconhece que ignorou os sentimentos de Otávio e pede perdão.",
+      "hashtags": [
+        "#Rebeca",
+        "#Otávio",
+        "#Perdão",
+        "#Reconciliação"
+      ]
+    },
+    "cena_50": {
+      "titulo": "Rebeca diz que perder Otávio por escolha seria o maior erro de sua vida",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nRebeca diz que perder Otávio por escolha seria o maior erro de sua vida.",
+      "hashtags": [
+        "#Rebeca",
+        "#Otávio",
+        "#Amor",
+        "#Reconciliação"
+      ]
+    },
+    "cena_51": {
+      "titulo": "Mateus encontra Doris lá fora e explica que Deus pode ouvi-la de qualquer lugar 🙏",
+      "pergunta": "Você concorda com essa atitude?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nMateus encontra Doris lá fora e explica que Deus pode ouvi-la de qualquer lugar.",
+      "hashtags": [
+        "#Mateus",
+        "#Doris",
+        "#Oração",
+        "#Fé"
+      ]
+    },
+    "cena_52": {
+      "titulo": "Regina reclama da porta aberta e vai cuidar disso pessoalmente",
+      "pergunta": "O que você acha que vai acontecer depois?",
+      "legenda": "CAPA_SEGUNDOS=4\n\nRegina reclama da porta aberta e vai cuidar disso pessoalmente.",
+      "hashtags": [
+        "#Regina",
+        "#Porta",
+        "#Casa"
+      ]
+    },
+    "cena_53": {
+      "titulo": "Regina procura Isabela enquanto Laura diz que não há ninguém ali 👻",
+      "pergunta": "Qual foi a reação que mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nRegina procura Isabela enquanto Laura diz que não há ninguém ali.",
+      "hashtags": [
+        "#Regina",
+        "#Isabela",
+        "#Laura",
+        "#Susto"
+      ]
+    },
+    "cena_54": {
+      "titulo": "Regina acredita ter visto um espírito e Isabela comemora o sucesso do susto",
+      "pergunta": "Como você reagiria nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nRegina acredita ter visto um espírito e Isabela comemora o sucesso do susto.",
+      "hashtags": [
+        "#Regina",
+        "#Isabela",
+        "#Laura",
+        "#Fantasma"
+      ]
+    },
+    "cena_55": {
+      "titulo": "Um grito curto fecha a sequência e deixa o suspense no ar 😱",
+      "pergunta": "Você concorda com essa atitude?",
+      "legenda": "CAPA_SEGUNDOS=1\n\nUm grito curto fecha a sequência e deixa o suspense no ar.",
+      "hashtags": [
+        "#Capítulo94",
+        "#Grito",
+        "#Suspense"
+      ]
+    }
+  }
+}
