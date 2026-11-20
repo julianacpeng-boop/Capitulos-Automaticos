@@ -1,0 +1,546 @@
+{
+  "capitulo": 96,
+  "execucao": "44776570390",
+  "cenas": {
+    "cena_01": {
+      "titulo": "Isabela escapa por pouco e comemora a surpresa que deixou para Regina 👻",
+      "pergunta": "Que surpresa você acha que ela preparou?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nIsabela escapa por pouco e comemora a surpresa que deixou para Regina.",
+      "hashtags": [
+        "#Isabela",
+        "#Regina",
+        "#Sandro"
+      ]
+    },
+    "cena_02": {
+      "titulo": "Enquanto Regina reclama dos capangas, os irmãos atraem Bartolomeu com sardinha",
+      "pergunta": "Bartolomeu vai cair nessa isca?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nEnquanto Regina reclama dos capangas, os irmãos atraem Bartolomeu com sardinha.",
+      "hashtags": [
+        "#Regina",
+        "#Bartolomeu",
+        "#Meire",
+        "#Sardinha"
+      ]
+    },
+    "cena_03": {
+      "titulo": "A isca funciona e Mateus conta a Doris como Omar ameaçou outro trabalhador 😡",
+      "pergunta": "Você esperava essa ameaça de Omar?",
+      "legenda": "CAPA_SEGUNDOS=39\n\nA isca funciona e Mateus conta a Doris como Omar ameaçou outro trabalhador.",
+      "hashtags": [
+        "#Mateus",
+        "#Doris",
+        "#Omar"
+      ]
+    },
+    "cena_04": {
+      "titulo": "Mateus evita prejudicar um inocente e Meire lamenta o tombo causado pela isca",
+      "pergunta": "Mateus fez bem em pensar no emprego do outro pai?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nMateus evita prejudicar um inocente e Meire lamenta o tombo causado pela isca.",
+      "hashtags": [
+        "#Mateus",
+        "#Doris",
+        "#Meire",
+        "#Bartolomeu"
+      ]
+    },
+    "cena_05": {
+      "titulo": "Meire tenta esconder a vergonha e os irmãos preparam a segunda parte do plano 😂",
+      "pergunta": "O que os irmãos vão descobrir agora?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nMeire tenta esconder a vergonha e os irmãos preparam a segunda parte do plano.",
+      "hashtags": [
+        "#Meire",
+        "#Bartolomeu",
+        "#Irmãos"
+      ]
+    },
+    "cena_06": {
+      "titulo": "Fred apresenta as joias do catálogo e confia a Rebeca uma grande responsabilidade",
+      "pergunta": "Você aceitaria cuidar de peças tão valiosas?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nFred apresenta as joias do catálogo e confia a Rebeca uma grande responsabilidade.",
+      "hashtags": [
+        "#Fred",
+        "#Rebeca",
+        "#Joias",
+        "#Catálogo"
+      ]
+    },
+    "cena_07": {
+      "titulo": "Os irmãos entram no apartamento de Meire e preparam fotos da torneira aberta 🚰",
+      "pergunta": "As fotos vão provar a mentira de Meire?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nOs irmãos entram no apartamento de Meire e preparam fotos da torneira aberta.",
+      "hashtags": [
+        "#Meire",
+        "#Irmãos",
+        "#Água",
+        "#Provas"
+      ]
+    },
+    "cena_08": {
+      "titulo": "Os irmãos decidem gravar um vídeo para registrar o que acontece no apartamento",
+      "pergunta": "Você faria um vídeo para guardar essa prova?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nOs irmãos decidem gravar um vídeo para registrar o que acontece no apartamento.",
+      "hashtags": [
+        "#Irmãos",
+        "#Meire",
+        "#Vídeo",
+        "#Racionamento"
+      ]
+    },
+    "cena_09": {
+      "titulo": "As mechas roxas na comida deixam Regina apavorada e Geraldo levanta suspeitas 👻",
+      "pergunta": "Regina vai perceber que Isabela está por perto?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nAs mechas roxas na comida deixam Regina apavorada e Geraldo levanta suspeitas.",
+      "hashtags": [
+        "#Regina",
+        "#Geraldo",
+        "#Isabela",
+        "#Mechas"
+      ]
+    },
+    "cena_10": {
+      "titulo": "Uma joia na bolsa de Rebeca vira o centro de uma armação no estúdio",
+      "pergunta": "Como Rebeca pode se proteger dessa maldade?",
+      "legenda": "CAPA_SEGUNDOS=31\n\nUma joia na bolsa de Rebeca vira o centro de uma armação no estúdio.",
+      "hashtags": [
+        "#Rebeca",
+        "#Joias",
+        "#Armação",
+        "#Thomas"
+      ]
+    },
+    "cena_11": {
+      "titulo": "Os moradores confrontam Meire e exigem que a água volte ao condomínio 😤",
+      "pergunta": "Meire merece perder a confiança dos moradores?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nOs moradores confrontam Meire e exigem que a água volte ao condomínio.",
+      "hashtags": [
+        "#Meire",
+        "#Moradores",
+        "#Água"
+      ]
+    },
+    "cena_12": {
+      "titulo": "Fotos e filmagens desmentem Meire, que tenta escapar da multa com ajuda do sobrinho",
+      "pergunta": "Você concorda com a cobrança da multa?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nFotos e filmagens desmentem Meire, que tenta escapar da multa com ajuda do sobrinho.",
+      "hashtags": [
+        "#Meire",
+        "#Multa",
+        "#Racionamento",
+        "#Provas"
+      ]
+    },
+    "cena_13": {
+      "titulo": "Meire aceita assinar a multa que vai pagar a água do condomínio inteiro 🧾",
+      "pergunta": "Essa consequência foi justa?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nMeire aceita assinar a multa que vai pagar a água do condomínio inteiro.",
+      "hashtags": [
+        "#Meire",
+        "#Multa",
+        "#Condomínio"
+      ]
+    },
+    "cena_14": {
+      "titulo": "Fred coloca o colar em Rebeca, mas ela insiste em guardar logo a joia no cofre",
+      "pergunta": "Você também ficaria apreensivo com esse colar?",
+      "legenda": "CAPA_SEGUNDOS=13\n\nFred coloca o colar em Rebeca, mas ela insiste em guardar logo a joia no cofre.",
+      "hashtags": [
+        "#Fred",
+        "#Rebeca",
+        "#Colar",
+        "#Diamantes"
+      ]
+    },
+    "cena_15": {
+      "titulo": "Joel aparece e revela que foi ele quem mandou as flores para Helena 💐",
+      "pergunta": "Você desconfiava que o buquê era de Joel?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nJoel aparece e revela que foi ele quem mandou as flores para Helena.",
+      "hashtags": [
+        "#Joel",
+        "#Helena",
+        "#Flores"
+      ]
+    },
+    "cena_16": {
+      "titulo": "Joel espera uma visita, mas Helena confessa que não sente nada por ele",
+      "pergunta": "Helena deve deixar claro o que sente?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nJoel espera uma visita, mas Helena confessa que não sente nada por ele.",
+      "hashtags": [
+        "#Joel",
+        "#Helena",
+        "#Romance"
+      ]
+    },
+    "cena_17": {
+      "titulo": "Helena admite que seu coração escolheu justamente um homem difícil ❤️",
+      "pergunta": "Você acha que Pedro vai corresponder?",
+      "legenda": "CAPA_SEGUNDOS=4\n\nHelena admite que seu coração escolheu justamente um homem difícil.",
+      "hashtags": [
+        "#Helena",
+        "#Pedro",
+        "#Coração"
+      ]
+    },
+    "cena_18": {
+      "titulo": "Regina recebe um guru espiritual e pede ajuda para expulsar o fantasma da menina",
+      "pergunta": "O guru vai descobrir o truque de Isabela?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nRegina recebe um guru espiritual e pede ajuda para expulsar o fantasma da menina.",
+      "hashtags": [
+        "#Regina",
+        "#Geraldo",
+        "#Guru",
+        "#Fantasma"
+      ]
+    },
+    "cena_19": {
+      "titulo": "Priscila diz que Joaquim gosta dela e deixa Manuela pensando na conversa",
+      "pergunta": "Priscila está contando a verdade?",
+      "legenda": "CAPA_SEGUNDOS=34\n\nPriscila diz que Joaquim gosta dela e deixa Manuela pensando na conversa.",
+      "hashtags": [
+        "#Priscila",
+        "#Joaquim",
+        "#Manuela"
+      ]
+    },
+    "cena_20": {
+      "titulo": "Manuela lembra do anel e começa a se perguntar se Joaquim gosta dela 💍",
+      "pergunta": "Joaquim deveria falar logo o que sente?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nManuela lembra do anel e começa a se perguntar se Joaquim gosta dela.",
+      "hashtags": [
+        "#Manuela",
+        "#Joaquim",
+        "#Priscila",
+        "#Anel"
+      ]
+    },
+    "cena_21": {
+      "titulo": "Priscila pensa em mudar de estilo enquanto Ofélio avisa Isabela sobre o guru 👻",
+      "pergunta": "Isabela deveria se esconder desta vez?",
+      "legenda": "CAPA_SEGUNDOS=39\n\nPriscila pensa em mudar de estilo enquanto Ofélio avisa Isabela sobre o guru.",
+      "hashtags": [
+        "#Priscila",
+        "#Isabela",
+        "#Ofélio",
+        "#Guru"
+      ]
+    },
+    "cena_22": {
+      "titulo": "Isabela decide responder ao chamado do fantasma e o guru tenta adivinhar seu nome",
+      "pergunta": "Essa sessão vai sair como Regina espera?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nIsabela decide responder ao chamado do fantasma e o guru tenta adivinhar seu nome.",
+      "hashtags": [
+        "#Isabela",
+        "#Guru",
+        "#Regina"
+      ]
+    },
+    "cena_23": {
+      "titulo": "O guru anuncia uma sessão especial e avisa que o serviço vai custar mais 💸",
+      "pergunta": "Você acreditaria nesse pedido de pagamento extra?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nO guru anuncia uma sessão especial e avisa que o serviço vai custar mais.",
+      "hashtags": [
+        "#Guru",
+        "#Regina",
+        "#Sessão"
+      ]
+    },
+    "cena_24": {
+      "titulo": "Priscila mostra o novo visual e enfrenta opiniões bem diferentes em casa",
+      "pergunta": "Priscila deveria manter esse novo estilo?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nPriscila mostra o novo visual e enfrenta opiniões bem diferentes em casa.",
+      "hashtags": [
+        "#Priscila",
+        "#Visual",
+        "#Família"
+      ]
+    },
+    "cena_25": {
+      "titulo": "A família comenta a mudança de Priscila e Regina se prepara para a sessão 🔮",
+      "pergunta": "Quem parece mais nervoso para a sessão?",
+      "legenda": "CAPA_SEGUNDOS=38\n\nA família comenta a mudança de Priscila e Regina se prepara para a sessão.",
+      "hashtags": [
+        "#Priscila",
+        "#Regina",
+        "#Guru",
+        "#Sessão"
+      ]
+    },
+    "cena_26": {
+      "titulo": "Todos fecham os olhos e o guru chama por Isabela dentro da casa",
+      "pergunta": "O que você esperaria ouvir nesse momento?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nTodos fecham os olhos e o guru chama por Isabela dentro da casa.",
+      "hashtags": [
+        "#Guru",
+        "#Isabela",
+        "#Regina"
+      ]
+    },
+    "cena_27": {
+      "titulo": "A voz de Isabela responde e afirma que não vai sair da própria casa 👻",
+      "pergunta": "Regina vai reconhecer o truque pela voz?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nA voz de Isabela responde e afirma que não vai sair da própria casa.",
+      "hashtags": [
+        "#Isabela",
+        "#Regina",
+        "#Casa"
+      ]
+    },
+    "cena_28": {
+      "titulo": "Marina decide procurar uma chance de fugir para reencontrar as meninas",
+      "pergunta": "Marina deve tentar fugir sozinha?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nMarina decide procurar uma chance de fugir para reencontrar as meninas.",
+      "hashtags": [
+        "#Marina",
+        "#Fuga",
+        "#Meninas",
+        "#Cativeiro"
+      ]
+    },
+    "cena_29": {
+      "titulo": "Isabela interrompe a tentativa de expulsão e acusa Regina de ter roubado tudo 😱",
+      "pergunta": "Você gostou de ver Regina confrontada?",
+      "legenda": "CAPA_SEGUNDOS=43\n\nIsabela interrompe a tentativa de expulsão e acusa Regina de ter roubado tudo.",
+      "hashtags": [
+        "#Isabela",
+        "#Regina",
+        "#Herança"
+      ]
+    },
+    "cena_30": {
+      "titulo": "Isabela exige que Regina abra mão da herança e se entregue à polícia",
+      "pergunta": "Regina algum dia vai aceitar assumir o que fez?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nIsabela exige que Regina abra mão da herança e se entregue à polícia.",
+      "hashtags": [
+        "#Isabela",
+        "#Regina",
+        "#Herança",
+        "#Polícia"
+      ]
+    },
+    "cena_31": {
+      "titulo": "Regina se recusa a ceder e a sessão vira uma confusão com a bola de cristal 🔮",
+      "pergunta": "Qual reação dessa confusão foi a mais engraçada?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nRegina se recusa a ceder e a sessão vira uma confusão com a bola de cristal.",
+      "hashtags": [
+        "#Regina",
+        "#Guru",
+        "#Cristal"
+      ]
+    },
+    "cena_32": {
+      "titulo": "O guru desiste do trabalho e declara que a casa é mal-assombrada",
+      "pergunta": "Depois dessa, Regina vai conseguir dormir?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nO guru desiste do trabalho e declara que a casa é mal-assombrada.",
+      "hashtags": [
+        "#Guru",
+        "#Regina",
+        "#Casa",
+        "#Fantasma"
+      ]
+    },
+    "cena_33": {
+      "titulo": "As irmãs comentam o susto e percebem que precisam tirar Isabela dali 🤫",
+      "pergunta": "Elas devem priorizar a fuga agora?",
+      "legenda": "CAPA_SEGUNDOS=38\n\nAs irmãs comentam o susto e percebem que precisam tirar Isabela dali.",
+      "hashtags": [
+        "#Isabela",
+        "#Manuela",
+        "#Ofélio",
+        "#Fuga"
+      ]
+    },
+    "cena_34": {
+      "titulo": "Ofélio precisa chegar a Marina e surge uma ideia para Regina mandá-lo ao galpão",
+      "pergunta": "Que desculpa você usaria para ir ao galpão?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nOfélio precisa chegar a Marina e surge uma ideia para Regina mandá-lo ao galpão.",
+      "hashtags": [
+        "#Ofélio",
+        "#Marina",
+        "#Galpão"
+      ]
+    },
+    "cena_35": {
+      "titulo": "Dourado se recupera, mas sua volta ao haras levanta uma preocupação 🐎",
+      "pergunta": "Devolver Dourado é a melhor opção?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nDourado se recupera, mas sua volta ao haras levanta uma preocupação.",
+      "hashtags": [
+        "#Dourado",
+        "#Pedro",
+        "#Luiz",
+        "#Haras"
+      ]
+    },
+    "cena_36": {
+      "titulo": "Omar acusa Luiz de roubar Dourado e Mateus defende o pai diante dos amigos",
+      "pergunta": "Como você reagiria a uma acusação dessas?",
+      "legenda": "CAPA_SEGUNDOS=39\n\nOmar acusa Luiz de roubar Dourado e Mateus defende o pai diante dos amigos.",
+      "hashtags": [
+        "#Omar",
+        "#Luiz",
+        "#Mateus",
+        "#Dourado"
+      ]
+    },
+    "cena_37": {
+      "titulo": "Omar fala em cadeia e Mateus perde a paciência ao defender a honestidade do pai 😡",
+      "pergunta": "Os amigos fizeram bem em tentar acalmar Mateus?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nOmar fala em cadeia e Mateus perde a paciência ao defender a honestidade do pai.",
+      "hashtags": [
+        "#Omar",
+        "#Mateus",
+        "#Luiz",
+        "#Injustiça"
+      ]
+    },
+    "cena_38": {
+      "titulo": "Ofélio usa as roupas do armário para conseguir uma nova ida ao galpão",
+      "pergunta": "Regina vai desconfiar dessa desculpa?",
+      "legenda": "CAPA_SEGUNDOS=38\n\nOfélio usa as roupas do armário para conseguir uma nova ida ao galpão.",
+      "hashtags": [
+        "#Ofélio",
+        "#Regina",
+        "#Roupas",
+        "#Galpão"
+      ]
+    },
+    "cena_39": {
+      "titulo": "O catálogo ganha brilho e Otávio aprova os detalhes da sessão de fotos 📸",
+      "pergunta": "Você gostou dos cuidados com o catálogo?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nO catálogo ganha brilho e Otávio aprova os detalhes da sessão de fotos.",
+      "hashtags": [
+        "#Otávio",
+        "#Fred",
+        "#Catálogo",
+        "#Joias"
+      ]
+    },
+    "cena_40": {
+      "titulo": "Otávio tenta roubar um beijo, mas Rebeca lembra da responsabilidade com as joias",
+      "pergunta": "Rebeca fez bem em manter o foco no trabalho?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nOtávio tenta roubar um beijo, mas Rebeca lembra da responsabilidade com as joias.",
+      "hashtags": [
+        "#Otávio",
+        "#Rebeca",
+        "#Beijo",
+        "#Joias"
+      ]
+    },
+    "cena_41": {
+      "titulo": "Manuela volta a usar o anel e Priscila aparece com um novo visual 💍",
+      "pergunta": "O que o sorriso de Joaquim revela?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nManuela volta a usar o anel e Priscila aparece com um novo visual.",
+      "hashtags": [
+        "#Manuela",
+        "#Joaquim",
+        "#Priscila",
+        "#Anel"
+      ]
+    },
+    "cena_42": {
+      "titulo": "Joaquim quase se declara enquanto o visual de Priscila vira alvo de comentários",
+      "pergunta": "Por que Joaquim sempre para antes de se declarar?",
+      "legenda": "CAPA_SEGUNDOS=34\n\nJoaquim quase se declara enquanto o visual de Priscila vira alvo de comentários.",
+      "hashtags": [
+        "#Joaquim",
+        "#Manuela",
+        "#Priscila",
+        "#Visual"
+      ]
+    },
+    "cena_43": {
+      "titulo": "Fred recebe elogios pela sessão e a bolsa de Rebeca entra no foco da cena 💎",
+      "pergunta": "Você já percebeu o perigo nessa bolsa?",
+      "legenda": "CAPA_SEGUNDOS=42\n\nFred recebe elogios pela sessão e a bolsa de Rebeca entra no foco da cena.",
+      "hashtags": [
+        "#Fred",
+        "#Rebeca",
+        "#Bolsa",
+        "#Joia"
+      ]
+    },
+    "cena_44": {
+      "titulo": "Ofélio chega ao galpão com roupas e tenta manter a visita bem casual",
+      "pergunta": "Os capangas vão aceitar sua presença?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nOfélio chega ao galpão com roupas e tenta manter a visita bem casual.",
+      "hashtags": [
+        "#Ofélio",
+        "#Galpão",
+        "#Roupas"
+      ]
+    },
+    "cena_45": {
+      "titulo": "Ofélio sugere várias saídas, mas não consegue afastar os dois capangas 😬",
+      "pergunta": "Qual desculpa poderia ter funcionado?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nOfélio sugere várias saídas, mas não consegue afastar os dois capangas.",
+      "hashtags": [
+        "#Ofélio",
+        "#Capangas",
+        "#Marina",
+        "#Galpão"
+      ]
+    },
+    "cena_46": {
+      "titulo": "Os capangas percebem a insistência e mandam Ofélio ir embora do galpão",
+      "pergunta": "Ofélio precisa mudar de estratégia?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nOs capangas percebem a insistência e mandam Ofélio ir embora do galpão.",
+      "hashtags": [
+        "#Ofélio",
+        "#Capangas",
+        "#Galpão"
+      ]
+    },
+    "cena_47": {
+      "titulo": "A sessão termina e Rebeca descobre que uma joia da primeira foto desapareceu 😰",
+      "pergunta": "Como encontrar a peça sem acusar ninguém?",
+      "legenda": "CAPA_SEGUNDOS=43\n\nA sessão termina e Rebeca descobre que uma joia da primeira foto desapareceu.",
+      "hashtags": [
+        "#Rebeca",
+        "#Fred",
+        "#Joia",
+        "#Catálogo"
+      ]
+    },
+    "cena_48": {
+      "titulo": "Rebeca assume a preocupação com a joia e a segurança é chamada ao estúdio",
+      "pergunta": "A segurança vai esclarecer o desaparecimento?",
+      "legenda": "CAPA_SEGUNDOS=11\n\nRebeca assume a preocupação com a joia e a segurança é chamada ao estúdio.",
+      "hashtags": [
+        "#Rebeca",
+        "#Joia",
+        "#Segurança"
+      ]
+    },
+    "cena_49": {
+      "titulo": "Um capanga sai e o outro aproveita a chance para descansar no galpão 😴",
+      "pergunta": "Essa distração pode abrir caminho para Marina?",
+      "legenda": "CAPA_SEGUNDOS=38\n\nUm capanga sai e o outro aproveita a chance para descansar no galpão.",
+      "hashtags": [
+        "#Marina",
+        "#Capangas",
+        "#Galpão",
+        "#Fuga"
+      ]
+    },
+    "cena_50": {
+      "titulo": "A porta aberta chama atenção no galpão e Rebeca tenta lembrar onde deixou a peça",
+      "pergunta": "Rebeca vai conseguir reconstruir seus passos?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nA porta aberta chama atenção no galpão e Rebeca tenta lembrar onde deixou a peça.",
+      "hashtags": [
+        "#Galpão",
+        "#Rebeca",
+        "#Joia"
+      ]
+    },
+    "cena_51": {
+      "titulo": "A joia aparece dentro da bolsa de Rebeca e a armação chega ao pior momento 💎",
+      "pergunta": "Como Rebeca vai provar que não roubou nada?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nA joia aparece dentro da bolsa de Rebeca e a armação chega ao pior momento.",
+      "hashtags": [
+        "#Rebeca",
+        "#Joia",
+        "#Bolsa",
+        "#Armação"
+      ]
+    }
+  }
+}
