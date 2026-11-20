@@ -1,0 +1,533 @@
+{
+  "capitulo": 95,
+  "execucao": "44706518819",
+  "cenas": {
+    "cena_01": {
+      "titulo": "Isabela comemora o susto em Regina e lamenta não ter registrado a reação 👻",
+      "pergunta": "Você também queria ter visto essa reação?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nIsabela comemora o susto em Regina e lamenta não ter registrado a reação.",
+      "hashtags": [
+        "#Isabela",
+        "#Regina",
+        "#Susto"
+      ]
+    },
+    "cena_02": {
+      "titulo": "Regina jura que viu um fantasma e Laura fica apavorada com a história",
+      "pergunta": "Quem ficou com mais medo nessa conversa?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nRegina jura que viu um fantasma e Laura fica apavorada com a história.",
+      "hashtags": [
+        "#Regina",
+        "#Laura",
+        "#Fantasma"
+      ]
+    },
+    "cena_03": {
+      "titulo": "Regina teme que o espírito de Isabela tenha voltado para atormentá-la 😱",
+      "pergunta": "O disfarce de Isabela foi convincente?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nRegina teme que o espírito de Isabela tenha voltado para atormentá-la.",
+      "hashtags": [
+        "#Regina",
+        "#Isabela",
+        "#Ofélio",
+        "#Assombração"
+      ]
+    },
+    "cena_04": {
+      "titulo": "Otávio pede que Rebeca pare de sumir e ela relembra o abandono do marido",
+      "pergunta": "Rebeca fez bem em falar sobre essa dor?",
+      "legenda": "CAPA_SEGUNDOS=33\n\nOtávio pede que Rebeca pare de sumir e ela relembra o abandono do marido.",
+      "hashtags": [
+        "#Otávio",
+        "#Rebeca",
+        "#Abandono"
+      ]
+    },
+    "cena_05": {
+      "titulo": "Rebeca pede desculpas e Otávio admite que deixaria o orgulho pelo amor ❤️",
+      "pergunta": "Você também deixaria o orgulho de lado?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nRebeca pede desculpas e Otávio admite que deixaria o orgulho pelo amor.",
+      "hashtags": [
+        "#Rebeca",
+        "#Otávio",
+        "#Perdão"
+      ]
+    },
+    "cena_06": {
+      "titulo": "Dois dias sem água parecem uma eternidade, mas Felipe continua evitando o banho",
+      "pergunta": "Qual seria sua maior dificuldade sem água?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nDois dias sem água parecem uma eternidade, mas Felipe continua evitando o banho.",
+      "hashtags": [
+        "#Felipe",
+        "#FaltaDeÁgua",
+        "#Banho"
+      ]
+    },
+    "cena_07": {
+      "titulo": "Os irmãos percebem o valor da água quando a torneira deixa de ajudar 🚰",
+      "pergunta": "Você já passou por esse aperto?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nOs irmãos percebem o valor da água quando a torneira deixa de ajudar.",
+      "hashtags": [
+        "#Irmãos",
+        "#Água",
+        "#Economia"
+      ]
+    },
+    "cena_08": {
+      "titulo": "Regina liga desesperada para Geraldo contando que o fantasma voltou",
+      "pergunta": "Geraldo vai acreditar no relato dela?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nRegina liga desesperada para Geraldo contando que o fantasma voltou.",
+      "hashtags": [
+        "#Regina",
+        "#Geraldo",
+        "#Isabela",
+        "#Fantasma"
+      ]
+    },
+    "cena_09": {
+      "titulo": "Geraldo suspeita de Manuela e manda Regina tirar a menina do porão 🔒",
+      "pergunta": "Essa mudança vai ajudar ou atrapalhar as irmãs?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nGeraldo suspeita de Manuela e manda Regina tirar a menina do porão.",
+      "hashtags": [
+        "#Geraldo",
+        "#Regina",
+        "#Manuela",
+        "#Porão"
+      ]
+    },
+    "cena_10": {
+      "titulo": "Padre Lutero elogia a alegria de Flávia e ela celebra o reencontro com o tio",
+      "pergunta": "Você também percebe quando alguém está feliz?",
+      "legenda": "CAPA_SEGUNDOS=7\n\nPadre Lutero elogia a alegria de Flávia e ela celebra o reencontro com o tio.",
+      "hashtags": [
+        "#Flávia",
+        "#PadreLutero",
+        "#Alegria"
+      ]
+    },
+    "cena_11": {
+      "titulo": "Pedro elogia a coragem de Helena durante a cirurgia veterinária 🩺",
+      "pergunta": "O elogio de Pedro surpreendeu você?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nPedro elogia a coragem de Helena durante a cirurgia veterinária.",
+      "hashtags": [
+        "#Pedro",
+        "#Helena",
+        "#Veterinária"
+      ]
+    },
+    "cena_12": {
+      "titulo": "Nina sente a falta da neta e recebe apoio para não perder a esperança",
+      "pergunta": "Que palavra de conforto você diria a Nina?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nNina sente a falta da neta e recebe apoio para não perder a esperança.",
+      "hashtags": [
+        "#Nina",
+        "#Manuela",
+        "#Família",
+        "#Esperança"
+      ]
+    },
+    "cena_13": {
+      "titulo": "Pedro diz que Helena será uma excelente veterinária e enche a família de orgulho 🌷",
+      "pergunta": "Helena mereceu esse reconhecimento?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nPedro diz que Helena será uma excelente veterinária e enche a família de orgulho.",
+      "hashtags": [
+        "#Pedro",
+        "#Helena",
+        "#Veterinária",
+        "#Orgulho"
+      ]
+    },
+    "cena_14": {
+      "titulo": "Regina pressiona Manuela e insiste que alguém está ajudando a menina a sair",
+      "pergunta": "Manuela vai conseguir manter o segredo?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nRegina pressiona Manuela e insiste que alguém está ajudando a menina a sair.",
+      "hashtags": [
+        "#Regina",
+        "#Manuela",
+        "#Porão",
+        "#Desconfiança"
+      ]
+    },
+    "cena_15": {
+      "titulo": "Helena confessa que Pedro é o homem da sua vida e fala da esperança de ser amada ❤️",
+      "pergunta": "Você acha que Pedro está se aproximando dela?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nHelena confessa que Pedro é o homem da sua vida e fala da esperança de ser amada.",
+      "hashtags": [
+        "#Helena",
+        "#Pedro",
+        "#Romance"
+      ]
+    },
+    "cena_16": {
+      "titulo": "Laura entende o disfarce de Ofélio do jeito errado e confronta Sandro",
+      "pergunta": "Como Sandro vai explicar essa confusão?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nLaura entende o disfarce de Ofélio do jeito errado e confronta Sandro.",
+      "hashtags": [
+        "#Laura",
+        "#Sandro",
+        "#Ofélio",
+        "#MalEntendido"
+      ]
+    },
+    "cena_17": {
+      "titulo": "Sandro nega a conversa por telefone, mas Laura não aceita sua versão 😂",
+      "pergunta": "Ofélio se meteu em uma grande enrascada?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nSandro nega a conversa por telefone, mas Laura não aceita sua versão.",
+      "hashtags": [
+        "#Sandro",
+        "#Laura",
+        "#Ofélio",
+        "#Confusão"
+      ]
+    },
+    "cena_18": {
+      "titulo": "Regina perde a paciência e avisa que não vai tolerar mais brincadeiras",
+      "pergunta": "Até onde a desconfiança de Regina pode chegar?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nRegina perde a paciência e avisa que não vai tolerar mais brincadeiras.",
+      "hashtags": [
+        "#Regina",
+        "#Ameaça",
+        "#Brincadeira"
+      ]
+    },
+    "cena_19": {
+      "titulo": "Manuela volta ao quarto e teme que os sustos de Isabela revelem tudo 😟",
+      "pergunta": "Isabela deveria parar com as brincadeiras?",
+      "legenda": "CAPA_SEGUNDOS=31\n\nManuela volta ao quarto e teme que os sustos de Isabela revelem tudo.",
+      "hashtags": [
+        "#Manuela",
+        "#Isabela",
+        "#Regina",
+        "#Segredo"
+      ]
+    },
+    "cena_20": {
+      "titulo": "Marina resolve se exercitar no cativeiro e ainda dá um alerta a Navarro",
+      "pergunta": "Você gostou da resposta de Marina?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nMarina resolve se exercitar no cativeiro e ainda dá um alerta a Navarro.",
+      "hashtags": [
+        "#Marina",
+        "#Navarro",
+        "#Cativeiro",
+        "#Exercício"
+      ]
+    },
+    "cena_21": {
+      "titulo": "Sandro procura Ofélio para cobrar a história inventada sobre Laura 📱",
+      "pergunta": "Como você sairia dessa conversa?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nSandro procura Ofélio para cobrar a história inventada sobre Laura.",
+      "hashtags": [
+        "#Sandro",
+        "#Ofélio",
+        "#Laura",
+        "#Telefone"
+      ]
+    },
+    "cena_22": {
+      "titulo": "Ofélio transforma a mentira em conselho amoroso e tenta convencer Sandro",
+      "pergunta": "Sandro deveria acreditar nesse conselho?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nOfélio transforma a mentira em conselho amoroso e tenta convencer Sandro.",
+      "hashtags": [
+        "#Ofélio",
+        "#Sandro",
+        "#Laura",
+        "#Paquera"
+      ]
+    },
+    "cena_23": {
+      "titulo": "Os irmãos fazem contagem regressiva para a água voltar e sonham com um banho 🛁",
+      "pergunta": "Qual seria a primeira coisa que você faria?",
+      "legenda": "CAPA_SEGUNDOS=13\n\nOs irmãos fazem contagem regressiva para a água voltar e sonham com um banho.",
+      "hashtags": [
+        "#Irmãos",
+        "#Água",
+        "#Banho",
+        "#Racionamento"
+      ]
+    },
+    "cena_24": {
+      "titulo": "Roupa limpa no varal de Meire desperta suspeitas e Doris procura seu feijão",
+      "pergunta": "Como Meire conseguiu lavar tanta roupa?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nRoupa limpa no varal de Meire desperta suspeitas e Doris procura seu feijão.",
+      "hashtags": [
+        "#Meire",
+        "#Racionamento",
+        "#Doris",
+        "#Feijões"
+      ]
+    },
+    "cena_25": {
+      "titulo": "Doris esconde sua decepção com os feijões enquanto precisa se preparar para a escola 🌱",
+      "pergunta": "Ela já percebeu que pode ter sido enganada?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nDoris esconde sua decepção com os feijões enquanto precisa se preparar para a escola.",
+      "hashtags": [
+        "#Doris",
+        "#Feijões",
+        "#Escola"
+      ]
+    },
+    "cena_26": {
+      "titulo": "Nico encontra um cavalo machucado e vai pedir ajuda a Pedro",
+      "pergunta": "Nico fez bem em procurar um veterinário?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nNico encontra um cavalo machucado e vai pedir ajuda a Pedro.",
+      "hashtags": [
+        "#Nico",
+        "#Pedro",
+        "#Cavalo",
+        "#Resgate"
+      ]
+    },
+    "cena_27": {
+      "titulo": "O cavalo é reconhecido como Dourado e recebe a promessa de cuidado 🐎",
+      "pergunta": "Quem você acha que deixou Dourado escapar?",
+      "legenda": "CAPA_SEGUNDOS=11\n\nO cavalo é reconhecido como Dourado e recebe a promessa de cuidado.",
+      "hashtags": [
+        "#Dourado",
+        "#Cavalo",
+        "#Ferimento",
+        "#ProteçãoAnimal"
+      ]
+    },
+    "cena_28": {
+      "titulo": "Fred recebe Rebeca com festa e ela conta que foi atrás de Otávio",
+      "pergunta": "A recepção de Fred deixou tudo mais leve?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nFred recebe Rebeca com festa e ela conta que foi atrás de Otávio.",
+      "hashtags": [
+        "#Fred",
+        "#Rebeca",
+        "#Otávio",
+        "#Reconciliação"
+      ]
+    },
+    "cena_29": {
+      "titulo": "A volta de Rebeca anima Fred, mas nem todos recebem a notícia com alegria 🌸",
+      "pergunta": "Quem não gostou de ver Rebeca de volta?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nA volta de Rebeca anima Fred, mas nem todos recebem a notícia com alegria.",
+      "hashtags": [
+        "#Rebeca",
+        "#Fred",
+        "#Empresa"
+      ]
+    },
+    "cena_30": {
+      "titulo": "Mateus descobre que o dinheiro sumiu e Doris confessa a compra dos feijões",
+      "pergunta": "Doris deveria ter conversado antes de gastar?",
+      "legenda": "CAPA_SEGUNDOS=31\n\nMateus descobre que o dinheiro sumiu e Doris confessa a compra dos feijões.",
+      "hashtags": [
+        "#Mateus",
+        "#Doris",
+        "#Dinheiro",
+        "#Feijões"
+      ]
+    },
+    "cena_31": {
+      "titulo": "Mateus desmonta a história dos feijões e suspeita de uma armação de Omar 🧐",
+      "pergunta": "O raciocínio de Mateus faz sentido?",
+      "legenda": "CAPA_SEGUNDOS=29\n\nMateus desmonta a história dos feijões e suspeita de uma armação de Omar.",
+      "hashtags": [
+        "#Mateus",
+        "#Doris",
+        "#Omar",
+        "#Engano"
+      ]
+    },
+    "cena_32": {
+      "titulo": "Safira critica os horários de Rebeca e Otávio pede compreensão pela filha desaparecida",
+      "pergunta": "Você concorda com a resposta de Otávio?",
+      "legenda": "CAPA_SEGUNDOS=31\n\nSafira critica os horários de Rebeca e Otávio pede compreensão pela filha desaparecida.",
+      "hashtags": [
+        "#Safira",
+        "#Otávio",
+        "#Rebeca",
+        "#Manuela"
+      ]
+    },
+    "cena_33": {
+      "titulo": "Mateus prepara um plano para descobrir quem enganou Doris com os feijões 🎯",
+      "pergunta": "O plano vai conseguir revelar o responsável?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nMateus prepara um plano para descobrir quem enganou Doris com os feijões.",
+      "hashtags": [
+        "#Mateus",
+        "#Doris",
+        "#Omar",
+        "#Armadilha"
+      ]
+    },
+    "cena_34": {
+      "titulo": "Helena agradece pelo buquê, mas Pedro garante que não foi ele quem mandou",
+      "pergunta": "Quem será o autor desse presente?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nHelena agradece pelo buquê, mas Pedro garante que não foi ele quem mandou.",
+      "hashtags": [
+        "#Helena",
+        "#Pedro",
+        "#Flores",
+        "#Mistério"
+      ]
+    },
+    "cena_35": {
+      "titulo": "Doris fala dos feijões roubados enquanto tenta reencontrar o vendedor 😢",
+      "pergunta": "Você percebeu algo suspeito nessa conversa?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nDoris fala dos feijões roubados enquanto tenta reencontrar o vendedor.",
+      "hashtags": [
+        "#Doris",
+        "#Feijões",
+        "#Dinheiro",
+        "#Engano"
+      ]
+    },
+    "cena_36": {
+      "titulo": "Os meninos falam em enganar Doris de novo e a banda aprova a gravação",
+      "pergunta": "A nova tentativa vai acabar saindo pela culatra?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nOs meninos falam em enganar Doris de novo e a banda aprova a gravação.",
+      "hashtags": [
+        "#Doris",
+        "#Banda",
+        "#Gravação",
+        "#Plano"
+      ]
+    },
+    "cena_37": {
+      "titulo": "Joaquim percebe que Manuela parou de usar seu anel e pergunta o motivo 💍",
+      "pergunta": "Manuela devia deixar de usar o presente por Priscila?",
+      "legenda": "CAPA_SEGUNDOS=39\n\nJoaquim percebe que Manuela parou de usar seu anel e pergunta o motivo.",
+      "hashtags": [
+        "#Joaquim",
+        "#Manuela",
+        "#Priscila",
+        "#Anel"
+      ]
+    },
+    "cena_38": {
+      "titulo": "Joaquim quase revela de quem gosta enquanto Priscila reclama das silhuetas",
+      "pergunta": "Joaquim deveria falar logo o que sente?",
+      "legenda": "CAPA_SEGUNDOS=11\n\nJoaquim quase revela de quem gosta enquanto Priscila reclama das silhuetas.",
+      "hashtags": [
+        "#Joaquim",
+        "#Manuela",
+        "#Priscila",
+        "#Banda"
+      ]
+    },
+    "cena_39": {
+      "titulo": "Geraldo tenta convencer Priscila de que as sombras fazem parte da estratégia 🎤",
+      "pergunta": "Você acha essa divulgação uma boa ideia?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nGeraldo tenta convencer Priscila de que as sombras fazem parte da estratégia.",
+      "hashtags": [
+        "#Geraldo",
+        "#Priscila",
+        "#Banda",
+        "#Divulgação"
+      ]
+    },
+    "cena_40": {
+      "titulo": "Mateus manda Doris fingir tristeza e prepara a segunda parte da armadilha",
+      "pergunta": "Doris vai conseguir atuar sem entregar tudo?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nMateus manda Doris fingir tristeza e prepara a segunda parte da armadilha.",
+      "hashtags": [
+        "#Mateus",
+        "#Doris",
+        "#Téo",
+        "#Plano"
+      ]
+    },
+    "cena_41": {
+      "titulo": "A fuga de Dourado levanta uma suspeita e o cavalo ganha cuidado para a pata 🐴",
+      "pergunta": "Hermínio pode ter ajudado Dourado a escapar?",
+      "legenda": "CAPA_SEGUNDOS=13\n\nA fuga de Dourado levanta uma suspeita e o cavalo ganha cuidado para a pata.",
+      "hashtags": [
+        "#Dourado",
+        "#Hermínio",
+        "#Cavalo",
+        "#Cuidado"
+      ]
+    },
+    "cena_42": {
+      "titulo": "Doris espera pelo vendedor enquanto Mateus e Téo ficam de olho escondidos",
+      "pergunta": "O vendedor vai cair na isca?",
+      "legenda": "CAPA_SEGUNDOS=40\n\nDoris espera pelo vendedor enquanto Mateus e Téo ficam de olho escondidos.",
+      "hashtags": [
+        "#Doris",
+        "#Mateus",
+        "#Téo",
+        "#Armadilha"
+      ]
+    },
+    "cena_43": {
+      "titulo": "Mateus pega o vendedor, ouve o nome de Omar e recupera o dinheiro de Doris 💰",
+      "pergunta": "Mateus resolveu bem a situação?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nMateus pega o vendedor, ouve o nome de Omar e recupera o dinheiro de Doris.",
+      "hashtags": [
+        "#Mateus",
+        "#Doris",
+        "#Omar",
+        "#Dinheiro"
+      ]
+    },
+    "cena_44": {
+      "titulo": "Os amigos pedem desculpas a Mateus e Meire aparece cheirosa no racionamento",
+      "pergunta": "O cabelo molhado de Meire entregou alguma coisa?",
+      "legenda": "CAPA_SEGUNDOS=41\n\nOs amigos pedem desculpas a Mateus e Meire aparece cheirosa no racionamento.",
+      "hashtags": [
+        "#Mateus",
+        "#Meire",
+        "#Racionamento",
+        "#Banho"
+      ]
+    },
+    "cena_45": {
+      "titulo": "Meire diz que o cabelo está com creme, mas os irmãos não acreditam 🤨",
+      "pergunta": "Essa explicação convenceu você?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nMeire diz que o cabelo está com creme, mas os irmãos não acreditam.",
+      "hashtags": [
+        "#Meire",
+        "#Irmãos",
+        "#Água",
+        "#Suspeita"
+      ]
+    },
+    "cena_46": {
+      "titulo": "Os irmãos planejam desmascarar Meire e Mateus confronta Omar pelos feijões",
+      "pergunta": "Qual desses planos você quer ver dar certo?",
+      "legenda": "CAPA_SEGUNDOS=34\n\nOs irmãos planejam desmascarar Meire e Mateus confronta Omar pelos feijões.",
+      "hashtags": [
+        "#Meire",
+        "#Mateus",
+        "#Omar",
+        "#Feijões"
+      ]
+    },
+    "cena_47": {
+      "titulo": "Omar ameaça o emprego de outro pai para obrigar Mateus a esquecer a história 😡",
+      "pergunta": "Como enfrentar uma chantagem dessas?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nOmar ameaça o emprego de outro pai para obrigar Mateus a esquecer a história.",
+      "hashtags": [
+        "#Omar",
+        "#Mateus",
+        "#Ameaça",
+        "#Injustiça"
+      ]
+    },
+    "cena_48": {
+      "titulo": "Isabela escapa de Sandro e imagina Regina encontrando a surpresa que deixou",
+      "pergunta": "O que Isabela terá preparado desta vez?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nIsabela escapa de Sandro e imagina Regina encontrando a surpresa que deixou.",
+      "hashtags": [
+        "#Isabela",
+        "#Sandro",
+        "#Regina",
+        "#Surpresa"
+      ]
+    },
+    "cena_49": {
+      "titulo": "Regina reclama dos capangas sem imaginar a surpresa que a espera 👻",
+      "pergunta": "Regina vai levar outro susto?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nRegina reclama dos capangas sem imaginar a surpresa que a espera.",
+      "hashtags": [
+        "#Regina",
+        "#Capangas",
+        "#Isabela",
+        "#Susto"
+      ]
+    }
+  }
+}
