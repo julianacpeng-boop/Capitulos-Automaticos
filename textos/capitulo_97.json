@@ -1,0 +1,548 @@
+{
+  "capitulo": 97,
+  "execucao": "44918328993",
+  "cenas": {
+    "cena_01": {
+      "titulo": "A porta ficou aberta e a fuga de Marina deixa os capangas sem explicação 😱",
+      "pergunta": "Como eles deixaram isso acontecer?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nA porta ficou aberta e a fuga de Marina deixa os capangas sem explicação.",
+      "hashtags": [
+        "#Marina",
+        "#Fuga",
+        "#Capangas"
+      ]
+    },
+    "cena_02": {
+      "titulo": "A joia aparece na bolsa de Rebeca e transforma o fim da sessão em um pesadelo",
+      "pergunta": "Como Rebeca pode provar sua inocência?",
+      "legenda": "CAPA_SEGUNDOS=39\n\nA joia aparece na bolsa de Rebeca e transforma o fim da sessão em um pesadelo.",
+      "hashtags": [
+        "#Rebeca",
+        "#Joia",
+        "#Bolsa",
+        "#Armação"
+      ]
+    },
+    "cena_03": {
+      "titulo": "Doris pergunta sobre o cavalo e Luiz explica que apenas devolveu Dourado 🐎",
+      "pergunta": "Você acreditaria em Luiz sem hesitar?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nDoris pergunta sobre o cavalo e Luiz explica que apenas devolveu Dourado.",
+      "hashtags": [
+        "#Doris",
+        "#Luiz",
+        "#Dourado",
+        "#Omar"
+      ]
+    },
+    "cena_04": {
+      "titulo": "Luiz consola os filhos e ensina que ser bom é escolher o caminho correto",
+      "pergunta": "Que parte do conselho mais tocou você?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nLuiz consola os filhos e ensina que ser bom é escolher o caminho correto.",
+      "hashtags": [
+        "#Luiz",
+        "#Mateus",
+        "#Doris",
+        "#Caráter"
+      ]
+    },
+    "cena_05": {
+      "titulo": "Otávio afasta os curiosos e Rebeca jura que não colocou a joia na bolsa 💎",
+      "pergunta": "Otávio fez bem em preservar Rebeca?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nOtávio afasta os curiosos e Rebeca jura que não colocou a joia na bolsa.",
+      "hashtags": [
+        "#Otávio",
+        "#Rebeca",
+        "#Joia",
+        "#Injustiça"
+      ]
+    },
+    "cena_06": {
+      "titulo": "O colar experimentado no escritório vira motivo de insinuação contra Rebeca",
+      "pergunta": "Você percebeu a intenção por trás do comentário?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nO colar experimentado no escritório vira motivo de insinuação contra Rebeca.",
+      "hashtags": [
+        "#Rebeca",
+        "#Colar",
+        "#Suspeita"
+      ]
+    },
+    "cena_07": {
+      "titulo": "Fred encara Thomas e manda parar de plantar maldade na cabeça dos outros 👀",
+      "pergunta": "Fred deveria investigar essa desconfiança?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nFred encara Thomas e manda parar de plantar maldade na cabeça dos outros.",
+      "hashtags": [
+        "#Fred",
+        "#Thomas",
+        "#Rebeca",
+        "#Intriga"
+      ]
+    },
+    "cena_08": {
+      "titulo": "Depois do ensaio, Priscila procura Joaquim para saber o que ele achou do visual",
+      "pergunta": "Ela está pronta para uma opinião sincera?",
+      "legenda": "CAPA_SEGUNDOS=39\n\nDepois do ensaio, Priscila procura Joaquim para saber o que ele achou do visual.",
+      "hashtags": [
+        "#Priscila",
+        "#Joaquim",
+        "#Ensaio",
+        "#Visual"
+      ]
+    },
+    "cena_09": {
+      "titulo": "Joaquim não aprova o visual e Rebeca teme enfrentar as fofocas no trabalho 😟",
+      "pergunta": "Você conseguiria ignorar os comentários?",
+      "legenda": "CAPA_SEGUNDOS=33\n\nJoaquim não aprova o visual e Rebeca teme enfrentar as fofocas no trabalho.",
+      "hashtags": [
+        "#Joaquim",
+        "#Priscila",
+        "#Rebeca",
+        "#Fofoca"
+      ]
+    },
+    "cena_10": {
+      "titulo": "Rebeca se sente questionada por Otávio e decide sair acompanhada de Fred",
+      "pergunta": "Otávio escolheu bem as palavras?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nRebeca se sente questionada por Otávio e decide sair acompanhada de Fred.",
+      "hashtags": [
+        "#Rebeca",
+        "#Otávio",
+        "#Fred",
+        "#Confiança"
+      ]
+    },
+    "cena_11": {
+      "titulo": "Marina pede carona para longe enquanto Priscila desconta sua irritação nos outros 🚚",
+      "pergunta": "Você ficou preocupado com essa carona?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nMarina pede carona para longe enquanto Priscila desconta sua irritação nos outros.",
+      "hashtags": [
+        "#Marina",
+        "#Carona",
+        "#Priscila"
+      ]
+    },
+    "cena_12": {
+      "titulo": "Priscila acusa Manuela de provocar com o anel e insinua interesse de Joaquim",
+      "pergunta": "Priscila passou dos limites nessa conversa?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nPriscila acusa Manuela de provocar com o anel e insinua interesse de Joaquim.",
+      "hashtags": [
+        "#Priscila",
+        "#Manuela",
+        "#Joaquim",
+        "#Anel"
+      ]
+    },
+    "cena_13": {
+      "titulo": "Luiz devolve Dourado, mas Omar insiste na acusação sem apresentar provas 😡",
+      "pergunta": "Como você reagiria no lugar de Luiz?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nLuiz devolve Dourado, mas Omar insiste na acusação sem apresentar provas.",
+      "hashtags": [
+        "#Luiz",
+        "#Omar",
+        "#Dourado",
+        "#Acusação"
+      ]
+    },
+    "cena_14": {
+      "titulo": "Luiz pede que conversem com Pedro, mas recebe uma ameaça de polícia",
+      "pergunta": "Por que não ouvir a testemunha antes de acusar?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nLuiz pede que conversem com Pedro, mas recebe uma ameaça de polícia.",
+      "hashtags": [
+        "#Luiz",
+        "#Pedro",
+        "#Joel",
+        "#Polícia"
+      ]
+    },
+    "cena_15": {
+      "titulo": "Marina pede para descer e o motorista se recusa a parar o caminhão 😨",
+      "pergunta": "O que pode ter acontecido nessa viagem?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nMarina pede para descer e o motorista se recusa a parar o caminhão.",
+      "hashtags": [
+        "#Marina",
+        "#Caminhão",
+        "#Perigo"
+      ]
+    },
+    "cena_16": {
+      "titulo": "Geraldo chega com a notícia que Regina não queria ouvir: Marina fugiu",
+      "pergunta": "Qual será a primeira reação de Regina?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nGeraldo chega com a notícia que Regina não queria ouvir: Marina fugiu.",
+      "hashtags": [
+        "#Geraldo",
+        "#Regina",
+        "#Marina",
+        "#Fuga"
+      ]
+    },
+    "cena_17": {
+      "titulo": "Regina e Geraldo discutem e temem que Marina procure ajuda na delegacia 🚨",
+      "pergunta": "A fuga pode finalmente revelar os crimes?",
+      "legenda": "CAPA_SEGUNDOS=36\n\nRegina e Geraldo discutem e temem que Marina procure ajuda na delegacia.",
+      "hashtags": [
+        "#Regina",
+        "#Geraldo",
+        "#Marina",
+        "#Delegacia"
+      ]
+    },
+    "cena_18": {
+      "titulo": "A conversa sobre a fuga de Dourado esclarece que Luiz não roubou o cavalo",
+      "pergunta": "Luiz merecia um pedido de desculpas?",
+      "legenda": "CAPA_SEGUNDOS=37\n\nA conversa sobre a fuga de Dourado esclarece que Luiz não roubou o cavalo.",
+      "hashtags": [
+        "#Luiz",
+        "#Hermínio",
+        "#Dourado",
+        "#Verdade"
+      ]
+    },
+    "cena_19": {
+      "titulo": "Luiz reafirma sua honestidade e Dourado ganha a chance de continuar vivo 🐴",
+      "pergunta": "Você sentiu alívio pelo cavalo?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nLuiz reafirma sua honestidade e Dourado ganha a chance de continuar vivo.",
+      "hashtags": [
+        "#Luiz",
+        "#Dourado",
+        "#Hermínio",
+        "#Honestidade"
+      ]
+    },
+    "cena_20": {
+      "titulo": "Manuela conta que gosta de Joaquim, mas ainda se abala com as palavras de Priscila",
+      "pergunta": "Manuela deveria dar ouvidos a Priscila?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nManuela conta que gosta de Joaquim, mas ainda se abala com as palavras de Priscila.",
+      "hashtags": [
+        "#Manuela",
+        "#Joaquim",
+        "#Priscila",
+        "#Anel"
+      ]
+    },
+    "cena_21": {
+      "titulo": "Manuela sonha com uma declaração romântica e confessa que morreria de vergonha 💕",
+      "pergunta": "Você também ficaria sem saber como reagir?",
+      "legenda": "CAPA_SEGUNDOS=13\n\nManuela sonha com uma declaração romântica e confessa que morreria de vergonha.",
+      "hashtags": [
+        "#Manuela",
+        "#Joaquim",
+        "#Declaração",
+        "#Romance"
+      ]
+    },
+    "cena_22": {
+      "titulo": "André percebe o sentimento de Joaquim e diz que Priscila mudou o estilo por ele",
+      "pergunta": "Joaquim deixa seus sentimentos tão evidentes assim?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nAndré percebe o sentimento de Joaquim e diz que Priscila mudou o estilo por ele.",
+      "hashtags": [
+        "#André",
+        "#Joaquim",
+        "#Priscila",
+        "#Manuela"
+      ]
+    },
+    "cena_23": {
+      "titulo": "Joaquim admite que gosta muito de Manuela, mas ainda teme levar um fora 💍",
+      "pergunta": "Ele deve esperar ou criar coragem?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nJoaquim admite que gosta muito de Manuela, mas ainda teme levar um fora.",
+      "hashtags": [
+        "#Joaquim",
+        "#Manuela",
+        "#André",
+        "#Namoro"
+      ]
+    },
+    "cena_24": {
+      "titulo": "Luiz explica a Mateus por que se vingar de Omar só faria mais mal",
+      "pergunta": "Você concorda com esse conselho do pai?",
+      "legenda": "CAPA_SEGUNDOS=33\n\nLuiz explica a Mateus por que se vingar de Omar só faria mais mal.",
+      "hashtags": [
+        "#Luiz",
+        "#Mateus",
+        "#Omar",
+        "#Vingança"
+      ]
+    },
+    "cena_25": {
+      "titulo": "Mateus ouve que justiça não deve ser feita com as próprias mãos 🙏",
+      "pergunta": "Como separar justiça de vingança?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nMateus ouve que justiça não deve ser feita com as próprias mãos.",
+      "hashtags": [
+        "#Mateus",
+        "#Luiz",
+        "#Justiça",
+        "#Conselho"
+      ]
+    },
+    "cena_26": {
+      "titulo": "Nico encontra uma mulher caída e se esforça para socorrê-la",
+      "pergunta": "Você esperava que Nico a encontrasse?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nNico encontra uma mulher caída e se esforça para socorrê-la.",
+      "hashtags": [
+        "#Nico",
+        "#Marina",
+        "#Socorro"
+      ]
+    },
+    "cena_27": {
+      "titulo": "Ofélio pensa em Marina enquanto os capangas começam a procurar culpados pela fuga 🌙",
+      "pergunta": "Quem vai assumir a responsabilidade?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nOfélio pensa em Marina enquanto os capangas começam a procurar culpados pela fuga.",
+      "hashtags": [
+        "#Ofélio",
+        "#Marina",
+        "#Capangas",
+        "#Fuga"
+      ]
+    },
+    "cena_28": {
+      "titulo": "Os capangas discutem e Ofélio descobre que Marina escapou do galpão",
+      "pergunta": "Para onde Ofélio deve procurar primeiro?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nOs capangas discutem e Ofélio descobre que Marina escapou do galpão.",
+      "hashtags": [
+        "#Ofélio",
+        "#Marina",
+        "#Galpão",
+        "#Capangas"
+      ]
+    },
+    "cena_29": {
+      "titulo": "Marina acorda amparada pela família de Giuseppe depois de machucar a cabeça 🩹",
+      "pergunta": "Ela conseguiu chegar a um lugar seguro?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nMarina acorda amparada pela família de Giuseppe depois de machucar a cabeça.",
+      "hashtags": [
+        "#Marina",
+        "#Giuseppe",
+        "#Nico",
+        "#Acolhimento"
+      ]
+    },
+    "cena_30": {
+      "titulo": "Marina não lembra nem do nome e teme que avisem quem está procurando por ela",
+      "pergunta": "A sensação de perigo pode ajudá-la a lembrar?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nMarina não lembra nem do nome e teme que avisem quem está procurando por ela.",
+      "hashtags": [
+        "#Marina",
+        "#Memória",
+        "#Medo",
+        "#Refúgio"
+      ]
+    },
+    "cena_31": {
+      "titulo": "A família aceita acolher Marina até ela melhorar, apesar do receio de perigo 🏠",
+      "pergunta": "Você também abriria sua casa para ajudar?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nA família aceita acolher Marina até ela melhorar, apesar do receio de perigo.",
+      "hashtags": [
+        "#Marina",
+        "#Giuseppe",
+        "#Família",
+        "#Acolhimento"
+      ]
+    },
+    "cena_32": {
+      "titulo": "Ofélio conta a Manuela que Marina fugiu e os dois tentam entender seu destino",
+      "pergunta": "Marina conseguirá mandar alguma notícia?",
+      "legenda": "CAPA_SEGUNDOS=11\n\nOfélio conta a Manuela que Marina fugiu e os dois tentam entender seu destino.",
+      "hashtags": [
+        "#Ofélio",
+        "#Manuela",
+        "#Marina",
+        "#Fuga"
+      ]
+    },
+    "cena_33": {
+      "titulo": "A preocupação chega ao ensaio e os amigos percebem que algo não vai bem 🎹",
+      "pergunta": "Os amigos vão conseguir descobrir o motivo?",
+      "legenda": "CAPA_SEGUNDOS=39\n\nA preocupação chega ao ensaio e os amigos percebem que algo não vai bem.",
+      "hashtags": [
+        "#Manuela",
+        "#Banda",
+        "#Marina",
+        "#Preocupação"
+      ]
+    },
+    "cena_34": {
+      "titulo": "A notícia da fuga passa entre os amigos e Priscila acha que o segredo é sobre ela",
+      "pergunta": "Priscila deveria deixar os amigos conversarem?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nA notícia da fuga passa entre os amigos e Priscila acha que o segredo é sobre ela.",
+      "hashtags": [
+        "#Marina",
+        "#Priscila",
+        "#Banda",
+        "#Segredo"
+      ]
+    },
+    "cena_35": {
+      "titulo": "Téo dispensa a companhia dos amigos e diz que precisa fazer a lição 🤫",
+      "pergunta": "Por que Téo está tentando ir sozinho?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nTéo dispensa a companhia dos amigos e diz que precisa fazer a lição.",
+      "hashtags": [
+        "#Téo",
+        "#Mateus",
+        "#Doris",
+        "#Segredo"
+      ]
+    },
+    "cena_36": {
+      "titulo": "Os amigos tentam afastar Sandro, mas a primeira abordagem não ajuda",
+      "pergunta": "Qual desculpa você usaria para ganhar privacidade?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nOs amigos tentam afastar Sandro, mas a primeira abordagem não ajuda.",
+      "hashtags": [
+        "#Sandro",
+        "#Felipe",
+        "#André",
+        "#Estratégia"
+      ]
+    },
+    "cena_37": {
+      "titulo": "Ofélio se junta aos amigos e eles decidem procurar pistas no galpão 🔎",
+      "pergunta": "O grupo vai encontrar alguma pista da fuga?",
+      "legenda": "CAPA_SEGUNDOS=39\n\nOfélio se junta aos amigos e eles decidem procurar pistas no galpão.",
+      "hashtags": [
+        "#Ofélio",
+        "#Marina",
+        "#Amigos",
+        "#Resgate"
+      ]
+    },
+    "cena_38": {
+      "titulo": "Otávio enfrenta Safira e afirma que alguém armou contra Rebeca",
+      "pergunta": "Otávio está perto de descobrir a verdade?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nOtávio enfrenta Safira e afirma que alguém armou contra Rebeca.",
+      "hashtags": [
+        "#Otávio",
+        "#Safira",
+        "#Rebeca",
+        "#Armação"
+      ]
+    },
+    "cena_39": {
+      "titulo": "Safira se defende, mas Otávio exige que pare de tratar Rebeca como criminosa ⚖️",
+      "pergunta": "Você gostou da postura de Otávio?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nSafira se defende, mas Otávio exige que pare de tratar Rebeca como criminosa.",
+      "hashtags": [
+        "#Safira",
+        "#Otávio",
+        "#Rebeca",
+        "#Acusação"
+      ]
+    },
+    "cena_40": {
+      "titulo": "Doris encontra Téo com Nico e estranha a desculpa sobre remédios",
+      "pergunta": "A explicação deles convenceu você?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nDoris encontra Téo com Nico e estranha a desculpa sobre remédios.",
+      "hashtags": [
+        "#Doris",
+        "#Téo",
+        "#Nico",
+        "#Remédios"
+      ]
+    },
+    "cena_41": {
+      "titulo": "Os amigos chegam ao galpão e tomam cuidado antes de procurar Marina 🔦",
+      "pergunta": "Você entraria para procurar pistas?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nOs amigos chegam ao galpão e tomam cuidado antes de procurar Marina.",
+      "hashtags": [
+        "#Marina",
+        "#Galpão",
+        "#Amigos",
+        "#Busca"
+      ]
+    },
+    "cena_42": {
+      "titulo": "Téo leva remédios para a mulher acolhida e oferece ajuda com os ferimentos",
+      "pergunta": "O cuidado de Téo pode ajudar na recuperação?",
+      "legenda": "CAPA_SEGUNDOS=4\n\nTéo leva remédios para a mulher acolhida e oferece ajuda com os ferimentos.",
+      "hashtags": [
+        "#Téo",
+        "#Marina",
+        "#Remédios",
+        "#Cuidado"
+      ]
+    },
+    "cena_43": {
+      "titulo": "Téo conta a Marina sobre a família e a amiga Manuela desaparecida 🥺",
+      "pergunta": "Ouvir sobre Manuela pode despertar alguma lembrança?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nTéo conta a Marina sobre a família e a amiga Manuela desaparecida.",
+      "hashtags": [
+        "#Téo",
+        "#Marina",
+        "#Manuela",
+        "#Família"
+      ]
+    },
+    "cena_44": {
+      "titulo": "Marina pede para ouvir a banda e Téo mostra uma música feita para a mãe",
+      "pergunta": "A música pode aproximar os dois?",
+      "legenda": "CAPA_SEGUNDOS=7\n\nMarina pede para ouvir a banda e Téo mostra uma música feita para a mãe.",
+      "hashtags": [
+        "#Marina",
+        "#Téo",
+        "#Música",
+        "#Mãe"
+      ]
+    },
+    "cena_45": {
+      "titulo": "A música de Téo traz uma mensagem de amizade para Marina 🎶",
+      "pergunta": "Que sentimento essa apresentação transmite?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nA música de Téo traz uma mensagem de amizade para Marina.",
+      "hashtags": [
+        "#Téo",
+        "#Marina",
+        "#Música",
+        "#Amizade"
+      ]
+    },
+    "cena_46": {
+      "titulo": "A apresentação continua em um trecho com poucas falas registradas",
+      "pergunta": "Qual detalhe da apresentação mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nA apresentação continua em um trecho com poucas falas registradas.",
+      "hashtags": [
+        "#Téo",
+        "#Marina",
+        "#Apresentação"
+      ]
+    },
+    "cena_47": {
+      "titulo": "Um novo trecho da apresentação mantém o encontro de Téo e Marina 🎵",
+      "pergunta": "Você gostou desse momento entre os dois?",
+      "legenda": "CAPA_SEGUNDOS=5\n\nUm novo trecho da apresentação mantém o encontro de Téo e Marina.",
+      "hashtags": [
+        "#Téo",
+        "#Marina",
+        "#Música"
+      ]
+    },
+    "cena_48": {
+      "titulo": "Marina recebe mais carinho enquanto Doris conta que Téo estava estranho",
+      "pergunta": "Doris vai descobrir quem está sendo ajudado?",
+      "legenda": "CAPA_SEGUNDOS=34\n\nMarina recebe mais carinho enquanto Doris conta que Téo estava estranho.",
+      "hashtags": [
+        "#Marina",
+        "#Téo",
+        "#Doris",
+        "#Acolhimento"
+      ]
+    },
+    "cena_49": {
+      "titulo": "Doris e Mateus sentem que Téo esconde algo e os capangas encontram um sinal suspeito 🍬",
+      "pergunta": "O papel de bala pode entregar a presença de alguém?",
+      "legenda": "CAPA_SEGUNDOS=38\n\nDoris e Mateus sentem que Téo esconde algo e os capangas encontram um sinal suspeito.",
+      "hashtags": [
+        "#Téo",
+        "#Doris",
+        "#Mateus",
+        "#Capangas"
+      ]
+    },
+    "cena_50": {
+      "titulo": "Um breve trecho sem falas encerra a sequência do capítulo 97",
+      "pergunta": "Qual acontecimento do capítulo mais chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=0\n\nUm breve trecho sem falas encerra a sequência do capítulo 97.",
+      "hashtags": [
+        "#Capítulo97",
+        "#CenaFinal",
+        "#Sequência"
+      ]
+    }
+  }
+}
