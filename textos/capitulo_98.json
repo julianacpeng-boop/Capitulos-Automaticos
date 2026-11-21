@@ -1,0 +1,530 @@
+{
+  "capitulo": 98,
+  "execucao": "44958776840",
+  "cenas": {
+    "cena_01": {
+      "titulo": "Doris e Mateus percebem que Téo esconde algo e temem perder a amizade 🤔",
+      "pergunta": "Você também desconfiaria dessa mudança?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nDoris e Mateus percebem que Téo esconde algo e temem perder a amizade.",
+      "hashtags": [
+        "#Doris",
+        "#Mateus",
+        "#Téo",
+        "#Segredo"
+      ]
+    },
+    "cena_02": {
+      "titulo": "Os amigos acham um HD no galpão enquanto um papel de bala chama atenção dos capangas",
+      "pergunta": "O HD pode revelar o que eles procuram?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nOs amigos acham um HD no galpão enquanto um papel de bala chama atenção dos capangas.",
+      "hashtags": [
+        "#Galpão",
+        "#HD",
+        "#Amigos",
+        "#Pistas"
+      ]
+    },
+    "cena_03": {
+      "titulo": "Geraldo manda apagar os rastros e os amigos precisam escapar sem serem vistos 😰",
+      "pergunta": "Eles vão conseguir sair com as provas?",
+      "legenda": "CAPA_SEGUNDOS=13\n\nGeraldo manda apagar os rastros e os amigos precisam escapar sem serem vistos.",
+      "hashtags": [
+        "#Geraldo",
+        "#Capangas",
+        "#Galpão"
+      ]
+    },
+    "cena_04": {
+      "titulo": "Otávio pede ajuda a Fred enquanto Omar insiste na acusação contra Luiz",
+      "pergunta": "Omar deveria assumir que estava errado?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nOtávio pede ajuda a Fred enquanto Omar insiste na acusação contra Luiz.",
+      "hashtags": [
+        "#Otávio",
+        "#Fred",
+        "#Omar",
+        "#Luiz"
+      ]
+    },
+    "cena_05": {
+      "titulo": "Joel recusa outro presente e os amigos conseguem sair do galpão com o HD 💾",
+      "pergunta": "Qual descoberta você espera encontrar no HD?",
+      "legenda": "CAPA_SEGUNDOS=39\n\nJoel recusa outro presente e os amigos conseguem sair do galpão com o HD.",
+      "hashtags": [
+        "#Joel",
+        "#Omar",
+        "#Amigos",
+        "#HD"
+      ]
+    },
+    "cena_06": {
+      "titulo": "Otávio explica que nunca suspeitou de roubo e pede desculpas a Rebeca",
+      "pergunta": "A explicação de Otávio foi suficiente?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nOtávio explica que nunca suspeitou de roubo e pede desculpas a Rebeca.",
+      "hashtags": [
+        "#Otávio",
+        "#Rebeca",
+        "#Joia",
+        "#Confiança"
+      ]
+    },
+    "cena_07": {
+      "titulo": "Rebeca e Otávio reafirmam o amor depois do constrangimento da joia ❤️",
+      "pergunta": "Você gostou de ver os dois se entendendo?",
+      "legenda": "CAPA_SEGUNDOS=7\n\nRebeca e Otávio reafirmam o amor depois do constrangimento da joia.",
+      "hashtags": [
+        "#Rebeca",
+        "#Otávio",
+        "#Amor",
+        "#Reconciliação"
+      ]
+    },
+    "cena_08": {
+      "titulo": "O HD tem músicas da banda e os amigos suspeitam de um plano de pirataria",
+      "pergunta": "Por que Geraldo guardava essas gravações?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nO HD tem músicas da banda e os amigos suspeitam de um plano de pirataria.",
+      "hashtags": [
+        "#HD",
+        "#Banda",
+        "#Geraldo",
+        "#Pirataria"
+      ]
+    },
+    "cena_09": {
+      "titulo": "Músicas e dados de cartões no HD ampliam a suspeita contra Geraldo 🚨",
+      "pergunta": "Os amigos devem levar essa descoberta à polícia?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nMúsicas e dados de cartões no HD ampliam a suspeita contra Geraldo.",
+      "hashtags": [
+        "#Geraldo",
+        "#HD",
+        "#Cartões",
+        "#Pirataria"
+      ]
+    },
+    "cena_10": {
+      "titulo": "Isabela manda um bilhete por Tuntum para descobrir notícias de Marina",
+      "pergunta": "O bilhete vai chegar a Manuela?",
+      "legenda": "CAPA_SEGUNDOS=34\n\nIsabela manda um bilhete por Tuntum para descobrir notícias de Marina.",
+      "hashtags": [
+        "#Isabela",
+        "#Tuntum",
+        "#Marina",
+        "#Bilhete"
+      ]
+    },
+    "cena_11": {
+      "titulo": "O nome de Marina marca um trecho com poucas falas registradas 🐭",
+      "pergunta": "Que detalhe desse trecho chamou sua atenção?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nO nome de Marina marca um trecho com poucas falas registradas.",
+      "hashtags": [
+        "#Marina",
+        "#Tuntum",
+        "#Isabela"
+      ]
+    },
+    "cena_12": {
+      "titulo": "Regina liga para Raul e tenta descobrir se Marina entrou em contato com ele",
+      "pergunta": "Raul vai perceber o motivo da ligação?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nRegina liga para Raul e tenta descobrir se Marina entrou em contato com ele.",
+      "hashtags": [
+        "#Regina",
+        "#Raul",
+        "#Marina",
+        "#Telefonema"
+      ]
+    },
+    "cena_13": {
+      "titulo": "Regina se alivia ao saber que Marina não falou com Raul, mas continua inquieta 😟",
+      "pergunta": "Até quando Regina vai ficar sem notícias?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nRegina se alivia ao saber que Marina não falou com Raul, mas continua inquieta.",
+      "hashtags": [
+        "#Regina",
+        "#Raul",
+        "#Marina",
+        "#Fuga"
+      ]
+    },
+    "cena_14": {
+      "titulo": "A família escolhe Antonella como nome para a mulher que está acolhendo",
+      "pergunta": "Você gostou do nome escolhido?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nA família escolhe Antonella como nome para a mulher que está acolhendo.",
+      "hashtags": [
+        "#Marina",
+        "#Antonella",
+        "#Família",
+        "#Acolhimento"
+      ]
+    },
+    "cena_15": {
+      "titulo": "O esconderijo traz de volta uma pergunta inquietante: onde está Marina? 🔎",
+      "pergunta": "Quem vai descobrir o paradeiro dela primeiro?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nO esconderijo traz de volta uma pergunta inquietante: onde está Marina?.",
+      "hashtags": [
+        "#Marina",
+        "#Isabela",
+        "#Esconderijo"
+      ]
+    },
+    "cena_16": {
+      "titulo": "A voz de Isabela pergunta por Marina e Regina tenta disfarçar o medo diante de Laura",
+      "pergunta": "Regina ainda acredita no fantasma?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nA voz de Isabela pergunta por Marina e Regina tenta disfarçar o medo diante de Laura.",
+      "hashtags": [
+        "#Isabela",
+        "#Regina",
+        "#Laura",
+        "#Marina"
+      ]
+    },
+    "cena_17": {
+      "titulo": "Laura provoca outra confusão e o nome Marina surge na conversa de quem se esconde 🤫",
+      "pergunta": "Esse nome pode revelar a verdade?",
+      "legenda": "CAPA_SEGUNDOS=32\n\nLaura provoca outra confusão e o nome Marina surge na conversa de quem se esconde.",
+      "hashtags": [
+        "#Laura",
+        "#Regina",
+        "#Marina",
+        "#Téo"
+      ]
+    },
+    "cena_18": {
+      "titulo": "Marina confessa a Téo que não perdeu a memória e que teme ser encontrada",
+      "pergunta": "Téo fez bem em conquistar a confiança dela?",
+      "legenda": "CAPA_SEGUNDOS=13\n\nMarina confessa a Téo que não perdeu a memória e que teme ser encontrada.",
+      "hashtags": [
+        "#Marina",
+        "#Téo",
+        "#Memória",
+        "#Segredo"
+      ]
+    },
+    "cena_19": {
+      "titulo": "Téo promete silêncio e Tuntum volta sem o bilhete que deveria entregar 🐭",
+      "pergunta": "Onde o bilhete pode ter caído?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nTéo promete silêncio e Tuntum volta sem o bilhete que deveria entregar.",
+      "hashtags": [
+        "#Téo",
+        "#Tuntum",
+        "#Manuela",
+        "#Bilhete"
+      ]
+    },
+    "cena_20": {
+      "titulo": "Regina compara a escrita e questiona Manuela sobre contato com a irmã",
+      "pergunta": "Manuela vai conseguir despistar Regina?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nRegina compara a escrita e questiona Manuela sobre contato com a irmã.",
+      "hashtags": [
+        "#Regina",
+        "#Manuela",
+        "#Isabela",
+        "#Bilhete"
+      ]
+    },
+    "cena_21": {
+      "titulo": "Manuela engana Regina e comemora a própria atuação com Tuntum 🎭",
+      "pergunta": "Você gostou da resposta de Manuela?",
+      "legenda": "CAPA_SEGUNDOS=33\n\nManuela engana Regina e comemora a própria atuação com Tuntum.",
+      "hashtags": [
+        "#Manuela",
+        "#Regina",
+        "#Tuntum"
+      ]
+    },
+    "cena_22": {
+      "titulo": "Felipe transforma a descoberta da pirataria em uma aventura de navio na imaginação",
+      "pergunta": "Você também imaginou piratas quando ouviu a palavra?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nFelipe transforma a descoberta da pirataria em uma aventura de navio na imaginação.",
+      "hashtags": [
+        "#Felipe",
+        "#Pirataria",
+        "#Imaginação"
+      ]
+    },
+    "cena_23": {
+      "titulo": "A fantasia de Felipe vira uma batalha entre o navio dos artistas e os invasores 🏴‍☠️",
+      "pergunta": "Quem você quer que vença essa aventura?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nA fantasia de Felipe vira uma batalha entre o navio dos artistas e os invasores.",
+      "hashtags": [
+        "#Felipe",
+        "#Piratas",
+        "#Artistas",
+        "#Tesouro"
+      ]
+    },
+    "cena_24": {
+      "titulo": "A disputa imaginária continua e salvar o tesouro vira a prioridade",
+      "pergunta": "Qual seria sua estratégia para proteger o tesouro?",
+      "legenda": "CAPA_SEGUNDOS=4\n\nA disputa imaginária continua e salvar o tesouro vira a prioridade.",
+      "hashtags": [
+        "#Felipe",
+        "#Tesouro",
+        "#Piratas"
+      ]
+    },
+    "cena_25": {
+      "titulo": "Felipe conta sua aventura e os amigos explicam a confusão com a pirataria 😂",
+      "pergunta": "Você achou criativa essa viagem de Felipe?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nFelipe conta sua aventura e os amigos explicam a confusão com a pirataria.",
+      "hashtags": [
+        "#Felipe",
+        "#Pirataria",
+        "#Piratas",
+        "#Imaginação"
+      ]
+    },
+    "cena_26": {
+      "titulo": "Regina tenta negar os fantasmas enquanto Manuela quer saber o conteúdo do bilhete",
+      "pergunta": "O bilhete perdido pode colocar as irmãs em risco?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nRegina tenta negar os fantasmas enquanto Manuela quer saber o conteúdo do bilhete.",
+      "hashtags": [
+        "#Regina",
+        "#Manuela",
+        "#Isabela",
+        "#Bilhete"
+      ]
+    },
+    "cena_27": {
+      "titulo": "Manuela deseja que Tuntum fale e o ratinho sonha com um milagre 🐭",
+      "pergunta": "O que Tuntum diria se pudesse falar?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nManuela deseja que Tuntum fale e o ratinho sonha com um milagre.",
+      "hashtags": [
+        "#Manuela",
+        "#Tuntum",
+        "#Conversa"
+      ]
+    },
+    "cena_28": {
+      "titulo": "Flávia conta ao tio que uma novidade da escola será revelada em breve",
+      "pergunta": "Qual será a reação do padre ao projeto?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nFlávia conta ao tio que uma novidade da escola será revelada em breve.",
+      "hashtags": [
+        "#Flávia",
+        "#PadreLutero",
+        "#Escola",
+        "#Projeto"
+      ]
+    },
+    "cena_29": {
+      "titulo": "Um trecho de transcrição repetitiva dá continuidade à conversa de Flávia 📖",
+      "pergunta": "Você percebeu alguma pista da novidade?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nUm trecho de transcrição repetitiva dá continuidade à conversa de Flávia.",
+      "hashtags": [
+        "#Flávia",
+        "#PadreLutero",
+        "#Projeto"
+      ]
+    },
+    "cena_30": {
+      "titulo": "Flávia mantém o projeto em segredo e diz que já tem outro compromisso",
+      "pergunta": "Ela deveria contar logo o que está preparando?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nFlávia mantém o projeto em segredo e diz que já tem outro compromisso.",
+      "hashtags": [
+        "#Flávia",
+        "#PadreLutero",
+        "#Compromisso"
+      ]
+    },
+    "cena_31": {
+      "titulo": "Isabela perde a paciência e decide visitar Manuela sem esperar resposta 👻",
+      "pergunta": "Isabela está se arriscando demais?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nIsabela perde a paciência e decide visitar Manuela sem esperar resposta.",
+      "hashtags": [
+        "#Isabela",
+        "#Manuela",
+        "#Regina"
+      ]
+    },
+    "cena_32": {
+      "titulo": "Marina tenta achar um jeito de ligar para Ofélio sem revelar seu segredo",
+      "pergunta": "Como ela pode avisar Ofélio com segurança?",
+      "legenda": "CAPA_SEGUNDOS=33\n\nMarina tenta achar um jeito de ligar para Ofélio sem revelar seu segredo.",
+      "hashtags": [
+        "#Marina",
+        "#Ofélio",
+        "#Telefone",
+        "#Segredo"
+      ]
+    },
+    "cena_33": {
+      "titulo": "Flávia e o pastor celebram o projeto e falam sobre fazer o bem sem medo 💛",
+      "pergunta": "Você concorda com o que Flávia disse?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nFlávia e o pastor celebram o projeto e falam sobre fazer o bem sem medo.",
+      "hashtags": [
+        "#Flávia",
+        "#Pastor",
+        "#Projeto",
+        "#Solidariedade"
+      ]
+    },
+    "cena_34": {
+      "titulo": "O texto da peça diverte a dupla e Doris surge como perfeita para um dos papéis",
+      "pergunta": "Você consegue imaginar Doris nesse papel?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nO texto da peça diverte a dupla e Doris surge como perfeita para um dos papéis.",
+      "hashtags": [
+        "#Flávia",
+        "#Doris",
+        "#Teatro",
+        "#Peça"
+      ]
+    },
+    "cena_35": {
+      "titulo": "Padre Lutero encontra Flávia com o pastor e interpreta o encontro de forma errada 😟",
+      "pergunta": "O padre deveria ouvir antes de julgar?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nPadre Lutero encontra Flávia com o pastor e interpreta o encontro de forma errada.",
+      "hashtags": [
+        "#PadreLutero",
+        "#Flávia",
+        "#Pastor"
+      ]
+    },
+    "cena_36": {
+      "titulo": "Flávia explica a peça para as crianças, mas o tio não aceita ouvir a versão dela",
+      "pergunta": "Como resolver essa conversa sem novas acusações?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nFlávia explica a peça para as crianças, mas o tio não aceita ouvir a versão dela.",
+      "hashtags": [
+        "#Flávia",
+        "#Pastor",
+        "#Teatro",
+        "#Preconceito"
+      ]
+    },
+    "cena_37": {
+      "titulo": "Regina percebe que um fantasma não perguntaria por Marina e desmascara a ideia 👻",
+      "pergunta": "Essa pergunta foi o erro de Isabela?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nRegina percebe que um fantasma não perguntaria por Marina e desmascara a ideia.",
+      "hashtags": [
+        "#Regina",
+        "#Isabela",
+        "#Marina",
+        "#Fantasma"
+      ]
+    },
+    "cena_38": {
+      "titulo": "Regina manda revistar a casa e Isabela reconhece que acabou se descuidando",
+      "pergunta": "Onde Isabela pode se esconder agora?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nRegina manda revistar a casa e Isabela reconhece que acabou se descuidando.",
+      "hashtags": [
+        "#Regina",
+        "#Isabela",
+        "#Capangas",
+        "#Busca"
+      ]
+    },
+    "cena_39": {
+      "titulo": "Os capangas voltam sem encontrar Isabela e Regina perde ainda mais a paciência 😤",
+      "pergunta": "Eles estão perto de encontrar o esconderijo?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nOs capangas voltam sem encontrar Isabela e Regina perde ainda mais a paciência.",
+      "hashtags": [
+        "#Regina",
+        "#Sandro",
+        "#Isabela",
+        "#Busca"
+      ]
+    },
+    "cena_40": {
+      "titulo": "Os amigos puxam uma conversa sobre pirataria durante o café da manhã",
+      "pergunta": "Eles devem contar tudo que acharam no HD?",
+      "legenda": "CAPA_SEGUNDOS=44\n\nOs amigos puxam uma conversa sobre pirataria durante o café da manhã.",
+      "hashtags": [
+        "#Amigos",
+        "#Vicente",
+        "#Pirataria"
+      ]
+    },
+    "cena_41": {
+      "titulo": "Vicente revela que a polícia encontrou um galpão ligado à pirataria musical 🚔",
+      "pergunta": "As pistas dos amigos vão ajudar a investigação?",
+      "legenda": "CAPA_SEGUNDOS=30\n\nVicente revela que a polícia encontrou um galpão ligado à pirataria musical.",
+      "hashtags": [
+        "#Vicente",
+        "#Polícia",
+        "#Galpão",
+        "#Pirataria"
+      ]
+    },
+    "cena_42": {
+      "titulo": "Mateus cobra sinceridade de Téo, mas o amigo garante que está tudo bem",
+      "pergunta": "Téo deveria explicar por que precisa guardar segredo?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nMateus cobra sinceridade de Téo, mas o amigo garante que está tudo bem.",
+      "hashtags": [
+        "#Mateus",
+        "#Téo",
+        "#Amizade",
+        "#Segredo"
+      ]
+    },
+    "cena_43": {
+      "titulo": "A rotina da clínica é interrompida por um pedido que envolve Helena",
+      "pergunta": "O pedido vai causar algum ciúme?",
+      "legenda": "CAPA_SEGUNDOS=34\n\nA rotina da clínica é interrompida por um pedido que envolve Helena.",
+      "hashtags": [
+        "#Helena",
+        "#Pedro",
+        "#Clínica"
+      ]
+    },
+    "cena_44": {
+      "titulo": "Joel exige Helena no atendimento e a reação de Pedro deixa uma dúvida no ar 🌷",
+      "pergunta": "É ciúme de Helena ou preocupação com o trabalho?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nJoel exige Helena no atendimento e a reação de Pedro deixa uma dúvida no ar.",
+      "hashtags": [
+        "#Joel",
+        "#Helena",
+        "#Pedro",
+        "#Ciúme"
+      ]
+    },
+    "cena_45": {
+      "titulo": "Giuseppe e Nico oferecem folga a Mateus e tentam evitar que ele encontre Antonella 🏠",
+      "pergunta": "As desculpas vão convencer Mateus?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nGiuseppe e Nico oferecem folga a Mateus e tentam evitar que ele encontre Antonella.",
+      "hashtags": [
+        "#Giuseppe",
+        "#Nico",
+        "#Mateus",
+        "#Antonella"
+      ]
+    },
+    "cena_46": {
+      "titulo": "Mateus sai desconfiado depois de tantas desculpas para não falar com Téo",
+      "pergunta": "Você também acharia essa situação estranha?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nMateus sai desconfiado depois de tantas desculpas para não falar com Téo.",
+      "hashtags": [
+        "#Mateus",
+        "#Téo",
+        "#Nico",
+        "#Segredo"
+      ]
+    },
+    "cena_47": {
+      "titulo": "Manuela teme a movimentação dos capangas e pede proteção para Isabela 🙏",
+      "pergunta": "As irmãs vão conseguir se comunicar a tempo?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nManuela teme a movimentação dos capangas e pede proteção para Isabela.",
+      "hashtags": [
+        "#Manuela",
+        "#Isabela",
+        "#Capangas",
+        "#Busca"
+      ]
+    },
+    "cena_48": {
+      "titulo": "Navarro revista o esconderijo e Isabela quase é descoberta durante a busca",
+      "pergunta": "Como Isabela conseguiu escapar dessa vez?",
+      "legenda": "CAPA_SEGUNDOS=37\n\nNavarro revista o esconderijo e Isabela quase é descoberta durante a busca.",
+      "hashtags": [
+        "#Navarro",
+        "#Isabela",
+        "#Esconderijo"
+      ]
+    },
+    "cena_49": {
+      "titulo": "Isabela admite que precisa tomar mais cuidado após quase ser pega por Navarro 😰",
+      "pergunta": "Ela vai abandonar os sustos e focar na fuga?",
+      "legenda": "CAPA_SEGUNDOS=1\n\nIsabela admite que precisa tomar mais cuidado após quase ser pega por Navarro.",
+      "hashtags": [
+        "#Isabela",
+        "#Navarro",
+        "#Perigo"
+      ]
+    }
+  }
+}
