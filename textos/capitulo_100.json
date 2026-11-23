@@ -1,0 +1,567 @@
+{
+  "capitulo": 100,
+  "execucao": "45137297784",
+  "cenas": {
+    "cena_01": {
+      "titulo": "Omar provoca o vilarejo e Fiorina não aceita levar o desaforo para casa 😡",
+      "pergunta": "Fiorina fez bem em enfrentar Omar?",
+      "legenda": "CAPA_SEGUNDOS=15\n\nOmar provoca o vilarejo e Fiorina não aceita levar o desaforo para casa.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Omar",
+        "#Fiorina",
+        "#Vilarejo"
+      ]
+    },
+    "cena_02": {
+      "titulo": "A caminhonete quebra e Fiorina cobra Omar pelo esterco jogado na praça",
+      "pergunta": "Omar esperava essa reação dos moradores?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nA caminhonete quebra e Fiorina cobra Omar pelo esterco jogado na praça.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Omar",
+        "#Fiorina",
+        "#Caminhonete"
+      ]
+    },
+    "cena_03": {
+      "titulo": "Geraldo teme que a fama da banda faça Rebeca reencontrar Manuela 🚨",
+      "pergunta": "A divulgação da banda pode ajudar Rebeca?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nGeraldo teme que a fama da banda faça Rebeca reencontrar Manuela.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Geraldo",
+        "#Regina",
+        "#Manuela"
+      ]
+    },
+    "cena_04": {
+      "titulo": "Regina planeja usar exames falsos para esconder que Rebeca teve gêmeas",
+      "pergunta": "Até onde Regina vai para proteger a herança?",
+      "legenda": "CAPA_SEGUNDOS=19\n\nRegina planeja usar exames falsos para esconder que Rebeca teve gêmeas.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Regina",
+        "#Rebeca",
+        "#Gêmeas"
+      ]
+    },
+    "cena_05": {
+      "titulo": "Fred mostra seu vídeo, mas Rebeca explica que a saudade da filha continua 🥺",
+      "pergunta": "O que você diria para confortar Rebeca?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nFred mostra seu vídeo, mas Rebeca explica que a saudade da filha continua.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Fred",
+        "#Rebeca",
+        "#Manuela"
+      ]
+    },
+    "cena_06": {
+      "titulo": "O papel de bala liga Felipe ao galpão e Navarro leva a pista a Geraldo",
+      "pergunta": "Os amigos perceberam o perigo dessa pista?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nO papel de bala liga Felipe ao galpão e Navarro leva a pista a Geraldo.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Felipe",
+        "#Navarro",
+        "#Geraldo"
+      ]
+    },
+    "cena_07": {
+      "titulo": "Joel chega à praça e encontra a confusão que Omar causou com o esterco 😳",
+      "pergunta": "Qual deve ser a atitude de Joel?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nJoel chega à praça e encontra a confusão que Omar causou com o esterco.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Joel",
+        "#Omar",
+        "#Praça"
+      ]
+    },
+    "cena_08": {
+      "titulo": "Joel diz que Omar terá o que merece e manda Hermínio levá-lo embora",
+      "pergunta": "A bronca vai fazer Omar mudar?",
+      "legenda": "CAPA_SEGUNDOS=10\n\nJoel diz que Omar terá o que merece e manda Hermínio levá-lo embora.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Joel",
+        "#Omar",
+        "#Hermínio"
+      ]
+    },
+    "cena_09": {
+      "titulo": "Joel pede desculpas e usa a ausência da mãe para explicar a atitude de Omar 😟",
+      "pergunta": "Essa explicação justifica o que Omar fez?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nJoel pede desculpas e usa a ausência da mãe para explicar a atitude de Omar.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Joel",
+        "#Omar",
+        "#Mãe"
+      ]
+    },
+    "cena_10": {
+      "titulo": "A comunidade oferece ajuda e Joel promete retirar toda a sujeira",
+      "pergunta": "O apoio da comunidade pode ajudar Omar?",
+      "legenda": "CAPA_SEGUNDOS=34\n\nA comunidade oferece ajuda e Joel promete retirar toda a sujeira.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Joel",
+        "#Comunidade",
+        "#Esterco"
+      ]
+    },
+    "cena_11": {
+      "titulo": "Um pedido de desculpas marca este trecho com poucas falas registradas 🙏",
+      "pergunta": "Você acredita no arrependimento de Joel?",
+      "legenda": "CAPA_SEGUNDOS=3\n\nUm pedido de desculpas marca este trecho com poucas falas registradas.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Joel",
+        "#Desculpas",
+        "#Comunidade"
+      ]
+    },
+    "cena_12": {
+      "titulo": "A necessidade de atenção de Omar dá lugar à preocupação com o que as crianças sabem",
+      "pergunta": "Geraldo vai descobrir toda a investigação dos amigos?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nA necessidade de atenção de Omar dá lugar à preocupação com o que as crianças sabem.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Omar",
+        "#Geraldo",
+        "#Crianças"
+      ]
+    },
+    "cena_13": {
+      "titulo": "A inteligência das crianças preocupa quem percebe a visita ao galpão 👀",
+      "pergunta": "Os amigos conseguirão manter alguma vantagem?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nA inteligência das crianças preocupa quem percebe a visita ao galpão.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Crianças",
+        "#Galpão",
+        "#Investigação"
+      ]
+    },
+    "cena_14": {
+      "titulo": "Os amigos descobrem que Isabela está em perigo depois dos sustos em Regina",
+      "pergunta": "Isabela deveria abandonar essas brincadeiras?",
+      "legenda": "CAPA_SEGUNDOS=26\n\nOs amigos descobrem que Isabela está em perigo depois dos sustos em Regina.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Isabela",
+        "#Regina",
+        "#Amigos"
+      ]
+    },
+    "cena_15": {
+      "titulo": "O ensaio segue enquanto o aviso sobre os capangas aumenta a tensão 🎶",
+      "pergunta": "A música consegue distrair os amigos nessa situação?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nO ensaio segue enquanto o aviso sobre os capangas aumenta a tensão.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Banda",
+        "#Isabela",
+        "#Capangas"
+      ]
+    },
+    "cena_16": {
+      "titulo": "Ofélio avisa que procuram Isabela, mas ela o culpa pela demora nas notícias",
+      "pergunta": "Isabela está sendo justa com Ofélio?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nOfélio avisa que procuram Isabela, mas ela o culpa pela demora nas notícias.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Ofélio",
+        "#Isabela",
+        "#Marina"
+      ]
+    },
+    "cena_17": {
+      "titulo": "Isabela entrega a fantasia a Ofélio para fazer Regina acreditar que ela fugiu 👻",
+      "pergunta": "Esse plano vai enganar Regina?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nIsabela entrega a fantasia a Ofélio para fazer Regina acreditar que ela fugiu.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Isabela",
+        "#Ofélio",
+        "#Fantasia"
+      ]
+    },
+    "cena_18": {
+      "titulo": "Flávia fala da peça e Helena desabafa sobre o ciúme de Pedro e as investidas de Joel",
+      "pergunta": "Pedro precisa tomar uma atitude?",
+      "legenda": "CAPA_SEGUNDOS=38\n\nFlávia fala da peça e Helena desabafa sobre o ciúme de Pedro e as investidas de Joel.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Flávia",
+        "#Helena",
+        "#Pedro"
+      ]
+    },
+    "cena_19": {
+      "titulo": "Joel cobra o comportamento de Omar e o menino responde com revolta 😠",
+      "pergunta": "Essa conversa vai resolver alguma coisa?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nJoel cobra o comportamento de Omar e o menino responde com revolta.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Joel",
+        "#Omar",
+        "#Conflito"
+      ]
+    },
+    "cena_20": {
+      "titulo": "Omar questiona o medo do pai e os amigos encontram sinais de invasão em casa",
+      "pergunta": "O que você sentiria ao encontrar a casa assim?",
+      "legenda": "CAPA_SEGUNDOS=20\n\nOmar questiona o medo do pai e os amigos encontram sinais de invasão em casa.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Omar",
+        "#Joel",
+        "#Invasão"
+      ]
+    },
+    "cena_21": {
+      "titulo": "O HD desaparece e um bilhete ameaça a carreira dos amigos e o emprego de Vicente 😰",
+      "pergunta": "O que os amigos devem fazer com esse bilhete?",
+      "legenda": "CAPA_SEGUNDOS=34\n\nO HD desaparece e um bilhete ameaça a carreira dos amigos e o emprego de Vicente.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#HD",
+        "#Ameaça",
+        "#Vicente"
+      ]
+    },
+    "cena_22": {
+      "titulo": "Os amigos percebem que perderam as provas e Safira leva o vídeo a Otávio",
+      "pergunta": "Ainda existe alguma pista que possa ajudar?",
+      "legenda": "CAPA_SEGUNDOS=25\n\nOs amigos percebem que perderam as provas e Safira leva o vídeo a Otávio.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Amigos",
+        "#Provas",
+        "#Safira"
+      ]
+    },
+    "cena_23": {
+      "titulo": "Safira mostra o vídeo dos funcionários esperando uma reação contra eles 📱",
+      "pergunta": "Otávio vai enxergar o vídeo como Safira espera?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nSafira mostra o vídeo dos funcionários esperando uma reação contra eles.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Safira",
+        "#Otávio",
+        "#Vídeo"
+      ]
+    },
+    "cena_24": {
+      "titulo": "Otávio elogia a criatividade de Fred e decide compartilhar o vídeo",
+      "pergunta": "Você gostou dessa resposta de Otávio?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nOtávio elogia a criatividade de Fred e decide compartilhar o vídeo.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Otávio",
+        "#Fred",
+        "#Vídeo"
+      ]
+    },
+    "cena_25": {
+      "titulo": "O vídeo faz sucesso e Fred comemora a divulgação espontânea da empresa 🎉",
+      "pergunta": "Uma brincadeira pode mesmo virar uma boa ideia?",
+      "legenda": "CAPA_SEGUNDOS=14\n\nO vídeo faz sucesso e Fred comemora a divulgação espontânea da empresa.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Fred",
+        "#Vídeo",
+        "#Divulgação"
+      ]
+    },
+    "cena_26": {
+      "titulo": "O orçamento da caminhonete irrita Joel e Hermínio leva outra bronca",
+      "pergunta": "É justo culpar Hermínio pelo prejuízo?",
+      "legenda": "CAPA_SEGUNDOS=21\n\nO orçamento da caminhonete irrita Joel e Hermínio leva outra bronca.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Joel",
+        "#Hermínio",
+        "#Caminhonete"
+      ]
+    },
+    "cena_27": {
+      "titulo": "Joel cobra a dívida de Geraldo e ameaça resolver o problema do seu jeito 💰",
+      "pergunta": "O que essa cobrança pode revelar sobre os dois?",
+      "legenda": "CAPA_SEGUNDOS=34\n\nJoel cobra a dívida de Geraldo e ameaça resolver o problema do seu jeito.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Joel",
+        "#Geraldo",
+        "#Dívida"
+      ]
+    },
+    "cena_28": {
+      "titulo": "Os amigos decidem ser discretos depois da ameaça e estranham o silêncio de Meire",
+      "pergunta": "Fingir que desistiram é a melhor estratégia?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nOs amigos decidem ser discretos depois da ameaça e estranham o silêncio de Meire.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Amigos",
+        "#Ameaça",
+        "#Meire"
+      ]
+    },
+    "cena_29": {
+      "titulo": "Lola vai investigar Meire e Isabela aparece para falar de fuga com Manuela 🤫",
+      "pergunta": "Isabela fez bem em procurar a irmã agora?",
+      "legenda": "CAPA_SEGUNDOS=38\n\nLola vai investigar Meire e Isabela aparece para falar de fuga com Manuela.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Lola",
+        "#Isabela",
+        "#Manuela"
+      ]
+    },
+    "cena_30": {
+      "titulo": "Isabela propõe fugir, mas rejeita a ideia de pedir ajuda a Rebeca",
+      "pergunta": "Por que Isabela evita envolver Rebeca?",
+      "legenda": "CAPA_SEGUNDOS=24\n\nIsabela propõe fugir, mas rejeita a ideia de pedir ajuda a Rebeca.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Isabela",
+        "#Manuela",
+        "#Rebeca"
+      ]
+    },
+    "cena_31": {
+      "titulo": "Ofélio entrega a fantasia e Regina conclui que Isabela escapou da mansão 👻",
+      "pergunta": "Regina vai parar de procurar dentro da casa?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nOfélio entrega a fantasia e Regina conclui que Isabela escapou da mansão.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Ofélio",
+        "#Regina",
+        "#Fantasia"
+      ]
+    },
+    "cena_32": {
+      "titulo": "Meire está com febre e não quer receber quem chega para uma visita",
+      "pergunta": "A doença explica o silêncio de Meire?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nMeire está com febre e não quer receber quem chega para uma visita.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Meire",
+        "#Febre",
+        "#Visita"
+      ]
+    },
+    "cena_33": {
+      "titulo": "Luiz continua procurando emprego enquanto as despesas da família preocupam 💼",
+      "pergunta": "Como a família pode atravessar essa fase unida?",
+      "legenda": "CAPA_SEGUNDOS=12\n\nLuiz continua procurando emprego enquanto as despesas da família preocupam.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Luiz",
+        "#Emprego",
+        "#Família"
+      ]
+    },
+    "cena_34": {
+      "titulo": "A família conta a Luiz o que Omar aprontou e ele diz sentir pena do menino",
+      "pergunta": "Você entende a reflexão de Luiz?",
+      "legenda": "CAPA_SEGUNDOS=36\n\nA família conta a Luiz o que Omar aprontou e ele diz sentir pena do menino.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Luiz",
+        "#Omar",
+        "#Família"
+      ]
+    },
+    "cena_35": {
+      "titulo": "Alícia propõe um gesto de carinho por Meire e ensina bondade sem esperar retorno 🧺",
+      "pergunta": "Você levaria uma cesta mesmo depois das implicâncias?",
+      "legenda": "CAPA_SEGUNDOS=34\n\nAlícia propõe um gesto de carinho por Meire e ensina bondade sem esperar retorno.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Alícia",
+        "#Meire",
+        "#Bondade"
+      ]
+    },
+    "cena_36": {
+      "titulo": "Alícia lembra que Meire é solitária e decide preparar a cesta de café",
+      "pergunta": "Um gesto simples pode mudar essa convivência?",
+      "legenda": "CAPA_SEGUNDOS=4\n\nAlícia lembra que Meire é solitária e decide preparar a cesta de café.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Alícia",
+        "#Meire",
+        "#Solidariedade"
+      ]
+    },
+    "cena_37": {
+      "titulo": "Fiorina agradece a ajuda de Antonella e pede que cuide da sorveteria 🍦",
+      "pergunta": "Marina vai conseguir atender sem ser reconhecida?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nFiorina agradece a ajuda de Antonella e pede que cuide da sorveteria.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Fiorina",
+        "#Antonella",
+        "#Sorveteria"
+      ]
+    },
+    "cena_38": {
+      "titulo": "Geraldo passa pelo vilarejo e Vargas vê na sorveteria uma chance de buscar informações",
+      "pergunta": "Essa visita pode colocar Marina em perigo?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nGeraldo passa pelo vilarejo e Vargas vê na sorveteria uma chance de buscar informações.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Geraldo",
+        "#Vargas",
+        "#Sorveteria"
+      ]
+    },
+    "cena_39": {
+      "titulo": "As crianças chegam à casa de Meire levando uma cesta de café da manhã 🎁",
+      "pergunta": "Meire vai aceitar esse gesto de carinho?",
+      "legenda": "CAPA_SEGUNDOS=16\n\nAs crianças chegam à casa de Meire levando uma cesta de café da manhã.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Crianças",
+        "#Meire",
+        "#Cesta"
+      ]
+    },
+    "cena_40": {
+      "titulo": "Meire recusa a visita, mas os vizinhos entregam a cesta feita por Alícia",
+      "pergunta": "Ela deveria ao menos agradecer pessoalmente?",
+      "legenda": "CAPA_SEGUNDOS=23\n\nMeire recusa a visita, mas os vizinhos entregam a cesta feita por Alícia.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Meire",
+        "#Alícia",
+        "#Vizinhos"
+      ]
+    },
+    "cena_41": {
+      "titulo": "Meire desconfia da cesta, mas não consegue negar que está bonita 🧺",
+      "pergunta": "O carinho dos vizinhos vai amolecer Meire?",
+      "legenda": "CAPA_SEGUNDOS=9\n\nMeire desconfia da cesta, mas não consegue negar que está bonita.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Meire",
+        "#Cesta",
+        "#Desconfiança"
+      ]
+    },
+    "cena_42": {
+      "titulo": "Meire se surpreende com a lembrança e Vargas espera atendimento na sorveteria",
+      "pergunta": "Quem vai perceber a presença de Vargas?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nMeire se surpreende com a lembrança e Vargas espera atendimento na sorveteria.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Meire",
+        "#Vargas",
+        "#Sorveteria"
+      ]
+    },
+    "cena_43": {
+      "titulo": "Fiorina oferece sorvete a Vargas sem saber o perigo que ele representa 🍦",
+      "pergunta": "Você ficou apreensivo com essa conversa?",
+      "legenda": "CAPA_SEGUNDOS=28\n\nFiorina oferece sorvete a Vargas sem saber o perigo que ele representa.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Fiorina",
+        "#Vargas",
+        "#Sorvete"
+      ]
+    },
+    "cena_44": {
+      "titulo": "Marina reconhece Vargas e conta a Téo que um dos homens que a feriram está ali",
+      "pergunta": "Téo consegue proteger Marina sem levantar suspeitas?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nMarina reconhece Vargas e conta a Téo que um dos homens que a feriram está ali.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Marina",
+        "#Vargas",
+        "#Téo"
+      ]
+    },
+    "cena_45": {
+      "titulo": "Marina decide se esconder e os vizinhos pensam em substituir Meire temporariamente 🏠",
+      "pergunta": "Quem deveria assumir a função durante a recuperação?",
+      "legenda": "CAPA_SEGUNDOS=18\n\nMarina decide se esconder e os vizinhos pensam em substituir Meire temporariamente.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Marina",
+        "#Meire",
+        "#Condomínio"
+      ]
+    },
+    "cena_46": {
+      "titulo": "Alícia recebe incentivo para se candidatar a síndica temporária",
+      "pergunta": "Você acha Alícia uma boa escolha?",
+      "legenda": "CAPA_SEGUNDOS=8\n\nAlícia recebe incentivo para se candidatar a síndica temporária.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Alícia",
+        "#Síndica",
+        "#Condomínio"
+      ]
+    },
+    "cena_47": {
+      "titulo": "Geraldo encontra Omar no haras e ouve o relato da caminhonete quebrada 🐎",
+      "pergunta": "Geraldo tem motivos para ficar ainda mais preocupado?",
+      "legenda": "CAPA_SEGUNDOS=27\n\nGeraldo encontra Omar no haras e ouve o relato da caminhonete quebrada.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Geraldo",
+        "#Omar",
+        "#Haras"
+      ]
+    },
+    "cena_48": {
+      "titulo": "Luiz não consegue o empréstimo e Clara mostra que sua maior preocupação é com ele",
+      "pergunta": "O apoio de Clara fez diferença nesse momento?",
+      "legenda": "CAPA_SEGUNDOS=36\n\nLuiz não consegue o empréstimo e Clara mostra que sua maior preocupação é com ele.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Luiz",
+        "#Clara",
+        "#Empréstimo"
+      ]
+    },
+    "cena_49": {
+      "titulo": "Joel fala da investigação e cobra Geraldo enquanto Luiz ajuda com as roupas em casa 📋",
+      "pergunta": "O que os dois tentam esconder da investigação?",
+      "legenda": "CAPA_SEGUNDOS=35\n\nJoel fala da investigação e cobra Geraldo enquanto Luiz ajuda com as roupas em casa.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Joel",
+        "#Geraldo",
+        "#Investigação"
+      ]
+    },
+    "cena_50": {
+      "titulo": "Geraldo paga a primeira parcela e Regina manda reforçar a atenção na mansão",
+      "pergunta": "A saída de Geraldo pode abrir uma chance de fuga?",
+      "legenda": "CAPA_SEGUNDOS=22\n\nGeraldo paga a primeira parcela e Regina manda reforçar a atenção na mansão.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Geraldo",
+        "#Dívida",
+        "#Regina"
+      ]
+    },
+    "cena_51": {
+      "titulo": "Manuela teme pela família e implora que Regina não deixe Geraldo fazer mal a ninguém 😢",
+      "pergunta": "Regina vai usar esse medo para pressionar Manuela?",
+      "legenda": "CAPA_SEGUNDOS=17\n\nManuela teme pela família e implora que Regina não deixe Geraldo fazer mal a ninguém.",
+      "hashtags": [
+        "#cumplicesdeumresgate",
+        "#Manuela",
+        "#Regina",
+        "#Família"
+      ]
+    }
+  }
+}
