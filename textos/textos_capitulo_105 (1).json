@@ -1,0 +1,600 @@
+{
+  "capitulo": 105,
+  "execucao": "45968608875",
+  "cenas": {
+    "cena_01": {
+      "titulo": "O ciúme dá lugar a uma nova confusão",
+      "pergunta": "Você ouviria a razão ou o ciúme?",
+      "legenda": "O conflito interior de Manuela continua. Na empresa, a apresentação de um novo catálogo prepara o terreno para um imprevisto.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Manuela",
+        "#Novela"
+      ]
+    },
+    "cena_02": {
+      "titulo": "Um café estragou o catálogo!",
+      "pergunta": "Como você reagiria a um acidente no trabalho?",
+      "legenda": "O café derramado no catálogo deixa Rebeca arrasada. Ela pede desculpas e se culpa por atrapalhar os colegas.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Rebeca",
+        "#Novela"
+      ]
+    },
+    "cena_03": {
+      "titulo": "Rebeca não quer conversar",
+      "pergunta": "Você daria espaço ou tentaria conversar?",
+      "legenda": "Fred tenta alcançar Rebeca, mas ela pede para ficar sozinha depois do acidente com o catálogo.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Rebeca",
+        "#Novela"
+      ]
+    },
+    "cena_04": {
+      "titulo": "Os amigos tentam ajudar Rebeca",
+      "pergunta": "O que você diria para confortar Rebeca?",
+      "legenda": "Trancada no banheiro, Rebeca recusa companhia. Seus amigos insistem em mostrar que estão preocupados com ela.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Amizade",
+        "#Novela"
+      ]
+    },
+    "cena_05": {
+      "titulo": "Otávio chega para apoiar Rebeca",
+      "pergunta": "Um abraço pode fazer diferença num dia assim?",
+      "legenda": "Enquanto surge a esperança de Flora ficar na casa da família, Otávio encontra os colegas tentando ajudar Rebeca e assume a conversa.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Otavio",
+        "#Novela"
+      ]
+    },
+    "cena_06": {
+      "titulo": "Rebeca se culpa por tudo",
+      "pergunta": "Como ajudar alguém que se cobra tanto?",
+      "legenda": "Otávio oferece um abraço e tenta acalmar Rebeca, que diz não conseguir descansar nem parar de se culpar.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Rebeca",
+        "#Novela"
+      ]
+    },
+    "cena_07": {
+      "titulo": "Otávio oferece apoio, Téo encontra coragem",
+      "pergunta": "Você confiaria em alguém para dar o próximo passo?",
+      "legenda": "Otávio tenta aliviar as preocupações de Rebeca. Depois, Antonela incentiva Téo a avançar seguindo sua voz.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Teo",
+        "#Novela"
+      ]
+    },
+    "cena_08": {
+      "titulo": "Téo percebe o medo de Antonela",
+      "pergunta": "Você também percebe quando alguém tenta esconder a tensão?",
+      "legenda": "Feliz com a conquista, Téo agradece a Antonela. Ao tocar suas mãos, percebe que ela ainda fica tensa fora de casa.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Antonela",
+        "#Novela"
+      ]
+    },
+    "cena_09": {
+      "titulo": "Mais um passo de confiança para Téo",
+      "pergunta": "Qual conquista simples já deixou você muito feliz?",
+      "legenda": "Antes de voltar para casa, Téo segue novamente a voz de Antonela e comemora a experiência com alegria.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Teo",
+        "#Novela"
+      ]
+    },
+    "cena_10": {
+      "titulo": "A alegria de ajudar alguém",
+      "pergunta": "Ajudar outra pessoa também faz bem para você?",
+      "legenda": "A conversa destaca a satisfação de ajudar os outros e o encontro com Fiorina dá continuidade ao passeio.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Solidariedade",
+        "#Novela"
+      ]
+    },
+    "cena_11": {
+      "titulo": "Mateus não consegue parar de trabalhar",
+      "pergunta": "Como aliviar a culpa que Mateus está sentindo?",
+      "legenda": "Mateus procura tarefas porque não sente vontade de brincar depois do que aconteceu com seu pai. Fiorina o acolhe e lhe dá ovos para levar para casa.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Mateus",
+        "#Novela"
+      ]
+    },
+    "cena_12": {
+      "titulo": "Antonela conhece a avó de Manuela",
+      "pergunta": "Esse encontro pode despertar alguma lembrança?",
+      "legenda": "Téo apresenta Antonela a dona Nina. A conversa passa pelo desaparecimento de Manuela e pela esperança de encontrá-la.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#DonaNina",
+        "#Novela"
+      ]
+    },
+    "cena_13": {
+      "titulo": "O encontro deixa Antonela em silêncio",
+      "pergunta": "O que terá passado pela cabeça de Antonela?",
+      "legenda": "Dona Nina convida Antonela para um café. Depois da despedida, Téo percebe que sua companhia ficou mais calada.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Antonela",
+        "#Novela"
+      ]
+    },
+    "cena_14": {
+      "titulo": "Safira perde a paciência com Rebeca",
+      "pergunta": "Safira está sendo injusta com Rebeca?",
+      "legenda": "Ao ver o catálogo manchado de café, Safira desqualifica o sofrimento de Rebeca e decide cobrar explicações.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Safira",
+        "#Novela"
+      ]
+    },
+    "cena_15": {
+      "titulo": "A hospedagem de Flora vira discussão",
+      "pergunta": "Você aceitaria hospedar alguém que acabou de conhecer?",
+      "legenda": "Clara questiona Luiz por ter levado Flora para casa. Já Dóris se anima com o interesse da visitante em seus vestidos de boneca.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Flora",
+        "#Novela"
+      ]
+    },
+    "cena_16": {
+      "titulo": "Luiz precisa dar uma resposta a Flora",
+      "pergunta": "Como recusar um pedido sem magoar alguém?",
+      "legenda": "Clara insiste para que Luiz fale a verdade sobre a hospedagem. Ele chama Flora para conversar com o casal.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Luiz",
+        "#Novela"
+      ]
+    },
+    "cena_17": {
+      "titulo": "Duas conversas difíceis",
+      "pergunta": "Como encontrar as palavras certas num momento delicado?",
+      "legenda": "Rebeca volta a se culpar diante de Otávio, que tenta ajudá-la. Em outra conversa, Flora entende a decisão de não hospedá-la.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Rebeca",
+        "#Novela"
+      ]
+    },
+    "cena_18": {
+      "titulo": "O presente de Dóris emociona Flora",
+      "pergunta": "Um presente simples já marcou a sua vida?",
+      "legenda": "Com um quarto reservado na pensão, Flora se despede. Dóris lhe oferece um vestidinho de boneca, e o gesto faz a visitante lembrar da sobrinha.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Doris",
+        "#Novela"
+      ]
+    },
+    "cena_19": {
+      "titulo": "A decisão deixa um peso na consciência",
+      "pergunta": "Você teria tomado a mesma decisão que o casal?",
+      "legenda": "Depois da saída de Flora, o casal conversa sobre a recusa e sobre a decepção de Dóris com a decisão.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Familia",
+        "#Novela"
+      ]
+    },
+    "cena_20": {
+      "titulo": "Rebeca recebe carinho e uma nova cobrança",
+      "pergunta": "Por que é tão difícil respeitar a dor dos outros?",
+      "legenda": "Dóris demonstra preocupação com Flora. Na empresa, Rebeca agradece o apoio dos amigos, mas Safira chega com acusações.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Rebeca",
+        "#Novela"
+      ]
+    },
+    "cena_21": {
+      "titulo": "Safira humilha Rebeca na empresa",
+      "pergunta": "Alguém deveria ter interrompido Safira antes?",
+      "legenda": "Safira acusa Rebeca de usar o namoro com o chefe para levar vantagem. Abalada, Rebeca tenta sair e Otávio decide acompanhá-la.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Safira",
+        "#Novela"
+      ]
+    },
+    "cena_22": {
+      "titulo": "Meire já pensa em retomar o cargo",
+      "pergunta": "Meire está pronta para voltar a ser síndica?",
+      "legenda": "Após a confusão na empresa, a história acompanha Meire, que afirma estar melhor e querer reassumir o comando do condomínio.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Meire",
+        "#Novela"
+      ]
+    },
+    "cena_23": {
+      "titulo": "Os moradores querem uma nova eleição",
+      "pergunta": "Você votaria em Alícia para síndica?",
+      "legenda": "Meire recebe a notícia de que os moradores querem mudanças e reage furiosa à possibilidade de Alícia ocupar seu lugar.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Alicia",
+        "#Novela"
+      ]
+    },
+    "cena_24": {
+      "titulo": "Uma quadra para as crianças?",
+      "pergunta": "Uma área para brincar resolveria os conflitos do condomínio?",
+      "legenda": "Uma brincadeira com bola levanta a discussão sobre segurança. Alícia sugere separar uma verba para construir uma quadra.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Condominio",
+        "#Novela"
+      ]
+    },
+    "cena_25": {
+      "titulo": "Alícia ganha a torcida das crianças",
+      "pergunta": "Uma boa ideia já basta para conquistar seu voto?",
+      "legenda": "A proposta de um espaço para brincar anima as crianças, que começam a apoiar Alícia para o cargo de síndica.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Alicia",
+        "#Novela"
+      ]
+    },
+    "cena_26": {
+      "titulo": "Cadê o lucro da sorveteria?",
+      "pergunta": "Você faria o mesmo que Fiorina?",
+      "legenda": "Giuseppe estranha as contas sem lucro. Fiorina explica que deixou com Luiz o ganho da venda dos sorvetes na rua.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Fiorina",
+        "#Novela"
+      ]
+    },
+    "cena_27": {
+      "titulo": "O coração de Fiorina fala mais alto",
+      "pergunta": "A solidariedade de Fiorina também conquistou você?",
+      "legenda": "Fiorina explica que não deixaria Luiz voltar para casa sem dinheiro suficiente para a família. Giuseppe acaba reconhecendo a generosidade da esposa.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Solidariedade",
+        "#Novela"
+      ]
+    },
+    "cena_28": {
+      "titulo": "Entre vender sorvete e brincar",
+      "pergunta": "Como lembrar uma criança de que ela também pode se divertir?",
+      "legenda": "Dóris anima Luiz durante as vendas. Já Mateus recebe um convite para os testes da peça, mas hesita por querer ajudar o pai.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Mateus",
+        "#Novela"
+      ]
+    },
+    "cena_29": {
+      "titulo": "Um convite para participar da peça",
+      "pergunta": "Você iria fazer o teste ou ficaria só na torcida?",
+      "legenda": "Mateus é incentivado a sair um pouco. A participação do padre Lutero na peça organizada com o pastor Augusto também entra na conversa.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Teatro",
+        "#Novela"
+      ]
+    },
+    "cena_30": {
+      "titulo": "Começam os testes de Davi e Golias",
+      "pergunta": "Qual personagem você gostaria de interpretar?",
+      "legenda": "As crianças começam as audições para a peça e encenam o confronto entre Davi e Golias diante dos organizadores.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#DaviEGolias",
+        "#Novela"
+      ]
+    },
+    "cena_31": {
+      "titulo": "Sabrina dá uma desculpa para sair",
+      "pergunta": "Você acha que Omar acreditou nessa história?",
+      "legenda": "Depois de conversar com Omar no haras, Sabrina diz que precisa ajudar a mãe e vai embora, deixando o garoto contrariado.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Sabrina",
+        "#Novela"
+      ]
+    },
+    "cena_32": {
+      "titulo": "Até a plateia entrou em discussão",
+      "pergunta": "Essa rivalidade precisava chegar aos testes?",
+      "legenda": "A participação do padre e do pastor na organização da peça vira motivo de discussão, interrompida por um pedido de respeito ao trabalho.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Teatro",
+        "#Novela"
+      ]
+    },
+    "cena_33": {
+      "titulo": "Uma chegada provoca comentários",
+      "pergunta": "Por que uma chegada já causa tanta implicância?",
+      "legenda": "Durante os testes, uma chegada rende comentários irônicos e uma provocação sobre um gato.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Provocacoes",
+        "#Novela"
+      ]
+    },
+    "cena_34": {
+      "titulo": "Meire confronta Alícia",
+      "pergunta": "Alícia tem culpa pela vontade dos moradores?",
+      "legenda": "Meire apresenta a carta que pede uma nova eleição e indica Alícia para o cargo. Convencida de uma armação, ela cobra explicações.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Meire",
+        "#Novela"
+      ]
+    },
+    "cena_35": {
+      "titulo": "Sabrina quer fazer o teste em segredo",
+      "pergunta": "Você teria vergonha de mostrar algo de que gosta?",
+      "legenda": "Alícia recebe apoio para a eleição. Nos testes da peça, Sabrina chega escondendo o rosto e pede discrição sobre sua participação.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Sabrina",
+        "#Novela"
+      ]
+    },
+    "cena_36": {
+      "titulo": "Chegou a vez de Sabrina atuar",
+      "pergunta": "Sabrina vai conseguir um bom papel?",
+      "legenda": "Incentivada a não sentir vergonha de fazer o que gosta, Sabrina inicia sua interpretação para a peça de Davi e Golias.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Sabrina",
+        "#Novela"
+      ]
+    },
+    "cena_37": {
+      "titulo": "Otávio prepara uma surpresa para Rebeca",
+      "pergunta": "Você aceitaria uma surpresa num dia difícil?",
+      "legenda": "Rebeca teme não ser boa companhia, mas Otávio diz que quer estar com ela também nos momentos de tristeza.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Otavio",
+        "#Novela"
+      ]
+    },
+    "cena_38": {
+      "titulo": "Manuela dá uma bronca em Isabela",
+      "pergunta": "Você também ficaria preocupado com essa tentativa de fuga?",
+      "legenda": "Manuela conta que soube da tentativa de fuga e repreende Isabela. Por trás da bronca, ela deixa claro o carinho e a preocupação com a irmã.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Manuela",
+        "#Novela"
+      ]
+    },
+    "cena_39": {
+      "titulo": "Um novo plano para chegar ao vilarejo",
+      "pergunta": "Será que esse plano pode dar certo?",
+      "legenda": "Manuela tenta explicar a Isabela uma ideia pensada com Joaquim e os integrantes da banda para acompanhá-la até o vilarejo.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Isabela",
+        "#Novela"
+      ]
+    },
+    "cena_40": {
+      "titulo": "Meire insiste num serviço suspeito",
+      "pergunta": "Você enfrentaria Meire nessa situação?",
+      "legenda": "Meire quer aproveitar a ausência de outras pessoas para agir. O sobrinho questiona a atitude e lembra o que estudou sobre a lei.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Meire",
+        "#Novela"
+      ]
+    },
+    "cena_41": {
+      "titulo": "O plano é interrompido",
+      "pergunta": "Quem está prestes a descobrir alguma coisa?",
+      "legenda": "Isabela critica a ideia de ir ao vilarejo apenas com Felipe, mas a conversa para quando alguém se aproxima. Depois, Sabrina é reconhecida pelo perfume.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Suspense",
+        "#Novela"
+      ]
+    },
+    "cena_42": {
+      "titulo": "Regina desconfia de Manuela",
+      "pergunta": "Será que Manuela consegue esconder a verdade?",
+      "legenda": "Enquanto os testes da peça rendem conversa, Regina percebe o nervosismo de Manuela e insiste que Isabela passou pela casa.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Regina",
+        "#Novela"
+      ]
+    },
+    "cena_43": {
+      "titulo": "Regina ameaça a família de Manuela",
+      "pergunta": "Como Manuela pode escapar dessa pressão?",
+      "legenda": "Regina ameaça a mãe e a avó de Manuela e exige que ela diga a Raul que está tudo bem. Em outro encontro, Sabrina tenta explicar sua ida à igreja.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Manuela",
+        "#Novela"
+      ]
+    },
+    "cena_44": {
+      "titulo": "Omar despreza a peça de teatro",
+      "pergunta": "Sabrina deveria defender a própria vontade?",
+      "legenda": "Convidado a participar, Omar chama a peça de palhaçada. Sabrina minimiza sua participação, enquanto os outros tentam mostrar que será divertido.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Omar",
+        "#Novela"
+      ]
+    },
+    "cena_45": {
+      "titulo": "Ainda falta encontrar o Golias ideal",
+      "pergunta": "Quem você escolheria para interpretar Golias?",
+      "legenda": "Os organizadores encerram os testes do dia, mas reconhecem que ainda não encontraram a interpretação desejada para Golias.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Teatro",
+        "#Novela"
+      ]
+    },
+    "cena_46": {
+      "titulo": "Surpresa: o destino é Curitiba!",
+      "pergunta": "Você embarcaria nessa viagem sem preparar a mala?",
+      "legenda": "Otávio revela que levou Rebeca a Curitiba para passear e descansar. Ela se preocupa por não ter levado roupas, mas ele tenta tranquilizá-la.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Curitiba",
+        "#Novela"
+      ]
+    },
+    "cena_47": {
+      "titulo": "Lixo no pátio vira ataque contra Alícia",
+      "pergunta": "Essa sujeira parece coincidência para você?",
+      "legenda": "Meire usa o lixo espalhado pelo condomínio para questionar a competência de Alícia e comparar a situação com sua própria gestão.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Meire",
+        "#Novela"
+      ]
+    },
+    "cena_48": {
+      "titulo": "As crianças se unem para ajudar Alícia",
+      "pergunta": "Você também pegaria uma vassoura para ajudar?",
+      "legenda": "Alícia decide resolver a sujeira, e as crianças se oferecem para limpar o pátio, reconhecendo tudo que ela já fez por elas.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Alicia",
+        "#Novela"
+      ]
+    },
+    "cena_49": {
+      "titulo": "Mateus recebe uma recompensa",
+      "pergunta": "O reconhecimento de Giuseppe surpreendeu você?",
+      "legenda": "Depois de voltar dos testes, Mateus recebe dinheiro de Giuseppe pelo serviço feito. Nico observa a recompensa com curiosidade.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Mateus",
+        "#Novela"
+      ]
+    },
+    "cena_50": {
+      "titulo": "A generosidade de Giuseppe incomoda Nico",
+      "pergunta": "Nico está com ciúme ou tem razão para reclamar?",
+      "legenda": "Giuseppe libera Mateus pelo resto do dia. Nico reclama da diferença no tratamento, mas ouve que o menino está precisando de ajuda.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Giuseppe",
+        "#Novela"
+      ]
+    },
+    "cena_51": {
+      "titulo": "Pedro estranha a mudança de Antonela",
+      "pergunta": "Você também acharia essa mudança suspeita?",
+      "legenda": "Antonela conta como foi divertido ajudar Téo. Pedro questiona como ela passou do medo de sair à tranquilidade de brincar na rua.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Antonela",
+        "#Novela"
+      ]
+    },
+    "cena_52": {
+      "titulo": "Antonela explica por que se sente segura",
+      "pergunta": "O acolhimento das pessoas pode transformar alguém assim?",
+      "legenda": "Antonela atribui sua calma à gentileza do vilarejo. Fiorina reafirma que ela pode contar com a proteção da família.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Antonela",
+        "#Novela"
+      ]
+    },
+    "cena_53": {
+      "titulo": "Um breve momento de felicidade",
+      "pergunta": "O que será que trouxe essa alegria?",
+      "legenda": "Neste intervalo, a transcrição registra apenas uma breve fala de felicidade, sem detalhes suficientes para identificar uma nova ação.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Felicidade",
+        "#Novela"
+      ]
+    },
+    "cena_54": {
+      "titulo": "Um barulho pode revelar o segredo",
+      "pergunta": "Será que Regina vai descobrir quem está escondido?",
+      "legenda": "Depois da ligação com o padrinho, Manuela continua sob a vigilância de Regina. Um barulho inesperado desperta a atenção da vilã.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo105",
+        "#Suspense",
+        "#Novela"
+      ]
+    }
+  }
+}
