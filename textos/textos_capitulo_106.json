@@ -1,0 +1,545 @@
+{
+  "capitulo": 106,
+  "execucao": "46127744872",
+  "cenas": {
+    "cena_01": {
+      "titulo": "Regina ouve um barulho e fica de olho em Manuela",
+      "pergunta": "Você acha que Regina acreditou que Manuela não ouviu nada?",
+      "legenda": "Depois da ligação com o padrinho, Manuela tenta disfarçar enquanto Regina investiga o barulho e manda arrumar o quarto. 👀",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Regina",
+        "#Manuela"
+      ]
+    },
+    "cena_02": {
+      "titulo": "Dois quartos no hotel deixam Safira ainda mais curiosa",
+      "pergunta": "Por que será que Safira quer saber tanto sobre a viagem?",
+      "legenda": "Enquanto fecham as reservas de Otávio e Rebeca, Safira quer entender por que ficou de fora dos planos.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Safira",
+        "#Viagem"
+      ]
+    },
+    "cena_03": {
+      "titulo": "Safira perde a paciência com Tomás enquanto a reserva é fechada",
+      "pergunta": "Tomás devia ter deixado Safira em paz?",
+      "legenda": "Safira manda Tomás parar de segui-la. Enquanto isso, os preparativos para a viagem finalmente ficam prontos. 🙄",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Safira",
+        "#Tomas"
+      ]
+    },
+    "cena_04": {
+      "titulo": "Otávio já sabe por que Rebeca está preocupada com o hotel",
+      "pergunta": "O que você achou da forma como os dois conversaram?",
+      "legenda": "Antes mesmo de Rebeca explicar sua preocupação, Otávio entende que dividir o quarto contraria os princípios dela.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Otavio",
+        "#Rebeca"
+      ]
+    },
+    "cena_05": {
+      "titulo": "Otávio explica por que reservou dois quartos para a viagem",
+      "pergunta": "Que gesto de carinho mais chamou sua atenção?",
+      "legenda": "Rebeca fica mais tranquila ao saber que Otávio respeitou sua escolha. Em outra casa, Mateus tem uma surpresa para o pai. 💙",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Rebeca",
+        "#Romance"
+      ]
+    },
+    "cena_06": {
+      "titulo": "Mateus entrega ao pai o dinheiro que ganhou para ajudar em casa",
+      "pergunta": "Como você reagiria a uma surpresa dessas?",
+      "legenda": "Mateus oferece o que ganhou a Luiz, que propõe usar o dinheiro para comprar pão e leite juntos.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Mateus",
+        "#Familia"
+      ]
+    },
+    "cena_07": {
+      "titulo": "Pedro levanta suspeitas sobre Antonella na frente da família",
+      "pergunta": "Você ficaria do lado de Pedro ou de Téo?",
+      "legenda": "Pedro acha que Antonella esconde alguma coisa. Téo sai em defesa da amiga e diz que confia nela. 🤔",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Antonella",
+        "#Misterio"
+      ]
+    },
+    "cena_08": {
+      "titulo": "Antonella oferece chá e percebe que Pedro a trata com frieza",
+      "pergunta": "Você acha que Antonella percebeu a desconfiança de todos?",
+      "legenda": "Pedro recusa o chá e sai. Antonella se pergunta se fez algo errado, mas a família tenta tranquilizá-la.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Antonella",
+        "#Pedro"
+      ]
+    },
+    "cena_09": {
+      "titulo": "Meire quer deixar o condomínio sem gás para prejudicar Alícia",
+      "pergunta": "Até onde Meire vai para recuperar o cargo de síndica?",
+      "legenda": "Meire provoca um problema no condomínio para fazer os moradores perderem a confiança em Alícia. 😳",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Meire",
+        "#Condominio"
+      ]
+    },
+    "cena_10": {
+      "titulo": "O plano de Meire tem um inconveniente que ela não esperava",
+      "pergunta": "Meire pensou nas consequências antes de agir?",
+      "legenda": "O sobrinho lembra que eles também vão ficar sem banho quente. Em outra cena, uma cantada ruim irrita Laura.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Meire",
+        "#Laura"
+      ]
+    },
+    "cena_11": {
+      "titulo": "Uma cantada para Laura põe Vargas e Navarro em pé de guerra",
+      "pergunta": "Quem passou mais vergonha nessa discussão?",
+      "legenda": "Laura reclama da cantada de Vargas. Navarro se mete na conversa e transforma a situação numa disputa pela atenção dela. 😂",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Laura",
+        "#Ciumes"
+      ]
+    },
+    "cena_12": {
+      "titulo": "Alícia mal consegue fazer um lanche com o interfone tocando",
+      "pergunta": "Como você lidaria com tantas reclamações ao mesmo tempo?",
+      "legenda": "Os moradores ligam para avisar que estão sem gás. Alícia diz que já sabe do problema e vai verificar o que aconteceu.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Alicia",
+        "#Condominio"
+      ]
+    },
+    "cena_13": {
+      "titulo": "Meire usa a falta de gás para criticar Alícia cara a cara",
+      "pergunta": "Você acha que Alícia respondeu à altura?",
+      "legenda": "Meire questiona se Alícia dá conta do cargo. Alícia corta a conversa para poder resolver o problema do prédio. 😤",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Meire",
+        "#Alicia"
+      ]
+    },
+    "cena_14": {
+      "titulo": "O show se aproxima e Regina é pressionada por um teste de DNA",
+      "pergunta": "Qual é o maior risco desse plano para Regina?",
+      "legenda": "Com o lançamento da banda chegando, Geraldo cobra uma forma de sustentar a história de que Regina é mãe de Isabela.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Regina",
+        "#Segredo"
+      ]
+    },
+    "cena_15": {
+      "titulo": "Regina precisa de ajuda para sustentar a mentira sobre Isabela",
+      "pergunta": "Você acha que Geraldo ainda vai apoiar Regina?",
+      "legenda": "Regina quer que um médico confirme sua versão se for preciso. Quando ela fala em dinheiro, Geraldo diz que já está cheio de dívidas. 😬",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Regina",
+        "#Geraldo"
+      ]
+    },
+    "cena_16": {
+      "titulo": "Alícia descobre que a falta de gás não foi por acaso",
+      "pergunta": "O que você pensaria ao encontrar essa pista?",
+      "legenda": "A turma encontra o registro fechado e percebe que alguém deixou uma ferramenta travando a chave.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Alicia",
+        "#Misterio"
+      ]
+    },
+    "cena_17": {
+      "titulo": "Joaquim e a turma tentam resolver o problema do registro",
+      "pergunta": "Quem você acha que deixou a ferramenta ali?",
+      "legenda": "Com a chave travada, o grupo tenta entender por que alguém faria aquilo e se reúne para ajudar Alícia. 🔎",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Joaquim",
+        "#Condominio"
+      ]
+    },
+    "cena_18": {
+      "titulo": "A turma resolve o problema do gás e decide procurar pistas",
+      "pergunta": "Conversar com as outras crianças vai ajudar a descobrir o culpado?",
+      "legenda": "Depois de liberar o registro, as crianças ligam o caso à sujeira no pátio e se oferecem para investigar.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Alicia",
+        "#Investigacao"
+      ]
+    },
+    "cena_19": {
+      "titulo": "A surpresa de Mateus deixa Luiz pensando até a hora de dormir",
+      "pergunta": "O que mais tocou você na atitude de Mateus?",
+      "legenda": "Clara se emociona com a felicidade do filho por poder ajudar. Luiz continua pensativo sobre a situação da família. 🥹",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Mateus",
+        "#Luiz"
+      ]
+    },
+    "cena_20": {
+      "titulo": "Luiz decide procurar trabalho na cidade e surpreende Clara",
+      "pergunta": "O que você diria a Luiz nessa conversa?",
+      "legenda": "Clara tenta aliviar a culpa do marido pelo desemprego, mas Luiz já decidiu procurar uma oportunidade longe do vilarejo.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Luiz",
+        "#Familia"
+      ]
+    },
+    "cena_21": {
+      "titulo": "Clara quer ir com Luiz, mas ele acha melhor viajar sozinho",
+      "pergunta": "A família deveria ir junto para a cidade?",
+      "legenda": "Luiz explica por que pretende ir sozinho. No condomínio, as crianças começam a levantar suspeitas sobre quem fechou o gás. 💭",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Luiz",
+        "#Investigacao"
+      ]
+    },
+    "cena_22": {
+      "titulo": "A turma desconfia de Meire e decide investigar antes de acusar",
+      "pergunta": "As coincidências são suficientes para desconfiar de Meire?",
+      "legenda": "As crianças lembram que os problemas começaram depois que Alícia virou síndica, mas decidem procurar provas antes de acusar alguém.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Meire",
+        "#Investigacao"
+      ]
+    },
+    "cena_23": {
+      "titulo": "Rebeca recusa a bebida assim que ela é oferecida no jantar",
+      "pergunta": "Você teria recusado a bebida também?",
+      "legenda": "Quando oferecem a bebida à mesa, Rebeca agradece e explica que não bebe. 🍷",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Rebeca",
+        "#Jantar"
+      ]
+    },
+    "cena_24": {
+      "titulo": "Rebeca aceita provar um gole de vinho com Otávio no jantar",
+      "pergunta": "Você também ficaria sem jeito numa situação assim?",
+      "legenda": "Otávio comenta que escolheu o vinho para combinar com o fondue. Rebeca aceita um pouco e acaba rindo da própria reação.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Rebeca",
+        "#Otavio"
+      ]
+    },
+    "cena_25": {
+      "titulo": "Otávio revela o que mais o encantou no jeito de Rebeca",
+      "pergunta": "Qual qualidade de Rebeca mais chama sua atenção?",
+      "legenda": "Rebeca diz que ainda se sente a mesma desde que mudou para a cidade. Otávio conta que foi justamente a simplicidade e a força dela que o conquistaram. 💛",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Otavio",
+        "#Romance"
+      ]
+    },
+    "cena_26": {
+      "titulo": "Rebeca elogia o sorriso de Otávio e o deixa sem jeito",
+      "pergunta": "Você esperava que Rebeca reparasse tanto no sorriso dele?",
+      "legenda": "O jantar fica mais romântico quando Rebeca conta o que a conquistou. Em casa, Mateus tenta descobrir por que Dóris está triste.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Rebeca",
+        "#Romance"
+      ]
+    },
+    "cena_27": {
+      "titulo": "Dóris conta a Mateus que o pai pretende ir embora",
+      "pergunta": "Você teria contado o que ouviu ou esperado os pais falarem?",
+      "legenda": "Dóris revela que ouviu Luiz falar em se mudar para trabalhar. Mateus teme que a família acabe separada. 😢",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Doris",
+        "#Familia"
+      ]
+    },
+    "cena_28": {
+      "titulo": "Luiz e Clara agradecem o cuidado de Giuseppe com Mateus",
+      "pergunta": "Por que o gesto de Giuseppe significou tanto para a família?",
+      "legenda": "O casal reconhece que Giuseppe encontrou um jeito de ajudar Mateus sem fazer o menino deixar a infância de lado.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Giuseppe",
+        "#Solidariedade"
+      ]
+    },
+    "cena_29": {
+      "titulo": "Luiz anuncia que decidiu se mudar para procurar emprego",
+      "pergunta": "Você tentaria convencer Luiz a ficar no vilarejo?",
+      "legenda": "Luiz explica aos amigos que vender sorvete ajudou, mas que ele quer buscar outra forma de sustentar a família. 🏠",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Luiz",
+        "#Emprego"
+      ]
+    },
+    "cena_30": {
+      "titulo": "Fiorina tenta convencer Luiz a continuar vendendo sorvete",
+      "pergunta": "Você acha que a proposta de Fiorina poderia funcionar?",
+      "legenda": "Fiorina sugere que Luiz fique e junte dinheiro com as vendas. Em outro momento, Otávio convida Rebeca a sentir a brisa.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Fiorina",
+        "#Luiz"
+      ]
+    },
+    "cena_31": {
+      "titulo": "Otávio convida Rebeca a fechar os olhos e sentir a brisa",
+      "pergunta": "Você fecharia os olhos ou seguiria apreciando a vista?",
+      "legenda": "Rebeca prefere olhar a paisagem, mas Otávio insiste para que ela experimente aproveitar o passeio de um jeito diferente. 🍃",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Rebeca",
+        "#Otavio"
+      ]
+    },
+    "cena_32": {
+      "titulo": "As crianças surpreendem Meire com uma pergunta sobre a ferramenta",
+      "pergunta": "A reação de Meire aumentou sua desconfiança?",
+      "legenda": "A turma aborda Meire e pergunta se ela perdeu uma ferramenta. Irritada, ela nega e encerra a conversa.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Meire",
+        "#Investigacao"
+      ]
+    },
+    "cena_33": {
+      "titulo": "Flora sai da entrevista com um emprego de cozinheira no haras",
+      "pergunta": "O que você achou da sinceridade de Flora sobre sua experiência?",
+      "legenda": "Flora explica que foi garçonete e aproveitava para ajudar na cozinha. A conversa dá certo e ela consegue o emprego. 🎉",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Flora",
+        "#Haras"
+      ]
+    },
+    "cena_34": {
+      "titulo": "Omar conhece Flora e mal disfarça a pressa de sair",
+      "pergunta": "Qual foi sua primeira impressão do jeito de Omar com Flora?",
+      "legenda": "A nova cozinheira se apresenta, mas Omar faz comentários atravessados e logo pede para voltar ao videogame.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Omar",
+        "#Flora"
+      ]
+    },
+    "cena_35": {
+      "titulo": "Meire entrega uma fantasia ao sobrinho e propõe um assalto de mentira",
+      "pergunta": "Você aceitaria participar de um plano desses?",
+      "legenda": "Dinho tenta estudar, mas Meire aparece com uma fantasia e quer que ele ajude a assustar os moradores. 😮",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Meire",
+        "#Dinho"
+      ]
+    },
+    "cena_36": {
+      "titulo": "Dinho prevê confusão com o plano que Meire acha perfeito",
+      "pergunta": "Dinho devia enfrentar a tia e recusar de vez?",
+      "legenda": "Meire quer convencer os moradores de que o prédio ficou inseguro. Dinho teme que os dois sejam descobertos.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Meire",
+        "#Condominio"
+      ]
+    },
+    "cena_37": {
+      "titulo": "Laura põe um para varrer enquanto o outro chega cheio de elogios",
+      "pergunta": "Qual dos dois mais atrapalhou o trabalho de Laura?",
+      "legenda": "Laura entrega a vassoura a quem se oferece para ajudar. Navarro aparece com elogios e acaba tirando a atenção dela do serviço. 🧹",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Laura",
+        "#Humor"
+      ]
+    },
+    "cena_38": {
+      "titulo": "Laura aproveita a selfie para mandar Navarro ajudar no jardim",
+      "pergunta": "Você também daria uma tarefa para quem está só de conversa?",
+      "legenda": "Navarro tira uma selfie com Laura ao fundo. Ela aproveita a deixa e pede que ele ajude a limpar o jardim.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Laura",
+        "#Navarro"
+      ]
+    },
+    "cena_39": {
+      "titulo": "Téo fala do show e Antonella teme que Manuela seja reconhecida",
+      "pergunta": "O show vai aproximar Manuela de Rebeca?",
+      "legenda": "Ao descobrir qual banda vai tocar, Antonella pensa no que pode acontecer se Rebeca vir Manuela no palco. 🎤",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Antonella",
+        "#Manuela"
+      ]
+    },
+    "cena_40": {
+      "titulo": "Flora conta que foi contratada, mas Dóris está preocupada com o pai",
+      "pergunta": "Por que a boa notícia de Flora mexeu tanto com Dóris?",
+      "legenda": "Flora comemora o novo emprego no haras. Dóris torce para que Luiz também consiga trabalho e conta que ele já trabalhou lá.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Flora",
+        "#Doris"
+      ]
+    },
+    "cena_41": {
+      "titulo": "Dóris só quer que o pai encontre emprego no próprio vilarejo",
+      "pergunta": "O que você diria a Dóris para acalmá-la?",
+      "legenda": "Dóris pede que Flora ore para que Luiz consiga trabalho perto de casa. Flora tenta encorajar a menina a ter fé e paciência. 🙏",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Doris",
+        "#Familia"
+      ]
+    },
+    "cena_42": {
+      "titulo": "A gravadora anuncia uma viagem e surpreende toda a banda",
+      "pergunta": "Essa viagem pode ajudar a turma a chegar ao vilarejo?",
+      "legenda": "Enquanto os amigos tentam decidir como levar Isabela ao vilarejo, Vicente anuncia uma viagem com tudo pago pela gravadora.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Banda",
+        "#Isabela"
+      ]
+    },
+    "cena_43": {
+      "titulo": "A banda vê uma chance na viagem enquanto Omar arruma confusão",
+      "pergunta": "O que você achou do jeito de Omar com Flora e as outras mulheres?",
+      "legenda": "A turma vê uma oportunidade no anúncio da gravadora. No haras, Omar fala com arrogância e depois oferece uma carona. 😒",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Omar",
+        "#Banda"
+      ]
+    },
+    "cena_44": {
+      "titulo": "Dóris tenta esconder as lágrimas antes que os pais cheguem",
+      "pergunta": "Você conseguiria guardar essa preocupação só para si?",
+      "legenda": "Mateus pede que Dóris enxugue as lágrimas para poupar os pais, mas eles logo percebem que a filha está abalada.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Doris",
+        "#Mateus"
+      ]
+    },
+    "cena_45": {
+      "titulo": "Dóris finalmente conta à mãe por que está tão triste",
+      "pergunta": "Como você explicaria a situação para Dóris?",
+      "legenda": "Clara percebe que há algo errado. Depois de hesitar, Dóris admite que tem medo de que o pai abandone a família. 💔",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Doris",
+        "#Clara"
+      ]
+    },
+    "cena_46": {
+      "titulo": "André se dispõe a ficar de recuperação para ajudar Isabela",
+      "pergunta": "Você faria um sacrifício desses para ajudar uma amiga?",
+      "legenda": "Manuela sugere usar a viagem da gravadora como desculpa para ir ao vilarejo. André se oferece para ajudar a turma a sustentar a história.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Andre",
+        "#Isabela"
+      ]
+    },
+    "cena_47": {
+      "titulo": "Luiz explica aos filhos por que acha que precisa ir embora",
+      "pergunta": "O que mais emocionou você nessa conversa de família?",
+      "legenda": "Luiz diz que quer trabalhar para sustentar os filhos. Mateus insiste que o pai ainda pode encontrar uma oportunidade no vilarejo. 🥺",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Luiz",
+        "#Familia"
+      ]
+    },
+    "cena_48": {
+      "titulo": "O pedido dos filhos faz Luiz repensar seu plano de ir embora",
+      "pergunta": "Você esperava que Luiz mudasse de ideia?",
+      "legenda": "Dóris e Mateus pedem que o pai fique. Ao ouvir a família, Luiz reconhece que não quer se separar deles.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Luiz",
+        "#Familia"
+      ]
+    },
+    "cena_49": {
+      "titulo": "Depois da decisão de Luiz, o capítulo chega ao fim",
+      "pergunta": "Qual momento do capítulo mais marcou você?",
+      "legenda": "A decisão de Luiz de ficar com a família marca o fim do capítulo. O último trecho não tem fala transcrita.",
+      "hashtags": [
+        "#CumplicesDeUmResgate",
+        "#Capitulo106",
+        "#Familia",
+        "#Final"
+      ]
+    }
+  }
+}
